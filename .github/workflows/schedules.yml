@@ -24,10 +24,10 @@ jobs:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GH_TOKEN} --message 'my awesome-stars category by language update by github actions cron, created by starred'
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GH_TOKEN} --message 'my awesome-stars category by language update by github actions cron, created by starred' --filename BY-LANG.md
     - name: update repo category by topic
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GH_TOKEN} --message 'my awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 200 --filename topics.md
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GH_TOKEN} --message 'my awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 200 --filename README.md
