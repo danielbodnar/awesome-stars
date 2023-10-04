@@ -396,6 +396,8 @@
 
 ## C++ 
 
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
+- [VowpalWabbit/vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learni
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [Sysinternals/ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
@@ -578,6 +580,7 @@
 
 ## Clojure 
 
+- [juji-io/datalevin](https://github.com/juji-io/datalevin) - A simple, fast and versatile Datalog database
 - [epiccastle/spire](https://github.com/epiccastle/spire) - pragmatic provisioning using clojure
 - [borkdude/bebo](https://github.com/borkdude/bebo) - Run Clojure scripts on deno
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -663,6 +666,7 @@
 
 ## Emacs Lisp 
 
+- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
 
@@ -681,6 +685,11 @@
 
 ## Go 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
+- [kairos-io/osbuilder](https://github.com/kairos-io/osbuilder) - :building_construction: Kubernetes Native Extension to build Linux distributions artifacts from container images
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) - :penguin: The immutable Linux meta-distribution for edge Kubernetes.
+- [devfile/library](https://github.com/devfile/library) - Library to generate Kubernetes objects from a devfile and accessing the devfile registry
+- [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
 - [AdRoll/hologram](https://github.com/AdRoll/hologram) - Easy, painless AWS credentials on developer laptops.
 - [matryer/moq](https://github.com/matryer/moq) - Interface mocking tool for go generate
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
@@ -1633,6 +1642,7 @@
 
 ## HTML 
 
+- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [wasmCloud/project-templates](https://github.com/wasmCloud/project-templates) - wasmCloud project templates - use with 'wash new'
 - [Octophin/scute](https://github.com/Octophin/scute) - Schema Compiled Utility Template Engine
 - [design-first/system-designer](https://github.com/design-first/system-designer) - A low-code development platform for creating systems 🇺🇦#standwithUkraine
@@ -1750,6 +1760,8 @@
 
 ## Java 
 
+- [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
+- [jenkinsci/parameterized-remote-trigger-plugin](https://github.com/jenkinsci/parameterized-remote-trigger-plugin) - A plugin to Jenkins CI which triggers parameterized builds on a remote Jenkins
 - [liquibase/liquibase](https://github.com/liquibase/liquibase) - Main Liquibase Source
 - [plavjanik/vtl-cli](https://github.com/plavjanik/vtl-cli) - Velocity Template Language (VTL) Command-line Interface
 - [smithy-lang/smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
@@ -1810,6 +1822,18 @@
 
 ## JavaScript 
 
+- [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
+- [typesense/showcase-federated-search](https://github.com/typesense/showcase-federated-search) - An app that showcases federated search in Typesense (Open source alternative to Algolia)
+- [tensorspace-team/tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
+- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+- [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
+- [rosano/hyperdraft](https://github.com/rosano/hyperdraft) - Turn your notes into a website.
+- [epistemik-co/staple-api-kg-demo](https://github.com/epistemik-co/staple-api-kg-demo) - A knowledge graph app demo built using Staple API on top of MongoDB.
+- [blahah/yunodb](https://github.com/blahah/yunodb) - A portable, persistent, electron-embeddable fulltext search + document store database for node.js
+- [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+- [bkeepers/workflow](https://github.com/bkeepers/workflow) - GitHub workflow automation via .probot.js file in your repository.
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
+- [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [screwdriver-cd/screwdriver](https://github.com/screwdriver-cd/screwdriver) - An open source build platform designed for continuous delivery.
@@ -2559,6 +2583,7 @@
 
 ## Objective-C 
 
+- [scrod/nv](https://github.com/scrod/nv) - Notational Velocity: modeless, mouseless Mac OS X note-taking application
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
 
 ## Open Policy Agent 
@@ -2574,6 +2599,7 @@
 
 ## Others 
 
+- [jobsort/jobsort](https://github.com/jobsort/jobsort) - Find Jobs in Top Startups
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
 - [smithy-lang/awesome-smithy](https://github.com/smithy-lang/awesome-smithy) - Awesome Smithy is a curated list of awesome build-tools, code-generators, examples, and other resources related to the Smithy IDL.
@@ -3019,6 +3045,10 @@
 
 ## Python 
 
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+- [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
+- [thunlp/OpenKE](https://github.com/thunlp/OpenKE) - An Open-Source Package for Knowledge Embedding (KE)
+- [thunlp/OpenNRE](https://github.com/thunlp/OpenNRE) - An Open-Source Package for Neural Relation Extraction (NRE)
 - [jtyers/aws-policy-generator](https://github.com/jtyers/aws-policy-generator) - Simple CLI-driven and YAML-driven AWS policy generation
 - [projectsyn/commodore](https://github.com/projectsyn/commodore) - Commodore provides opinionated tenant-aware management of Kapitan inventories and templates. Commodore uses Kapitan for the heavy lifting of rendering templates and resolving a hierachical configurati
 - [assimilation/assimilation-official](https://github.com/assimilation/assimilation-official) - This is the official main repository for the Assimilation project
@@ -3162,7 +3192,7 @@
 - [devopshq/crosspm](https://github.com/devopshq/crosspm) - Universal Cross Package Manager - allows you to use the manifest file to download packages of various formats from different storage locations.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [mosaicml/composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
+- [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [ekzhang/inline-sql](https://github.com/ekzhang/inline-sql) - 🪄 Inline SQL in any Python program
@@ -3600,6 +3630,7 @@
 
 ## Ruby 
 
+- [chronicle-app/chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - 📜 A CLI toolkit for extracting and working with your digital history
 - [ttscoff/doing](https://github.com/ttscoff/doing) - 
 - [presidentbeef/brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
@@ -3649,6 +3680,8 @@
 
 ## Rust 
 
+- [spyglass-search/memex](https://github.com/spyglass-search/memex) - Super-simple, fully Rust powered "memory" (doc store + semantic search) for LLM projects, semantic search, etc.
+- [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [ipvm-wg/homestar](https://github.com/ipvm-wg/homestar) - 💫 The IPVM reference implementation
 - [second-state/dapr-sdk-wasmedge](https://github.com/second-state/dapr-sdk-wasmedge) - An experimental Dapr SDK in Rust. It is designed to run in WasmEdge applications.
 - [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
@@ -3728,7 +3761,7 @@
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 500,000 installs.
 - [marhkb/pods](https://github.com/marhkb/pods) - Keep track of your podman containers
 - [dragonflyoss/image-service](https://github.com/dragonflyoss/image-service) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -4154,6 +4187,10 @@
 
 ## Shell 
 
+- [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document
+- [amplaeducacao/devfiles](https://github.com/amplaeducacao/devfiles) - dotfiles, snippets, etc
+- [sunix/devfiles](https://github.com/sunix/devfiles) - Various devfiles and factory configuration I use in Eclipse Che
+- [devfile/registry](https://github.com/devfile/registry) - Source repository for the public community devfile registry
 - [emattiza/template-wasmcloud](https://github.com/emattiza/template-wasmcloud) - A template for gitpod development w/ wasmcloud
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
 - [korosuke613/gh-user-stars](https://github.com/korosuke613/gh-user-stars) - Displays an interactive and searchable list of your GitHub starred repositories
@@ -4525,6 +4562,13 @@
 
 ## TypeScript 
 
+- [neolace-dev/vertex-framework](https://github.com/neolace-dev/vertex-framework) - Backend graph data management framework
+- [neolace-dev/neolace](https://github.com/neolace-dev/neolace) - The next-generation knowledge graph platform.
+- [sno2/bertml](https://github.com/sno2/bertml) - Use common pre-trained ML models in Deno!
+- [feloy/devfile-builder](https://github.com/feloy/devfile-builder) - A UI to help edit a Devfile (devfile.io)
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
+- [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [lenneTech/cli-starter](https://github.com/lenneTech/cli-starter) - A starter project for CLI with @lenne.tech/cli-plugin-helper and @lenne.tech/npm-package-helper
 - [jamonholmgren/bluebun](https://github.com/jamonholmgren/bluebun) - Bun-powered CLI library, inspired by Gluegun
@@ -4618,7 +4662,7 @@
 - [Lewynation/typesense-admin-dashboard](https://github.com/Lewynation/typesense-admin-dashboard) - A dashboard to help admins manage a running typesense server
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
