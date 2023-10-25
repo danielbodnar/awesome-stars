@@ -22,6 +22,7 @@
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
+- [Cuda](#cuda)
 - [D2](#d2)
 - [Dart](#dart)
 - [Dhall](#dhall)
@@ -412,6 +413,9 @@
 
 ## C++ 
 
+- [jeromedockes/labelbuddy](https://github.com/jeromedockes/labelbuddy) - Text labelling desktop application
+- [unum-cloud/ustore](https://github.com/unum-cloud/ustore) - Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [faasm/faasm](https://github.com/faasm/faasm) - High-performance stateful serverless runtime based on WebAssembly
 - [vector-of-bool/bpt](https://github.com/vector-of-bool/bpt) - A C++ tool for a new decade
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
@@ -535,7 +539,7 @@
 - [SJTU-IPADS/wukong](https://github.com/SJTU-IPADS/wukong) - A graph-based distributed in-memory store that leverages efficient graph exploration to provide highly concurrent and low-latency queries over big linked data
 - [notracking/nBlock](https://github.com/notracking/nBlock) - A content filtering, network/ad blocking ecap adapter for Squid
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
+- [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [facebook/wdt](https://github.com/facebook/wdt) - Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 - [abumq/residue](https://github.com/abumq/residue) - Real-time centralized logging server ⚡
@@ -608,6 +612,9 @@
 
 ## CUE 
 
+- [buildsec/frsca](https://github.com/buildsec/frsca) - 
+- [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev) - Flux local dev environment with Docker and Kubernetes KIND
+- [gilcrest/dbt-cue](https://github.com/gilcrest/dbt-cue) - Generate dbt yml files using the CUE language
 - [GuanceCloud/iacker](https://github.com/GuanceCloud/iacker) - The Infrastructure as Code Provider Development Framework
 
 ## Clojure 
@@ -633,6 +640,10 @@
 ## Crystal 
 
 - [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web
+
+## Cuda 
+
+- [rapidsai/raft](https://github.com/rapidsai/raft) - RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing hig
 
 ## D2 
 
@@ -728,6 +739,22 @@
 
 ## Go 
 
+- [kubernetes/cli-runtime](https://github.com/kubernetes/cli-runtime) - Set of helpers for creating kubectl commands and plugins.
+- [traefik/mixtus](https://github.com/traefik/mixtus) - 🤖 [Lasius Mixtus 🐜] Bot: Publish Documentation to a GitHub Repository from another
+- [traefik/lobicornis](https://github.com/traefik/lobicornis) - 🤖 [Myrmica Lobicornis 🐜] Bot: Update and Merge Pull Request
+- [traefik/structor](https://github.com/traefik/structor) - [Messor Structor 🐜] Manage multiple versions of a Mkdocs documentation
+- [JeremyLoy/config](https://github.com/JeremyLoy/config) - 12 factor configuration as a typesafe struct in as little as two function calls
+- [captainroy-hy/helm-schema-generator](https://github.com/captainroy-hy/helm-schema-generator) - Generate OpenAPI v3 JSON schema for Helm values.yaml by CUE
+- [errordeveloper/kuegen](https://github.com/errordeveloper/kuegen) - A simple (experimental) tool for generating Kubernetes manifest from templates based on CUE
+- [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
+- [asg017/sqlite-http](https://github.com/asg017/sqlite-http) - A SQLite extension for making HTTP requests purely in SQL
+- [realTristan/hermes](https://github.com/realTristan/hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System
+- [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+- [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
+- [deislabs/ratify](https://github.com/deislabs/ratify) - Artifact Ratification Framework
+- [Azure/draft](https://github.com/Azure/draft) - A day 0 tool for getting your app on k8s fast
+- [cnabio/duffle](https://github.com/cnabio/duffle) - CNAB installer
+- [alash3al/srchx](https://github.com/alash3al/srchx) - A standalone lightweight full-text search engine built on top of blevesearch and Go with multiple storage (scorch, boltdb, leveldb, badger)
 - [gomlx/tokenizers](https://github.com/gomlx/tokenizers) - Tokenizers for Language Models - Go API for HuggingFace Tokenizers
 - [stateful/runme](https://github.com/stateful/runme) - Execute commands inside your runbooks, docs, and READMEs.
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
@@ -1185,7 +1212,7 @@
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) - TriggerMesh is the open-source AWS EventBridge alternative. It provides a unified eventing experience, a developer-friendly CLI, and runs on Docker or natively on Kubernetes.
-- [minio/kes](https://github.com/minio/kes) - Simple | Secure KMS 🔒
+- [minio/kes](https://github.com/minio/kes) - Key Managament Server [not just] for Object Storage
 - [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro Services
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database
 - [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
@@ -1279,7 +1306,7 @@
 - [u-root/webboot](https://github.com/u-root/webboot) - Tools to let a u-root instance boot signed live distro images over the web
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Moved to https://github.com/aquasecurity/trivy-operator
 - [picostack/pico](https://github.com/picostack/pico) - A Git-driven task runner built to facilitate GitOps and Infrastructure-as-Code while securely passing secrets to tasks.
 - [jmpsec/osctrl](https://github.com/jmpsec/osctrl) - Fast and efficient osquery management
@@ -1761,6 +1788,9 @@
 
 ## HTML 
 
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
+- [nisheethjaiswal/Data-Annotator-for-SpaCy](https://github.com/nisheethjaiswal/Data-Annotator-for-SpaCy) - 🚀SpAnnor annotator for Named Entity Recognition easy to use tool. The annotator allows users to quickly assign custom labels to one or more entities in the text. Easy to setup for Data Training for Sp
+- [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
 - [w3c/webextensions](https://github.com/w3c/webextensions) - Charter and administrivia for the WebExtensions Community Group (WECG)
 - [alertbox/devcontainers-try-docsify](https://github.com/alertbox/devcontainers-try-docsify) - A ready-to-go dev container for trying out docsify, magical static site generating tool for docs, static sites, et al.
 - [solid/web-access-control-spec](https://github.com/solid/web-access-control-spec) - Web Access Control (WAC)
@@ -1913,7 +1943,7 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [structurizr/dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless.  Support monitoring web, database, os, middleware, cloudnative, network and more.
-- [muhlba91/pulumi-proxmoxve](https://github.com/muhlba91/pulumi-proxmoxve) - A Pulumi provider for creating and managing Proxmox VE resources.
+- [muhlba91/pulumi-proxmoxve](https://github.com/muhlba91/pulumi-proxmoxve) - A Pulumi provider for creating and managing Proxmox VE resources
 - [elonlit/Genesis](https://github.com/elonlit/Genesis) - God's actual programming language.
 - [olacabs/jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [scalyr/cloud-costs](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud server for a given set of requirements
@@ -1960,6 +1990,21 @@
 
 ## JavaScript 
 
+- [taoyage/yg-configs](https://github.com/taoyage/yg-configs) - CLI toolbox for common scripts for front-end projects
+- [shd101wyy/crossnote](https://github.com/shd101wyy/crossnote) - Powerful markdown tool
+- [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
+- [cezaraugusto/extension-create](https://github.com/cezaraugusto/extension-create) - (maintance) Create modern cross-browser extensions with no build configuration.
+- [tobiasbueschel/search-gpt](https://github.com/tobiasbueschel/search-gpt) - 🌳 Connecting ChatGPT with the Internet
+- [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
+- [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
+- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
+- [himynameisdave/git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - :flags: Manage your GitHub labels from the command line!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
+- [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [thesephist/libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript
+- [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - :cyclone: BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure unrestricted webviews on any device in a regular web
 - [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange) - Specification that codifies an inter-related pair of data formats for defining proof presentations (Presentation Definition) and subsequent proof submissions (Presentation Submission)
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
@@ -2624,6 +2669,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 - [psychic-api/doctran](https://github.com/psychic-api/doctran) - 
 - [AnacletoLAB/grape](https://github.com/AnacletoLAB/grape) - 🍇 GRAPE is a Rust/Python Graph Representation Learning library for Predictions and Evaluations
@@ -2748,6 +2794,7 @@
 
 ## Nix 
 
+- [jmgilman/nix-cue](https://github.com/jmgilman/nix-cue) - Validate and generate configuration files using Nix and Cue
 - [lucernae/devcontainer-nix](https://github.com/lucernae/devcontainer-nix) - VSCode devcontainer for Nix
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -2781,6 +2828,15 @@
 
 ## Others 
 
+- [staticaland/awesome-cue](https://github.com/staticaland/awesome-cue) - 
+- [xinau/awesome-cue](https://github.com/xinau/awesome-cue) - A curated list of awesome CUE projects, libraries, tools and resources.
+- [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments
+- [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
+- [oskardudycz/ArchitectureWeekly](https://github.com/oskardudycz/ArchitectureWeekly) - Architecture Weekly - links and resources to boost your knowledge and developer skills
+- [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [techspecs/techspecs-api](https://github.com/techspecs/techspecs-api) - Get the standardized technical specifications of the world's smartphones, tablets, smartwatches and more.
 - [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) - Personal representation of my 4k github repositories stars.
 - [kubernetes/kubernetes-template-project](https://github.com/kubernetes/kubernetes-template-project) - A template for starting new projects on the github.com/kubernetes organization
 - [ethereum/remix-ide](https://github.com/ethereum/remix-ide) - Documentation for Remix IDE
@@ -2872,7 +2928,6 @@
 - [cloudforet-io/cloudforet](https://github.com/cloudforet-io/cloudforet) - Cloudforet Project
 - [aya-rs/awesome-aya](https://github.com/aya-rs/awesome-aya) - A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀
 - [winglang/examples](https://github.com/winglang/examples) - Winglang examples
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [RobertAgee/Real_Time_Strategy_Scanner](https://github.com/RobertAgee/Real_Time_Strategy_Scanner) - Run 1 strategy on an unlimited number of symbols, add custom strategies, instant visual results, receive real-time Buy/Sell alerts, can be used for algo trading, for Tradingview
 - [rguo12/awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) - An index of algorithms for learning causality with data
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
@@ -3243,6 +3298,33 @@
 
 ## Python 
 
+- [vrmarcelino/MetaModels](https://github.com/vrmarcelino/MetaModels) - Scripts to analyse metagenome-wide metabolic models
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [xNul/code-llama-for-vscode](https://github.com/xNul/code-llama-for-vscode) - Use Code Llama with Visual Studio Code and the Continue extension. A local LLM alternative to GitHub Copilot.
+- [PrithivirajDamodaran/Alt-ZSC](https://github.com/PrithivirajDamodaran/Alt-ZSC) - Alternate Implementation for Zero Shot Text Classification: Instead of reframing NLI/XNLI, this reframes the text backbone of CLIP models to do ZSC. Hence, can be lightweight + supports more languages
+- [HumanSignal/label-studio-transformers](https://github.com/HumanSignal/label-studio-transformers) - Label data using HuggingFace's transformers and automatically get a prediction service
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source feedback platform for LLMs
+- [BrikerMan/Kashgari](https://github.com/BrikerMan/Kashgari) - Kashgari is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
+- [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
+- [raphaelsty/cherche](https://github.com/raphaelsty/cherche) - Neural Search
+- [WebKit/standards-positions](https://github.com/WebKit/standards-positions) - WebKit's positions on emerging web specifications
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
+- [UKPLab/gpl](https://github.com/UKPLab/gpl) - Powerful unsupervised domain adaptation method for dense retrieval. Requires only unlabeled corpus and yields massive improvement: "GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation o
+- [vector-ai/vectorai](https://github.com/vector-ai/vectorai) - Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors.
+- [jina-ai/vectordb](https://github.com/jina-ai/vectordb) - A Python vector database you just need - no more, no less.
+- [RedisVentures/ArXivChatGuru](https://github.com/RedisVentures/ArXivChatGuru) - Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache.
+- [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [franciscozorrilla/metaGEM](https://github.com/franciscozorrilla/metaGEM) - :gem: An easy-to-use workflow for generating context specific genome-scale metabolic models and predicting metabolic interactions within microbial communities directly from metagenomic data
 - [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code platform to build generative AI apps, chatbots and agents with your data
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
@@ -3266,7 +3348,7 @@
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [dagraham/etm-dgraham](https://github.com/dagraham/etm-dgraham) - etm: event and task manager
-- [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
+- [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
 - [rbw/aiosnow](https://github.com/rbw/aiosnow) - Asynchronous Python ServiceNow library
@@ -3349,7 +3431,7 @@
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
@@ -3912,6 +3994,12 @@
 
 ## Rust 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [CeresDB/ceresdb](https://github.com/CeresDB/ceresdb) - CeresDB is a high-performance, distributed, cloud native time-series database.
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- [ForetagInc/alchemy](https://github.com/ForetagInc/alchemy) - Archived - High performance, realtime BaaS with RBAC, graphing, full text search, S3 / B2 Storage and GIS with a GraphQL, gRPC and REST API
+- [deislabs/spiderlightning](https://github.com/deislabs/spiderlightning) - A set of WIT definitions and associated implementations to enable app developers to work at a faster pace and require less knowledge of the environment in which they are executing.
 - [BiagioFesta/wtransport](https://github.com/BiagioFesta/wtransport) - Async-friendly WebTransport implementation in Rust
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
@@ -4001,7 +4089,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - The KCL Core. KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [carllerche/codegen](https://github.com/carllerche/codegen) - A Rust library providing a builder API to generate Rust code.
 - [aerys/gpm](https://github.com/aerys/gpm) - Git-based Package Manager.
@@ -4022,7 +4110,7 @@
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [emarsden/dash-mpd-cli](https://github.com/emarsden/dash-mpd-cli) - Download media content from a DASH-MPEG or DASH-WebM MPD manifest
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -4249,7 +4337,7 @@
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [davechallis/ocypod](https://github.com/davechallis/ocypod) - Ocypod is a Redis-backed service for orchestrating background jobs. Clients/workers can be written in any language, using HTTP/JSON to queue/fetch jobs, store results, etc.
 - [jonhoo/tsunami](https://github.com/jonhoo/tsunami) - Rust crate for running one-off cloud jobs
-- [bjorn3/rustc_codegen_cranelift](https://github.com/bjorn3/rustc_codegen_cranelift) - Cranelift based backend for rustc
+- [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) - Cranelift based backend for rustc
 - [checkpoint-restore/criu-image-streamer](https://github.com/checkpoint-restore/criu-image-streamer) - Enables streaming of images to and from CRIU during checkpoint/restore with low overhead
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [paulkernfeld/contiguous-data-in-rust](https://github.com/paulkernfeld/contiguous-data-in-rust) - An opinionated guide that tries to help you choose the best way to store contiguous data in Rust
@@ -4404,6 +4492,7 @@
 
 ## SCSS 
 
+- [cnabio/cnab.io](https://github.com/cnabio/cnab.io) - A simple website introducing the CNAB project.
 - [codeandmedia/zola_easydocs_theme](https://github.com/codeandmedia/zola_easydocs_theme) - An easy way to create docs for your project
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
@@ -4442,6 +4531,8 @@
 
 ## Shell 
 
+- [TravonteD/devc](https://github.com/TravonteD/devc) - A convenient cli wrapper around the devcontainer-cli
+- [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - Convenience shortname repository for asdf community plugins
 - [kubernetes-client/gen](https://github.com/kubernetes-client/gen) - Common generator scripts for all client libraries
 - [devcontainers-contrib/templates](https://github.com/devcontainers-contrib/templates) - 📂 Pre-made .devcontainer folders for starting your next project
 - [devcontainers-community/npm-features](https://github.com/devcontainers-community/npm-features) - 📦 Top-rated globally installed npm packages for Dev Container Features
@@ -4492,6 +4583,7 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [pirovc/genome_updater](https://github.com/pirovc/genome_updater) - Bash script to download/update snapshots of files from NCBI genomes repository (refseq/genbank) with track of changes and without redundancy
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [kairos-io/packages](https://github.com/kairos-io/packages) - :whale: Cross-distribution packages as standalone OCI images
@@ -4649,7 +4741,7 @@
 - [RainmakerRaw/WireGuard-ArchRouter](https://github.com/RainmakerRaw/WireGuard-ArchRouter) - How to make a fully functional Arch Linux edge router, with stateful firewall and NAT, running WireGuard VPN.
 - [tunfish/tunfish-vxlan](https://github.com/tunfish/tunfish-vxlan) - A proof-of-concept for creating convenient VPN environments on top of secure WireGuard tunnels, with VXLAN.
 - [bargees/barge-os](https://github.com/bargees/barge-os) - Yet another lightweight Linux distribution for Docker containers
-- [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - Reliably run any Linux distribution on any hardware with a cross-compiled host OS for containerized environments.
+- [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) - Any Linux distribution, anywhere.
 - [sufuf3/k3sup-lab](https://github.com/sufuf3/k3sup-lab) - 
 - [rancher/k3os-rootfs](https://github.com/rancher/k3os-rootfs) - 
 - [htpc-helper/k3os-custom](https://github.com/htpc-helper/k3os-custom) - Custom ISO for k3os
@@ -4814,6 +4906,9 @@
 
 ## Swift 
 
+- [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing remote tech interviews with AI
+- [whitesmith/WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents tags, hashtags, tokens in general.
+- [psharanda/Atributika](https://github.com/psharanda/Atributika) - Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
 - [redcanaryco/mac-monitor](https://github.com/redcanaryco/mac-monitor) - Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Beginning with Endpoint Security (ES), it collects and enriches system events, displa
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 
@@ -4834,6 +4929,37 @@
 
 ## TypeScript 
 
+- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+- [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
+- [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
+- [jjuliano/aifiles](https://github.com/jjuliano/aifiles) - A CLI that organize and manage your files using AI
+- [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
+- [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+- [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
+- [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
+- [muctadir/lama](https://github.com/muctadir/lama) - LaMa, short for Labelling Machine, is an web application developed for aiding in thematic analysis of qualitative data.
+- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
+- [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
+- [dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI
+- [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
+- [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
+- [lindylearn/unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser.
+- [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+- [layrjs/layr](https://github.com/layrjs/layr) - Dramatically simplify full‑stack development
+- [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
+- [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
+- [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
 - [effect-ts-app/boilerplate](https://github.com/effect-ts-app/boilerplate) - A boilerplate to build apps with effect/io and effect-ts-app/libs
@@ -4964,7 +5090,7 @@
 - [lokesh-coder/lesyjs](https://github.com/lokesh-coder/lesyjs) - Node JS based CLI framework to build modern Command line applications (in Beta )
 - [getmoro/moro](https://github.com/getmoro/moro) - Simple CLI tool for tracking work hours. Note: Heavy changes are happening in this repository. Docs might not be up to date, and things might be broken. Only the released NPM version is stable.
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
-- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - A secrets manager for .env files.
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - A secrets manager for .env and .env.vault files.
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [maticzav/emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
@@ -5059,7 +5185,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models, available on Windows, Mac, Linux
 - [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) - Action it, tag it, sorted.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [jackyzha0/tabspace](https://github.com/jackyzha0/tabspace) - ✍️ A scratchspace for your new Tab page
@@ -5120,7 +5246,7 @@
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - The Effortless Way to Build Admin Apps - Run `npx dashpress` to see some magic!
+- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - The effortless way to build admin apps - Run `npx dashpress` to see some magic!
 - [SolidZORO/leaa](https://github.com/SolidZORO/leaa) - Leaa is a monorepo restful CMS / Admin built with Nest.js (@nestjsx/crud, node.js) and Ant Design.
 - [status-base/statusbase-nuxt](https://github.com/status-base/statusbase-nuxt) - A modern, zero-dependency uptime monitoring tool & status page based on GitHub Actions & Nuxt Content v2.
 - [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter) - ⚡️ Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.
@@ -5437,6 +5563,8 @@
 
 ## Vue 
 
+- [ResearchHelper/research-helper](https://github.com/ResearchHelper/research-helper) - THE reference manager with features including PDF reading/annotating, Markdown/Excalidraw note-taking, project/note linking, and more...
+- [techspecs/zinc](https://github.com/techspecs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [typesense/typesense-vue-instantsearch-demo](https://github.com/typesense/typesense-vue-instantsearch-demo) - A demo app that shows you how to use Vue & the Typesense InstantSearch adapter, to build rich search interfaces.
