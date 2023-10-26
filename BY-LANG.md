@@ -67,6 +67,7 @@
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [PureBasic](#purebasic)
 - [PureScript](#purescript)
 - [Python](#python)
 - [R](#r)
@@ -233,6 +234,7 @@
 - [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
 - [frabert/ClangQL](https://github.com/frabert/ClangQL) - Query C++ codebases using SQLite
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
 - [quantumcore/paradoxiaRAT](https://github.com/quantumcore/paradoxiaRAT) - ParadoxiaRat : Native Windows Remote access Tool.
 - [bats3c/shad0w](https://github.com/bats3c/shad0w) - A post exploitation framework designed to operate covertly on heavily monitored environments
@@ -739,6 +741,9 @@
 
 ## Go 
 
+- [namespacelabs/foundation](https://github.com/namespacelabs/foundation) - Open-source Kubernetes application platform that brings simple but powerful state-of-the-art dev, testing, and production workflows to all teams.
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
+- [nttcom/kuesta](https://github.com/nttcom/kuesta) - Network IaC using CUE
 - [kubernetes/cli-runtime](https://github.com/kubernetes/cli-runtime) - Set of helpers for creating kubectl commands and plugins.
 - [traefik/mixtus](https://github.com/traefik/mixtus) - 🤖 [Lasius Mixtus 🐜] Bot: Publish Documentation to a GitHub Repository from another
 - [traefik/lobicornis](https://github.com/traefik/lobicornis) - 🤖 [Myrmica Lobicornis 🐜] Bot: Update and Merge Pull Request
@@ -1247,7 +1252,6 @@
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
@@ -1702,7 +1706,6 @@
 - [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2
 - [ketchuphq/ketchup](https://github.com/ketchuphq/ketchup) - A simple CMS :tomato:
 - [ponzu-cms/ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
@@ -1758,6 +1761,7 @@
 
 ## Groovy 
 
+- [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) - A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin
 - [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
@@ -1768,7 +1772,7 @@
 - [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [oracle-quickstart/oci-cis-landingzone-quickstart](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart) - Quickstart Terraform configuration for tenancy setup according to CIS OCI Foundations Benchmark.
-- [oracle-quickstart/terraform-oci-open-lz](https://github.com/oracle-quickstart/terraform-oci-open-lz) - The OCI Open LZ is a secure landing zone blueprint to simplify the onboarding and running of organizations, business units, and subsidiaries into OCI. Use it to create your own Landing Zone.
+- [oracle-quickstart/terraform-oci-open-lz](https://github.com/oracle-quickstart/terraform-oci-open-lz) - The OCI Open LZ is a secure landing zone blueprint to simplify the onboarding and running of organizations, business units, and subsidiaries into OCI - by customers, partners, or ISVs. Use it to creat
 - [ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 - [aws-ia/terraform-repo-template](https://github.com/aws-ia/terraform-repo-template) - Terraform Module Template
 - [blz-ea/proxmox-packer](https://github.com/blz-ea/proxmox-packer) - :package: Build Proxmox templates with Packer
@@ -1801,7 +1805,6 @@
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CR
-- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [wasmCloud/project-templates](https://github.com/wasmCloud/project-templates) - wasmCloud project templates - use with 'wash new'
 - [Octophin/scute](https://github.com/Octophin/scute) - Schema Compiled Utility Template Engine
 - [design-first/system-designer](https://github.com/design-first/system-designer) - A low-code development platform for creating systems 🇺🇦#standwithUkraine
@@ -2120,7 +2123,6 @@
 - [tapjs/tapjs](https://github.com/tapjs/tapjs) - Test Anything Protocol tools for node
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [author/shell](https://github.com/author/shell) - A very lightweight framework for building shell/CLI applications. Works in Node.js, Deno, and the browser.
-- [generate/generate](https://github.com/generate/generate) - A new command line tool and developer framework for scaffolding out GitHub projects. Generate offers the robustness and configurability of Yeoman, the expressiveness and simplicity of Slush, and more 
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
@@ -2745,7 +2747,7 @@
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [withastro/astro.build](https://github.com/withastro/astro.build) - 
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## Makefile 
 
@@ -2828,6 +2830,7 @@
 
 ## Others 
 
+- [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [staticaland/awesome-cue](https://github.com/staticaland/awesome-cue) - 
 - [xinau/awesome-cue](https://github.com/xinau/awesome-cue) - A curated list of awesome CUE projects, libraries, tools and resources.
 - [open-feature/ofep](https://github.com/open-feature/ofep) - A focal point for OpenFeature research, proposals and requests for comments
@@ -3289,6 +3292,10 @@
 - [docker-archive/communitytools-image2docker-win](https://github.com/docker-archive/communitytools-image2docker-win) - 
 - [andyzhangx/demo](https://github.com/andyzhangx/demo) - examples, best practices for k8s volumes on azure, AKS, acs-engine, helm, etc.
 - [NytroRST/NetRipper](https://github.com/NytroRST/NetRipper) - NetRipper - Smart traffic sniffing for penetration testers
+
+## PureBasic 
+
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 
 ## PureScript 
 
@@ -4493,6 +4500,7 @@
 ## SCSS 
 
 - [cnabio/cnab.io](https://github.com/cnabio/cnab.io) - A simple website introducing the CNAB project.
+- [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [codeandmedia/zola_easydocs_theme](https://github.com/codeandmedia/zola_easydocs_theme) - An easy way to create docs for your project
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
@@ -4929,6 +4937,8 @@
 
 ## TypeScript 
 
+- [bbeesley/hygen-cook](https://github.com/bbeesley/hygen-cook) - A helpful chef to cook hygen recipes
+- [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
 - [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
@@ -5357,7 +5367,7 @@
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -5441,7 +5451,7 @@
 - [stoqey/ib](https://github.com/stoqey/ib) - Interactive Brokers TWS/IB Gateway API client library for Node.js (TS)
 - [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate) - Deduplication tool for yarn.lock files
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
