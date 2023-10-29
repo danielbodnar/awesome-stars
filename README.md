@@ -15,6 +15,7 @@
 - [analysis](#analysis)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
 - [ansible](#ansible)
@@ -699,6 +700,10 @@
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
+
+## android-app 
+
+- [kirmanak/Mealient](https://github.com/kirmanak/Mealient) - An Android client for a self-hosted recipe manager Mealie.
 
 ## angular 
 
@@ -1953,7 +1958,7 @@
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -1988,7 +1993,7 @@
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -3089,7 +3094,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [akatrevorjay/boilerplate](https://github.com/akatrevorjay/boilerplate) - Boilerplate eradication for an immutable world (Docker, LXC/LXD, rkt, etc).
 - [bketelsen/dlx](https://github.com/bketelsen/dlx) - quick dev environments for linux using LXD.  Disposable, composable, simple.
-- [lxc/distrobuilder](https://github.com/lxc/distrobuilder) - System container image builder for LXC and LXD
+- [lxc/distrobuilder](https://github.com/lxc/distrobuilder) - System container image builder for LXC and Incus
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
@@ -6197,7 +6202,7 @@
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -6636,6 +6641,7 @@
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [buildpacks-community/kpack](https://github.com/buildpacks-community/kpack) - Kubernetes Native Container Build Service
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
@@ -10649,6 +10655,7 @@
 
 ## others 
 
+- [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
@@ -16305,7 +16312,7 @@
 - [14nrv/buefy-shop](https://github.com/14nrv/buefy-shop) - A sample shop built with Nuxt, Stripe, Firebase and Serverless Functions
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [kitze/JSUI](https://github.com/kitze/JSUI) - A powerful UI toolkit for managing JavaScript apps
-- [truewebartisans/bottle-vue-kickstart](https://github.com/truewebartisans/bottle-vue-kickstart) - 🍕 Very basic Bottle kickstart kit with Vue.js and Webpack. Included Axios, Autoprefixer, Babel, Webpack config, demo app with Bulma and Web font loader.
+- [koddr/bottle-vue-kickstart](https://github.com/koddr/bottle-vue-kickstart) - 🍕 Very basic Bottle kickstart kit with Vue.js and Webpack. Included Axios, Autoprefixer, Babel, Webpack config, demo app with Bulma and Web font loader.
 - [covrom/go-echo-vue](https://github.com/covrom/go-echo-vue) - A Todo example written in Go, using the Echo framework, BBolt, Bulma and Vue
 - [pablohpsilva/vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 - [misterGF/CoPilot](https://github.com/misterGF/CoPilot) - Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js
@@ -16360,7 +16367,7 @@
 - [ovanta/vue-cloudfront](https://github.com/ovanta/vue-cloudfront) - vue-cloudfront - PWA for cloud storage with focus on design and performance. Made especially for self-hosting purposes. Build with vuejs2 and vuex. Always Open Source, MIT license.
 - [davestewart/vuex-pathify](https://github.com/davestewart/vuex-pathify) - Vue / Vuex plugin providing a unified path syntax to Vuex stores
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
-- [truewebartisans/bottle-vue-kickstart](https://github.com/truewebartisans/bottle-vue-kickstart) - 🍕 Very basic Bottle kickstart kit with Vue.js and Webpack. Included Axios, Autoprefixer, Babel, Webpack config, demo app with Bulma and Web font loader.
+- [koddr/bottle-vue-kickstart](https://github.com/koddr/bottle-vue-kickstart) - 🍕 Very basic Bottle kickstart kit with Vue.js and Webpack. Included Axios, Autoprefixer, Babel, Webpack config, demo app with Bulma and Web font loader.
 - [covrom/go-echo-vue](https://github.com/covrom/go-echo-vue) - A Todo example written in Go, using the Echo framework, BBolt, Bulma and Vue
 - [pablohpsilva/vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
@@ -16664,7 +16671,7 @@
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [codingfriend1/Feathers-Vue](https://github.com/codingfriend1/Feathers-Vue) - A boiler plate template using Feathers with Email Verification, Vue 2 with Server Side Rendering, stylus, scss, jade, babel, webpack, ES 6-8, login form, user authorization, and SEO
-- [truewebartisans/bottle-vue-kickstart](https://github.com/truewebartisans/bottle-vue-kickstart) - 🍕 Very basic Bottle kickstart kit with Vue.js and Webpack. Included Axios, Autoprefixer, Babel, Webpack config, demo app with Bulma and Web font loader.
+- [koddr/bottle-vue-kickstart](https://github.com/koddr/bottle-vue-kickstart) - 🍕 Very basic Bottle kickstart kit with Vue.js and Webpack. Included Axios, Autoprefixer, Babel, Webpack config, demo app with Bulma and Web font loader.
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
 - [gobuffalo/vuerecipe](https://github.com/gobuffalo/vuerecipe) - A recipe for using Buffalo & Vue.js
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
