@@ -566,6 +566,7 @@
 
 ## algorithm 
 
+- [samchon/tstl](https://github.com/samchon/tstl) - TypeScript-STL (Standard Template Library, migrated from C++)
 - [realTristan/hermes](https://github.com/realTristan/hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System
 - [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
@@ -1115,6 +1116,7 @@
 
 ## awesome 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [xinau/awesome-cue](https://github.com/xinau/awesome-cue) - A curated list of awesome CUE projects, libraries, tools and resources.
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
@@ -1231,6 +1233,7 @@
 
 ## awesome-list 
 
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [xinau/awesome-cue](https://github.com/xinau/awesome-cue) - A curated list of awesome CUE projects, libraries, tools and resources.
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
@@ -1495,7 +1498,7 @@
 ## babel 
 
 - [taoyage/yg-configs](https://github.com/taoyage/yg-configs) - CLI toolbox for common scripts for front-end projects
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [ericalli/static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
@@ -1506,6 +1509,7 @@
 
 ## backend 
 
+- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [layrjs/layr](https://github.com/layrjs/layr) - Dramatically simplify full‑stack development
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -1531,6 +1535,8 @@
 
 ## bash 
 
+- [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
+- [rsteube/carapace-spec](https://github.com/rsteube/carapace-spec) - define simple completions using a spec file
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -2122,6 +2128,10 @@
 
 ## cli 
 
+- [mdbetancourt/soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
+- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
+- [akamensky/argparse](https://github.com/akamensky/argparse) - Argparse for golang. Just because `flag` sucks
+- [cristalhq/acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
 - [howardroark/pollinate](https://github.com/howardroark/pollinate) - Template your base files and generate new projects from Git(Hub).
 - [yonaskolb/Genesis](https://github.com/yonaskolb/Genesis) - Templating, scaffolding and generation tool
 - [jeroenouw/cgx](https://github.com/jeroenouw/cgx) - 💻🔥CLI to generate the recommended documentation/files to improve contribution (Github, Gitlab, CodeCommit and Bitbucket)
@@ -2817,6 +2827,8 @@
 
 ## command-line 
 
+- [mdbetancourt/soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
+- [cristalhq/acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [himynameisdave/git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - :flags: Manage your GitHub labels from the command line!
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -2836,7 +2848,7 @@
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [EnvCLI/EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
 - [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
@@ -3923,6 +3935,7 @@
 
 ## deno 
 
+- [tjjfvi/subshape](https://github.com/tjjfvi/subshape) - composable shapes for cohesive code
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
 - [andrewbrey/dotfiles](https://github.com/andrewbrey/dotfiles) - multi-platform dotfiles, configuration, and bootstrap powered by chezmoi and deno
 - [crewdevio/Trex](https://github.com/crewdevio/Trex) - Package Manager for deno 🦕
@@ -4111,6 +4124,7 @@
 
 ## devops 
 
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility.
 - [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
@@ -5221,6 +5235,7 @@
 
 ## framework 
 
+- [mdbetancourt/soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
 - [mapbox/assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integra
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -5292,6 +5307,7 @@
 
 ## frontend 
 
+- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [layrjs/layr](https://github.com/layrjs/layr) - Dramatically simplify full‑stack development
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [cloudforet-io/console](https://github.com/cloudforet-io/console) - Frontend Project for Open-source Multi & Hybrid Cloud Management Platform
@@ -5529,6 +5545,14 @@
 
 ## go 
 
+- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
+- [akamensky/argparse](https://github.com/akamensky/argparse) - Argparse for golang. Just because `flag` sucks
+- [cristalhq/acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
@@ -5576,6 +5600,7 @@
 - [BetaPictoris/wiki](https://github.com/BetaPictoris/wiki) - 📗 Read Wikipedia articles through the CLI
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go.
 - [alash3al/wsify](https://github.com/alash3al/wsify) - Just a tiny, simple and real-time self-hosted pub/sub messaging service
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -5808,6 +5833,12 @@
 
 ## golang 
 
+- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [akamensky/argparse](https://github.com/akamensky/argparse) - Argparse for golang. Just because `flag` sucks
+- [cristalhq/acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
@@ -6326,6 +6357,7 @@
 
 ## grpc 
 
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -6524,6 +6556,10 @@
 
 ## hacktoberfest 
 
+- [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
@@ -6604,7 +6640,6 @@
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) - A curated list of awesome Web Font Icons
 - [RatanShreshtha/DeepThought](https://github.com/RatanShreshtha/DeepThought) - A simple blog theme focused on writing powered by Bulma and Zola.
-- [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go.
 - [packit/deployment](https://github.com/packit/deployment) - Ansible playbooks and scripts for deploying packit-service to OpenShift
 - [kubewarden/policy-server](https://github.com/kubewarden/policy-server) - Webhook server that evaluates WebAssembly policies to validate Kubernetes requests
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -6704,7 +6739,6 @@
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -6777,7 +6811,6 @@
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [erigones/esdc-ce](https://github.com/erigones/esdc-ce) - Danube Cloud :: Community Edition
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [allegro/ralph](https://github.com/allegro/ralph) - Ralph is the CMDB / Asset Management system for data center and back office hardware.
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
@@ -6809,7 +6842,6 @@
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
-- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -7445,6 +7477,7 @@
 
 ## javascript 
 
+- [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
@@ -8015,6 +8048,7 @@
 
 ## kubernetes 
 
+- [kubecfg/kubecfg](https://github.com/kubecfg/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.
 - [kui-shell/KuiClientTemplate](https://github.com/kui-shell/KuiClientTemplate) - Use this template to make your own custom graphical terminal, via the Kui Grahpical CLI Framework
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm) - Aggregator for issues filed against kubeadm
 - [kubernetes-sigs/cri-tools](https://github.com/kubernetes-sigs/cri-tools) - CLI and validation tools for Kubelet Container Runtime Interface (CRI) .
@@ -8860,6 +8894,7 @@
 
 ## login 
 
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
@@ -10044,6 +10079,7 @@
 
 ## node 
 
+- [mdbetancourt/soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
 - [sheerun/modern-node](https://github.com/sheerun/modern-node) - All-in-one development toolkit for creating node modules with Jest, Prettier, ESLint, and Standard
 - [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -10693,6 +10729,13 @@
 
 ## others 
 
+- [badbatch/zod-config-builder](https://github.com/badbatch/zod-config-builder) - 
+- [seasonedcc/domain-functions](https://github.com/seasonedcc/domain-functions) - Decouple your business logic from your framework. With first-class type inference from end to end.
+- [Effect-TS/schema](https://github.com/Effect-TS/schema) - Modeling the schema of data structures as first-class values
+- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+- [score-spec/score-compose](https://github.com/score-spec/score-compose) - Reference implementation for docker-compose target platform support
+- [observexio/observeX](https://github.com/observexio/observeX) - 🚀 Observe anything you want in your business and never miss any X factors .  🚀 One stop observability with powerful Grafana like UI, correlate deep into data.  💹 Get traces, logs and metrics from vari
+- [the4thamigo-uk/conflate](https://github.com/the4thamigo-uk/conflate) - Library providing routines to merge and validate JSON, YAML and/or TOML files
 - [refinedev/awesome-refine](https://github.com/refinedev/awesome-refine) - Carefully curated list of awesome refine resources 🍕
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [awslabs/aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs) - The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions
@@ -11869,7 +11912,7 @@
 - [dchest/static-search](https://github.com/dchest/static-search) - Simple client-side static search engine (Go indexer, JavaScript searcher).
 - [MartinDelille/eleform](https://github.com/MartinDelille/eleform) - A typeform clone
 - [videojs/videojs-contrib-eme](https://github.com/videojs/videojs-contrib-eme) - Supports Encrypted Media Extensions for playback of encrypted content in Video.js
-- [Trulive/clearkey-server](https://github.com/Trulive/clearkey-server) - 
+- [markanderstam/clearkey-server](https://github.com/markanderstam/clearkey-server) - 
 - [ybandou/MSE-EME-ClearKey](https://github.com/ybandou/MSE-EME-ClearKey) - A simple JS page to test EME (Encrypted Media Extensions) with ClearKey DRM using MSE (Media Source Extensions).
 - [gilded-email/tappy](https://github.com/gilded-email/tappy) - Set a price for your creative content
 - [sayem314/Caddy-X](https://github.com/sayem314/Caddy-X) - A tool for building Caddy web server with plugins
@@ -12075,6 +12118,7 @@
 
 ## p2p 
 
+- [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - :penguin: The immutable Linux meta-distribution for edge Kubernetes.
@@ -12131,7 +12175,7 @@
 - [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [pfultz2/cget](https://github.com/pfultz2/cget) - C++ package retrieval
-- [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
+- [cashapp/hermit](https://github.com/cashapp/hermit) - 🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [SanderMertens/bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
@@ -12580,6 +12624,8 @@
 
 ## powershell 
 
+- [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
+- [rsteube/carapace-spec](https://github.com/rsteube/carapace-spec) - define simple completions using a spec file
 - [JohnEricson/dotfiles](https://github.com/JohnEricson/dotfiles) - Personal config files for Bash, Windows PowerShell, PowerShell Core and Vim/Neovim. Works on Linux/Windows/WSL/Cygwin/Git Bash/VS Code Remote - Containers. Good cross platform configuration that works
 - [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -12706,6 +12752,7 @@
 
 ## programming-language 
 
+- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [felix-lang/felix](https://github.com/felix-lang/felix) - The Felix Programming Language
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
@@ -13310,6 +13357,8 @@
 
 ## react 
 
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [kriasoft/relay-starter-kit](https://github.com/kriasoft/relay-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, Material UI.
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
@@ -13869,7 +13918,7 @@
 - [wasmCloud/wash](https://github.com/wasmCloud/wash) - WAsmcloud SHell - the comprehensive command-line tool for wasmCloud development
 - [emattiza/template-wasmcloud](https://github.com/emattiza/template-wasmcloud) - A template for gitpod development w/ wasmcloud
 - [thangchung/webassembly-tour](https://github.com/thangchung/webassembly-tour) - ⚙️ Take you through a tour of WebAssembly (WASM targets on WASI) with wasmCloud, Krustlet, WAGI, etc. 🌟 Give it a star if you like it.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [pact-foundation/pact-plugins](https://github.com/pact-foundation/pact-plugins) - 🏰 Architecture to support Plugins 🔌 with Pact 🔗
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - Event sourcing runtime for wasm
@@ -14922,6 +14971,7 @@
 
 ## shell 
 
+- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [ajmalsiddiqui/autodot](https://github.com/ajmalsiddiqui/autodot) - A dotfile management system that makes sharing your dotfiles easy while keeping you in the loop.
 - [JohnEricson/dotfiles](https://github.com/JohnEricson/dotfiles) - Personal config files for Bash, Windows PowerShell, PowerShell Core and Vim/Neovim. Works on Linux/Windows/WSL/Cygwin/Git Bash/VS Code Remote - Containers. Good cross platform configuration that works
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
@@ -15797,6 +15847,13 @@
 
 ## typescript 
 
+- [pelotom/runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types
+- [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
+- [tjjfvi/subshape](https://github.com/tjjfvi/subshape) - composable shapes for cohesive code
+- [samchon/tstl](https://github.com/samchon/tstl) - TypeScript-STL (Standard Template Library, migrated from C++)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [jeroenouw/cgx](https://github.com/jeroenouw/cgx) - 💻🔥CLI to generate the recommended documentation/files to improve contribution (Github, Gitlab, CodeCommit and Bitbucket)
 - [oclif/plugin-warn-if-update-available](https://github.com/oclif/plugin-warn-if-update-available) - warn user if a new CLI version is available
@@ -15842,7 +15899,7 @@
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [4lessandrodev/types-ddd](https://github.com/4lessandrodev/types-ddd) - This package provide utils files and interfaces to assistant build a complex application with domain driving design.
 - [xolvio/typescript-event-sourcing](https://github.com/xolvio/typescript-event-sourcing) - Domain Driven Design, Event Sourcing & Command Query Responsibility Segregation with Typescript
 - [CodelyTV/typescript-ddd-skeleton](https://github.com/CodelyTV/typescript-ddd-skeleton) - 🔷✨ TypeScript DDD Skeleton: Bootstrap your new TypeScript applying following Hexagonal Architecture and Domain-Driven Design patterns
@@ -16789,6 +16846,7 @@
 
 ## webrtc 
 
+- [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
@@ -17001,6 +17059,8 @@
 
 ## zsh 
 
+- [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
+- [rsteube/carapace-spec](https://github.com/rsteube/carapace-spec) - define simple completions using a spec file
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
