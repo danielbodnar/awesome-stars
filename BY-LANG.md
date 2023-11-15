@@ -196,7 +196,6 @@
 - [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
-- [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) - Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.
 - [SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) - linux-kernel-exploits Linux平台提权漏洞集合
 - [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits   Windows平台提权漏洞集合
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
@@ -622,6 +621,9 @@
 
 ## Clojure 
 
+- [omcljs/om](https://github.com/omcljs/om) - ClojureScript interface to Facebook's React
+- [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
+- [flosell/lambdacd](https://github.com/flosell/lambdacd) - a library to define a continuous delivery pipeline in code
 - [babashka/nbb](https://github.com/babashka/nbb) - Scripting in Clojure on Node.js using SCI
 - [juji-io/datalevin](https://github.com/juji-io/datalevin) - A simple, fast and versatile Datalog database
 - [epiccastle/spire](https://github.com/epiccastle/spire) - pragmatic provisioning using clojure
@@ -668,6 +670,7 @@
 
 ## Dockerfile 
 
+- [denoland/deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu
 - [alertbox/devcontainers-try-bun](https://github.com/alertbox/devcontainers-try-bun) - Bun, all-in-one JS runtime and its prerequisites starter project template for use with VS Code Remote - Containers and GitHub Codespaces, ideal for Windows
 - [devfile/developer-images](https://github.com/devfile/developer-images) - Specification of containers images for developers
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
@@ -743,6 +746,10 @@
 
 ## Go 
 
+- [vitkovskii/insane-doc](https://github.com/vitkovskii/insane-doc) - Dynamically generates documentation right from your code. Experimental.
+- [ozontech/file.d](https://github.com/ozontech/file.d) - A blazing fast tool for building data pipelines: read, process and output events. Our community: https://t.me/file_d_community
+- [myntra/pipeline](https://github.com/myntra/pipeline) - Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output.
+- [shenwei356/rush](https://github.com/shenwei356/rush) - A cross-platform command-line tool for executing jobs in parallel
 - [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [kubecfg/kubecfg](https://github.com/kubecfg/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
@@ -1786,6 +1793,8 @@
 
 ## Groovy 
 
+- [wcm-io-devops/jenkins-pipeline-library](https://github.com/wcm-io-devops/jenkins-pipeline-library) - wcm.io Jenkins Pipeline Library for CI/CD
+- [oleg-nenashev/demo-jenkins-config-as-code](https://github.com/oleg-nenashev/demo-jenkins-config-as-code) - Demo of Jenkins Configuration-As-Code with Docker and Groovy Hook Scripts
 - [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) - A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin
 - [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
@@ -1817,6 +1826,7 @@
 
 ## HTML 
 
+- [pd3f/pd3f](https://github.com/pd3f/pd3f) - 🏭 PDF text extraction pipeline: self-hosted, local-first, Docker-based
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [nisheethjaiswal/Data-Annotator-for-SpaCy](https://github.com/nisheethjaiswal/Data-Annotator-for-SpaCy) - 🚀SpAnnor annotator for Named Entity Recognition easy to use tool. The annotator allows users to quickly assign custom labels to one or more entities in the text. Easy to setup for Data Training for Sp
 - [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
@@ -1954,6 +1964,8 @@
 
 ## Java 
 
+- [jenkinsci/pipeline-utility-steps-plugin](https://github.com/jenkinsci/pipeline-utility-steps-plugin) - Small, miscellaneous, cross platform utility steps for Jenkins Pipeline jobs.
+- [jenkinsci/ssh-steps-plugin](https://github.com/jenkinsci/ssh-steps-plugin) - Jenkins pipeline steps which provides SSH facilities such as command execution or file transfer for continuous delivery.
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 - [nysenate/OpenLegislation](https://github.com/nysenate/OpenLegislation) - OpenLegislation is a web service that delivers legislative information from the New York State Senate and Assembly to the public in near-real time.  It is used internally to serve up legislative data 
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -2021,6 +2033,10 @@
 
 ## JavaScript 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
+- [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase.
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [howardroark/pollinate](https://github.com/howardroark/pollinate) - Template your base files and generate new projects from Git(Hub).
@@ -2865,6 +2881,9 @@
 
 ## Others 
 
+- [bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops) - A curated collection of publicly available resources on how companies around the world practice DevOps
+- [octokit/authentication-strategies.js](https://github.com/octokit/authentication-strategies.js) - GitHub API authentication strategies for Browsers, Node.js, and Deno
+- [ssbostan/jenkins-tutorial](https://github.com/ssbostan/jenkins-tutorial) - The completest Jenkins tutorial, reference, awesome, examples
 - [refinedev/awesome-refine](https://github.com/refinedev/awesome-refine) - Carefully curated list of awesome refine resources 🍕
 - [iuricode/readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
@@ -3341,7 +3360,16 @@
 
 ## Python 
 
-- [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD)
+- [pypyr/pypyr](https://github.com/pypyr/pypyr) - pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
+- [jupyter-naas/naas](https://github.com/jupyter-naas/naas) - ⚙️ Schedule notebooks, run them like APIs, expose securely your assets: Jupyter as a viable ⚡️ Production environment
+- [ran-isenberg/aws-lambda-handler-cookbook](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) - This repository provides a working, deployable, open source-based, serverless service template with an AWS Lambda function and AWS CDK Python code with all the best practices and a complete CI/CD pipe
+- [Skyscanner/whispers](https://github.com/Skyscanner/whispers) - Identify hardcoded secrets in static structured text
+- [DataBiosphere/toil](https://github.com/DataBiosphere/toil) - A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.
+- [AxeldeRomblay/MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library.
+- [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
+- [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [vrmarcelino/MetaModels](https://github.com/vrmarcelino/MetaModels) - Scripts to analyse metagenome-wide metabolic models
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal, powered by OpenAI's GPT language models 💫
@@ -3959,6 +3987,7 @@
 
 ## R 
 
+- [ropensci/targets](https://github.com/ropensci/targets) - Function-oriented Make-like declarative workflows for R
 - [jefferislab/LHlibrary](https://github.com/jefferislab/LHlibrary) - A R Shiny app for sharing and viewing lateral horn data
 - [vdorie/bartCause](https://github.com/vdorie/bartCause) - Causal Inference using Bayesian Additive Regression Trees
 - [vdorie/npci](https://github.com/vdorie/npci) - Non-parametrics for Causal Inference
@@ -4039,6 +4068,7 @@
 
 ## Rust 
 
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [json-e/json-e](https://github.com/json-e/json-e) - A data-structure parameterization system written for embedding context in JSON objects
@@ -4583,6 +4613,8 @@
 
 ## Shell 
 
+- [nemonik/hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Packer, Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-C
+- [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
 - [score-spec/score-compose](https://github.com/score-spec/score-compose) - Reference implementation for docker-compose target platform support
 - [TravonteD/devc](https://github.com/TravonteD/devc) - A convenient cli wrapper around the devcontainer-cli
 - [asdf-vm/asdf-plugins](https://github.com/asdf-vm/asdf-plugins) - Convenience shortname repository for asdf community plugins
@@ -4946,7 +4978,7 @@
 
 ## Svelte 
 
-- [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions and tabs.
+- [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions, windows and tabs.
 - [mannprerak2/putaway](https://github.com/mannprerak2/putaway) - A chrome extension to save Tabs and Sessions as Bookmarks (Made with Svelte)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
@@ -4986,6 +5018,17 @@
 
 ## TypeScript 
 
+- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
+- [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
+- [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
+- [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
+- [earthstar-project/earthstar](https://github.com/earthstar-project/earthstar) - Storage for private, distributed, offline-first applications.
+- [sniptt-official/monads](https://github.com/sniptt-official/monads) - 👻 Option, Result, and Either types for TypeScript; Inspired by Rust
+- [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
+- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
+- [alibaba/pipcook](https://github.com/alibaba/pipcook) - Machine learning platform for Web developers
+- [garronej/tsafe](https://github.com/garronej/tsafe) - 🔩 The missing TypeScript utils
 - [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [badbatch/zod-config-builder](https://github.com/badbatch/zod-config-builder) - 
 - [seasonedcc/domain-functions](https://github.com/seasonedcc/domain-functions) - Decouple your business logic from your framework. With first-class type inference from end to end.
@@ -5102,7 +5145,7 @@
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript an
 - [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable Vue.js 3 Design Systems.
-- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a build tool.
+- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
@@ -5142,7 +5185,7 @@
 - [tinystacks/precloud](https://github.com/tinystacks/precloud) - An open source command line interface that runs checks on infrastructure as code to catch potential deployment issues before deploying.
 - [oxsecurity/codetotal](https://github.com/oxsecurity/codetotal) - Analyze any snippet, file, or repository to detect possible security flaws such as secret in code, open source vulnerability, code security, vulnerability, insecure infrastructure as code, and potenti
 - [dinivas/dinivas](https://github.com/dinivas/dinivas) - AWS, GCP alternative on premise. Dinivas manage your private Cloud (OpenStack) infrastructure by providing many features based on popular Open Source projects
-- [awslabs/smithy-typescript](https://github.com/awslabs/smithy-typescript) - Smithy code generators for TypeScript. (in development)
+- [smithy-lang/smithy-typescript](https://github.com/smithy-lang/smithy-typescript) - Smithy code generators for TypeScript. (in development)
 - [majian159/kubelemon](https://github.com/majian159/kubelemon) - People-oriented OAM(KubeVela) dashboard.
 - [JP1016/Markdown](https://github.com/JP1016/Markdown) - 📖Clean & Modern MarkDown Generator, 🔌Offline Support and Easy Generation of Markdown ⚡️⚛️ https://github.com/JP1016/Markdown-Electron/releases
 - [WorldBrain/storex](https://github.com/WorldBrain/storex) - Storex Core - A modular and portable database abstraction ecosystem for JavaScript
@@ -5314,7 +5357,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [dartungar/obsidian-mermaid](https://github.com/dartungar/obsidian-mermaid) - Tools for improved Mermaid.js experience in Obsidian.md
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [debut-js/Strategies](https://github.com/debut-js/Strategies) - Examples of trading strategies based on indicators. Pre-configured environment for working with the Debut algo-trading constructor. (Javascript)
 - [Leo4815162342/dukascopy-node](https://github.com/Leo4815162342/dukascopy-node) - ✨ Download historical price tick data for Crypto, Stocks, ETFs, CFDs, Forex via CLI and Node.js ✨
