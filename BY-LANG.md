@@ -615,6 +615,7 @@
 
 ## CUE 
 
+- [hofstadter-io/cuelm](https://github.com/hofstadter-io/cuelm) - Experiments with CUE on the quest to reimagine devops-ops.
 - [buildsec/frsca](https://github.com/buildsec/frsca) - 
 - [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev) - Flux local dev environment with Docker and Kubernetes KIND
 - [gilcrest/dbt-cue](https://github.com/gilcrest/dbt-cue) - Generate dbt yml files using the CUE language
@@ -819,7 +820,7 @@
 - [crumbhole/argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) - A plugin to make Argo CD behave like we'd like.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
 - [mdreizin/chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [solo-io/wasm](https://github.com/solo-io/wasm) - Web Assembly tools and SDKs for extending cloud-native infrastructure
@@ -2943,7 +2944,7 @@
 - [triggerdotdev/fly.io](https://github.com/triggerdotdev/fly.io) - Self-host Trigger.dev on Fly.io using this repository as a starting point
 - [DanielBodnar/awesome-nac](https://github.com/DanielBodnar/awesome-nac) - A curated list for awesome N-Acetylcysteine (N.A.C.) studies & sources
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
-- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
+- [TodePond/nDreamBerd](https://github.com/TodePond/nDreamBerd) - perfect programming language
 - [jobsort/jobsort](https://github.com/jobsort/jobsort) - Find Jobs in Top Startups
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [WebAssembly/proposals](https://github.com/WebAssembly/proposals) - Tracking WebAssembly proposals
@@ -4102,6 +4103,7 @@
 
 ## Rust 
 
+- [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) - A basic Command-Line Interface platform
 - [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use TRPC-like server for Rust.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
