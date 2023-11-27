@@ -749,6 +749,8 @@
 
 ## Go 
 
+- [SAP/jenkins-library](https://github.com/SAP/jenkins-library) - Jenkins shared library for Continuous Delivery pipelines.
+- [devstream-io/devstream](https://github.com/devstream-io/devstream) - DevStream: the open-source DevOps toolchain manager (DTM).
 - [c-bata/kube-prompt](https://github.com/c-bata/kube-prompt) - An interactive kubernetes client featuring auto-complete.
 - [suzuki-shunsuke/cmdx](https://github.com/suzuki-shunsuke/cmdx) - Task runner. It provides useful help messages and supports interactive prompts and validation of arguments
 - [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) - Tools to use with the controller-runtime libraries
@@ -1967,6 +1969,7 @@
 
 ## Haskell 
 
+- [second-state/witc](https://github.com/second-state/witc) - wasm-interface-types supplement & compiler of wasmedge
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [purescript/psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
@@ -2323,7 +2326,7 @@
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [openedx/paragon](https://github.com/openedx/paragon) - 💎 An accessible, theme-ready design system built for learning applications and Open edX.
 - [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
-- [typemill/typemill](https://github.com/typemill/typemill) - TYPEMILL is a simple and lightweight Flat-File-CMS for authors and publishers.
+- [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a lightweight, flat-file CMS designed for simple, fast, and flexible website and eBook creation using Markdown.
 - [qeeqbox/raven](https://github.com/qeeqbox/raven) - Advanced Cyber Threat Map (Simplified, customizable, responsive and optimized)
 - [InQuest/ThreatKB](https://github.com/InQuest/ThreatKB) - Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL) (ALPHA STATE AT THE MOMENT)
 - [apostrophecms/uploadfs](https://github.com/apostrophecms/uploadfs) - Store files in a web-accessible location. Includes S3, Azure, and local filesystem-based backends. Can also scale and autorotate image files. Additional storage and image-processing backends are easy 
@@ -4103,6 +4106,11 @@
 
 ## Rust 
 
+- [wasix-org/wasix-witx](https://github.com/wasix-org/wasix-witx) - WebAssembly System Interface
+- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
+- [dfinity/ic](https://github.com/dfinity/ic) - Internet Computer blockchain source: the client/replica software run by nodes
+- [gear-tech/gear](https://github.com/gear-tech/gear) - Web3 Ultimate Execution Engine
+- [wasmerio/vscode-wasm](https://github.com/wasmerio/vscode-wasm) - WebAssembly extension for VSCode
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) - A basic Command-Line Interface platform
 - [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use TRPC-like server for Rust.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -4178,7 +4186,7 @@
 - [SkuldNorniern/fluere](https://github.com/SkuldNorniern/fluere) - Fluere is a powerful and versatile tool designed for network monitoring and analysis. It is capable of capturing network packets in pcap format and converting them into NetFlow data, providing a compr
 - [http-sense/http-sense](https://github.com/http-sense/http-sense) - When your network-sense tingles 🚨
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and a lot More From Text
-- [DDtKey/actix-web-grants](https://github.com/DDtKey/actix-web-grants) - Authorization extension for actix-web to validate user permissions
+- [DDtKey/protect-endpoints](https://github.com/DDtKey/protect-endpoints) - Authorization extension for popular web-frameworks to protect your endpoints
 - [SitinCloud/Owlyshield](https://github.com/SitinCloud/Owlyshield) - Owlyshield is an EDR framework designed to safeguard vulnerable applications from potential exploitation (C&C, exfiltration and impact).
 - [microsoft/avml](https://github.com/microsoft/avml) - AVML - Acquire Volatile Memory for Linux
 - [mozilla/authenticator-rs](https://github.com/mozilla/authenticator-rs) - Rust library to interact with Security Keys, used by Firefox
@@ -4565,7 +4573,7 @@
 - [dpc/rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [rust-cli/rexpect](https://github.com/rust-cli/rexpect) - Rust port of pexpect
-- [conradkleinespel/rooster](https://github.com/conradkleinespel/rooster) - A simple password manager.
+- [conradkleinespel/rooster](https://github.com/conradkleinespel/rooster) - A simple password manager for Windows, MacOS and Linux.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -4652,6 +4660,7 @@
 
 ## Shell 
 
+- [second-state/wasmedge-containers-examples](https://github.com/second-state/wasmedge-containers-examples) - 
 - [hamvocke/lnks](https://github.com/hamvocke/lnks) - Browser bookmarks for your command line
 - [kosalanuwan/devcontainers](https://github.com/kosalanuwan/devcontainers) - Development containers for VS Code extension Remote - Containers
 - [ecshreve/dev-env](https://github.com/ecshreve/dev-env) - docker based development environment
@@ -5374,7 +5383,7 @@
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
-- [churichard/notabase](https://github.com/churichard/notabase) - A second brain for all your knowledge, thoughts, and ideas.
+- [churichard/notabase](https://github.com/churichard/notabase) - A second brain for your knowledge, thoughts, and ideas.
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [inlang/monorepo](https://github.com/inlang/monorepo) - globalization infrastructure for software && version control for apps
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
