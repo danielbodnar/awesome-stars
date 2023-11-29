@@ -666,6 +666,13 @@
 
 ## Dhall 
 
+- [mjgpy3/iam-dhall](https://github.com/mjgpy3/iam-dhall) - Create IAM policies using dhall
+- [softwarefactory-project/dhall-containerfile](https://github.com/softwarefactory-project/dhall-containerfile) - Manage your Containerfile with Dhall.
+- [sbdchd/dhall-docker-compose](https://github.com/sbdchd/dhall-docker-compose) - :dash: A library for writing Docker Compose files in Dhall.
+- [mujx/dhall-terraform](https://github.com/mujx/dhall-terraform) - Generate dhall records from terraform resouces, data_sources & providers
+- [EarnestResearch/dhall-packages](https://github.com/EarnestResearch/dhall-packages) - Collection of dhall packages
+- [regadas/github-actions-dhall](https://github.com/regadas/github-actions-dhall) - Typecheck, template and modularize your Github Action definitions with Dhall
+- [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell) - Maintainable configuration files
 - [dhall-lang/dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) - Typecheck, template and modularize your Kubernetes definitions with Dhall
 - [softwarefactory-project/dhall-ansible](https://github.com/softwarefactory-project/dhall-ansible) - Ansible definitions with Dhall
 - [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
@@ -749,6 +756,22 @@
 
 ## Go 
 
+- [recode-sh/cli](https://github.com/recode-sh/cli) - A CLI to create remote development environments in your cloud provider account in seconds
+- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
+- [mkideal/cli](https://github.com/mkideal/cli) - CLI - A package for building command line app with go
+- [mattn/echo-scaffold](https://github.com/mattn/echo-scaffold) - Echo scaffold is CLI to generate scaffolds for the echo framework.
+- [aerogear/charmil](https://github.com/aerogear/charmil) - The framework for building modular plugin based CLI's using Cobra and Golang
+- [hidevopsio/hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web and cli application framework with dependency injection support
+- [saschagrunert/demo](https://github.com/saschagrunert/demo) - A framework for performing live pre-recorded command line demos in the wild 📼
+- [tj/go-tea](https://github.com/tj/go-tea) - Tea provides an Elm inspired functional framework for interactive command-line programs.
+- [airshipit/airshipctl](https://github.com/airshipit/airshipctl) - A CLI for managing declarative infrastructure.
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+- [bbkane/warg](https://github.com/bbkane/warg) - Declarative and Intuitive Command Line Apps with Go
+- [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+- [buildpacks/lifecycle](https://github.com/buildpacks/lifecycle) - Reference implementation of the Cloud Native Buildpacks lifecycle
+- [carvel-dev/vendir](https://github.com/carvel-dev/vendir) - Easy way to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively
+- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language and expression evaluation for Go
+- [jetpack-io/tyson](https://github.com/jetpack-io/tyson) - 🥊  TypeScript as a Configuration Language. TySON stands for TypeScript Object Notation
 - [carvel-dev/kbld](https://github.com/carvel-dev/kbld) - kbld seamlessly incorporates image building and image pushing into your development and deployment workflows
 - [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
 - [kubernetes-sigs/application](https://github.com/kubernetes-sigs/application) - Application metadata descriptor CRD
@@ -1852,6 +1875,7 @@
 
 ## HTML 
 
+- [nut-project/nut](https://github.com/nut-project/nut) - 🌰 A framework born for micro frontends
 - [pd3f/pd3f](https://github.com/pd3f/pd3f) - 🏭 PDF text extraction pipeline: self-hosted, local-first, Docker-based
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [nisheethjaiswal/Data-Annotator-for-SpaCy](https://github.com/nisheethjaiswal/Data-Annotator-for-SpaCy) - 🚀SpAnnor annotator for Named Entity Recognition easy to use tool. The annotator allows users to quickly assign custom labels to one or more entities in the text. Easy to setup for Data Training for Sp
@@ -1974,6 +1998,9 @@
 
 ## Haskell 
 
+- [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
+- [imalsogreg/dhallia](https://github.com/imalsogreg/dhallia) - Dhall-configured inductive API definitions
+- [jcouyang/dhall-aws-cloudformation](https://github.com/jcouyang/dhall-aws-cloudformation) - Typecheck, template and modularize your AWS CloudFormation with Dhall
 - [second-state/witc](https://github.com/second-state/witc) - wasm-interface-types supplement & compiler of wasmedge
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [purescript/psc-package](https://github.com/purescript/psc-package) - A package manager for PureScript based on package sets
@@ -2063,6 +2090,9 @@
 
 ## JavaScript 
 
+- [update/update](https://github.com/update/update) - Update is a new developer framework and CLI for automating updates of any kind in code projects. If you know how to use assemble, generate or verb, you'll know how to use update.
+- [remake/remake-framework](https://github.com/remake/remake-framework) - Remake framework used by the Remake CLI to generate new projects
+- [dword-design/make-cli](https://github.com/dword-design/make-cli) - Super easy declarative CLI framework with a single configuration object and a single function call.
 - [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods
 - [Eileen-Yu/kb-js-plugin](https://github.com/Eileen-Yu/kb-js-plugin) - A sample external plugin for kubebuilder in JavaScript.
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
@@ -2296,7 +2326,7 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [anandanand84/technicalindicators](https://github.com/anandanand84/technicalindicators) - A javascript technical indicators written in typescript with pattern recognition right in the browser
 - [Cloud9Trader/TechnicalIndicators](https://github.com/Cloud9Trader/TechnicalIndicators) - Technical Indicators scripts for use in Cloud9Trader charts and trading algorithms
-- [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API) - 📈 Get real-time stocks from Tradingview
+- [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API) - 📈 Get real-time stocks from TradingView
 - [eContriver/finance](https://github.com/eContriver/finance) - This project facilitates trying different buy and sell strategies for stock and crypto currencies. There are also scripts that provide different types of security analysis. Both technical analysis and
 - [lee-steven/foodify](https://github.com/lee-steven/foodify) - 🌱 Web app for keeping track of expiring grocery items and searching recipes based on ingredients that you have - built with React and Node.js
 - [PLNech/MenuGen](https://github.com/PLNech/MenuGen) - An intelligent generator of well-balanced meals.
@@ -2736,6 +2766,7 @@
 
 ## Jinja 
 
+- [redhat-openstack/infrared](https://github.com/redhat-openstack/infrared) - Plugin based framework that aims to provide an easy-to-use CLI for Ansible based projects
 - [theautomation/infrastructure](https://github.com/theautomation/infrastructure) - Configuration, scripts, Ansible playbooks and information to set up the basic and essential components of my infrastructure like proxmox cluster and kubernetes cluster.
 - [packit/deployment](https://github.com/packit/deployment) - Ansible playbooks and scripts for deploying packit-service to OpenShift
 - [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more
@@ -2893,6 +2924,7 @@
 
 ## Nix 
 
+- [justinwoo/easy-dhall-nix](https://github.com/justinwoo/easy-dhall-nix) - Derivations for easily downloading Dhall binaries and putting them to use.
 - [jmgilman/nix-cue](https://github.com/jmgilman/nix-cue) - Validate and generate configuration files using Nix and Cue
 - [lucernae/devcontainer-nix](https://github.com/lucernae/devcontainer-nix) - VSCode devcontainer for Nix
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
@@ -2926,6 +2958,8 @@
 
 ## Others 
 
+- [Gabriella439/dhall-manual](https://github.com/Gabriella439/dhall-manual) - The Dhall Configuration Language Manual
+- [dhall-lang/awesome-dhall](https://github.com/dhall-lang/awesome-dhall) - A curated list of awesome dhall-lang
 - [asyncapi/bindings](https://github.com/asyncapi/bindings) - AsyncAPI bindings specifications
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [bregman-arie/howtheydevops](https://github.com/bregman-arie/howtheydevops) - A curated collection of publicly available resources on how companies around the world practice DevOps
@@ -3404,6 +3438,14 @@
 
 ## Python 
 
+- [python-poetry/cleo](https://github.com/python-poetry/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
+- [honoki/bbrf-client](https://github.com/honoki/bbrf-client) - The Bug Bounty Reconnaissance Framework (BBRF) can help you coordinate your reconnaissance workflows across multiple devices
+- [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring supporting 100s of services and evaluations to harden your CSP & 
+- [woile/decli](https://github.com/woile/decli) - :computer: Minimal, easy to use, declarative command line interface tool
+- [grow/grow](https://github.com/grow/grow) - A declarative website generator designed for high-quality websites, with a focus on easy maintenance and localization.
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
+- [SupraSummus/dhall-python](https://github.com/SupraSummus/dhall-python) - Work in progress pure python dhall interpreter
 - [microsoft/Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -4062,6 +4104,7 @@
 
 ## Ruby 
 
+- [timbertson/dhall-render](https://github.com/timbertson/dhall-render) - Render multiple files from dhall expressions
 - [mizzy/serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -4116,6 +4159,14 @@
 
 ## Rust 
 
+- [replydev/cotp](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
+- [ksk001100/seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
+- [wena-cli/wena](https://github.com/wena-cli/wena) - Wena is a micro-framework that provides an elegant starting point for your console application.
+- [denisidoro/docpars](https://github.com/denisidoro/docpars) - An ultra-fast parser for declarative command-line options for your shell scripts.
+- [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible
+- [ahdinosaur/rimu](https://github.com/ahdinosaur/rimu) - Template language for structured data: functional YAML 🌱
+- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [Nadrieril/dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [wasix-org/wasix-witx](https://github.com/wasix-org/wasix-witx) - WebAssembly System Interface
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
 - [dfinity/ic](https://github.com/dfinity/ic) - Internet Computer blockchain source: the client/replica software run by nodes
@@ -4416,7 +4467,7 @@
 - [kudelskisecurity/oramfs](https://github.com/kudelskisecurity/oramfs) - Resizable ORAM, remote storage agnostic, written in Rust
 - [sassman/srp6-rs](https://github.com/sassman/srp6-rs) - A safe implementation of the secure remote password authentication and key-exchange protocol (SRP and SRP6a)
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Distributed stream processing runtime built with Rust & Web Assembly. Cloud Native, Edge Ready, Unified, Composable, Declarative, Stateful data streaming for building asynchronous data flows.
 - [fluencelabs/nox](https://github.com/fluencelabs/nox) - Rust implementation of the Fluence network peer
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
@@ -4670,6 +4721,8 @@
 
 ## Shell 
 
+- [unfor19/bargs](https://github.com/unfor19/bargs) - A framework for creating a Bash CLI application.
+- [JamesClonk/k8s-infrastructure](https://github.com/JamesClonk/k8s-infrastructure) - K8s infrastructure repository
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [xetys/kubernetes-coreos-baremetal](https://github.com/xetys/kubernetes-coreos-baremetal) - A bundle of bash scripts which generate TLS and cloud-config for kubernetes bare-metal setup
 - [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
@@ -5097,6 +5150,18 @@
 
 ## TypeScript 
 
+- [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
+- [fabiospampinato/tiny-bin](https://github.com/fabiospampinato/tiny-bin) - A library for building tiny and beautiful command line apps.
+- [mitre/saf](https://github.com/mitre/saf) - The MITRE Security Automation Framework (SAF) Command Line Interface (CLI) brings together applications, techniques, libraries, and tools developed by MITRE and the security community to streamline se
+- [adonisjs/ace](https://github.com/adonisjs/ace) - Node.js framework for creating command line applications
+- [joiful-ts/joiful](https://github.com/joiful-ts/joiful) - TypeScript Declarative Validation for Joi
+- [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
+- [activeviam/execli](https://github.com/activeviam/execli) - Genenerate task running CLIs declaratively
+- [Odi-ts/odi](https://github.com/Odi-ts/odi) - 🌪🌌 Opinionated, Declarative, Idiomatic framework for building scalable, supportable and reliable enterprise applications.
+- [keichi/binary-parser](https://github.com/keichi/binary-parser) - A blazing-fast declarative parser builder for binary data
+- [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - TypeScript/ES7 Decorators to create Vuex modules declaratively
+- [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
+- [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [anxiousmodernman/deno-kube](https://github.com/anxiousmodernman/deno-kube) - trying to generate a k8s client for deno
 - [cloudydeno/deno-kubernetes_apis](https://github.com/cloudydeno/deno-kubernetes_apis) - REST focused Typescript classes for Kubernetes APIs, and tools for generating API interfaces
 - [Himenon/kubernetes-template](https://github.com/Himenon/kubernetes-template) - Kubernetes Template: Generated By TypeScript
@@ -5159,7 +5224,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [oclif/plugin-plugins](https://github.com/oclif/plugin-plugins) - plugins plugin for oclif
 - [asyncapi/parser-js](https://github.com/asyncapi/parser-js) - AsyncAPI parser for Javascript (browser-compatible too).
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
@@ -5505,7 +5570,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [dartungar/obsidian-mermaid](https://github.com/dartungar/obsidian-mermaid) - Tools for improved Mermaid.js experience in Obsidian.md
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your dumped files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [debut-js/Strategies](https://github.com/debut-js/Strategies) - Examples of trading strategies based on indicators. Pre-configured environment for working with the Debut algo-trading constructor. (Javascript)
 - [Leo4815162342/dukascopy-node](https://github.com/Leo4815162342/dukascopy-node) - ✨ Download historical price tick data for Crypto, Stocks, ETFs, CFDs, Forex via CLI and Node.js ✨
