@@ -770,6 +770,7 @@
 
 ## Go 
 
+- [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
 - [acorn-io/cmd](https://github.com/acorn-io/cmd) - Simple Cobra CLI Wrapper
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
@@ -1076,7 +1077,7 @@
 - [bunnyshell/cli](https://github.com/bunnyshell/cli) - The official command line interface for the Bunnyshell API.
 - [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc.
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
-- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
+- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate CLI is an open-source Infrastructure as Code (IaC) orchestration tool for Terraform, OpenTofu, Terragrunt, Kubernetes, Pulumi, Cloud Formation, CDK, Azure Resource Manager (ARM), and others.
 - [JamesWoolfenden/sato](https://github.com/JamesWoolfenden/sato) - Sato converts ARM or CFN into Terraform
 - [JamesWoolfenden/pike](https://github.com/JamesWoolfenden/pike) - Pike is a tool for determining the permissions or policy required for IAC code
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
@@ -2846,6 +2847,7 @@
 
 ## Jinja 
 
+- [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
 - [rosineygp/mkdkr_exporter](https://github.com/rosineygp/mkdkr_exporter) - export mkdkr to another pipeline engine
 - [redhat-openstack/infrared](https://github.com/redhat-openstack/infrared) - Plugin based framework that aims to provide an easy-to-use CLI for Ansible based projects
 - [theautomation/infrastructure](https://github.com/theautomation/infrastructure) - Configuration, scripts, Ansible playbooks and information to set up the basic and essential components of my infrastructure like proxmox cluster and kubernetes cluster.
@@ -3049,6 +3051,7 @@
 
 ## Others 
 
+- [DanielBodnar/awesome-stars](https://github.com/DanielBodnar/awesome-stars) - 
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terraform automation for teams. Purpose-built for GitHub.
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
@@ -4851,6 +4854,7 @@
 
 ## Shell 
 
+- [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso) - Athena OS is an Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
