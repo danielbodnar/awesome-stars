@@ -664,7 +664,7 @@
 
 ## Dart 
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2062,6 +2062,7 @@
 
 ## Java 
 
+- [testcontainers/tc-guide-simple-local-development-with-testcontainers-desktop](https://github.com/testcontainers/tc-guide-simple-local-development-with-testcontainers-desktop) - Simple local development with Testcontainers Desktop guide
 - [adr/e-adr](https://github.com/adr/e-adr) - Architectural Decisions Records embedded in Java code
 - [metio/ilo](https://github.com/metio/ilo) - manage reproducible build environments
 - [jenkinsci/declarative-pipeline-migration-assistant-plugin](https://github.com/jenkinsci/declarative-pipeline-migration-assistant-plugin) - Declarative Pipeline Migration Assistant
@@ -2135,6 +2136,7 @@
 
 ## JavaScript 
 
+- [osdevisnot/klap](https://github.com/osdevisnot/klap) - zero config, zero dependency bundler for tiny javascript packages
 - [asyncapi/spec-json-schemas](https://github.com/asyncapi/spec-json-schemas) - AsyncAPI schema versions
 - [InterstellarNetwork/Interstellar](https://github.com/InterstellarNetwork/Interstellar) - Interstellar is one of the best proxies with blazing fast speeds and tons of games.
 - [rviscomi/capo.js](https://github.com/rviscomi/capo.js) - Get your &lt;head&gt; in order
@@ -2923,6 +2925,7 @@
 
 ## Kotlin 
 
+- [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
 - [arunkumar9t2/scabbard](https://github.com/arunkumar9t2/scabbard) - 🗡 A tool to visualize Dagger 2 dependency graphs
 - [kirmanak/Mealient](https://github.com/kirmanak/Mealient) - An Android client for a self-hosted recipe manager Mealie.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -3050,6 +3053,8 @@
 
 ## Others 
 
+- [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
+- [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [DanielBodnar/awesome-stars](https://github.com/DanielBodnar/awesome-stars) - 
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terraform automation for teams. Purpose-built for GitHub.
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
@@ -3546,6 +3551,9 @@
 
 ## Python 
 
+- [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
+- [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
+- [autotest/autotest](https://github.com/autotest/autotest) - Autotest - Fully automated tests on Linux
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [nathro/AutoTransform](https://github.com/nathro/AutoTransform) - AutoTransform is a framework for large-scale, automated code modification in a production environment.
@@ -4771,7 +4779,7 @@
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
@@ -4811,6 +4819,7 @@
 
 ## SCSS 
 
+- [avocado-framework/avocado-framework.github.io](https://github.com/avocado-framework/avocado-framework.github.io) - Avocado Website
 - [devopsbookmarks/devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) - Website of devopsbookmarks.com
 - [cnabio/cnab.io](https://github.com/cnabio/cnab.io) - A simple website introducing the CNAB project.
 - [foambubble/foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
@@ -4853,6 +4862,9 @@
 
 ## Shell 
 
+- [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+- [mattmc3/ztap](https://github.com/mattmc3/ztap) - An implementation of the Test Anything Protocol for unit testing Zsh using pure Zsh
+- [tapper/Tapper-autoreport](https://github.com/tapper/Tapper-autoreport) - Tapper - turn your bash scripts into TAP test scripts (with optional Tapper support)
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso) - Athena OS is an Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -5276,6 +5288,7 @@
 
 ## Swift 
 
+- [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [yonaskolb/Genesis](https://github.com/yonaskolb/Genesis) - Templating, scaffolding and generation tool
 - [home-assistant/Iconic](https://github.com/home-assistant/Iconic) - :art: Auto-generated icon font library for iOS, watchOS and tvOS
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing remote tech interviews with AI
@@ -5767,7 +5780,7 @@
 - [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter) - ⚡️ Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.
 - [jkytoela/next-startd](https://github.com/jkytoela/next-startd) - ⚡ Free Next.js landing page template for SaaS products, online services and more.
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 13 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
-- [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi) - 💰 Effortlessly Track and Manage your expenses.
+- [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi) - Effortlessly track and manage Expenses by track expenses on-the-go with categorization and logging.
 - [rphlmr/supa-fly-stack](https://github.com/rphlmr/supa-fly-stack) - The Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.
 - [StaticJsCMS/static-cms](https://github.com/StaticJsCMS/static-cms) - A Git-based CMS for Static Site Generators
 - [Sandpack/nodebox-runtime](https://github.com/Sandpack/nodebox-runtime) - Nodebox is a runtime for executing Node.js modules in the browser.
