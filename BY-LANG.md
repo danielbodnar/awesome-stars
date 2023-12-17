@@ -772,6 +772,7 @@
 
 ## Go 
 
+- [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
 - [matryer/silk](https://github.com/matryer/silk) - Markdown based document-driven RESTful API testing.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -2141,6 +2142,7 @@
 
 ## JavaScript 
 
+- [jsreport/jsreport](https://github.com/jsreport/jsreport) - javascript based business reporting platform :rocket:
 - [istanbuljs/nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [ladjs/lad](https://github.com/ladjs/lad) - Node.js framework made by a former @expressjs TC and @koajs team member. Built for @forwardemail, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
@@ -4557,7 +4559,7 @@
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [khonsulabs/bonsaidb](https://github.com/khonsulabs/bonsaidb) - A developer-friendly document database that grows with you, written in Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
-- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)
 - [untitaker/mysteryshack](https://github.com/untitaker/mysteryshack) - A remoteStorage-server
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [itsManjeet/rlxnix](https://github.com/itsManjeet/rlxnix) - a experimental monolithic kernel in rust
