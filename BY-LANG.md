@@ -141,6 +141,8 @@
 
 ## C 
 
+- [openziti/ziti-sdk-c](https://github.com/openziti/ziti-sdk-c) - A C-based sdk for delivering secure applications over a Ziti Network
+- [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
 - [Moddable-OpenSource/moddable](https://github.com/Moddable-OpenSource/moddable) - Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.
 - [google/security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
@@ -378,6 +380,8 @@
 
 ## C# # 
 
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [microsoft/hack-together-teams](https://github.com/microsoft/hack-together-teams) - HackTogether: The Microsoft Teams Global Hack | Register, Hack, Win 👇
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [appget/appget](https://github.com/appget/appget) - Free and open package manager for Windows.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -420,6 +424,12 @@
 
 ## C++ 
 
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+- [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+- [manishbisht/Competitive-Programming](https://github.com/manishbisht/Competitive-Programming) - :pushpin: :books: Solution of competitive programming problems, code templates, Data Structures and Algorithms, hackathons, interviews and much more.
+- [epsilla-cloud/vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at https://cloud.epsilla.com/
+- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 - [jeromedockes/labelbuddy](https://github.com/jeromedockes/labelbuddy) - Text labelling desktop application
 - [unum-cloud/ustore](https://github.com/unum-cloud/ustore) - Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
@@ -578,6 +588,7 @@
 
 ## CSS 
 
+- [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [mapbox/assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
@@ -646,6 +657,7 @@
 
 ## Common Lisp 
 
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [vydd/sketch](https://github.com/vydd/sketch) - A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
 
 ## Crystal 
@@ -743,6 +755,7 @@
 
 ## Elm 
 
+- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Next-Gen ERD: Design, Explore, Document and Analyze your database
 - [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
 - [gkubisa/elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) - Base project for Elm applications
 
@@ -772,6 +785,20 @@
 
 ## Go 
 
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
+- [grafana/xk6-browser](https://github.com/grafana/xk6-browser) - k6 extension that adds support for browser automation and end-to-end web testing via the Chrome Devtools Protocol
+- [h2non/baloo](https://github.com/h2non/baloo) - Expressive end-to-end HTTP API testing made easy in Go
+- [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
+- [quicsec/quicsec](https://github.com/quicsec/quicsec) - HTTP/3-enable existing HTTP apps. Add runtime plugins for workload identity, mTLS, and metrics/logs
+- [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications.
+- [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault) - Integrates Spiffe and Vault to have secretless authentication
+- [openziti/edge](https://github.com/openziti/edge) - Application-embedded connectivity and zero-trust components
+- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
+- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
+- [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
 - [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
 - [matryer/silk](https://github.com/matryer/silk) - Markdown based document-driven RESTful API testing.
@@ -1896,6 +1923,7 @@
 
 ## HCL 
 
+- [hrshmistry/Cloud-Automation-Terraform](https://github.com/hrshmistry/Cloud-Automation-Terraform) - End To End AWS Cloud Infrastructure Automation Through Terraform by HashiCorp
 - [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem
 - [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -1920,6 +1948,8 @@
 
 ## HTML 
 
+- [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
+- [github/hackathons](https://github.com/github/hackathons) - Tips, Tricks, and Resources for running your hackathon.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [titaniumnetwork-dev/Ultraviolet-Static](https://github.com/titaniumnetwork-dev/Ultraviolet-Static) - Frontend for the example Ultraviolet-Node repository
@@ -2068,6 +2098,7 @@
 
 ## Java 
 
+- [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
 - [testcontainers/tc-guide-simple-local-development-with-testcontainers-desktop](https://github.com/testcontainers/tc-guide-simple-local-development-with-testcontainers-desktop) - Simple local development with Testcontainers Desktop guide
 - [adr/e-adr](https://github.com/adr/e-adr) - Architectural Decisions Records embedded in Java code
 - [metio/ilo](https://github.com/metio/ilo) - manage reproducible build environments
@@ -2142,6 +2173,50 @@
 
 ## JavaScript 
 
+- [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
+- [pactumjs/pactum](https://github.com/pactumjs/pactum) - REST API Testing Tool for all levels in a Test Pyramid
+- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
+- [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+- [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
+- [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [GoogleChromeLabs/pptraas.com](https://github.com/GoogleChromeLabs/pptraas.com) - Puppeteer as a service
+- [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
+- [A9T9/RPA](https://github.com/A9T9/RPA) - UI.Vision: Open-Source RPA Software (formerly Kantu) - Modern Robotic Process Automation with Selenium IDE++
+- [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
+- [aimeos/aimeos-headless](https://github.com/aimeos/aimeos-headless) - Aimeos cloud-native, API-first ecommerce headless distribution for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
+- [APIDevTools/swagger-parser](https://github.com/APIDevTools/swagger-parser) - Swagger 2.0 and OpenAPI 3.0 parser/validator
+- [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
+- [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
+- [diegohaz/schm](https://github.com/diegohaz/schm) - Composable schemas for JavaScript and Node.js
+- [icebob/fastest-validator](https://github.com/icebob/fastest-validator) - :zap: The fastest JS validator library for NodeJS
+- [pattern-lab/patternlab-node](https://github.com/pattern-lab/patternlab-node) - The Node version of Pattern Lab
+- [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
+- [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
+- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content your browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
+- [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
+- [mikeerickson/validatorjs](https://github.com/mikeerickson/validatorjs) - A data validation library in JavaScript for the browser and Node.js,  inspired by Laravel's Validator.
+- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
+- [amandakelake/blog](https://github.com/amandakelake/blog) - think more！learn more!
+- [schmich/marinara](https://github.com/schmich/marinara) - Pomodoro® time management assistant for Chrome
+- [franciscop/brownies](https://github.com/franciscop/brownies) - 🍫 Tastier cookies, local, session, and db storage in a tiny package. Includes subscribe() events for changes.
+- [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
+- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+- [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
+- [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
+- [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
+- [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [Surajv311/one4All](https://github.com/Surajv311/one4All) - This repository consists of tech resources and opportunities which could be useful for students interested in computer science. It also hosts non-tech sources which could be useful for anyone.🔥💻👨‍🎓
+- [techx/quill](https://github.com/techx/quill) - 📝 Registration, for hackathons!
+- [osmoscraft/tundra](https://github.com/osmoscraft/tundra) - Where knowledge grows.
+- [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
+- [BruceMacD/chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
 - [jsreport/jsreport](https://github.com/jsreport/jsreport) - javascript based business reporting platform :rocket:
 - [istanbuljs/nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [ladjs/lad](https://github.com/ladjs/lad) - Node.js framework made by a former @expressjs TC and @koajs team member. Built for @forwardemail, @spamscanner, @breejs, @cabinjs, and @lassjs.
@@ -2334,7 +2409,7 @@
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [gullwing-io/bookworms](https://github.com/gullwing-io/bookworms) - A CLI tool for centralising and generating bookmarks
-- [nuejs/nue](https://github.com/nuejs/nue) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
+- [nuejs/nue](https://github.com/nuejs/nue) - The closer-to-standards web framework. Simple alternative to Next.js and Astro.
 - [yjs/yjs-demos](https://github.com/yjs/yjs-demos) - A collection of demos for Yjs
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -2894,6 +2969,9 @@
 
 ## Jupyter Notebook 
 
+- [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction from documents with ML
+- [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
@@ -3069,6 +3147,21 @@
 
 ## Others 
 
+- [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
+- [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
+- [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
+- [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.
+- [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+- [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
+- [costinEEST/almanacs](https://github.com/costinEEST/almanacs) - Search through the recipes
+- [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) - This is a curated list of amazing hackathon projects
+- [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
+- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
+- [rasulkireev/awesome-basb](https://github.com/rasulkireev/awesome-basb) - A curated list of resource for Building a Second Brain.
+- [jxzhangjhu/Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) - Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models
+- [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - A complete guide to start and improve your LLM skills in 2023 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
 - [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
@@ -3451,6 +3544,7 @@
 
 ## PHP 
 
+- [TYPO3-Headless/headless](https://github.com/TYPO3-Headless/headless) - TYPO3 Headless JSON API providing content for PWA application (e.g. javaScript apps like nuxt-typo3)
 - [spatie/schema-org](https://github.com/spatie/schema-org) - A fluent builder Schema.org types and ld+json generator
 - [dotenv-org/examples](https://github.com/dotenv-org/examples) - 🪜 Examples of using dotenv with various frameworks
 - [ohdearapp/ohdear-cli](https://github.com/ohdearapp/ohdear-cli) - The official Oh Dear CLI
@@ -3570,6 +3664,35 @@
 
 ## Python 
 
+- [atc-project/atomic-threat-coverage](https://github.com/atc-project/atomic-threat-coverage) - Actionable analytics designed to combat threats
+- [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
+- [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
+- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
+- [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
+- [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
+- [23andMe/Yamale](https://github.com/23andMe/Yamale) - A schema and validator for YAML.
+- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
+- [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
+- [entitleio/beam](https://github.com/entitleio/beam) - AWS SSM made easy
+- [ssbostan/tondra](https://github.com/ssbostan/tondra) - Continuous Development on Kubernetes environments with Skaffold
+- [TranscryptOrg/Transcrypt](https://github.com/TranscryptOrg/Transcrypt) - Python 3.9 to JavaScript compiler - Lean, fast, open! -
+- [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.
+- [flepied/second-brain-agent](https://github.com/flepied/second-brain-agent) - 🧠 Second Brain AI agent
+- [Lin-jun-xiang/docGPT-langchain](https://github.com/Lin-jun-xiang/docGPT-langchain) - 🔐Free GPT-3.5 chat with your docs (PDF, WORD, CSV, TXT)
+- [Quansight/ragna](https://github.com/Quansight/ragna) - RAG orchestration framework ⛵️
+- [pinecone-io/canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
+- [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
+- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
+- [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) - LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines.
+- [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+- [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
+- [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data.
 - [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - 
@@ -4255,6 +4378,7 @@
 
 ## Ruby 
 
+- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [timbertson/dhall-render](https://github.com/timbertson/dhall-render) - Render multiple files from dhall expressions
 - [mizzy/serverspec](https://github.com/mizzy/serverspec) - RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
@@ -4310,6 +4434,11 @@
 
 ## Rust 
 
+- [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
+- [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
+- [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+- [oasysai/oasysdb](https://github.com/oasysai/oasysdb) - An AI-native lightweight, reliable, and high performance open-source vector database.
 - [ezesundayeze/dioxus-todo](https://github.com/ezesundayeze/dioxus-todo) - A Dioxus Todo application sample
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
@@ -4886,6 +5015,9 @@
 
 ## Shell 
 
+- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
+- [dosyago/chai](https://github.com/dosyago/chai) - chai - Experience Zero Trust security with Chai! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security! 🌈
+- [noob-hackers/m-wiz](https://github.com/noob-hackers/m-wiz) - Install Metasploit And Repair Metasploit In Termux With Easy Steps
 - [pgrange/bash_unit](https://github.com/pgrange/bash_unit) - bash unit testing enterprise edition framework for professionals
 - [realeroberto/bashlets](https://github.com/realeroberto/bashlets) - An experiment in extending the command-line interface.
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) - Statically-linked, hermetic, relocatable Zsh
@@ -5341,6 +5473,43 @@
 
 ## TypeScript 
 
+- [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever) - Bookmarks, Snippets and Notes Manager for Developers & Co (website)
+- [serenity-js/serenity-js-playwright-test-template](https://github.com/serenity-js/serenity-js-playwright-test-template) - Test your web apps with Serenity/JS and Playwright Test
+- [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A next generation, full-stack acceptance testing framework optimised for collaboration, speed and scale!
+- [pvarentsov/typescript-clean-architecture](https://github.com/pvarentsov/typescript-clean-architecture) - It is my attempt to create Clean Architecture based application in TypeScript.
+- [microsoft/playwright-test](https://github.com/microsoft/playwright-test) - Build a cross-browser end-to-end test suite with Playwright.
+- [vasu31dev/playwright-ts](https://github.com/vasu31dev/playwright-ts) - Playwright TypeScript Framework: a robust solution for testing Web (Desktop & Mobile), API, and Electron apps. With customized utilities, linting, logging, webhooks, and GitHub actions, it offers a st
+- [vasu31dev/playwright-ts-template](https://github.com/vasu31dev/playwright-ts-template) - Playwright Typescript Automation testing framework Template is designed for Web (Desktop & Mobile), API, and Electron apps. Stable and Robust layer on top of Playwright with inbuilt Utilities, Linting
+- [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
+- [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+- [lane711/sonicjs](https://github.com/lane711/sonicjs) - SonicJs Headless CMS - Blazinflg Fast Headless CMS built on Cloudflare Workers. 100% Javascript Based
+- [umijs/sula](https://github.com/umijs/sula) - 🚀  Pluggable enterprise-level configurable framework based on antd.
+- [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
+- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
+- [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
+- [streamich/json-joy](https://github.com/streamich/json-joy) - JSON CRDT, JSON CRDT Patch, JSON Patch+, JSON Predicate, CBOR, MessagePack, UBJSON, JSON Reactive RPC, JSON-RPC 2.0, JSON Pointer, JSON Expression, JSON Type
+- [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
+- [Urigo/graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+- [gcanti/io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
+- [harttle/liquidjs](https://github.com/harttle/liquidjs) - A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI
+- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
+- [yeojz/otplib](https://github.com/yeojz/otplib) - :key: One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
+- [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
+- [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [hackmcgill/dashboard](https://github.com/hackmcgill/dashboard) - 🐥 McHacks dashboard
+- [imRohan/Pantry](https://github.com/imRohan/Pantry) - 🍊  Free data storage as a service. Pantry allows devs to store JSON for multiple apps & users. A good resource when building personal projects, apps for hackathons, and prototypes alike.
+- [nerdeveloper/hackathon-starter-kit](https://github.com/nerdeveloper/hackathon-starter-kit) - A Node-Typescript/Express Boilerplate with Authentication(Local, Github, Facebook, Twitter, Google, Dropbox, LinkedIn, Discord, Slack), Authorization, and CRUD functionality + PWA Support!
+- [anaclumos/extracranial](https://github.com/anaclumos/extracranial) - 🤴🏻 extracranial: the exosuit for my brain
+- [osmoscraft/osmosnote](https://github.com/osmoscraft/osmosnote) - The knowledge IDE
+- [grumpyp/aixplora](https://github.com/grumpyp/aixplora) - AIxplora is a open-source tool which let's you query all kind of files not limited to any length or format.
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
+- [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) - The universal tool suite for vector database management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector databases with ease.
 - [skovhus/jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest https://github.com/facebook/jest 👾
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
 - [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
@@ -5839,7 +6008,7 @@
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [A-Maged/Nasdaq-Stocks-React-App](https://github.com/A-Maged/Nasdaq-Stocks-React-App) - A stock market web app that shows all stocks listed in Nasdaq exchange with their ticker, name, and details.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 BlockSuite provides the toolkit for composing collaborative editing applications.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite provides the toolkit for composing collaborative editing applications.
 - [spica-engine/spica](https://github.com/spica-engine/spica) - Spica is a development engine to build fast & efficient applications.
 - [josemarluedke/docfy](https://github.com/josemarluedke/docfy) - Build fully personalized documentation sites; write content and demos in Markdown.
 - [dan-online/bunnycdn-stream](https://github.com/dan-online/bunnycdn-stream) - A simple, lightweight, and easy to use HTTP streaming library for BunnyCDN.
@@ -6131,6 +6300,9 @@
 
 ## Vue 
 
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [davidmyersdev/octo](https://github.com/davidmyersdev/octo) - An open source knowledge management app. Write meaningful notes. Take control of your knowledge work.
 - [trobonox/kanri](https://github.com/trobonox/kanri) - 🪐 Modern offline Kanban board app for Windows, MacOS and Linux. Built with simplicity and user experience in mind.
 - [jesusantguerrero/atmosphere](https://github.com/jesusantguerrero/atmosphere) - The Digital Home Management Software
 - [yasinatesim/markdown-manager](https://github.com/yasinatesim/markdown-manager) - This project is a markdown template generator tool via Vite + Vue 🤓
@@ -6187,6 +6359,7 @@
 
 ## XSLT 
 
+- [usnistgov/OSCAL](https://github.com/usnistgov/OSCAL) - Open Security Controls Assessment Language (OSCAL)
 - [CycloneDX/specification](https://github.com/CycloneDX/specification) - CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, ML-BOM, OBOM, MBOM, VDR, and VEX
 - [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap) - NIST Certified SCAP 1.2 toolkit
 - [api0cradle/LOLBAS](https://github.com/api0cradle/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
