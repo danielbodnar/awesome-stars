@@ -438,6 +438,8 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [jeremy-rifkin/libassert](https://github.com/jeremy-rifkin/libassert) - The most over-engineered and overpowered C++ assertion library.
 - [ETLCPP/etl](https://github.com/ETLCPP/etl) - Embedded Template Library
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
@@ -608,6 +610,7 @@
 
 ## CSS 
 
+- [artusjs/spec](https://github.com/artusjs/spec) - Spec for Artus.js.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [mapbox/assembly](https://github.com/mapbox/assembly) - Making the hard parts of designing for the web easy.
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
@@ -753,7 +756,7 @@
 - [HMBSbige/shadowsocks-docker](https://github.com/HMBSbige/shadowsocks-docker) - shadowsocks + v2ray-plugin
 - [humphd/browser-vm](https://github.com/humphd/browser-vm) - A small Linux x86 VM meant for use in the browser
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
-- [wmark/apt-image](https://github.com/wmark/apt-image) - 📦 minimal Ubuntu for containers, with curl and support for TLSv1.3
+- [mark-kubacki/apt-image](https://github.com/mark-kubacki/apt-image) - 📦 minimal Ubuntu for containers, with curl and support for TLSv1.3
 - [badtuxx/giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 - [Shopify/livesys](https://github.com/Shopify/livesys) - A simple ubuntu system, intended to be run as an in-memory live image.
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
@@ -816,6 +819,9 @@
 
 ## Go 
 
+- [Jigsaw-Code/outline-sdk](https://github.com/Jigsaw-Code/outline-sdk) - SDK to build network tools based on Outline components.
+- [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
+- [anyproto/any-ns-node](https://github.com/anyproto/any-ns-node) - dRPC node for Any Naming System
 - [chromedp/pdlgen](https://github.com/chromedp/pdlgen) - Generates templated code using Chrome DevTools PDL definitions.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
@@ -2045,6 +2051,7 @@
 
 ## HTML 
 
+- [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general 
 - [w3c/webdriver](https://github.com/w3c/webdriver) - Remote control interface that enables introspection and control of user agents.
 - [push-based/user-flow](https://github.com/push-based/user-flow) - 📦 Combine Chrome tooling like Lighthouse userflows and DevTools reconder scripts in your CI
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
@@ -2096,7 +2103,7 @@
 - [HospitalRun/hospitalrun.io](https://github.com/HospitalRun/hospitalrun.io) - HospitalRun website
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
-- [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
 - [jglovier/resume-template](https://github.com/jglovier/resume-template) - :page_facing_up::briefcase::tophat: A simple Jekyll + GitHub Pages powered resume template.
@@ -2200,6 +2207,8 @@
 
 ## Java 
 
+- [ZJU-ACES-ISE/chatunitest-core](https://github.com/ZJU-ACES-ISE/chatunitest-core) - A framework to generate unit tests using LLMs
+- [carrot2/carrot2](https://github.com/carrot2/carrot2) - Carrot2: Text Clustering Algorithms and Applications
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
 - [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authoriz
 - [authorjapps/zerocode](https://github.com/authorjapps/zerocode) - A community-developed, free, opensource, automated testing framework for microservices API, Kafka and Load testing. Zerocode Open Source enables you to create, change, orchestrate and maintain your au
@@ -2279,6 +2288,12 @@
 
 ## JavaScript 
 
+- [Leask/halbot](https://github.com/Leask/halbot) - Just another `ChatGPT` / `Gemini` / `Mistral (by ollama)` Telegram bob, which is simple design, easy to use, extendable and fun.
+- [vladikoff/playwright-ai](https://github.com/vladikoff/playwright-ai) - Command-line utility to generate LLM-based Playwright tests
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
+- [intuit/judo](https://github.com/intuit/judo) - Judo is an easy-to-use Command Line Interface (CLI) Integration Testing Framework, driven from a simple yaml file that also contains assertions.
+- [anyproto/any-ns](https://github.com/anyproto/any-ns) - Smart contracts/frontend for Any Naming System
 - [coderaiser/goldstein](https://github.com/coderaiser/goldstein) - JavaScript with no limits 🤫
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [putoutjs/redput](https://github.com/putoutjs/redput) - 
@@ -2862,6 +2877,7 @@
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [kyleparisi/buildless-vuejs](https://github.com/kyleparisi/buildless-vuejs) - 
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
+- [TheGrandWazoo/freenas-proxmox](https://github.com/TheGrandWazoo/freenas-proxmox) - ZFS over iSCSI to FreeNAS API's from Proxmox VE
 - [netlify/gocommerce-js](https://github.com/netlify/gocommerce-js) - A gocommerce client library
 - [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
 - [nosqlclient/nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
@@ -3116,6 +3132,9 @@
 
 ## Jupyter Notebook 
 
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
+- [boraelci/java-test-genie](https://github.com/boraelci/java-test-genie) - A command-line tool for AI-driven unit test generation
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction from documents with ML
 - [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
@@ -3305,6 +3324,11 @@
 
 ## Others 
 
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+- [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+- [jellydn/llama2-personal-ai](https://github.com/jellydn/llama2-personal-ai) - Build your personal AI with the llama2 model 🤖. Easy to use, and perfect for your development needs!
+- [cheshire-cat-ai/local-cat](https://github.com/cheshire-cat-ai/local-cat) - A ready to use setup for Cat + Ollama + Embedder + Qdrant
+- [cdk-dev/base](https://github.com/cdk-dev/base) - Repo for organizing things around cdk.dev
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [Coder-World04/Complete-System-Design](https://github.com/Coder-World04/Complete-System-Design) - This repository contains everything you need to become proficient in System Design
 - [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
@@ -3790,7 +3814,6 @@
 - [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 - [xbgmsharp/ipxe-buildweb](https://github.com/xbgmsharp/ipxe-buildweb) - iPXE Prebuilt binary web interface
 - [dreamcat4/docker-images](https://github.com/dreamcat4/docker-images) - Dreamcat4's Docker Images (Trusted Builds)
-- [TheGrandWazoo/freenas-proxmox](https://github.com/TheGrandWazoo/freenas-proxmox) - ZFS over iSCSI to FreeNAS API's from Proxmox VE
 - [sshipway/check_rancher](https://github.com/sshipway/check_rancher) - Nagios/MRTG plugin for checking Rancher API
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 
@@ -3838,6 +3861,26 @@
 
 ## Python 
 
+- [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
+- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [amscotti/local-LLM-with-RAG](https://github.com/amscotti/local-LLM-with-RAG) - Running local Language Learning Models to perform Retrieval-Augmented Generation
+- [samalba/dagger-chatbot](https://github.com/samalba/dagger-chatbot) - AI Chatbot that helps you learn how to use Dagger
+- [yaoyanglee/Automated-Unit-Test-Generation](https://github.com/yaoyanglee/Automated-Unit-Test-Generation) - A unit test generation VSCode extension using Large Language Models (LLM)
+- [tsbrandon1010/TestGenie](https://github.com/tsbrandon1010/TestGenie) - Automatically generate unit tests for your code.
+- [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [ClericPy/ichrome](https://github.com/ClericPy/ichrome) - Chrome controller for Humans, based on Chrome Devtools Protocol(CDP) and python3.7+.
@@ -3949,7 +3992,7 @@
 - [CycodeLabs/raven](https://github.com/CycodeLabs/raven) - CI/CD Security Analyzer
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [vrmarcelino/MetaModels](https://github.com/vrmarcelino/MetaModels) - Scripts to analyse metagenome-wide metabolic models
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator, powered by GPT language model APIs
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
@@ -4597,6 +4640,8 @@
 
 ## Ruby 
 
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [tendersearls/tldr](https://github.com/tendersearls/tldr) - A Ruby test framework for people who don't have time for slow tests 💣💥
 - [cptactionhank/docker-atlassian-confluence](https://github.com/cptactionhank/docker-atlassian-confluence) - Atlassian Confluence wrapped in a Docker image
@@ -4659,6 +4704,11 @@
 
 ## Rust 
 
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with Ollama servers
+- [sigoden/aichat](https://github.com/sigoden/aichat) - Use GPT-4(V), Gemini, LocalAI, Ollama and other LLMs in the terminal.
+- [matthewwoodruff/sdoc](https://github.com/matthewwoodruff/sdoc) - Framework for building custom CLIs around shell, scripts, and executables
 - [woelper/oculante](https://github.com/woelper/oculante) - A minimalistic crossplatform image viewer written in rust
 - [Horus645/swww](https://github.com/Horus645/swww) - A Solution to your Wayland Wallpaper Woes
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
@@ -4909,7 +4959,7 @@
 - [ChillFish8/lust](https://github.com/ChillFish8/lust) - A fast, auto-optimizing image server designed for high throughput and caching; Now that is hot.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
@@ -5205,7 +5255,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [treescale/treescale](https://github.com/treescale/treescale) - Event/Data distribution system without any configuration, but with data delivery guarantees
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [dgiagio/warp](https://github.com/dgiagio/warp) - Create self-contained single binary applications
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 
@@ -5255,6 +5305,8 @@
 
 ## Shell 
 
+- [lrvl/ollama-twice](https://github.com/lrvl/ollama-twice) - Watch and hear endless conversations between two ollamas, hence the Two-Way Conversation Engine (TWICE)
+- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [sschmid/beehub](https://github.com/sschmid/beehub) - Official bee plugin register - https://github.com/sschmid/bee
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
 - [ztombol/bats-assert](https://github.com/ztombol/bats-assert) - Common assertions for Bats
@@ -5308,7 +5360,7 @@
 - [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [second-state/wasmedge-containers-examples](https://github.com/second-state/wasmedge-containers-examples) - 
 - [hamvocke/lnks](https://github.com/hamvocke/lnks) - Browser bookmarks for your command line
-- [kosalanuwan/devcontainers](https://github.com/kosalanuwan/devcontainers) - Development containers for VS Code extension Remote - Containers
+- [therealkosala/devcontainers](https://github.com/therealkosala/devcontainers) - Development containers for VS Code extension Remote - Containers
 - [ecshreve/dev-env](https://github.com/ecshreve/dev-env) - docker based development environment
 - [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance) - 🧪CNCF K8s Conformance Working Group
 - [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
@@ -5688,6 +5740,7 @@
 
 ## Svelte 
 
+- [kevmodrome/mistral-kit](https://github.com/kevmodrome/mistral-kit) - A prompt to code site using mistral-7b and ollama.
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [berrysauce/ingredients](https://github.com/berrysauce/ingredients) - 🧪  Determine the "ingredients" (or technologies) behind a website
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
@@ -5722,6 +5775,7 @@
 
 ## TeX 
 
+- [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
@@ -5733,6 +5787,34 @@
 
 ## TypeScript 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
+- [aws/constructs](https://github.com/aws/constructs) - Define composable configuration models through code
+- [Intellicode/writer](https://github.com/Intellicode/writer) - 🤖📝 A markdown editor powered by AI (Ollama)
+- [shreyaskarnik/DistiLlama](https://github.com/shreyaskarnik/DistiLlama) - Chrome Extension to Summarize or Chat with Web Pages/Local Documents Using locally running LLMs. Keep all of your data and conversations private. 🔐
+- [quack-ai/quack-companion-extension](https://github.com/quack-ai/quack-companion-extension) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by GPT 3
+- [jorge-menjivar/unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
+- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for vs-code, like GitHub Copilot but 100% free and 100% private.
+- [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama) - Chatbot Ollama is an open source chat UI for Ollama.
+- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building AI applications.
+- [zce/mwa](https://github.com/zce/mwa) - 
+- [arcanis/typanion](https://github.com/arcanis/typanion) - Static and runtime type assertion library with no dependencies
+- [cdk-dev/link-scraper](https://github.com/cdk-dev/link-scraper) - Extract Preview Data from Websites
+- [aws/jsii-rosetta](https://github.com/aws/jsii-rosetta) - The jsii sample code transliterator
+- [seeebiii/projen-test](https://github.com/seeebiii/projen-test) - An example project explaining how to create and publish CDK constructs using projen and jsii. It lets you publish your CDK constructs to npm, Maven, NuGet and PyPi.
+- [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
+- [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
+- [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
+- [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
+- [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 14+ enterprise-grade project generator
+- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
+- [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
+- [phenomnomnominal/betterer](https://github.com/phenomnomnominal/betterer) - betterer makes it easier to make incremental improvements to your codebase
+- [gperdomor/nx-tools](https://github.com/gperdomor/nx-tools) - Nx Workspaces builders and tools
+- [Roozenboom/rbnx](https://github.com/Roozenboom/rbnx) - Nx plugin for WebdriverIO support
+- [jscutlery/semver](https://github.com/jscutlery/semver) - Nx plugin to automate semantic versioning and CHANGELOG generation.
+- [spaceribs/spaceribs](https://github.com/spaceribs/spaceribs) - Monorepo for small personal projects and plugins
+- [artus-cli/artus-cli](https://github.com/artus-cli/artus-cli) - CLI framework with modern features
+- [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team
 - [epicweb-dev/full-stack-testing](https://github.com/epicweb-dev/full-stack-testing) - Confidently ship your full-stack app with automated tests
 - [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
@@ -5884,7 +5966,7 @@
 - [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [chrishoermann/zod-prisma-types](https://github.com/chrishoermann/zod-prisma-types) - Generator creates zod types for your prisma models with advanced validation
 - [risen228/nestjs-zod](https://github.com/risen228/nestjs-zod) - All NestJS + Zod utilities you need
-- [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next.js project includes Next.js 14 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions and more.
+- [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 14 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
 - [alii/azs](https://github.com/alii/azs) - 🤓 Amplify Zod schemas with methods
 - [pheralb/slug](https://github.com/pheralb/slug) - 🌱 An open-source URL shortener built with T3 Stack.
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
@@ -6319,7 +6401,7 @@
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [A-Maged/Nasdaq-Stocks-React-App](https://github.com/A-Maged/Nasdaq-Stocks-React-App) - A stock market web app that shows all stocks listed in Nasdaq exchange with their ticker, name, and details.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite provides the toolkit for composing collaborative editing applications.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite is a framework for building collaborative editors and applications.
 - [spica-engine/spica](https://github.com/spica-engine/spica) - Spica is a development engine to build fast & efficient applications.
 - [josemarluedke/docfy](https://github.com/josemarluedke/docfy) - Build fully personalized documentation sites; write content and demos in Markdown.
 - [dan-online/bunnycdn-stream](https://github.com/dan-online/bunnycdn-stream) - A simple, lightweight, and easy to use HTTP streaming library for BunnyCDN.
@@ -6613,6 +6695,7 @@
 
 ## Vue 
 
+- [HelgeSverre/ollama-gui](https://github.com/HelgeSverre/ollama-gui) - A Web Interface for chatting with your local LLMs via the ollama API
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
