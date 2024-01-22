@@ -685,7 +685,7 @@
 - [tmm1/taxes.cue](https://github.com/tmm1/taxes.cue) - tax organizer and calculator in #cuelang
 - [networkop/cue-networking](https://github.com/networkop/cue-networking) - Example of using CUE to model baremetal network configurations
 - [fluxcd/cues](https://github.com/fluxcd/cues) - Experimental CUE packages for generating Flux configurations
-- [stefanprodan/flux-aio](https://github.com/stefanprodan/flux-aio) - Flux All-In-One experimental distribution made with Timoni
+- [stefanprodan/flux-aio](https://github.com/stefanprodan/flux-aio) - Flux All-In-One distribution made with Timoni
 - [hofstadter-io/cuelm](https://github.com/hofstadter-io/cuelm) - Experiments with CUE on the quest to reimagine devops-ops.
 - [buildsec/frsca](https://github.com/buildsec/frsca) - 
 - [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev) - Flux local dev environment with Docker and Kubernetes KIND
@@ -693,6 +693,7 @@
 
 ## Clojure 
 
+- [igrishaev/lambda](https://github.com/igrishaev/lambda) - An AWS Lambda in a single binary file
 - [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector) - Allows switch environment for Visual Studio Code using Nix Package Manager.
 - [hoophq/sequence](https://github.com/hoophq/sequence) - Immutable, scalable, and easy to use ledger service.
 - [omcljs/om](https://github.com/omcljs/om) - ClojureScript interface to Facebook's React
@@ -803,6 +804,7 @@
 - [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) - 
 - [HMBSbige/shadowsocks-docker](https://github.com/HMBSbige/shadowsocks-docker) - shadowsocks + v2ray-plugin
 - [humphd/browser-vm](https://github.com/humphd/browser-vm) - A small Linux x86 VM meant for use in the browser
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [mark-kubacki/apt-image](https://github.com/mark-kubacki/apt-image) - 📦 minimal Ubuntu for containers, with curl and support for TLSv1.3
 - [badtuxx/giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
@@ -867,6 +869,11 @@
 
 ## Go 
 
+- [innomotics/sealpack](https://github.com/innomotics/sealpack) - Single binary for cryptographically sealing files and images
+- [srtkkou/zgok](https://github.com/srtkkou/zgok) - Golang library to create a single binary with asset files.
+- [opencontainers/image-tools](https://github.com/opencontainers/image-tools) - OCI Image Tooling
+- [stackup-wallet/stackup-bundler](https://github.com/stackup-wallet/stackup-bundler) - A modular Go implementation of an ERC-4337 Bundler.
+- [njkevlani/gobundle](https://github.com/njkevlani/gobundle) - gobundle - Bundle a go file with external dependencies in a single standalone executable go file.
 - [vhodges/stitcherd](https://github.com/vhodges/stitcherd) - Dynamic content for mostly static sites.
 - [kubewarden/go-wasi-context-aware-test-policy](https://github.com/kubewarden/go-wasi-context-aware-test-policy) - A test context-aware policy written using Go Wasi
 - [buildpacks/libcnb](https://github.com/buildpacks/libcnb) - A non-opinionated language binding for the Cloud Native Buildpack Buildpack and Extension specifications
@@ -2424,8 +2431,14 @@
 
 ## JavaScript 
 
+- [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+- [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
+- [jantimon/html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) - Simplifies creation of HTML files to serve your webpack bundles
+- [kentcdodds/mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - 🦤 Give me MDX/TSX strings and I'll give you back a component you can render. Supports imports!
+- [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
+- [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects) - The home of our open-source projects.
-- [StackBlitz-Inc/webcontainer-api](https://github.com/StackBlitz-Inc/webcontainer-api) - Run Webcontainer API Starter created by Stackblitz on StackBlitz ⚡️
+- [StackBlitz-Inc/webcontainer-api](https://github.com/StackBlitz-Inc/webcontainer-api) - WebContainer API is perfect for building interactive coding experiences ⚡️
 - [suryatmodulus/webcontainer-ci-cd](https://github.com/suryatmodulus/webcontainer-ci-cd) - Created with StackBlitz ⚡️
 - [RealSput/Wenode](https://github.com/RealSput/Wenode) - WebContainers, except it's a million times easier to use
 - [Marketionist/testing-starter-kit](https://github.com/Marketionist/testing-starter-kit) - Collection of free open source software testing tools with some links on how to use them
@@ -3383,7 +3396,6 @@
 - [Linuxfabrik/lfops](https://github.com/Linuxfabrik/lfops) - LFOps is an Ansible Collection of generic Roles, Playbooks and Plugins for managing Linux-based Cloud Infrastructures.
 - [nodiscc/xsrv](https://github.com/nodiscc/xsrv) - [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities
 - [vyos/vyos-vm-images](https://github.com/vyos/vyos-vm-images) - 
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [reefactor/org.backbone](https://github.com/reefactor/org.backbone) - Ansible playbooks to build your team's encrypted private cloud, messenger, VPN with blackjack and GitLab
 - [archlinux/infrastructure](https://github.com/archlinux/infrastructure) - Official Arch Linux Infrastructure Repository (read-only mirror)
@@ -3623,6 +3635,7 @@
 
 ## Others 
 
+- [cnabio/community](https://github.com/cnabio/community) - CNAB Community Assets
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [WeMakeDevs/roadmaps](https://github.com/WeMakeDevs/roadmaps) - This repository contains the list of communities and job portals you can join and apply to.
 - [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
@@ -4019,7 +4032,6 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [Scanate/EthList](https://github.com/Scanate/EthList) - The Comprehensive Ethereum Reading List
@@ -4182,6 +4194,8 @@
 
 ## Python 
 
+- [Rainbow-Dreamer/separable_merge](https://github.com/Rainbow-Dreamer/separable_merge) - This is a cross-platform file merger and splitter which uses a file merging algorithm designed by me to merge multiple files and folders into a single separable binary file
+- [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [pfrommerd/denvtool](https://github.com/pfrommerd/denvtool) - A docker environment management tool
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) - OFRAK: unpack, modify, and repack binaries.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
@@ -4223,6 +4237,7 @@
 - [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
 - [otto-de/recsys-dataset](https://github.com/otto-de/recsys-dataset) - 🛍 A real-world e-commerce dataset for session-based recommender systems research.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [fern-api/fern](https://github.com/fern-api/fern) - 🌿 Deliver Stripe-level SDKs and Docs for your API
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
@@ -4777,6 +4792,7 @@
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [nir0s/ghost](https://github.com/nir0s/ghost) - A simple, server/less, single-api, multi-backend, ghostly secret-store/key-store for your passwords, ssh-keys and cloud credentials. Ghost isn't real, it's just in your head.
 - [s0md3v/ote](https://github.com/s0md3v/ote) - Generate Email, Register for anything, Get the OTP/Link
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [0vercl0k/CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086) - Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely.
 - [pgexperts/flexible-freeze](https://github.com/pgexperts/flexible-freeze) - Flexible freeze scripts for managing off-hours vacuuming and freezing of PostgreSQL databases.
 - [skewthreads/QR-secret-sharing](https://github.com/skewthreads/QR-secret-sharing) - :lock: Create QR codes to secret-share a message. Ideal for cryptocurrency wallet recovery keys and passwords.
@@ -5077,6 +5093,10 @@
 
 ## Rust 
 
+- [avalon1610/spa-rs](https://github.com/avalon1610/spa-rs) - Library who can embed all SPA web application files into a single binary executable.
+- [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+- [lpenz/rust-sourcebundler](https://github.com/lpenz/rust-sourcebundler) - Bundle the source code of a binary in a crate into a single .rs file to be used in single-file programming competition sites
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [pfrommerd/atlas](https://github.com/pfrommerd/atlas) - The core language parser and vm
@@ -5715,6 +5735,7 @@
 
 ## Shell 
 
+- [aoki/get](https://github.com/aoki/get) - Installing single binary file from GitHub releases.
 - [contino/gsd-hello-world](https://github.com/contino/gsd-hello-world) - 
 - [qdm12/basedevcontainer](https://github.com/qdm12/basedevcontainer) - Base development Docker image used by other development Docker images
 - [WUAmin/alpine-l2tp-vpn-client](https://github.com/WUAmin/alpine-l2tp-vpn-client) - An Alpine based docker image to setup an L2TP over IPsec VPN client w/ PSK (and optionally Socks5) within the container.
@@ -5917,7 +5938,6 @@
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [tcler/kiss-vm-ns](https://github.com/tcler/kiss-vm-ns) - CLI tools to create KVM Guests, Containers and NetNS(ip netns,vrf) on Linux
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [UCCNetsoc/dev-env](https://github.com/UCCNetsoc/dev-env) - Contains the necessary files for anyone to spin up the services and backing services in a local development environment required by various components of UCC Netsoc
 - [OSInside/kiwi-descriptions](https://github.com/OSInside/kiwi-descriptions) - Provides a collection of kiwi image descriptions
 - [hpc/charliecloud](https://github.com/hpc/charliecloud) - Lightweight user-defined software stacks for high-performance computing.
@@ -6150,6 +6170,7 @@
 - [fzuleta/private-docker-registry-ssl](https://github.com/fzuleta/private-docker-registry-ssl) - Private Docker registry protected with Let's Encrypt SSL
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -6231,6 +6252,9 @@
 
 ## TypeScript 
 
+- [TimvanScherpenzeel/binpacker](https://github.com/TimvanScherpenzeel/binpacker) - CLI tool for packing multiple files into a single binary, as an alternative to spritesheets, in order to save network requests in the browser.
+- [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [cdk-dev/create-cdk-app](https://github.com/cdk-dev/create-cdk-app) - Create CDK Apps from Templates
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
@@ -6394,7 +6418,6 @@
 - [otto-de/api-guidelines](https://github.com/otto-de/api-guidelines) - A set of rules to build consistent and high quality REST and Async APIs at OTTO.
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
-- [fern-api/fern](https://github.com/fern-api/fern) - 🌿 Deliver Stripe-level SDKs and Docs for your API
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
@@ -6679,7 +6702,7 @@
 - [cdklabs/node-sscaff](https://github.com/cdklabs/node-sscaff) - Stupid scaffolding: copies an entire directory with variable substitution
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
-- [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, Relay, Material UI.
+- [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [bbeesley/hygen-cook](https://github.com/bbeesley/hygen-cook) - A helpful chef to cook hygen recipes
 - [ronp001/hygen-create](https://github.com/ronp001/hygen-create) - simplifies creation of hygen templates from existing projects
