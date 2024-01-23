@@ -38,6 +38,7 @@
 - [F#](#f#)
 - [Fortran](#fortran)
 - [GDScript](#gdscript)
+- [Gleam](#gleam)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -150,6 +151,9 @@
 
 ## C 
 
+- [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) - tools to create and extract Squashfs filesystems
+- [AgentD/squashfs-tools-ng](https://github.com/AgentD/squashfs-tools-ng) - A new set of tools and libraries for working with SquashFS images
+- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [actonlang/acton](https://github.com/actonlang/acton) - The Acton Programming Language
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [ihucos/plash](https://github.com/ihucos/plash) - Build and run layered root filesystems.
@@ -456,6 +460,7 @@
 
 ## C++ 
 
+- [adishavit/argh](https://github.com/adishavit/argh) - Argh! A minimalist argument handler.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
@@ -845,6 +850,7 @@
 
 ## Emacs Lisp 
 
+- [nobiot/md-roam](https://github.com/nobiot/md-roam) - Use Org-roam with markdown files by adding Md-roam as a plug-in. Mix org and markdown files in a single Org-roam database.
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
@@ -867,8 +873,19 @@
 
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 
+## Gleam 
+
+- [lpil/gleescript](https://github.com/lpil/gleescript) - 🌮 Bundle your Gleam-on-Erlang project into an escript, a single executable file!
+
 ## Go 
 
+- [TangoGroup/cfn-cue](https://github.com/TangoGroup/cfn-cue) - CUE CloudFormation Schemas
+- [carvel-dev/imgpkg](https://github.com/carvel-dev/imgpkg) - Store application configuration files in Docker/OCI registries
+- [berops/claudie](https://github.com/berops/claudie) - Cloud-agnostic managed Kubernetes
+- [go-shiori/obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file
+- [forestnode-io/oneshot](https://github.com/forestnode-io/oneshot) - A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
+- [protomaps/go-pmtiles](https://github.com/protomaps/go-pmtiles) - Single-file executable tool for working with PMTiles archives
+- [yuuki/droot](https://github.com/yuuki/droot) - The super-simple chroot-based application container engine.
 - [innomotics/sealpack](https://github.com/innomotics/sealpack) - Single binary for cryptographically sealing files and images
 - [srtkkou/zgok](https://github.com/srtkkou/zgok) - Golang library to create a single binary with asset files.
 - [opencontainers/image-tools](https://github.com/opencontainers/image-tools) - OCI Image Tooling
@@ -1011,6 +1028,7 @@
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications.
 - [philips-labs/spiffe-vault](https://github.com/philips-labs/spiffe-vault) - Integrates Spiffe and Vault to have secretless authentication
 - [openziti/edge](https://github.com/openziti/edge) - Application-embedded connectivity and zero-trust components
+- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
@@ -1941,7 +1959,6 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [schnoddelbotz/amtgo](https://github.com/schnoddelbotz/amtgo) - Intel AMT / vPro mass management tool
 - [cloudnativelabs/kube-router](https://github.com/cloudnativelabs/kube-router) - Kube-router, a turnkey solution for Kubernetes networking.
-- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [vkuznecovas/mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
@@ -2167,6 +2184,7 @@
 
 ## HTML 
 
+- [aws-samples/aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configura
 - [huhu/juice](https://github.com/huhu/juice) - 🍹 An intuitive, elegant, and responsive Zola theme for product sites.
 - [jprivet-dev/angular-stackblitz-webcontainer](https://github.com/jprivet-dev/angular-stackblitz-webcontainer) - Sandbox to locally generate a project with Angular CLI and launch it online in a WebContainer on StackBlitz.
 - [aerokube/moon](https://github.com/aerokube/moon) - Browser automation solution for Kubernetes and Openshift supporting Selenium, Playwright, Puppeteer and Cypress
@@ -2342,6 +2360,7 @@
 
 ## Java 
 
+- [cloudbees/junit-standalone-runner](https://github.com/cloudbees/junit-standalone-runner) - Single jar file to execute all your packaged JUnit4 tests
 - [groupon/DotCi](https://github.com/groupon/DotCi) - DotCi Jenkins github integration, .ci.yml http://groupon.github.io/DotCi
 - [kaelaela/OpenGraphView](https://github.com/kaelaela/OpenGraphView) - Rich url link view for Android.
 - [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
@@ -2431,6 +2450,14 @@
 
 ## JavaScript 
 
+- [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
+- [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
+- [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli) - CLI tool for saving a faithful copy of a complete web page in a single HTML file
+- [porsager/flems](https://github.com/porsager/flems) - A single file web playground and sandbox
+- [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
+- [EtherDream/web2img](https://github.com/EtherDream/web2img) - Bundle web files into a single image
+- [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
+- [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [jantimon/html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) - Simplifies creation of HTML files to serve your webpack bundles
@@ -2751,7 +2778,7 @@
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [himynameisdave/git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - :flags: Manage your GitHub labels from the command line!
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source multi-user ChatGPT for all LLMs, embedders, and vector databases. Unlimited documents, messages, and users in one privacy-focused app.
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -3485,6 +3512,7 @@
 
 ## Lua 
 
+- [bonidjukic/aka](https://github.com/bonidjukic/aka) - Simple, single-file-executable command-line tool which lets you define per directory config files as aliases for shell commands.
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [nccgroup/nmap-nse-vulnerability-scripts](https://github.com/nccgroup/nmap-nse-vulnerability-scripts) - NMAP Vulnerability Scanning Scripts
@@ -3515,6 +3543,7 @@
 
 ## MDX 
 
+- [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [rviscomi/har.fyi](https://github.com/rviscomi/har.fyi) - 
 - [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - Automatically stitch multiple schemas together into one larger API in a simple, fast and powerful way.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -3525,6 +3554,7 @@
 
 ## Makefile 
 
+- [clemedon/Makefile_tutor](https://github.com/clemedon/Makefile_tutor) - This project aims to create a crystal clear tutorial on a cryptic looking topic.
 - [clvx/k8s-rbac-model](https://github.com/clvx/k8s-rbac-model) - A multi tenant and multi project RBAC model implementation in Kubernetes
 - [enspirit/makefile-for-monorepos](https://github.com/enspirit/makefile-for-monorepos) - A flexible and extensible makefile for monorepos with  docker/docker-compose.
 - [silvio/docker-languagetool](https://github.com/silvio/docker-languagetool) - Dockerfile for LanguageTool
@@ -3592,6 +3622,7 @@
 
 ## Nim 
 
+- [Yardanico/cosmonim](https://github.com/Yardanico/cosmonim) - A Nim template to compile your code with the Cosmopolitan libc
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
 
@@ -3611,6 +3642,7 @@
 
 ## OCaml 
 
+- [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 - [ocaml/opam](https://github.com/ocaml/opam) - opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [mirage/jitsu](https://github.com/mirage/jitsu) - A DNS server that automatically starts unikernels on demand
@@ -3635,6 +3667,8 @@
 
 ## Others 
 
+- [oras-project/community](https://github.com/oras-project/community) - OCI Registries as Storage
+- [nodejs/single-executable](https://github.com/nodejs/single-executable) - This team aims to advance the state of the art in packaging Node.js applications as single standalone executables (SEAs) on all supported operating systems.
 - [cnabio/community](https://github.com/cnabio/community) - CNAB Community Assets
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [WeMakeDevs/roadmaps](https://github.com/WeMakeDevs/roadmaps) - This repository contains the list of communities and job portals you can join and apply to.
@@ -4194,6 +4228,10 @@
 
 ## Python 
 
+- [rdkcentral/BundleGen](https://github.com/rdkcentral/BundleGen) - A command-line tool to convert OCI Images into extended OCI Bundles for use with the Dobby container manager.
+- [random-python/nspawn](https://github.com/random-python/nspawn) - Containers with systemd-nspawn
+- [Jip-Hop/jailmaker](https://github.com/Jip-Hop/jailmaker) - Persistent Linux 'jails' on TrueNAS SCALE to install software (docker-compose, portainer, podman, etc.) with full access to all files via bind mounts thanks to systemd-nspawn!
+- [amol-/depot](https://github.com/amol-/depot) - Toolkit for storing files and attachments in web applications
 - [Rainbow-Dreamer/separable_merge](https://github.com/Rainbow-Dreamer/separable_merge) - This is a cross-platform file merger and splitter which uses a file merging algorithm designed by me to merge multiple files and folders into a single separable binary file
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [pfrommerd/denvtool](https://github.com/pfrommerd/denvtool) - A docker environment management tool
@@ -4311,7 +4349,6 @@
 - [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
 - [entitleio/beam](https://github.com/entitleio/beam) - AWS SSM made easy
 - [ssbostan/tondra](https://github.com/ssbostan/tondra) - Continuous Development on Kubernetes environments with Skaffold
-- [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [TranscryptOrg/Transcrypt](https://github.com/TranscryptOrg/Transcrypt) - Python 3.9 to JavaScript compiler - Lean, fast, open! -
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
@@ -4330,7 +4367,7 @@
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
-- [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - 
+- [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - A functional, content-addressible programming language.
 - [MalwareHunters/vultriever](https://github.com/MalwareHunters/vultriever) - 
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
@@ -4375,12 +4412,11 @@
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (CSV, pandas, polars, etc). PandasAI makes data analysis conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [xNul/code-llama-for-vscode](https://github.com/xNul/code-llama-for-vscode) - Use Code Llama with Visual Studio Code and the Continue extension. A local LLM alternative to GitHub Copilot.
 - [PrithivirajDamodaran/Alt-ZSC](https://github.com/PrithivirajDamodaran/Alt-ZSC) - Alternate Implementation for Zero Shot Text Classification: Instead of reframing NLI/XNLI, this reframes the text backbone of CLIP models to do ZSC. Hence, can be lightweight + supports more languages
@@ -4627,7 +4663,7 @@
 - [zvtvz/zvt](https://github.com/zvtvz/zvt) - modular quant framework.
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [firmai/financial-machine-learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning tools and applications.
-- [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 - [peerchemist/finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
 - [tatsath/FinAILabDatasets](https://github.com/tatsath/FinAILabDatasets) - FinAILab's Financial DataSets
@@ -5093,6 +5129,10 @@
 
 ## Rust 
 
+- [eunomia-bpf/eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf) - Build, Distribute and Run CO-RE eBPF programs easier with JSON and Webassembly OCI images
+- [wcampbell0x2a/backhand](https://github.com/wcampbell0x2a/backhand) - Library and binaries for the reading, creating, and modification of SquashFS file systems
+- [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
+- [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) - A simple example with Rust and Cosmopolitan Libc
 - [avalon1610/spa-rs](https://github.com/avalon1610/spa-rs) - Library who can embed all SPA web application files into a single binary executable.
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
@@ -5344,7 +5384,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [oxidecomputer/oxide.rs](https://github.com/oxidecomputer/oxide.rs) - The Oxide Rust SDK and CLI
 - [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
@@ -5735,6 +5775,21 @@
 
 ## Shell 
 
+- [DannyBen/rush-cli](https://github.com/DannyBen/rush-cli) - Personal Package Manager - run your GitHub hosted scripts, locally.
+- [MichaelCurrin/code-cookbook](https://github.com/MichaelCurrin/code-cookbook) - Reusable code patterns which you can use as reference or copy to your project 👩‍💻👨‍🍳📖🥗
+- [krom/docker-compose-makefile](https://github.com/krom/docker-compose-makefile) - Makefile template for docker-compose
+- [ublue-os/main](https://github.com/ublue-os/main) - OCI base images of Fedora with batteries included
+- [cloudogu/jenkins-helm-image](https://github.com/cloudogu/jenkins-helm-image) - An OCI image containing Jenkins bundled with the basic plugins needed during startup of Jenkins Helm Chart
+- [mikhailnov/snr](https://github.com/mikhailnov/snr) - Simple wrapper to quickly run systemd-nspawn containers with support to run graphical applications inside container and full access to videocard and working sound input/output.
+- [random-archer/nspawn.sh](https://github.com/random-archer/nspawn.sh) - Bash container engine for systemd-nspawn
+- [nosada/mkosi-files](https://github.com/nosada/mkosi-files) - Configs and files for creating basic Arch Linux container image on systemd-nspawn using mkosi
+- [pmem/run_qemu](https://github.com/pmem/run_qemu) - A script to create bootable OS images, and run qemu with a locally built kernel.
+- [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) - Portable single-file linux container
+- [cloudymax/pxeless](https://github.com/cloudymax/pxeless) - An automated system install and image customization tool for when PXE is not an option, or is not an option yet.
+- [digitickets/less-compiler](https://github.com/digitickets/less-compiler) - A single file zero dependency executable to run the Node lessc compiler.
+- [notdylanburns/bashbuild](https://github.com/notdylanburns/bashbuild) - Tool to bundle multi file bash projects into a single executable
+- [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
+- [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments
 - [aoki/get](https://github.com/aoki/get) - Installing single binary file from GitHub releases.
 - [contino/gsd-hello-world](https://github.com/contino/gsd-hello-world) - 
 - [qdm12/basedevcontainer](https://github.com/qdm12/basedevcontainer) - Base development Docker image used by other development Docker images
@@ -6252,6 +6307,13 @@
 
 ## TypeScript 
 
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
+- [chenasraf/simple-scaffold](https://github.com/chenasraf/simple-scaffold) - Generate any file structure - from single components to entire app boilerplates, with a single command.
+- [suchipi/yavascript](https://github.com/suchipi/yavascript) - shell script replacement; write shell scripts in js instead of bash, then run them with a single statically-linked file
+- [rejetto/hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
+- [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
+- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
+- [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [TimvanScherpenzeel/binpacker](https://github.com/TimvanScherpenzeel/binpacker) - CLI tool for packing multiple files into a single binary, as an alternative to spritesheets, in order to save network requests in the browser.
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
@@ -6651,7 +6713,7 @@
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [DanielBodnar/autocomplete](https://github.com/DanielBodnar/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -6723,6 +6785,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [muctadir/lama](https://github.com/muctadir/lama) - LaMa, short for Labelling Machine, is an web application developed for aiding in thematic analysis of qualitative data.
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
@@ -7250,7 +7313,7 @@
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
 - [nodegui/vue-nodegui](https://github.com/nodegui/vue-nodegui) - Build performant, native and cross-platform desktop applications with native Vue + powerful CSS like styling.🚀
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
-- [tngan/samlify](https://github.com/tngan/samlify) - 🔐  Node.js API for Single Sign On (SAML 2.0)
+- [tngan/samlify](https://github.com/tngan/samlify) - Node.js library for SAML SSO
 - [scalarhq/videotranscode.space](https://github.com/scalarhq/videotranscode.space) - A video transcoder and converter built using Web Assembly and FFMPEG to transcode and convert videos right in your browser while protecting your privacy
 - [JupiterOne/security-policy-builder](https://github.com/JupiterOne/security-policy-builder) - CLI for generating policies, standards and control procedures (PSP) documentation in Markdown and publishing to JupiterOne or Confluence
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
@@ -7269,6 +7332,7 @@
 - [bitwarden/directory-connector](https://github.com/bitwarden/directory-connector) - A tool for syncing a directory (AD, LDAP, Azure, G Suite, Okta) to an organization.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [mizchi/next-editor](https://github.com/mizchi/next-editor) - Standalone Git Editor on Browser
+- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
 - [wasdk/WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
@@ -7346,6 +7410,7 @@
 
 ## Vue 
 
+- [evandor/tabsets](https://github.com/evandor/tabsets) - Browser Extension to manage tabs and bookmarks professionally
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Heavily Work in Progress] An interactive tutorial and playground for Nuxt
@@ -7427,6 +7492,7 @@
 
 ## Zig 
 
+- [MarcusWagberg/mercury](https://github.com/MarcusWagberg/mercury) - A single executable web app for taking notes in markdown and uploading files.
 - [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [mattnite/gyro](https://github.com/mattnite/gyro) - A  Zig package manager with an index, build runner, and build dependencies.
