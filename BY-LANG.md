@@ -6,7 +6,6 @@
 ## Contents
 
 - [ANTLR](#antlr)
-- [ActionScript](#actionscript)
 - [Ada](#ada)
 - [Assembly](#assembly)
 - [Astro](#astro)
@@ -121,10 +120,6 @@
 ## ANTLR 
 
 - [kstenerud/concise-encoding](https://github.com/kstenerud/concise-encoding) - The secure data format for a  modern world
-
-## ActionScript 
-
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## Ada 
 
@@ -533,8 +528,8 @@
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [zer0condition/ReverseKit](https://github.com/zer0condition/ReverseKit) - x64 Dynamic Reverse Engineering Toolkit
-- [roq-trading/roq-samples](https://github.com/roq-trading/roq-samples) - Demonstrates different use-cases. [C++20] [Examples]
-- [roq-trading/roq-api](https://github.com/roq-trading/roq-api) - Interface used to communicate with market gateways or a simulator. [C++20] [Interface]
+- [roq-trading/roq-samples](https://github.com/roq-trading/roq-samples) - Demonstrates different use-cases. [C++23] [Examples]
+- [roq-trading/roq-api](https://github.com/roq-trading/roq-api) - Interface used to communicate with market gateways or a simulator. [C++23] [Interface]
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [chronoxor/CppTrader](https://github.com/chronoxor/CppTrader) - High performance components for building Trading Platform such as ultra fast matching engine, order book processor
 - [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
@@ -805,7 +800,7 @@
 - [jellydn/playwright-crawler-demo](https://github.com/jellydn/playwright-crawler-demo) - This template is a production ready boilerplate for developing with `PlaywrightCrawler`. Use this to bootstrap your projects using the most up-to-date code.
 - [chinayin-docker/playwright](https://github.com/chinayin-docker/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  playwright.dev
 - [ianwalter/playwright-container](https://github.com/ianwalter/playwright-container) - A GitHub Action / Docker image for Playwright, the browser automation library
-- [JacobLinCool/playwright-docker](https://github.com/JacobLinCool/playwright-docker) - Playwright Docker Images. (ARMv7, ARMv8, x64) x (Chromium, Firefox, WebKit, Chrome, Edge)
+- [JacobLinCool/playwright-docker](https://github.com/JacobLinCool/playwright-docker) - Playwright Docker Images. (Ubuntu, Alpine) x (ARMv8, x64) x (Chromium, Firefox, WebKit, Chrome, Edge)
 - [ttruong11/jenkins-as-code](https://github.com/ttruong11/jenkins-as-code) - A repository for jenkins as code. This is meant to bootstrap a brand new jenkins installation within a docker container setup. Comes complete with custom plugins and themes
 - [jenkinsci/docker-inbound-agents](https://github.com/jenkinsci/docker-inbound-agents) - Jenkins docker inbound agents with tools built in.
 - [BrainTwister/docker-devel-env](https://github.com/BrainTwister/docker-devel-env) - Fast, reproducible, and portable software development environments
@@ -913,6 +908,7 @@
 
 ## Go 
 
+- [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common CLI formats such as histograms, bar graphs, numerical summaries, tables, and more!
 - [LinuxSuRen/yaml-readme](https://github.com/LinuxSuRen/yaml-readme) - A helper to generate the READE file automatically from YAML-based metadata files.
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
@@ -1428,7 +1424,7 @@
 - [sysdiglabs/kubectl-dig](https://github.com/sysdiglabs/kubectl-dig) - Deep kubernetes visibility from the kubectl
 - [rilldata/rill](https://github.com/rilldata/rill) - Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
 - [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
-- [mudler/luet](https://github.com/mudler/luet) - :package: :whale: 0-dependency Container-based Package Manager
+- [mudler/luet](https://github.com/mudler/luet) - :package: :whale: 0-dependency Container-based Package Manager using SAT solver and QLearning
 - [paketo-buildpacks/libpak](https://github.com/paketo-buildpacks/libpak) - An opinionated extension to the libcnb Cloud Native Buildpack Library
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [OwO-Network/nexttrace-experiment](https://github.com/OwO-Network/nexttrace-experiment) - An open source visual route tracking CLI tool (experiment field)
@@ -1667,7 +1663,7 @@
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native unstructured data storage
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud native unstructured data store
 - [innobead/kubefire](https://github.com/innobead/kubefire) - KubeFire 🔥, creates and manages Kubernetes Clusters using Firecracker microVMs
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -1724,7 +1720,7 @@
 - [techjacker/repo-security-scanner](https://github.com/techjacker/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 - [munnerz/kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [n1207n/video-transcode-queue](https://github.com/n1207n/video-transcode-queue) - A sample video upload platform as a kubernetes cluster (WIP)
-- [diericx/bevy](https://github.com/diericx/bevy) - Self hosted popcorn time alternative software for grabbing, streaming and seeding torrents
+- [diericx/bevy](https://github.com/diericx/bevy) - Self hosted software for streaming media over BitTorrent with the option to seed back
 - [webtor-io/content-transcoder](https://github.com/webtor-io/content-transcoder) - Transcodes HTTP-stream to HLS
 - [maruel/serve-mp4](https://github.com/maruel/serve-mp4) - Serves transcoded MP4's for ChromeCast and ChromeOS
 - [livepeer/go-livepeer](https://github.com/livepeer/go-livepeer) - Official Go implementation of the Livepeer protocol
@@ -2527,6 +2523,8 @@
 
 ## JavaScript 
 
+- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.
+- [mikaelbr/vscodemod](https://github.com/mikaelbr/vscodemod) - VSCode extension for doing codemod on selected text
 - [eslint/generator-eslint](https://github.com/eslint/generator-eslint) - A Yeoman generator to help with ESLint development
 - [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
@@ -2856,7 +2854,7 @@
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [OCA/web](https://github.com/OCA/web) - Odoo web client UI related addons
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
@@ -3584,7 +3582,6 @@
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [boraelci/java-test-genie](https://github.com/boraelci/java-test-genie) - A command-line tool for AI-driven unit test generation
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
-- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction with ML and LLM
 - [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
@@ -3769,6 +3766,7 @@
 
 - [glotcode/glot-images](https://github.com/glotcode/glot-images) - 
 - [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
+- [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [justinwoo/easy-dhall-nix](https://github.com/justinwoo/easy-dhall-nix) - Derivations for easily downloading Dhall binaries and putting them to use.
 - [jmgilman/nix-cue](https://github.com/jmgilman/nix-cue) - Validate and generate configuration files using Nix and Cue
@@ -3782,6 +3780,7 @@
 
 ## OCaml 
 
+- [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 - [ocaml/opam](https://github.com/ocaml/opam) - opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
@@ -3811,6 +3810,8 @@
 
 ## Others 
 
+- [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
+- [rajasegar/awesome-codemods](https://github.com/rajasegar/awesome-codemods) - Awesome list of codemods for various languages, libraries and frameworks
 - [hdorgeval/testcafe-snippets](https://github.com/hdorgeval/testcafe-snippets) - Code snippets for TestCafe
 - [jspw/VS-Code-Config](https://github.com/jspw/VS-Code-Config) - VS Code Setting (Live input output)  to make competitive programming easy and program analysis !
 - [tj/vscode-snippets](https://github.com/tj/vscode-snippets) - Personal VSCode snippets for Go, JS, Elm, etc.
@@ -4559,6 +4560,7 @@
 - [Lin-jun-xiang/docGPT-langchain](https://github.com/Lin-jun-xiang/docGPT-langchain) - 🔐Free GPT-3.5 chat with your docs (PDF, WORD, CSV, TXT)
 - [Quansight/ragna](https://github.com/Quansight/ragna) - RAG orchestration framework ⛵️
 - [pinecone-io/canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction with ML and LLM
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.
@@ -5335,6 +5337,9 @@
 
 ## Rust 
 
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
+- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [Aquaducts/runners](https://github.com/Aquaducts/runners) - Flexible code runners that allow for multiple container backends, vms, and more :)
 - [glotcode/code-runner](https://github.com/glotcode/code-runner) - 
 - [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
@@ -5857,6 +5862,7 @@
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
@@ -6090,7 +6096,6 @@
 - [mattmc3/ztap](https://github.com/mattmc3/ztap) - An implementation of the Test Anything Protocol for unit testing Zsh using pure Zsh
 - [tapper/Tapper-autoreport](https://github.com/tapper/Tapper-autoreport) - Tapper - turn your bash scripts into TAP test scripts (with optional Tapper support)
 - [wrmilling/k3s-gitops](https://github.com/wrmilling/k3s-gitops) - GitOps principles to define kubernetes cluster state via code
-- [Athena-OS/athena-iso](https://github.com/Athena-OS/athena-iso) - Athena OS is an Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
@@ -6545,6 +6550,7 @@
 
 ## TypeScript 
 
+- [sourcegraph/codemod](https://github.com/sourcegraph/codemod) - A collection of codemods powered by TS-Morph and PostCSS
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) - HTTP Request snippet generator for many languages & libraries
 - [googlecreativelab/teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community) - Example code snippets and machine learning code for Teachable Machine
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
@@ -6557,7 +6563,7 @@
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [justjavac/vscode-deno](https://github.com/justjavac/vscode-deno) - [Deprecated] Move to https://github.com/denoland/vscode_deno
 - [yatki/vscode-surround](https://github.com/yatki/vscode-surround) - 🔥 A simple yet powerful extension to add wrapper templates around your code blocks
-- [syhner/next-kickstart](https://github.com/syhner/next-kickstart) - Next.js 14 app router boilerplate. Zero setup. Edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun
+- [syhner/next-kickstart](https://github.com/syhner/next-kickstart) - Next.js 14 kickstarter. Zero setup & edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia Auth, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun
 - [DeploySentinel/Recorder](https://github.com/DeploySentinel/Recorder) - A browser extension that generates Cypress, Playwright and Puppeteer test scripts from your interactions 🖱 ⌨
 - [akshayp7/playwright-typescript-playwright-test](https://github.com/akshayp7/playwright-typescript-playwright-test) - This is Boilerplate/Template for Playwright-Typescript framework for Web-UI, api, Mobile Emulation, DB and Visual testing. Docker image, SonarQube and Lighthouse setup is also implemented .
 - [imbhargav5/nextbase-nextjs-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 14+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
@@ -7342,7 +7348,7 @@
 - [zzj3720/blocksvite](https://github.com/zzj3720/blocksvite) - A simple Block editor like BlockSuite, based on Vue and @blocksuite/store
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [FourThievesVinegar/vinni](https://github.com/FourThievesVinegar/vinni) - 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [cto-ai/web-app-generator](https://github.com/cto-ai/web-app-generator) - 📦An opinionated approach for generating a web application using The Ops Platform 🚀
 - [cto-ai/k8s](https://github.com/cto-ai/k8s) - 📦Managing Kubernetes using Slack + CLI on The Ops Platform 🚀
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
@@ -7424,7 +7430,7 @@
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - The effortless way to build admin apps - Run `npx dashpress` to see some magic!
+- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate Admin Apps That Are Versatile And Simple To Use - Run `npx dashpress` to see some magic!
 - [SolidZORO/leaa](https://github.com/SolidZORO/leaa) - Leaa is a monorepo restful CMS / Admin built with Nest.js (@nestjsx/crud, node.js) and Ant Design.
 - [status-base/statusbase-nuxt](https://github.com/status-base/statusbase-nuxt) - A modern, zero-dependency uptime monitoring tool & status page based on GitHub Actions & Nuxt Content v2.
 - [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter) - ⚡️ Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.
@@ -7620,7 +7626,7 @@
 - [deislabs/hippo](https://github.com/deislabs/hippo) - The WebAssembly Platform
 - [stoqey/ib](https://github.com/stoqey/ib) - Interactive Brokers TWS/IB Gateway API client library for Node.js (TS)
 - [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate) - Deduplication tool for yarn.lock files
-- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
