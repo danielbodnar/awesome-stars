@@ -467,6 +467,7 @@
 
 ## C++ 
 
+- [sogou/srpc](https://github.com/sogou/srpc) - RPC framework based on C++ Workflow. Supports SRPC, Baidu bRPC, Tencent tRPC, thrift protocols.
 - [the-hyp0cr1t3/CC](https://github.com/the-hyp0cr1t3/CC) - Everything competitive programming related - introductory guide, topics/concepts, practice problems, snippets & templates, tips & tricks and more.
 - [janhq/nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -909,6 +910,8 @@
 
 ## Go 
 
+- [trpc-group/trpc-cmdline](https://github.com/trpc-group/trpc-cmdline) - Command line tool for tRPC
+- [aeraki-mesh/aeraki](https://github.com/aeraki-mesh/aeraki) - Manage any layer-7 protocols in a Service Mesh.
 - [tillson/git-hound](https://github.com/tillson/git-hound) - Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -2247,6 +2250,8 @@
 
 ## HTML 
 
+- [bnematzadeh/trpc-playground](https://github.com/bnematzadeh/trpc-playground) - The trpc-playground is a vulnerable app designed for learning about the structure of tRPC applications and their associated vulnerabilities.
+- [ilse-langnar/notebook](https://github.com/ilse-langnar/notebook) - Tool for Thought. ʚɞ
 - [JockDaRock/Time2Code](https://github.com/JockDaRock/Time2Code) - Portable Scalable web code editor to integrate into your sites and learning experiences
 - [jina-ai/api](https://github.com/jina-ai/api) - API schema of Jina command line interface exposed as JSON and YAML files.
 - [microsoft/BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples) - Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!
@@ -2533,6 +2538,9 @@
 
 ## JavaScript 
 
+- [icflorescu/trpc-transformer](https://github.com/icflorescu/trpc-transformer) - A simple tRPC transformer based on superjson with decimal.js support
+- [ManuelGil/vscode-mustache-snippets](https://github.com/ManuelGil/vscode-mustache-snippets) - This extension provides Mustache template engine support for Visual Studio Code. It helps you to write your Mustache files with syntax highlighting and code completion.
+- [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
 - [leoforfree/cz-customizable](https://github.com/leoforfree/cz-customizable) - A standalone commit message helper or customizable commitizen adapter for https://github.com/commitizen/cz-cli
 - [sdras/vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - These snippets were built to supercharge my workflow in the most seamless manner possible.
@@ -2655,6 +2663,7 @@
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [vdutts7/gpt4V-scraper](https://github.com/vdutts7/gpt4V-scraper) - AI agent that can SEE 👁️, control, navigate, & do stuff for you on your browser.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [qownnotes/web-companion](https://github.com/qownnotes/web-companion) - Browser extension to browse bookmarks and create notes in QOwnNotes
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
@@ -2932,7 +2941,7 @@
 - [stackblitz/webcontainer-api-starter](https://github.com/stackblitz/webcontainer-api-starter) - 
 - [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [package-url/packageurl-js](https://github.com/package-url/packageurl-js) - JavaScript implementation of the package url spec
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [DiegoZoracKy/cliss](https://github.com/DiegoZoracKy/cliss) - CLI Simple, Stupid. Automatic discovery of parameters names. Provides an easy and minimal setup by passing in only a function reference without the need of declaring all expected options names or crea
@@ -3585,6 +3594,7 @@
 
 ## Jupyter Notebook 
 
+- [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - An Easy-to-use Knowledge Editing Framework for LLMs.
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [Sentdex/TermGPT](https://github.com/Sentdex/TermGPT) - Giving LLMs like GPT-4 the ability to plan and execute terminal commands
@@ -3827,6 +3837,7 @@
 
 ## Others 
 
+- [aztek/awesome-self-reference](https://github.com/aztek/awesome-self-reference) - A curated list of examples of self-reference in art, science, and technology
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [xabikos/vscode-javascript](https://github.com/xabikos/vscode-javascript) - Contains the code snippets for JavaScript (ES6) development in VS Code editor
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
@@ -4414,6 +4425,7 @@
 
 ## Python 
 
+- [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [aheadintime/playwright-firefox-addons](https://github.com/aheadintime/playwright-firefox-addons) - use firefox addons with playwright automation
@@ -4466,7 +4478,6 @@
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) - OFRAK: unpack, modify, and repack binaries.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [ambujraj/ByteShare](https://github.com/ambujraj/ByteShare) - Large file sharing app [Community Edition]
 - [pamelafox/python-project-template](https://github.com/pamelafox/python-project-template) - A Github template repository for a Python project with support for Codespaces, devcontainer, and Github Actions.
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -4601,7 +4612,7 @@
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [autotest/autotest](https://github.com/autotest/autotest) - Autotest - Fully automated tests on Linux
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [nathro/AutoTransform](https://github.com/nathro/AutoTransform) - AutoTransform is a framework for large-scale, automated code modification in a production environment.
 - [abe-winter/automigrate](https://github.com/abe-winter/automigrate) - version your SQL schemas with git + automatically migrate them
@@ -5054,6 +5065,7 @@
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [nir0s/ghost](https://github.com/nir0s/ghost) - A simple, server/less, single-api, multi-backend, ghostly secret-store/key-store for your passwords, ssh-keys and cloud credentials. Ghost isn't real, it's just in your head.
 - [s0md3v/ote](https://github.com/s0md3v/ote) - Generate Email, Register for anything, Get the OTP/Link
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A community driven template for deploying a Kubernetes cluster with k0s, k3s or Talos
 - [0vercl0k/CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086) - Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely.
 - [pgexperts/flexible-freeze](https://github.com/pgexperts/flexible-freeze) - Flexible freeze scripts for managing off-hours vacuuming and freezing of PostgreSQL databases.
 - [skewthreads/QR-secret-sharing](https://github.com/skewthreads/QR-secret-sharing) - :lock: Create QR codes to secret-share a message. Ideal for cryptocurrency wallet recovery keys and passwords.
@@ -5291,7 +5303,9 @@
 
 ## Ruby 
 
+- [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [rails/thor](https://github.com/rails/thor) - Thor is a toolkit for building powerful command-line interfaces.
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
 - [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) - Generate OpenAPI schema from RSpec request specs
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
@@ -5360,6 +5374,15 @@
 
 ## Rust 
 
+- [rvolosatovs/wrpc](https://github.com/rvolosatovs/wrpc) - Draft of a draft of a draft of a WIT-based RPC framework
+- [rustifybe/web-rpc](https://github.com/rustifybe/web-rpc) - Bi-directional RPC for the Web
+- [brytelands/sologger](https://github.com/brytelands/sologger) - Sologger is a group of libraries and binaries that can be used to parse raw logs emitted from a Solana RPC into structured logs and transport Solana logs to either a LogStash or OpenTelemetry endpoint
+- [near/read-rpc](https://github.com/near/read-rpc) - Read-only NEAR RPC centralized-like performant solution
+- [ahkohd/tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - 😎  a custom invoke system for Tauri that leverages WebSocket
+- [n0-computer/quic-rpc](https://github.com/n0-computer/quic-rpc) - A streaming rpc system based on quic
+- [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
+- [google/tarpc](https://github.com/google/tarpc) - An RPC framework for Rust with a focus on ease of use.
+- [monero-rs/monero-rpc-rs](https://github.com/monero-rs/monero-rpc-rs) - RPC client for Monero daemon and wallet.
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
@@ -5656,7 +5679,7 @@
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -6305,7 +6328,6 @@
 - [llarsson/cloud-native-platform](https://github.com/llarsson/cloud-native-platform) - Repo for "How to build your own cloud-native platform on IaaS clouds in 2021"
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
 - [prbinu/yipfilter](https://github.com/prbinu/yipfilter) - A wrapper script over iptables/ipset to manage host based IP dynamic blacklists and whitelists
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A community driven template for deploying a Kubernetes cluster with k0s, k3s or Talos
 - [nchevsky/systemrescue-zfs](https://github.com/nchevsky/systemrescue-zfs) - A fork of SystemRescue (formerly SystemRescueCd) with ZFS built-in and serial console access enabled for all boot options. Download bootable ISOs from the releases page.
 - [bolthole/zrep](https://github.com/bolthole/zrep) - ZREP ZFS based replication and failover script from bolthole.com
 - [trimstray/otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
@@ -6513,6 +6535,7 @@
 
 ## Starlark 
 
+- [trpc-group/trpc](https://github.com/trpc-group/trpc) - A multi-language, pluggable, high-performance RPC framework
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [lucperkins/colossus](https://github.com/lucperkins/colossus) - Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
@@ -6577,6 +6600,44 @@
 
 ## TypeScript 
 
+- [Savory/Danet-CLI](https://github.com/Savory/Danet-CLI) - CLI tool for Danet applications
+- [Savory/Danet](https://github.com/Savory/Danet) - The most mature backend framework for Deno
+- [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
+- [dbfu/trpc-template](https://github.com/dbfu/trpc-template) - tRPC
+- [vonojs/vono-trpc-tanstackrouter](https://github.com/vonojs/vono-trpc-tanstackrouter) - Boilerplate for Vono, Tanstack Router and tRPC
+- [cah4a/trpc-bun-adapter](https://github.com/cah4a/trpc-bun-adapter) - Use tRPC with bun and fun
+- [gsporto/expo-api-routes-trpc](https://github.com/gsporto/expo-api-routes-trpc) - Example for typesafe Expo API Routes using tRPC
+- [mkosir/trpc-fe-boilerplate](https://github.com/mkosir/trpc-fe-boilerplate) - ⚒️ Minimal tRPC frontend boilerplate for separate BE-FE repositories. Easily consume fully typesafe APIs.
+- [ardsh/slonik-trpc](https://github.com/ardsh/slonik-trpc) - Type-safe efficient query API engine using slonik and zod
+- [otahontas/trpc-rtk-query](https://github.com/otahontas/trpc-rtk-query) - Automatically generate RTK Query api endpoints from your tRPC setup
+- [mishankov/vite-svelte-trpc](https://github.com/mishankov/vite-svelte-trpc) - Vite + Svelte + tRPC template
+- [ayungavis/turborepo-nextjs-tailwind-trpc](https://github.com/ayungavis/turborepo-nextjs-tailwind-trpc) - The boilerplate Turborepo + Next.js + Tailwind + tRPC provides a starting point for building modern, fast, and responsive web applications.
+- [intergalacticspacehighway/expo-trpc](https://github.com/intergalacticspacehighway/expo-trpc) - tRPC, expo universal monorepo
+- [romanzy313/trpc-uwebsockets](https://github.com/romanzy313/trpc-uwebsockets) - tRPC adapter for uWebSockets.js server
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
+- [KyleAMathews/trpc-crdt](https://github.com/KyleAMathews/trpc-crdt) - tRPC integrations for CRDTs: CRDT-native RPC calls
+- [mkosir/trpc-api-boilerplate](https://github.com/mkosir/trpc-api-boilerplate) - ⚒️ Minimal tRPC API boilerplate for separate BE-FE repositories. Easily publish fully typesafe APIs that any frontend can consume.
+- [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
+- [egoist/next-fullstack-starter](https://github.com/egoist/next-fullstack-starter) - Next.js + Prisma + TailwindCSS +TRPC
+- [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
+- [chamatt/create-kaol-app](https://github.com/chamatt/create-kaol-app) - Kaol Stack - Prisma, Expo, Next, TRPC, Solito, Tailwind - A monorepo template for a truly universal app
+- [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
+- [sachinraja/trpc-playground](https://github.com/sachinraja/trpc-playground) - playground for running tRPC queries in the browser
+- [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
+- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS O
+- [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
+- [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
+- [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
+- [samchon/nestia](https://github.com/samchon/nestia) - Make NestJS much faster and easier
+- [fabiospampinato/vscode-todo-plus](https://github.com/fabiospampinato/vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
+- [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - LLM powered development for VSCode
+- [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
+- [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
+- [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
+- [auchenberg/vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
+- [Plazide/local-ai-code-completion](https://github.com/Plazide/local-ai-code-completion) - A vscode extension providing AI code completion locally on your computer.
+- [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
+- [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [KnisterPeter/vscode-commitizen](https://github.com/KnisterPeter/vscode-commitizen) - Visual Studio Code Commitizen Support
 - [jondot/vscode-hygen](https://github.com/jondot/vscode-hygen) - This extension bundles Hygen into VSCode and offers seamless code generator functionality right into your editor.
@@ -6727,6 +6788,7 @@
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
+- [ambujraj/ByteShare](https://github.com/ambujraj/ByteShare) - Large file sharing app [Community Edition]
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [xavimondev/supaplay](https://github.com/xavimondev/supaplay) - Supabase Launch Week 8 Hackathon - A playground to test and refine your JavaScript functions against your   PostgreSQL database.
 - [ogayanfe/websandbox](https://github.com/ogayanfe/websandbox) - An online frontend programming sandbox with integrated browser with live reloading built using react, react-dom, django and the webcontainer api
@@ -6757,7 +6819,6 @@
 - [fliegwerk/fliegdoc](https://github.com/fliegwerk/fliegdoc) - A documentation generator for Typescript-based libraries with good support for monorepos
 - [jcamiel/hurl-express-tutorial](https://github.com/jcamiel/hurl-express-tutorial) - Tutorial for integration tests with Hurl on an Express website
 - [data-uri/datauri](https://github.com/data-uri/datauri) - Generate Data-URI scheme via terminal or node.js
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [emyann/matron](https://github.com/emyann/matron) - A Domain Specific Language à-la Dockerfile with a CLI to scaffold your projects.
 - [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js
@@ -7541,7 +7602,7 @@
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [echobind/bisonapp](https://github.com/echobind/bisonapp) - A Full Stack Jamstack in-a-box brought to you by Echobind
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build AI Driven Business App
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Create AI-Driven Apps like Assembling Blocks
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [dotenx/dotenx](https://github.com/dotenx/dotenx) - No-code and Low-code all-in-one platform to build landing pages, websites, web applications, APIs, automations. An alternative for Wix, Webflow, Zapier, and more
 - [oslabs-beta/Trace](https://github.com/oslabs-beta/Trace) - A lightweight GraphQL query performance monitoring GUI with real-time, resolver-level performance tracing metrics and error logging.
@@ -7820,7 +7881,6 @@
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 - [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - [Work in Progress] An interactive tutorial and playground for Nuxt
 - [SX-9/codedit-web](https://github.com/SX-9/codedit-web) - CodedIt In The Web With WebContainers
-- [qownnotes/web-companion](https://github.com/qownnotes/web-companion) - Browser extension to browse bookmarks and create notes in QOwnNotes
 - [Thysrael/Ficus](https://github.com/Thysrael/Ficus) - Ficus is a software for editing and managing markdown documents, developed by the  gg=G team.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [HelgeSverre/ollama-gui](https://github.com/HelgeSverre/ollama-gui) - A Web Interface for chatting with your local LLMs via the ollama API
