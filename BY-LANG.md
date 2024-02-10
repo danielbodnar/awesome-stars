@@ -919,6 +919,7 @@
 
 ## Go 
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [pastdev/clconf](https://github.com/pastdev/clconf) - 
 - [shiyanhui/hero](https://github.com/shiyanhui/hero) - A handy, fast and powerful go template engine.
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
@@ -1352,7 +1353,7 @@
 - [dotmesh-io/dotmesh](https://github.com/dotmesh-io/dotmesh) - dotmesh (dm) is like git for your data volumes (databases, files etc) in Docker and Kubernetes
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Workflow automation tool for DevOps. Keep configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
+- [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
 - [carvel-dev/kwt](https://github.com/carvel-dev/kwt) - Kubernetes Workstation Tools CLI
 - [ahoy-cli/ahoy](https://github.com/ahoy-cli/ahoy) - Create self-documenting cli programs from YAML files. Easily wrap bash, grunt, npm, docker, (anything) to standardize your processes and make the lives of the people working on your project better.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
@@ -1751,7 +1752,7 @@
 - [techjacker/repo-security-scanner](https://github.com/techjacker/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 - [munnerz/kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [n1207n/video-transcode-queue](https://github.com/n1207n/video-transcode-queue) - A sample video upload platform as a kubernetes cluster (WIP)
-- [diericx/bevy](https://github.com/diericx/bevy) - Self hosted software for streaming media over BitTorrent with the option to seed back
+- [diericx/bevy](https://github.com/diericx/bevy) - Self hosted software for distibuted video streaming using BitTorrent
 - [webtor-io/content-transcoder](https://github.com/webtor-io/content-transcoder) - Transcodes HTTP-stream to HLS
 - [maruel/serve-mp4](https://github.com/maruel/serve-mp4) - Serves transcoded MP4's for ChromeCast and ChromeOS
 - [livepeer/go-livepeer](https://github.com/livepeer/go-livepeer) - Official Go implementation of the Livepeer protocol
@@ -2241,6 +2242,7 @@
 
 ## HCL 
 
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
 - [codeaprendiz/learn-devops](https://github.com/codeaprendiz/learn-devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
@@ -2589,6 +2591,7 @@
 - [arnaud/chrome-tab-sugar](https://github.com/arnaud/chrome-tab-sugar) - Organize and manage your tabs from a single page! - Firefox Panorama for Chrome
 - [maciekmm/container-tabs-sidebar](https://github.com/maciekmm/container-tabs-sidebar) - Firefox addon aiming to utilize screen estate more efficiently by showing tabs in a sidebar grouped by privacy containers. Inspired by TreeStyleTab.
 - [matthoffner/backseat-pilot](https://github.com/matthoffner/backseat-pilot) - Bring your own copilot server and customize commands to refactor instead of autofill or tabbed completion.
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 - [APIDevTools/swagger-cli](https://github.com/APIDevTools/swagger-cli) - Swagger 2.0 and OpenAPI 3.0 command-line tool
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box.
 - [thunks/thunks](https://github.com/thunks/thunks) - A small and magical composer for all JavaScript asynchronous.
@@ -4058,7 +4061,7 @@
 - [ever-co/ever-opensaas](https://github.com/ever-co/ever-opensaas) - Ever® OpenSaaS™ - Open-Source solution for creating, managing, and deploying full-featured SaaS offerings.
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [chihming/awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
-- [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Generative AI SDK for Web to build AI assistants for apps built with JavaScript, React, Angular, Vue, Ember, Electron
+- [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Generative AI SDK for Web to build AI Assistants for apps built with JavaScript, React, Angular, Vue, Ember, Electron
 - [codediodeio/rektor-db](https://github.com/codediodeio/rektor-db) - Rektor Vector Database
 - [mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles) - Design Microservices Architecture with Patterns & Principles. We're going to learn how to Design Microservices Architecture with using Design Patterns, Principles and the Best Practices.  You will Lea
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
@@ -4479,7 +4482,6 @@
 - [Ashish-Abraham/Custom-VSCode-CoPilot](https://github.com/Ashish-Abraham/Custom-VSCode-CoPilot) - Leveraging code LLMs to build  and use your own personal coding assistant on VSCode 😎
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [safevideo/autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
-- [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 - [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create 🦜️🔗 LangChain apps by just using prompts🌟 Star to support our work! | 只需使用句子即可创建 LangChain 应用程序。 给个star支持我们的工作吧！
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
@@ -5522,7 +5524,7 @@
 - [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-- [edwinkys/oasysdb](https://github.com/edwinkys/oasysdb) - An AI-native lightweight and reliable open-source vector database designed to run on the edge.
+- [cosyneai/oasysdb](https://github.com/cosyneai/oasysdb) - An AI-native lightweight and reliable open-source vector database designed to run on the edge.
 - [ezesundayeze/dioxus-todo](https://github.com/ezesundayeze/dioxus-todo) - A Dioxus Todo application sample
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
@@ -7048,7 +7050,7 @@
 - [launchcodedev/app-config](https://github.com/launchcodedev/app-config) - Easy Configuration Loader with Strict Validation
 - [gilbert/zaml](https://github.com/gilbert/zaml) - The Final Form of configuration files
 - [eseom/nunjucks-template](https://github.com/eseom/nunjucks-template) - This is  a vscode extension for nunjucks template language which is also available to all Jinja style templates
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
 - [aws/constructs](https://github.com/aws/constructs) - Define composable configuration models through code
 - [Intellicode/writer](https://github.com/Intellicode/writer) - 🤖📝 A markdown editor powered by AI (Ollama)
 - [shreyaskarnik/DistiLlama](https://github.com/shreyaskarnik/DistiLlama) - Chrome Extension to Summarize or Chat with Web Pages/Local Documents Using locally running LLMs. Keep all of your data and conversations private. 🔐
@@ -7386,7 +7388,7 @@
 - [rwasm/vite-plugin-rsw](https://github.com/rwasm/vite-plugin-rsw) - 🦞 wasm-pack plugin for Vite
 - [adbayb/termost](https://github.com/adbayb/termost) - 📦 A framework to build your next CLI application: Get the most of your terminal 🚀
 - [pipelinit/pipelinit-cli](https://github.com/pipelinit/pipelinit-cli) - Automatically generates pipelines for your project.
-- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno inspired by zx.
+- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx.
 - [andrewbrey/mdrb](https://github.com/andrewbrey/mdrb) - Turn your Markdown documentation into executable runbooks.
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
