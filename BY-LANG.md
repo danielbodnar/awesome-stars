@@ -1181,7 +1181,7 @@
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [the4thamigo-uk/conflate](https://github.com/the4thamigo-uk/conflate) - Library providing routines to merge and validate JSON, YAML and/or TOML files
-- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
+- [elves/elvish](https://github.com/elves/elvish) - Versatile interactive shell & powerful scripting language in one
 - [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
 - [rsteube/carapace-spec](https://github.com/rsteube/carapace-spec) - define simple completions using a spec file
 - [akamensky/argparse](https://github.com/akamensky/argparse) - Argparse for golang. Just because `flag` sucks
@@ -1409,13 +1409,13 @@
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 - [reviewpad/reviewpad](https://github.com/reviewpad/reviewpad) - Next generation pull requests and issues 🦄
 - [Xe/olin](https://github.com/Xe/olin) - Webassembly + Event Sourcing
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [vearch/vearch](https://github.com/vearch/vearch) - Vearch: Your Vector Search Database
+- [vearch/vearch](https://github.com/vearch/vearch) - Vearch: Your Vector Search
 - [bunnyshell/cli](https://github.com/bunnyshell/cli) - The official command line interface for the Bunnyshell API.
 - [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc.
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
@@ -2333,7 +2333,6 @@
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
 - [StevenWingett/LifeSciencesTrainingDatasets](https://github.com/StevenWingett/LifeSciencesTrainingDatasets) - A collection of datasets and accompanying scripts for learning how to analyse data
 - [FelixKrueger/Bismark](https://github.com/FelixKrueger/Bismark) - A tool to map bisulfite converted sequence reads and determine cytosine methylation states
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
 - [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
 - [themesberg/tailwind-dashboard-windster](https://github.com/themesberg/tailwind-dashboard-windster) - Free and open-source admin dashboard interface built on top of Tailwind CSS and Flowbite
@@ -2573,7 +2572,7 @@
 - [bamlab/generator-rn-toolbox](https://github.com/bamlab/generator-rn-toolbox) - The React Native Generator to bootstrap your apps
 - [BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) - sample node app for Docker examples
 - [judge0/ide](https://github.com/judge0/ide) - ✨ Simple, free and open-source online code editor.
-- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.
+- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, s
 - [mikaelbr/vscodemod](https://github.com/mikaelbr/vscodemod) - VSCode extension for doing codemod on selected text
 - [eslint/generator-eslint](https://github.com/eslint/generator-eslint) - A Yeoman generator to help with ESLint development
 - [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
@@ -2957,7 +2956,7 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [thesephist/libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is a secure browser isolation system that powers web app virtualization via zero trust remote browsing and a secure document gateway. In effect a secure reverse proxy or CORS-proxy. Embed
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Access the web from a browser you run on a server, rather than on your local device. For security, privacy and more!
 - [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange) - Specification that codifies an inter-related pair of data formats for defining proof presentations (Presentation Definition) and subsequent proof submissions (Presentation Submission)
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 - [Fannon/search-bookmarks-history-and-tabs](https://github.com/Fannon/search-bookmarks-history-and-tabs) - Browser extension to search and navigate browser tabs, local bookmarks and history.
@@ -3313,7 +3312,6 @@
 - [waleedahmad/node-stream](https://github.com/waleedahmad/node-stream) - RTMP server in Nodejs for live streaming.
 - [75lb/handbrake-js](https://github.com/75lb/handbrake-js) - Video encoding / transcoding / converting for node.js
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [typesense/showcase-recipe-search](https://github.com/typesense/showcase-recipe-search) - Instantly search 2M cooking recipes using Typesense Search (an open source alternative to Algolia / ElasticSearch)  ⚡ 🥘 🔍
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
@@ -4355,7 +4353,7 @@
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso) - Laravel Vue headless CMS / admin panel / dashboard / builder / API CRUD generator, anything !
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
-- [serghey-rodin/vesta](https://github.com/serghey-rodin/vesta) - VESTA Control Panel
+- [outroll/vesta](https://github.com/outroll/vesta) - VESTA Control Panel
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [ma77hews/PersonalResourses](https://github.com/ma77hews/PersonalResourses) - 
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
@@ -4529,7 +4527,7 @@
 - [mapbox/mason](https://github.com/mapbox/mason) - Cross platform package manager for C/C++ apps
 - [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM.
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
-- [ugorsahin/TalkingHeads](https://github.com/ugorsahin/TalkingHeads) - A Headless Chrome interface to communicate with Google Bard, HugginChat, OpenAI ChatGPT, and Pi
+- [ugorsahin/TalkingHeads](https://github.com/ugorsahin/TalkingHeads) - A lıbrary to communicate with Bard, HuggingChat, ChatGPT, Claude, Copilot and Pi
 - [handrew/browserpilot](https://github.com/handrew/browserpilot) - Natural language browser automation
 - [mvanholsteijn/docker-makefile](https://github.com/mvanholsteijn/docker-makefile) - Makefile for building docker repository releases
 - [thombashi/tcconfig](https://github.com/thombashi/tcconfig) - A tc command wrapper. Make it easy to set up traffic control of network bandwidth/latency/packet-loss/packet-corruption/etc. to a network-interface/Docker-container(veth).
@@ -4696,7 +4694,7 @@
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -4821,7 +4819,7 @@
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Build AI 🤖 using SQL
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The middleware for building custom AI, enabling smarter organizations.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
@@ -5502,7 +5500,7 @@
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with Ollama servers
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - Use GPT-4(V), Gemini, LocalAI, Ollama and other LLMs in the terminal.
 - [matthewwoodruff/sdoc](https://github.com/matthewwoodruff/sdoc) - Framework for building custom CLIs around shell, scripts, and executables
 - [woelper/oculante](https://github.com/woelper/oculante) - A minimalistic crossplatform image viewer written in rust
@@ -5523,7 +5521,7 @@
 - [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-- [oasysdb/oasysdb](https://github.com/oasysdb/oasysdb) - An AI-native lightweight and reliable open-source vector database designed to run on the edge.
+- [oasysai/oasysdb](https://github.com/oasysai/oasysdb) - An AI-native lightweight and reliable open-source vector database designed to run on the edge.
 - [ezesundayeze/dioxus-todo](https://github.com/ezesundayeze/dioxus-todo) - A Dioxus Todo application sample
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
@@ -5724,7 +5722,7 @@
 - [d-e-s-o/apcacli](https://github.com/d-e-s-o/apcacli) - A command line tool for trading stocks on Alpaca (alpaca.markets).
 - [kpcyrd/boxxy-rs](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actor components and capability providers.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -6845,7 +6843,7 @@
 - [datreeio/yaml-schema-validator](https://github.com/datreeio/yaml-schema-validator) - An open source yaml schema validator. just like json schema - only better
 - [alma-cdk/openapix](https://github.com/alma-cdk/openapix) - Combine the power of AWS CDK & OpenAPI YAML Schema Definitions
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
-- [learn-anything/todo](https://github.com/learn-anything/todo) - Fast fully keyboard driven todo app with GitHub integration and AI features
+- [learn-anything/explore](https://github.com/learn-anything/explore) - Trying things
 - [woochanleee/project-tree-generator](https://github.com/woochanleee/project-tree-generator) - 📦 Project Tree Generator
 - [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools by using these cards in your GitHub README.
 - [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
@@ -7334,7 +7332,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [muctadir/lama](https://github.com/muctadir/lama) - LaMa, short for Labelling Machine, is an web application developed for aiding in thematic analysis of qualitative data.
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
@@ -7390,7 +7388,7 @@
 - [pipelinit/pipelinit-cli](https://github.com/pipelinit/pipelinit-cli) - Automatically generates pipelines for your project.
 - [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx.
 - [andrewbrey/mdrb](https://github.com/andrewbrey/mdrb) - Turn your Markdown documentation into executable runbooks.
-- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack, or even Twitch.
+- [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [yoyurec/logseq-awesome-ui](https://github.com/yoyurec/logseq-awesome-ui) - Reworked UI for Logseq
@@ -7518,7 +7516,7 @@
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [churichard/notabase](https://github.com/churichard/notabase) - A second brain for your knowledge, thoughts, and ideas.
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
-- [opral/monorepo](https://github.com/opral/monorepo) - globalization infrastructure for software && change control for apps
+- [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control backend
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [open-source-labs/Spearmint](https://github.com/open-source-labs/Spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
@@ -7587,6 +7585,7 @@
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [omnivore-app/logseq-omnivore](https://github.com/omnivore-app/logseq-omnivore) - Logseq plugin to fetch articles and highlights from Omnivore
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [aletheia/iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
 - [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
@@ -7729,7 +7728,7 @@
 - [tenseijs/tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance.
 - [christiankozalla/astro-markdown-cms](https://github.com/christiankozalla/astro-markdown-cms) - A Flat File CMS provided as an Astro Integration
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [levaintech/contented](https://github.com/levaintech/contented) - Contented is a Markdown-based authoring workflow & processor that encourage developer authoring within its contextual Git repository.
+- [fuxingloh/contented](https://github.com/fuxingloh/contented) - Contented is a Markdown-based authoring workflow & processor that encourage developer authoring within its contextual Git repository.
 - [aviondb/aviondb](https://github.com/aviondb/aviondb) - A decentralised database with MongoDB-like developer interface (Fully Compatible with OrbitDB)
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
@@ -7866,6 +7865,7 @@
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [tngan/samlify](https://github.com/tngan/samlify) - Node.js library for SAML SSO
 - [scalarhq/videotranscode.space](https://github.com/scalarhq/videotranscode.space) - A video transcoder and converter built using Web Assembly and FFMPEG to transcode and convert videos right in your browser while protecting your privacy
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [JupiterOne/security-policy-builder](https://github.com/JupiterOne/security-policy-builder) - CLI for generating policies, standards and control procedures (PSP) documentation in Markdown and publishing to JupiterOne or Confluence
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
