@@ -155,6 +155,8 @@
 
 ## C 
 
+- [dertuxmalwieder/ymarks](https://github.com/dertuxmalwieder/ymarks) - The self-hosted ymarks bookmark syncing tool (Git mirror)
+- [mrdotx/surf](https://github.com/mrdotx/surf) - build of the suckless surf browser with patches for bookmarks, modal, search engines, clipboard not primary, quit hotkey, start with go
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [google/esh](https://github.com/google/esh) - UART based embedded shell for embedded systems. Intended to be used for learning, experimenting and diagnostics.
 - [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E)
@@ -470,6 +472,8 @@
 
 ## C++ 
 
+- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
+- [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [v6d-io/v6d](https://github.com/v6d-io/v6d) - vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage)
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -662,6 +666,7 @@
 
 ## CSS 
 
+- [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder) - Browser extension that allows to find and delete duplicate bookmarks.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [Abhinav-26/DevOps-Projects](https://github.com/Abhinav-26/DevOps-Projects) - The repository contains beginner friendly DevOps projects for automating stuffs using DevOps concepts.
 - [instant-markdown/instant-markdown-d](https://github.com/instant-markdown/instant-markdown-d) - Small instant Markdown preview server
@@ -804,6 +809,7 @@
 
 ## Dockerfile 
 
+- [ShahradR/git-template](https://github.com/ShahradR/git-template) - Language-agnostic Git template repository to kickstart your projects!
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
 - [ssbostan/jenkins-stack-docker](https://github.com/ssbostan/jenkins-stack-docker) - Docker-compose version of jenkins-stack-kubernetes
 - [meisterplan/docker-playwright](https://github.com/meisterplan/docker-playwright) - Customized docker image for playwright with make
@@ -876,6 +882,7 @@
 
 ## Elixir 
 
+- [bookmark-org/bookmark](https://github.com/bookmark-org/bookmark) - Bookmark.org digital archive service
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
@@ -919,6 +926,14 @@
 
 ## Go 
 
+- [retr0h/gilt](https://github.com/retr0h/gilt) - A GIT layering tool.
+- [mrusme/xbsapi](https://github.com/mrusme/xbsapi) - Alternative xBrowserSync API that is a single binary and supports SQLite3, PostgreSQL and MySQL
+- [pgaskin/crb](https://github.com/pgaskin/crb) - Library and tools for parsing and exporting Chrome bookmarks.
+- [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
+- [anton-yurchenko/git-release](https://github.com/anton-yurchenko/git-release) - Publish a GitHub Release :package: with Assets :file_folder: and Changelog :bookmark:
+- [Mikescher/firefox-sync-client](https://github.com/Mikescher/firefox-sync-client) - A cli for firefox-sync (firefox bookmarks, passwords, account, ...)
+- [linhx/tbmk](https://github.com/linhx/tbmk) - A commands bookmark for terminal 🔖
+- [soulteary/flare](https://github.com/soulteary/flare) - 🏂 Challenge all bookmarking apps and websites directories, Aim to Be a best performance monster.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [pastdev/clconf](https://github.com/pastdev/clconf) - 
 - [shiyanhui/hero](https://github.com/shiyanhui/hero) - A handy, fast and powerful go template engine.
@@ -2273,6 +2288,10 @@
 
 ## HTML 
 
+- [danpeig/bookmarks2md](https://github.com/danpeig/bookmarks2md) - Browser bookmarks to markdown converter
+- [niqdev/my-awesome](https://github.com/niqdev/my-awesome) - git-bookmarks
+- [hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
+- [netnr/uuid](https://github.com/netnr/uuid) - A decentralized favorites and bookmarks based on Git hosting
 - [carvel-dev/carvel](https://github.com/carvel-dev/carvel) - Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes. This repo contains information regarding the Car
 - [bnematzadeh/trpc-playground](https://github.com/bnematzadeh/trpc-playground) - The trpc-playground is a vulnerable app designed for learning about the structure of tRPC applications and their associated vulnerabilities.
 - [ilse-langnar/notebook](https://github.com/ilse-langnar/notebook) - Tool for Thought. ʚɞ
@@ -2560,6 +2579,15 @@
 
 ## JavaScript 
 
+- [skywolfmo/bookmarksai](https://github.com/skywolfmo/bookmarksai) - Chrome Bookmarks on steroids
+- [kiwibrowser/sync](https://github.com/kiwibrowser/sync) - Open-source Chrome Extension for Bookmarks and Profile sync
+- [stxapps/brace-client](https://github.com/stxapps/brace-client) - Your bookmark manager with privacy at heart. Save links to everything and visit them later easily anytime on any of your devices with full control of your data.
+- [onozaty/browser-online-bookmark-incsearch](https://github.com/onozaty/browser-online-bookmark-incsearch) - Online Bookmark Incremental Search for Firefox(WebExntension) and Google Chrome
+- [FernandoLins8/Tab-Groups-to-Bookmarks](https://github.com/FernandoLins8/Tab-Groups-to-Bookmarks) - A Chrome extension for managing and saving your tabs and tab groups.
+- [mathisgauthey/obsidian-workflow-template](https://github.com/mathisgauthey/obsidian-workflow-template) - This is an Obsidian vault template from my Workflow with Tasks and Project Management, Journaling, Media Tracking, Offline Read-it-later and Bookmark Management, Note-taking and Note-sharing on Your O
+- [IAMSHENSH/g-mark-magic-ext](https://github.com/IAMSHENSH/g-mark-magic-ext) - Your browser's enchanting solution for effortless, intelligent bookmark management.
+- [mark-book/markbook](https://github.com/mark-book/markbook) - book mark &lt;--&gt;  mark book -- insane social bookmarking for the solid platform
+- [nthiebes/booky.io](https://github.com/nthiebes/booky.io) - Online bookmark manager with a focus on simplicity, customizability, privacy, and speed.
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [icflorescu/trpc-transformer](https://github.com/icflorescu/trpc-transformer) - A simple tRPC transformer based on superjson with decimal.js support
@@ -3297,7 +3325,6 @@
 - [a-synchronous/rubico](https://github.com/a-synchronous/rubico) - [a]synchronous functional programming
 - [hectorm/otpauth](https://github.com/hectorm/otpauth) - One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
 - [paulmillr/noble-ed25519](https://github.com/paulmillr/noble-ed25519) - Fastest 4KB JS implementation of ed25519 signatures
-- [denoland/deployctl](https://github.com/denoland/deployctl) - Command line tool for Deno Deploy
 - [kriszyp/msgpackr](https://github.com/kriszyp/msgpackr) - Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]
 - [tamasszoke/deno-seed](https://github.com/tamasszoke/deno-seed) - Boilerplate for deno development with Mongo, React, and Docker.
 - [billchurch/webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
@@ -3712,7 +3739,7 @@
 - [lawsdontapplytopigs/dotfiles](https://github.com/lawsdontapplytopigs/dotfiles) - welcome to my crybb 😎😎😎😎😎😎
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## M4 
 
@@ -3863,6 +3890,17 @@
 
 ## Others 
 
+- [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
+- [conan-io/tribe](https://github.com/conan-io/tribe) - Conan 2.0 Tribe
+- [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
+- [fernandocanizo/my-bookmarks](https://github.com/fernandocanizo/my-bookmarks) - A centralized way to keep and better organize my bookmarks. Cross-browser, yay! :P
+- [elnook/notedo](https://github.com/elnook/notedo) - Notes, Todos, Markdown, Bookmarks and more with VIM support and full-text search - stay'in organized
+- [dharmeshkakadia/github-bookmarks-stars](https://github.com/dharmeshkakadia/github-bookmarks-stars) - All the repos I have starred on github
+- [akullpp/bookmarks](https://github.com/akullpp/bookmarks) - A list of bookmarks of remarkable sites which are about all things software engineering
+- [ninn-kou/Starry](https://github.com/ninn-kou/Starry) - 🌟A collection of high-star repositories on GitHub. /* My bookmarks! */
+- [valera-rozuvan/bookmarks-md](https://github.com/valera-rozuvan/bookmarks-md) - a collection of bookmarks organized in Markdown files
+- [Drapegnik/notes](https://github.com/Drapegnik/notes) - 📓 my notes, bookmarks, useful articles & courses
+- [Hamid-K/bookmarks](https://github.com/Hamid-K/bookmarks) - A personal list of various resources for those who are interested in learning about infosec and hacking and keeping themselves up to date. This is by no means a complete nor fresh list, but I occasion
 - [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [Artemmkin/infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
@@ -4049,7 +4087,7 @@
 - [openautocomplete/openautocomplete](https://github.com/openautocomplete/openautocomplete) - OpenAutoComplete -- CLI autocomplete specification
 - [sigmf/SigMF](https://github.com/sigmf/SigMF) - The Signal Metadata Format Specification
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
-- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [aretecode/system-design-templates-excalidraw](https://github.com/aretecode/system-design-templates-excalidraw) - Rough shapes to do rapid system design in front-end, full-stack, back-end, distributed, and product settings.
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3) - A list of D3 libraries, plugins and utilities
@@ -4454,6 +4492,9 @@
 
 ## Python 
 
+- [Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one) - This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto
+- [ZhaoUncle/Awesome-Homepage](https://github.com/ZhaoUncle/Awesome-Homepage) - Here is a curated list of outstanding projects with a focus on homepage, homelab, self-hosted, startpage, single-page,  bookmark.
+- [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [mzfr/rsh](https://github.com/mzfr/rsh) - generate reverse shell from CLI for linux and Windows.
 - [jupyter/cookiecutter-docker-stacks](https://github.com/jupyter/cookiecutter-docker-stacks) - Cookiecutter for community-maintained Jupyter Docker images
 - [srstevenson/nb-clean](https://github.com/srstevenson/nb-clean) - Clean Jupyter notebooks of outputs, metadata, and empty cells, with Git integration
@@ -5347,6 +5388,7 @@
 
 ## Ruby 
 
+- [sreedevk/bkmrq](https://github.com/sreedevk/bkmrq) - Export Your Bookmarks to Web Formats
 - [Linuxbrew/brew](https://github.com/Linuxbrew/brew) - :beer::penguin: The Homebrew package manager for Linux
 - [LandRegistry/common-dev-env](https://github.com/LandRegistry/common-dev-env) - A generic Docker/Docker Compose-based development environment with some useful hooks to get apps up and running faster
 - [bibendi/dip](https://github.com/bibendi/dip) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
@@ -5421,6 +5463,8 @@
 
 ## Rust 
 
+- [sysid/bkmr](https://github.com/sysid/bkmr) - Super fast CLI bookmark manager and launcher
+- [quambene/bogrep](https://github.com/quambene/bogrep) - Grep your bookmarks
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
@@ -5632,7 +5676,7 @@
 - [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
-- [sigoden/argc](https://github.com/sigoden/argc) - Easily create and use cli that based on bashscript.
+- [sigoden/argc](https://github.com/sigoden/argc) - Bash CLI framework and generator.
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
 - [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
@@ -6101,6 +6145,9 @@
 
 ## Shell 
 
+- [marcosgomesneto/bun-devcontainers](https://github.com/marcosgomesneto/bun-devcontainers) - Bun Runtime Template for DevContainers & Docker.
+- [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
+- [jocelynmallon/zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [bbugyi200/cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
 - [jirutka/esh](https://github.com/jirutka/esh) - Simple templating engine based on shell.
@@ -6617,6 +6664,7 @@
 
 ## Svelte 
 
+- [maxlath/website-history-browser](https://github.com/maxlath/website-history-browser) - a WebExtension to browse your history per website
 - [yanick/jsonschematic](https://github.com/yanick/jsonschematic) - json schema viewer
 - [kevmodrome/mistral-kit](https://github.com/kevmodrome/mistral-kit) - A prompt to code site using mistral-7b and ollama.
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
@@ -6669,6 +6717,13 @@
 
 ## TypeScript 
 
+- [Rohit19060/bookmark-store](https://github.com/Rohit19060/bookmark-store) - App for storing bookmarks temporary, it is utilizing Local Storage
+- [andresmarpz/bookmarks](https://github.com/andresmarpz/bookmarks) - Next.js App Router experimental project - Save your internet discoveries on the cloud.
+- [masonmcelvain/hop](https://github.com/masonmcelvain/hop) - A browser extension featuring aesthetic bookmarks
+- [norbertK/taskmarks](https://github.com/norbertK/taskmarks) - VSCode Extension - Persist bookmarks for different tasks.
+- [katydecorah/bookmark-action](https://github.com/katydecorah/bookmark-action) - 🔖 A GitHub action to bookmark websites to a JSON file
+- [camellia-app/camellia](https://github.com/camellia-app/camellia) - Browser extension which helps with managing huge amounts of browser bookmarks by placing them at the new tab screen.
+- [StarlaneStudios/vscode-comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors) - ⚓A Visual Studio Code extension that adds support for comment anchors 🔭
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
 - [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - Execute your runbooks, docs, and READMEs for VS Code.
 - [enchant97/note-mark](https://github.com/enchant97/note-mark) - Note Mark is a lighting fast and minimal; web-based Markdown notes app.
@@ -7047,7 +7102,7 @@
 - [launchcodedev/app-config](https://github.com/launchcodedev/app-config) - Easy Configuration Loader with Strict Validation
 - [gilbert/zaml](https://github.com/gilbert/zaml) - The Final Form of configuration files
 - [eseom/nunjucks-template](https://github.com/eseom/nunjucks-template) - This is  a vscode extension for nunjucks template language which is also available to all Jinja style templates
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
 - [aws/constructs](https://github.com/aws/constructs) - Define composable configuration models through code
 - [Intellicode/writer](https://github.com/Intellicode/writer) - 🤖📝 A markdown editor powered by AI (Ollama)
 - [shreyaskarnik/DistiLlama](https://github.com/shreyaskarnik/DistiLlama) - Chrome Extension to Summarize or Chat with Web Pages/Local Documents Using locally running LLMs. Keep all of your data and conversations private. 🔐
@@ -7217,7 +7272,7 @@
 - [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
-- [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying of forms a pleasure!
+- [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js (App Router) project.
@@ -7724,7 +7779,7 @@
 - [etro-js/etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [stackbit-themes/stackbit-examples](https://github.com/stackbit-themes/stackbit-examples) - 
-- [letterpad/letterpad](https://github.com/letterpad/letterpad) - A publishing platform for creative people. Discover a world of possibilities for your writing and creativity on Letterpad, the premier blogging platform for creative expression.
+- [letterpad/letterpad](https://github.com/letterpad/letterpad) - A publishing platform for creative people.
 - [tenseijs/tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance.
 - [christiankozalla/astro-markdown-cms](https://github.com/christiankozalla/astro-markdown-cms) - A Flat File CMS provided as an Astro Integration
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
@@ -7844,6 +7899,7 @@
 - [ije/land](https://github.com/ije/land) - Run Deno X module without installation.
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [oslabs-beta/hollow](https://github.com/oslabs-beta/hollow) - A headless CMS built in a Deno runtime environment.
+- [denoland/deployctl](https://github.com/denoland/deployctl) - Command line tool for Deno Deploy
 - [denyncrawford/dndb](https://github.com/denyncrawford/dndb) - A Deno 🦕 persistent, embeddable and optimized NoSQL database for JS & TS
 - [SRNV/Ogone](https://github.com/SRNV/Ogone) - Advanced Web Composition for Future
 - [denodep/dep](https://github.com/denodep/dep) - Deno dependency management tool.
