@@ -1023,6 +1023,7 @@
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
+- [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [mk-5/fjira](https://github.com/mk-5/fjira) - The golang fuzzy-find cli jira interface 🚀
@@ -1351,7 +1352,7 @@
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
-- [BetaPictoris/wiki](https://github.com/BetaPictoris/wiki) - 📗 Read Wikipedia articles through the CLI
+- [betapictoris/wiki](https://github.com/betapictoris/wiki) - 📗 Read Wikipedia articles through the CLI
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go.
@@ -1430,7 +1431,7 @@
 - [Xe/olin](https://github.com/Xe/olin) - Webassembly + Event Sourcing
 - [Xe/x](https://github.com/Xe/x) - Various tools, trinkets and experiments
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [vearch/vearch](https://github.com/vearch/vearch) - Vearch: Your Vector Search
+- [vearch/vearch](https://github.com/vearch/vearch) - distributed vector search for AI-native applications
 - [bunnyshell/cli](https://github.com/bunnyshell/cli) - The official command line interface for the Bunnyshell API.
 - [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc.
 - [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
@@ -2352,6 +2353,7 @@
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
 - [StevenWingett/LifeSciencesTrainingDatasets](https://github.com/StevenWingett/LifeSciencesTrainingDatasets) - A collection of datasets and accompanying scripts for learning how to analyse data
 - [FelixKrueger/Bismark](https://github.com/FelixKrueger/Bismark) - A tool to map bisulfite converted sequence reads and determine cytosine methylation states
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
 - [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
 - [themesberg/tailwind-dashboard-windster](https://github.com/themesberg/tailwind-dashboard-windster) - Free and open-source admin dashboard interface built on top of Tailwind CSS and Flowbite
@@ -2381,6 +2383,7 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components) - Free Tailwind CSS UI Components - Crafted for modern websites, landing pages and web apps. TailGrids Core is free and open-source so, feel free to use with your personal or commercial projects. If you
 - [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page) - Tailwind CSS Starter Template - Landing Page
 - [serudda/steroidesign](https://github.com/serudda/steroidesign) - Themes based on the biggest StartUps (buttons, color palette, components, etc.) ready to use in your own projects.
@@ -2579,6 +2582,7 @@
 
 ## JavaScript 
 
+- [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 - [skywolfmo/bookmarksai](https://github.com/skywolfmo/bookmarksai) - Chrome Bookmarks on steroids
 - [kiwibrowser/sync](https://github.com/kiwibrowser/sync) - Open-source Chrome Extension for Bookmarks and Profile sync
 - [stxapps/brace-client](https://github.com/stxapps/brace-client) - Your bookmark manager with privacy at heart. Save links to everything and visit them later easily anytime on any of your devices with full control of your data.
@@ -2650,7 +2654,7 @@
 - [korzio/djv](https://github.com/korzio/djv) - Dynamic JSON Schema Validator -  Supports draft-04/06
 - [nuxodin/jema.js](https://github.com/nuxodin/jema.js) - JSON Schema handling / validator
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
-- [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
+- [tape-testing/tape](https://github.com/tape-testing/tape) - tap-producing test harness for node and browsers
 - [hackergrrl/common-readme](https://github.com/hackergrrl/common-readme) - :star2: « a common readme for node »
 - [RichardLitt/generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme) - Scaffold out a Standard Readme
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
@@ -4653,7 +4657,7 @@
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
-- [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.
+- [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
@@ -5020,7 +5024,6 @@
 - [chroblert/WindowsVulnScan](https://github.com/chroblert/WindowsVulnScan) - 
 - [blankly-finance/blankly](https://github.com/blankly-finance/blankly) - 🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.
 - [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [davidtavarez/pwndb](https://github.com/davidtavarez/pwndb) - Search for leaked credentials
@@ -5676,7 +5679,7 @@
 - [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
-- [sigoden/argc](https://github.com/sigoden/argc) - Bash CLI framework and generator.
+- [sigoden/argc](https://github.com/sigoden/argc) - Argc helps you create CLIs with comments, also works as a bash CLI generator, task runner, and multi-shell autocompleter.
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
 - [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
@@ -6973,7 +6976,6 @@
 - [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.
 - [unjs/template](https://github.com/unjs/template) - 📋 UnJS Project Starter Template
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
-- [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [jspm/jspm-cli](https://github.com/jspm/jspm-cli) - ES Module Package Manager
@@ -7640,7 +7642,6 @@
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [omnivore-app/logseq-omnivore](https://github.com/omnivore-app/logseq-omnivore) - Logseq plugin to fetch articles and highlights from Omnivore
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [aletheia/iam-policy-generator](https://github.com/aletheia/iam-policy-generator) - A simple library to generate IAM policy statements with no need to remember all the actions APIs
 - [udondan/iam-floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
