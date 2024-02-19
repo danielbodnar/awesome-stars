@@ -2383,7 +2383,6 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components) - Free Tailwind CSS UI Components - Crafted for modern websites, landing pages and web apps. TailGrids Core is free and open-source so, feel free to use with your personal or commercial projects. If you
 - [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page) - Tailwind CSS Starter Template - Landing Page
 - [serudda/steroidesign](https://github.com/serudda/steroidesign) - Themes based on the biggest StartUps (buttons, color palette, components, etc.) ready to use in your own projects.
@@ -5024,6 +5023,7 @@
 - [chroblert/WindowsVulnScan](https://github.com/chroblert/WindowsVulnScan) - 
 - [blankly-finance/blankly](https://github.com/blankly-finance/blankly) - 🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.
 - [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [davidtavarez/pwndb](https://github.com/davidtavarez/pwndb) - Search for leaked credentials
@@ -5679,7 +5679,7 @@
 - [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
-- [sigoden/argc](https://github.com/sigoden/argc) - Argc helps you create CLIs with comments, also works as a bash CLI generator, task runner, and multi-shell autocompleter.
+- [sigoden/argc](https://github.com/sigoden/argc) - Argc helps you create CLI through comments, also works as a bash CLI generator, task runner, and multi-shell autocompleter.
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
 - [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
@@ -5699,7 +5699,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Language Core. KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [carllerche/codegen](https://github.com/carllerche/codegen) - A Rust library providing a builder API to generate Rust code.
 - [aerys/gpm](https://github.com/aerys/gpm) - Git-based Package Manager.
