@@ -6,6 +6,7 @@
 ## Contents
 
 - [ANTLR](#antlr)
+- [ASL](#asl)
 - [Ada](#ada)
 - [Assembly](#assembly)
 - [Astro](#astro)
@@ -121,6 +122,10 @@
 
 - [kstenerud/concise-encoding](https://github.com/kstenerud/concise-encoding) - The secure data format for a  modern world
 
+## ASL 
+
+- [mozilla/ecosystem-platform](https://github.com/mozilla/ecosystem-platform) - Documentation Hub for Firefox Accounts, Sync Client Integrations and More
+
 ## Ada 
 
 - [pyjarrett/septum](https://github.com/pyjarrett/septum) - Context-based code search tool
@@ -155,6 +160,8 @@
 
 ## C 
 
+- [jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub is a delightful, open source tool for managing your GitHub repositories
+- [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [dertuxmalwieder/ymarks](https://github.com/dertuxmalwieder/ymarks) - The self-hosted ymarks bookmark syncing tool (Git mirror)
 - [mrdotx/surf](https://github.com/mrdotx/surf) - build of the suckless surf browser with patches for bookmarks, modal, search engines, clipboard not primary, quit hotkey, start with go
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
@@ -472,6 +479,7 @@
 
 ## C++ 
 
+- [mozilla-mobile/mozilla-vpn-client](https://github.com/mozilla-mobile/mozilla-vpn-client) - A fast, secure and easy to use VPN. Built by the makers of Firefox.
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
@@ -666,6 +674,7 @@
 
 ## CSS 
 
+- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder) - Browser extension that allows to find and delete duplicate bookmarks.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [Abhinav-26/DevOps-Projects](https://github.com/Abhinav-26/DevOps-Projects) - The repository contains beginner friendly DevOps projects for automating stuffs using DevOps concepts.
@@ -926,6 +935,7 @@
 
 ## Go 
 
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [retr0h/gilt](https://github.com/retr0h/gilt) - A GIT layering tool.
 - [mrusme/xbsapi](https://github.com/mrusme/xbsapi) - Alternative xBrowserSync API that is a single binary and supports SQLite3, PostgreSQL and MySQL
 - [pgaskin/crb](https://github.com/pgaskin/crb) - Library and tools for parsing and exporting Chrome bookmarks.
@@ -1810,7 +1820,7 @@
 - [wor/goanysync](https://github.com/wor/goanysync) - Directory symlinker and content syncer.
 - [mgartner/pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
 - [sj14/dbbench](https://github.com/sj14/dbbench) - 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts
 - [jakekgrog/GhostDB](https://github.com/jakekgrog/GhostDB) - GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
 - [xssed/owlcache](https://github.com/xssed/owlcache) - 🦉owlcache is a lightweight, high-performance, non-centralized, distributed Key/Value in-memory Cache written in Go. keyword : golang cache、go cache、golang nosql
@@ -2289,6 +2299,7 @@
 
 ## HTML 
 
+- [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 - [danpeig/bookmarks2md](https://github.com/danpeig/bookmarks2md) - Browser bookmarks to markdown converter
 - [niqdev/my-awesome](https://github.com/niqdev/my-awesome) - git-bookmarks
 - [hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
@@ -2581,6 +2592,21 @@
 
 ## JavaScript 
 
+- [ryanmcdermott/starmark](https://github.com/ryanmcdermott/starmark) - :octocat: Turn your GitHub stars into Chrome bookmarks
+- [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts) - Custom tweaks and preferences for Firefox
+- [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
+- [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your everyday web browser.
+- [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
+- [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
+- [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [petermcd/Browser-sync](https://github.com/petermcd/Browser-sync) - A Firefox extension that will sync bookmarks from a web hosted JSON file with the bookmarks configured in the browser.
+- [ParadigmZero/firefox-bookmark-tag-transform](https://github.com/ParadigmZero/firefox-bookmark-tag-transform) - Node | JavaScript | npm package | nvm : Transform Firefox bookmarks file to aid cross-platform bookmark sync/usability strategy
+- [valeriangalliat/firefox-sync-cli](https://github.com/valeriangalliat/firefox-sync-cli) - Manage Firefox Sync from the CLI! ✨
+- [Narga/user.js](https://github.com/Narga/user.js) - NARGA customized preferences to Enhance Firefox Productivity - user.js
+- [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2) - Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymor
+- [ramitmittal/sorted-firefox](https://github.com/ramitmittal/sorted-firefox) - Webextension for Mozilla Firefox. The fastest and easiest way to organize your bookmarks.
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 - [skywolfmo/bookmarksai](https://github.com/skywolfmo/bookmarksai) - Chrome Bookmarks on steroids
 - [kiwibrowser/sync](https://github.com/kiwibrowser/sync) - Open-source Chrome Extension for Bookmarks and Profile sync
@@ -2953,7 +2979,7 @@
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built on top of puppeteer.
 - [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template) - This template generates a server using your AsyncAPI document. It supports multiple different protocols, like Kafka or MQTT.  It is designed in the way that generated code is a library and with it's A
 - [shelljs/shx](https://github.com/shelljs/shx) - Portable Shell Commands for Node
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -3755,6 +3781,7 @@
 ## MDX 
 
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
+- [artusjs/spec](https://github.com/artusjs/spec) - Spec for Artus.js.
 - [rviscomi/har.fyi](https://github.com/rviscomi/har.fyi) - 
 - [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - Automatically stitch multiple schemas together into one larger API in a simple, fast and powerful way.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -3893,6 +3920,7 @@
 
 ## Others 
 
+- [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [conan-io/tribe](https://github.com/conan-io/tribe) - Conan 2.0 Tribe
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
@@ -4060,7 +4088,7 @@
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
@@ -4495,6 +4523,8 @@
 
 ## Python 
 
+- [mozilla-services/server-syncstorage](https://github.com/mozilla-services/server-syncstorage) - The SyncServer server software, as used by Firefox Sync
+- [PhilippFeO/recipe_selector](https://github.com/PhilippFeO/recipe_selector) - Never ever think about "What should I eat for dinner?" again and automate grocery shopping.
 - [Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one) - This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto
 - [ZhaoUncle/Awesome-Homepage](https://github.com/ZhaoUncle/Awesome-Homepage) - Here is a curated list of outstanding projects with a focus on homepage, homelab, self-hosted, startpage, single-page,  bookmark.
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
@@ -4890,7 +4920,6 @@
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
-- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [lilianweng/stock-rnn](https://github.com/lilianweng/stock-rnn) - Predict stock market prices using RNN model with multilayer LSTM cells + optional multi-stock embeddings.
@@ -5153,7 +5182,6 @@
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [nir0s/ghost](https://github.com/nir0s/ghost) - A simple, server/less, single-api, multi-backend, ghostly secret-store/key-store for your passwords, ssh-keys and cloud credentials. Ghost isn't real, it's just in your head.
 - [s0md3v/ote](https://github.com/s0md3v/ote) - Generate Email, Register for anything, Get the OTP/Link
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [0vercl0k/CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086) - Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys triggered remotely.
 - [pgexperts/flexible-freeze](https://github.com/pgexperts/flexible-freeze) - Flexible freeze scripts for managing off-hours vacuuming and freezing of PostgreSQL databases.
 - [skewthreads/QR-secret-sharing](https://github.com/skewthreads/QR-secret-sharing) - :lock: Create QR codes to secret-share a message. Ideal for cryptocurrency wallet recovery keys and passwords.
@@ -5466,6 +5494,9 @@
 
 ## Rust 
 
+- [0xazure/supernova](https://github.com/0xazure/supernova) - Tool for exporting GitHub stars as an organized list.
+- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC written in Rust
+- [mozilla/application-services](https://github.com/mozilla/application-services) - Firefox Application Services
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Super fast CLI bookmark manager and launcher
 - [quambene/bogrep](https://github.com/quambene/bogrep) - Grep your bookmarks
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
@@ -5734,7 +5765,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [utah-scs/splinter](https://github.com/utah-scs/splinter) - A low-latency, extensible, multi-tenant key-value store.
 - [databento/dbn](https://github.com/databento/dbn) - Databento Binary Encoding (DBN) - Fast message encoding and storage format for market data
-- [dora-rs/dora](https://github.com/dora-rs/dora) - dora goal is to be a low latency, composable, and distributed data flow.
+- [dora-rs/dora](https://github.com/dora-rs/dora) - low latency, composable, and distributed dataflow for AI and robotic application
 - [wangrunji0408/most](https://github.com/wangrunji0408/most) - Codes for MO's Trading.
 - [0b01/tectonicdb](https://github.com/0b01/tectonicdb) - Database for L2 orderbook
 - [featherenvy/botvana](https://github.com/featherenvy/botvana) - Botvana is high-performance and event-driven trading system built using Rust (in early development).
@@ -6102,6 +6133,7 @@
 
 ## SCSS 
 
+- [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [johnbedeir/Devops-Tools-Documentation](https://github.com/johnbedeir/Devops-Tools-Documentation) - This Repository contains DevOps Projects and Tools Documentation step by step practice
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
@@ -6148,6 +6180,10 @@
 
 ## Shell 
 
+- [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
+- [Linux-Is-Best/Firefox-automatic-install-for-Linux](https://github.com/Linux-Is-Best/Firefox-automatic-install-for-Linux) - Read-only mirror of https://gitlab.com/Linux-Is-Best/Firefox-automatic-install-for-Linux
+- [Xmetalfanx/firefoxSync](https://github.com/Xmetalfanx/firefoxSync) - scripts to backup and restore firefox profiles on different installs of Linux
+- [loadenmb/pppFox](https://github.com/loadenmb/pppFox) - Portable firefox & profile manager shell scripts which create & load firefox profiles with predefined proxy settings, useragent & mac address
 - [marcosgomesneto/bun-devcontainers](https://github.com/marcosgomesneto/bun-devcontainers) - Bun Runtime Template for DevContainers & Docker.
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [jocelynmallon/zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
@@ -6445,6 +6481,7 @@
 - [llarsson/cloud-native-platform](https://github.com/llarsson/cloud-native-platform) - Repo for "How to build your own cloud-native platform on IaaS clouds in 2021"
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
 - [prbinu/yipfilter](https://github.com/prbinu/yipfilter) - A wrapper script over iptables/ipset to manage host based IP dynamic blacklists and whitelists
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [nchevsky/systemrescue-zfs](https://github.com/nchevsky/systemrescue-zfs) - A fork of SystemRescue (formerly SystemRescueCd) with ZFS built-in and serial console access enabled for all boot options. Download bootable ISOs from the releases page.
 - [bolthole/zrep](https://github.com/bolthole/zrep) - ZREP ZFS based replication and failover script from bolthole.com
 - [trimstray/otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
@@ -6720,6 +6757,10 @@
 
 ## TypeScript 
 
+- [samdenty/injectify](https://github.com/samdenty/injectify) - Perform advanced MiTM attacks on websites with ease 💉
+- [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
+- [OP-Engineering/link-preview-js](https://github.com/OP-Engineering/link-preview-js) - ⛓ Extract web links information: title, description, images, videos, etc. [via OpenGraph], runs on mobiles and node.
+- [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [Rohit19060/bookmark-store](https://github.com/Rohit19060/bookmark-store) - App for storing bookmarks temporary, it is utilizing Local Storage
 - [andresmarpz/bookmarks](https://github.com/andresmarpz/bookmarks) - Next.js App Router experimental project - Save your internet discoveries on the cloud.
 - [masonmcelvain/hop](https://github.com/masonmcelvain/hop) - A browser extension featuring aesthetic bookmarks
@@ -7130,7 +7171,6 @@
 - [Roozenboom/rbnx](https://github.com/Roozenboom/rbnx) - Nx plugin for WebdriverIO support
 - [jscutlery/semver](https://github.com/jscutlery/semver) - Nx plugin to automate semantic versioning and CHANGELOG generation.
 - [spaceribs/spaceribs](https://github.com/spaceribs/spaceribs) - Monorepo for small personal projects and plugins
-- [artusjs/spec](https://github.com/artusjs/spec) - Spec for Artus.js.
 - [artus-cli/artus-cli](https://github.com/artus-cli/artus-cli) - CLI framework with modern features
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team
@@ -7626,6 +7666,7 @@
 - [nextstrain/nextclade](https://github.com/nextstrain/nextclade) - Viral genome alignment, mutation calling, clade assignment, quality checks and phylogenetic placement
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
@@ -7765,7 +7806,7 @@
 - [ArtgenIO/Core](https://github.com/ArtgenIO/Core) - Next Generation Low Code Headless CMS
 - [b4rtaz/t3mpl-editor](https://github.com/b4rtaz/t3mpl-editor) - Generic editor and static site generator in browser.
 - [zalify/easy-email](https://github.com/zalify/easy-email) - React.js Drag-and-Drop Email Editor based on MJML. Transform structured JSON data into major email clients compatible HTML. Written in Typescript and supported both in browser and Node.js.
-- [hodgef/PRSS](https://github.com/hodgef/PRSS) - Build blazing fast blogs, documentation sites, showcases and more.
+- [hodgef/PRSS](https://github.com/hodgef/PRSS) - PRSS Site Creator. Build blazing fast blogs, documentation sites, showcases and more.
 - [paperbits/paperbits-forms](https://github.com/paperbits/paperbits-forms) - This repository contains widgets and editors for building input forms.
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -7919,7 +7960,7 @@
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
 - [nodegui/vue-nodegui](https://github.com/nodegui/vue-nodegui) - Build performant, native and cross-platform desktop applications with native Vue + powerful CSS like styling.🚀
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
 - [tngan/samlify](https://github.com/tngan/samlify) - Node.js library for SAML SSO
 - [scalarhq/videotranscode.space](https://github.com/scalarhq/videotranscode.space) - A video transcoder and converter built using Web Assembly and FFMPEG to transcode and convert videos right in your browser while protecting your privacy
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -8017,6 +8058,7 @@
 
 ## Vue 
 
+- [lvxianchao/the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
