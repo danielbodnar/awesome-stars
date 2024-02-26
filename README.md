@@ -601,7 +601,7 @@
 - [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase.
 - [jupyter-naas/naas](https://github.com/jupyter-naas/naas) - Low-code Python library to safely use notebooks in production: schedule workflows, generate assets, trigger webhooks, send notifications, build pipelines, manage secrets (Cloud-only)
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing remote tech interviews with AI
 - [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
@@ -662,7 +662,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [stratosphereips/StratosphereLinuxIPS](https://github.com/stratosphereips/StratosphereLinuxIPS) - Slips, a free software behavioral Python intrusion prevention system (IDS/IPS) that uses machine learning to detect malicious behaviors in the network traffic. Stratosphere Laboratory, AIC, FEL, CVUT 
 - [Riminder/open-jobboard](https://github.com/Riminder/open-jobboard) - 🚀  Open source React.js Headless CMS to easily build customisable job board
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
@@ -751,7 +751,6 @@
 
 ## analytics 
 
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
 - [aws-amplify/amplify-cli](https://github.com/aws-amplify/amplify-cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 - [swishjam/swishjam](https://github.com/swishjam/swishjam) - The Brain Of Your B2B SaaS. A better way to unify your customers' data and get meaningful insights out of the box. Built on Next.js, Ruby on Rails, Tailwind, Shadcn, and more. Backed by Y Combinator -
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
@@ -1136,7 +1135,7 @@
 - [stelace/stelace](https://github.com/stelace/stelace) - Open-source marketplace backend in Node.js, empowering Web platforms with Search API, Automation, Auth, Headless CMS… ⚡ :computer:
 - [gobeam/truthy](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has pre built modules like User Management, Role Management, Permission Management, Email Module, Account Settings, OTP, Throttling, RBAC suppor
 - [Cockpit-HQ/Cockpit](https://github.com/Cockpit-HQ/Cockpit) - Cockpit Core - Content Platform
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [tenseijs/tensei](https://github.com/tenseijs/tensei) - 🚀 Content management and distribution with a touch of elegance.
@@ -1240,6 +1239,7 @@
 
 - [Jip-Hop/jailmaker](https://github.com/Jip-Hop/jailmaker) - Persistent Linux 'jails' on TrueNAS SCALE to install software (docker-compose, portainer, podman, etc.) with full access to all files via bind mounts thanks to systemd-nspawn!
 - [nosada/mkosi-files](https://github.com/nosada/mkosi-files) - Configs and files for creating basic Arch Linux container image on systemd-nspawn using mkosi
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [pixelc-linux/rootfs-arch-linux](https://github.com/pixelc-linux/rootfs-arch-linux) - Arch Linux RootFS
 - [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
@@ -2842,7 +2842,7 @@
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
@@ -2867,7 +2867,7 @@
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [tobiasbueschel/search-gpt](https://github.com/tobiasbueschel/search-gpt) - 🌳 Connecting ChatGPT with the Internet
 - [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing remote tech interviews with AI
@@ -3151,7 +3151,7 @@
 - [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [bibendi/dip](https://github.com/bibendi/dip) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
 - [Savory/Danet-CLI](https://github.com/Savory/Danet-CLI) - CLI tool for Danet applications
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common CLI formats such as histograms, bar graphs, numerical summaries, tables, and more!
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
@@ -3489,7 +3489,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [storyblok/storyblok](https://github.com/storyblok/storyblok) - Info about Storyblok
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
 - [adrien2p/medusa-extender](https://github.com/adrien2p/medusa-extender) - :syringe: Medusa on steroid, take your medusa project to the next level with some badass features :rocket:
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -4802,7 +4802,7 @@
 
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) - End-to-end encrypted file transfer.
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [schollz/pake](https://github.com/schollz/pake) - PAKE library for generating a strong secret between parties over an insecure channel
 - [IBM/fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos
@@ -4976,7 +4976,7 @@
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
-- [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Access the web from a browser you run on a server, rather than on your local device. For security, privacy and more!
@@ -5870,7 +5870,7 @@
 - [ecshreve/dev-env](https://github.com/ecshreve/dev-env) - docker based development environment
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source feedback platform for LLMs
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
@@ -5898,7 +5898,7 @@
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -6820,7 +6820,7 @@
 - [vitkovskii/insane-doc](https://github.com/vitkovskii/insane-doc) - Dynamically generates documentation right from your code. Experimental.
 - [jeroenouw/cgx](https://github.com/jeroenouw/cgx) - 💻🔥CLI to generate the recommended documentation/files to improve contribution (Github, Gitlab, CodeCommit and Bitbucket)
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [techspecs/techspecs-api](https://github.com/techspecs/techspecs-api) - Get the standardized technical specifications of the world's smartphones, tablets, smartwatches and more.
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [ethereum/remix-ide](https://github.com/ethereum/remix-ide) - Documentation for Remix IDE
@@ -7435,7 +7435,7 @@
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [KarelZe/tclf](https://github.com/KarelZe/tclf) - A scikit-learn compatible classifier to perform trade classification in Python.
-- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
@@ -8789,7 +8789,7 @@
 - [Ulbora/ulboracms](https://github.com/Ulbora/ulboracms) - Ulbora CMS is a self-contained CMS (no database needed) written in Golang. It  uses a JSON datastore with content saved in both json files and in memory. You can download and upload a single binary ba
 - [dotenx/dotenx](https://github.com/dotenx/dotenx) - No-code and Low-code all-in-one platform to build landing pages, websites, web applications, APIs, automations. An alternative for Wix, Webflow, Zapier, and more
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [valasek/timesheet](https://github.com/valasek/timesheet) - Self-hosted application to manage project reporting.
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
@@ -9140,7 +9140,7 @@
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - High quality resources & applications for LLMs, multi-modal models and VectorDBs
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 
 ## gpt-4 
@@ -9156,7 +9156,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - A complete guide to start and improve your LLM skills in 2024 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 - [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase.
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing remote tech interviews with AI
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
@@ -9409,7 +9409,7 @@
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 - [hhhrrrttt222111/Ethical-Hacking-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
-- [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
@@ -9562,7 +9562,6 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [ssbostan/jenkins-stack-docker](https://github.com/ssbostan/jenkins-stack-docker) - Docker-compose version of jenkins-stack-kubernetes
 - [Savory/Danet](https://github.com/Savory/Danet) - The most mature backend framework for Deno
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
 - [samchon/nestia](https://github.com/samchon/nestia) - Make NestJS much faster and easier
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
@@ -9624,7 +9623,7 @@
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers that works universally.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -9709,7 +9708,7 @@
 - [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - Open-source, free, self-hosted alternative to Cypress Dashboard
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - Test your bash scripts in the fastest and simplest way, discover the most modern bash testing framework.
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
-- [thrillgates/dark-knowledge](https://github.com/thrillgates/dark-knowledge) - 😈📚 A curated library of research papers and presentations for counter-detection and web privacy enthusiasts.
+- [prescience-data/dark-knowledge](https://github.com/prescience-data/dark-knowledge) - 😈📚 A curated library of research papers and presentations for counter-detection and web privacy enthusiasts.
 - [FairwindsOps/rok8s-scripts](https://github.com/FairwindsOps/rok8s-scripts) - Opinionated scripts for managing application deployment lifecycle in Kubernetes
 - [Trow-Registry/trow](https://github.com/Trow-Registry/trow) - Container Registry and Image Management for Kubernetes Clusters
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
@@ -10002,7 +10001,7 @@
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [IBM/carbon-ui-builder](https://github.com/IBM/carbon-ui-builder) - Build Carbon UI components for your product in a fraction of time that it normally takes.
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup
@@ -10976,7 +10975,7 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers that works universally.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [ogayanfe/websandbox](https://github.com/ogayanfe/websandbox) - An online frontend programming sandbox with integrated browser with live reloading built using react, react-dom, django and the webcontainer api
 - [SX-9/codedit-web](https://github.com/SX-9/codedit-web) - CodedIt In The Web With WebContainers
@@ -12546,7 +12545,7 @@
 
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
-- [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
@@ -12685,7 +12684,7 @@
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [realeroberto/bashlets](https://github.com/realeroberto/bashlets) - An experiment in extending the command-line interface.
 - [autotest/autotest](https://github.com/autotest/autotest) - Autotest - Fully automated tests on Linux
-- [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [mottosso/bleeding-rez](https://github.com/mottosso/bleeding-rez) - Rez - Reproducible software environments for Windows, Linux and MacOS
@@ -13064,6 +13063,7 @@
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
@@ -13109,8 +13109,9 @@
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 
@@ -13154,7 +13155,7 @@
 - [CoCreate-app/CoCreateJS](https://github.com/CoCreate-app/CoCreateJS) - A collaborative low code headless CMS and Javascript framework for building collaborative no code platforms, apps and UI's. Build powerful applications using HTML5 attributes or Javascript api.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
@@ -13247,7 +13248,7 @@
 - [otto-de/recsys-dataset](https://github.com/otto-de/recsys-dataset) - 🛍 A real-world e-commerce dataset for session-based recommender systems research.
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
@@ -13656,7 +13657,7 @@
 - [shd101wyy/crossnote](https://github.com/shd101wyy/crossnote) - Powerful markdown tool
 - [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [alertbox/try-docsify](https://github.com/alertbox/try-docsify) - A ready-to-go dev container for trying out docsify, magical static site generating tool for docs, static sites, et al.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
@@ -14022,7 +14023,7 @@
 - [kamilkisiela/graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [ddosify/alaz](https://github.com/ddosify/alaz) - Alaz: Advanced eBPF Agent for Kubernetes Observability – Effortlessly monitor K8s service interactions and performance metrics in your K8s environment. Gain in-depth insights with service maps, metric
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and automation platform
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
 - [bamlab/flashlight](https://github.com/bamlab/flashlight) - 📱⚡️ Lighthouse for Mobile - audits your app and gives a performance score to your Android apps (native, React Native, Flutter..). Measure performance on CLI, E2E tests, CI...
 - [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multicloud management platform
@@ -14455,7 +14456,7 @@
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [mkosir/trpc-fe-boilerplate-next](https://github.com/mkosir/trpc-fe-boilerplate-next) - ⚒️ Minimal tRPC frontend Nextjs boilerplate for separate BE-FE repositories. Easily consume fully typesafe APIs.
 - [ayungavis/turborepo-nextjs-tailwind-trpc](https://github.com/ayungavis/turborepo-nextjs-tailwind-trpc) - The boilerplate Turborepo + Next.js + Tailwind + tRPC provides a starting point for building modern, fast, and responsive web applications.
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS O
@@ -14652,7 +14653,7 @@
 - [capitalone/DataProfiler](https://github.com/capitalone/DataProfiler) - What's in your data? Extract schema, statistics and entities from datasets
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [grumpyp/aixplora](https://github.com/grumpyp/aixplora) - AIxplora is a open-source tool which let's you query all kind of files not limited to any length or format.
 - [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.
@@ -14714,7 +14715,7 @@
 - [IBM/carbon-ui-builder](https://github.com/IBM/carbon-ui-builder) - Build Carbon UI components for your product in a fraction of time that it normally takes.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [eclipse/streamsheets](https://github.com/eclipse/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -14738,7 +14739,7 @@
 - [chriswells0/node-typescript-template](https://github.com/chriswells0/node-typescript-template) - A complete Node.js project template using TypeScript and following general best practices.
 - [kriasoft/node-starter-kit](https://github.com/kriasoft/node-starter-kit) - Node.js / GraphQL project template pre-configured with TypeScript, PostgreSQL, login flow, transactional emails, unit tests, CI/CD workflow.
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers that works universally.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [hankei6km/vscode-ext-start-webcontainer](https://github.com/hankei6km/vscode-ext-start-webcontainer) - Start WebContainer from VS Codde for the Web, and use Jsh and Preview URL.
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 - [fliegwerk/fliegdoc](https://github.com/fliegwerk/fliegdoc) - A documentation generator for Typescript-based libraries with good support for monorepos
@@ -14887,7 +14888,7 @@
 - [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, M
 - [TaitoUnited/full-stack-template](https://github.com/TaitoUnited/full-stack-template) - Template for cloud-native applications and microservices running as containers/functions on Kubernetes, Docker Compose, or cloud. You can choose the stack during project creation.
 - [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [JockDaRock/Time2Code](https://github.com/JockDaRock/Time2Code) - Portable Scalable web code editor to integrate into your sites and learning experiences
 - [BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) - sample node app for Docker examples
@@ -15406,7 +15407,7 @@
 ## open-source 
 
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [TeamCodeStream/codestream](https://github.com/TeamCodeStream/codestream) - The Code Collaboration Tool Built for Remote Teams
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [Blockception/VSCode-Bedrock-Development-Extension](https://github.com/Blockception/VSCode-Bedrock-Development-Extension) - An extension that provides support for files such as: .mcfunction, .json and .lang. Features include: completion, validations, formatters, diagnostics, cheat-sheets, code-actions, generation of files,
@@ -15472,7 +15473,7 @@
 - [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - groceri.es is a recipe manager and meal planning tool
 - [gobeam/truthy-react-frontend](https://github.com/gobeam/truthy-react-frontend) - Truthy CMS's Frontend application written in ReactJS & Redux Saga. This project includes UI implementation of User Management, Role Management, Permission Management, Email Module, Account Settings, O
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -15543,7 +15544,7 @@
 - [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -16616,7 +16617,6 @@
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [devexperts/dx-platform](https://github.com/devexperts/dx-platform) - 
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
@@ -17802,7 +17802,7 @@
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -17971,7 +17971,7 @@
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
-- [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [sleventyeleven/linuxprivchecker](https://github.com/sleventyeleven/linuxprivchecker) - linuxprivchecker.py -- a Linux Privilege Escalation Check Script
 - [Viralmaniar/Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen c
@@ -18168,7 +18168,7 @@
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [ardsh/slonik-trpc](https://github.com/ardsh/slonik-trpc) - Type-safe efficient query API engine using slonik and zod
 - [kriasoft/node-starter-kit](https://github.com/kriasoft/node-starter-kit) - Node.js / GraphQL project template pre-configured with TypeScript, PostgreSQL, login flow, transactional emails, unit tests, CI/CD workflow.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers that works universally.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [dancancro/great-big-example-application](https://github.com/dancancro/great-big-example-application) - A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack
@@ -18709,7 +18709,7 @@
 - [cossacklabs/themis](https://github.com/cossacklabs/themis) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and automation platform
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
 - [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
@@ -18792,6 +18792,7 @@
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [muctadir/lama](https://github.com/muctadir/lama) - LaMa, short for Labelling Machine, is an web application developed for aiding in thematic analysis of qualitative data.
@@ -18883,10 +18884,10 @@
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [indeedeng/iwf](https://github.com/indeedeng/iwf) - iWF is an API orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes
-- [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [spack/spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [huggingface/neuralcoref](https://github.com/huggingface/neuralcoref) - ✨Fast Coreference Resolution in spaCy with Neural Networks
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -18941,7 +18942,7 @@
 - [RyanNoelk/OpenEats](https://github.com/RyanNoelk/OpenEats) - :pizza: Self Hosted Recipe Management App :hamburger:
 - [rougier/ML-Recipes](https://github.com/rougier/ML-Recipes) - A collection of stand-alone Python machine learning recipes
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
 - [blankly-finance/blankly](https://github.com/blankly-finance/blankly) - 🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -19092,7 +19093,7 @@
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 - [pamelafox/python-project-template](https://github.com/pamelafox/python-project-template) - A Github template repository for a Python project with support for Codespaces, devcontainer, and Github Actions.
 - [devops-infra/docker-terragrunt](https://github.com/devops-infra/docker-terragrunt) - Dockerized framework with Terraform, Terragrunt, Python, Make, Docker, Git, and all needed components to easily manage cloud infrastructure.
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and automation platform
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [ClericPy/ichrome](https://github.com/ClericPy/ichrome) - Chrome controller for Humans, based on Chrome Devtools Protocol(CDP) and python3.7+.
 - [pyouroboros/ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
@@ -19145,7 +19146,7 @@
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.
@@ -19323,7 +19324,7 @@
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [TaitoUnited/full-stack-template](https://github.com/TaitoUnited/full-stack-template) - Template for cloud-native applications and microservices running as containers/functions on Kubernetes, Docker Compose, or cloud. You can choose the stack during project creation.
 - [otahontas/trpc-rtk-query](https://github.com/otahontas/trpc-rtk-query) - Automatically generate RTK Query api endpoints from your tRPC setup
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [NiGhTTraX/ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template for setting up a TypeScript monorepo
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
@@ -19874,7 +19875,7 @@
 ## reinforcement-learning 
 
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
-- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [VowpalWabbit/vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learni
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
@@ -19891,7 +19892,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
 - [IBM/fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos
-- [thrillgates/dark-knowledge](https://github.com/thrillgates/dark-knowledge) - 😈📚 A curated library of research papers and presentations for counter-detection and web privacy enthusiasts.
+- [prescience-data/dark-knowledge](https://github.com/prescience-data/dark-knowledge) - 😈📚 A curated library of research papers and presentations for counter-detection and web privacy enthusiasts.
 - [Surajv311/one4All](https://github.com/Surajv311/one4All) - This repository consists of tech resources and opportunities which could be useful for students interested in computer science. It also hosts non-tech sources which could be useful for anyone.🔥💻👨‍🎓
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [nextstrain/nextclade](https://github.com/nextstrain/nextclade) - Viral genome alignment, mutation calling, clade assignment, quality checks and phylogenetic placement
@@ -20119,7 +20120,7 @@
 - [utkarshkukreti/markup.rs](https://github.com/utkarshkukreti/markup.rs) - A blazing fast, type-safe template engine for Rust.
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [ahkohd/tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - 😎  a custom invoke system for Tauri that leverages WebSocket
 - [n0-computer/quic-rpc](https://github.com/n0-computer/quic-rpc) - A streaming rpc system based on quic
 - [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
@@ -20269,7 +20270,7 @@
 - [aerys/gpm](https://github.com/aerys/gpm) - Git-based Package Manager.
 - [novus-package-manager/novus](https://github.com/novus-package-manager/novus) - A blazingly fast and efficient package manager for windows.
 - [steven-omaha/pacdef](https://github.com/steven-omaha/pacdef) - multi-backend declarative package manager for Linux
-- [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
@@ -20692,7 +20693,7 @@
 - [Hamid-K/bookmarks](https://github.com/Hamid-K/bookmarks) - A personal list of various resources for those who are interested in learning about infosec and hacking and keeping themselves up to date. This is by no means a complete nor fresh list, but I occasion
 - [hexa-org/policy-orchestrator](https://github.com/hexa-org/policy-orchestrator) - Hexa Policy Orchestrator enables you to manage all of your access policies consistently across software providers.
 - [GeekMasher/quibble](https://github.com/GeekMasher/quibble) - A container security tool written in Rust focusing on making security easy for compose based configurations
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [tillson/git-hound](https://github.com/tillson/git-hound) - Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -20741,7 +20742,7 @@
 - [freach/kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice) - Kubernetes Security - Best Practice Guide
 - [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
-- [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
@@ -21083,7 +21084,7 @@
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
-- [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS is a NixOS-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [jonrau1/ElectricEye](https://github.com/jonrau1/ElectricEye) - ElectricEye is a multi-cloud, multi-SaaS Python CLI tool for Asset Management, Security Posture Management & Attack Surface Monitoring supporting 100s of services and evaluations to harden your CSP & 
@@ -21829,7 +21830,7 @@
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 
 ## static-site-generator 
 
@@ -22845,7 +22846,7 @@
 - [ardsh/slonik-trpc](https://github.com/ardsh/slonik-trpc) - Type-safe efficient query API engine using slonik and zod
 - [otahontas/trpc-rtk-query](https://github.com/otahontas/trpc-rtk-query) - Automatically generate RTK Query api endpoints from your tRPC setup
 - [mishankov/vite-svelte-trpc](https://github.com/mishankov/vite-svelte-trpc) - Vite + Svelte + tRPC template
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Trpkit is an open-source, privacy-first web insights solution that's cookie-free and end-to-end encrypted.
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [mkosir/trpc-api-boilerplate](https://github.com/mkosir/trpc-api-boilerplate) - ⚒️ Minimal tRPC API boilerplate for separate BE-FE repositories. Easily publish fully typesafe APIs that any frontend can consume.
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
@@ -22922,7 +22923,7 @@
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [tapexyz/tape](https://github.com/tapexyz/tape) - Talk, Amplify, Post, Explore. Decentralized social media platform.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers that works universally.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [ambujraj/ByteShare](https://github.com/ambujraj/ByteShare) - Large file sharing app [Community Edition]
 - [xavimondev/supaplay](https://github.com/xavimondev/supaplay) - Supabase Launch Week 8 Hackathon - A playground to test and refine your JavaScript functions against your   PostgreSQL database.
 - [ogayanfe/websandbox](https://github.com/ogayanfe/websandbox) - An online frontend programming sandbox with integrated browser with live reloading built using react, react-dom, django and the webcontainer api
@@ -23263,7 +23264,7 @@
 - [burdy-io/burdy](https://github.com/burdy-io/burdy) - Most advanced open-source Headless CMS built in NodeJS and React. Written in Typescript!
 - [gobeam/truthy](https://github.com/gobeam/truthy) - Open source headless CMS API written using NestJS, that has pre built modules like User Management, Role Management, Permission Management, Email Module, Account Settings, OTP, Throttling, RBAC suppor
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
-- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
+- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [etro-js/etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser
