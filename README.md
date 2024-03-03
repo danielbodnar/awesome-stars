@@ -524,6 +524,7 @@
 
 ## actions 
 
+- [extractions/setup-just](https://github.com/extractions/setup-just) - 🤖 GitHub Action to install the just command runner
 - [anton-yurchenko/git-release](https://github.com/anton-yurchenko/git-release) - Publish a GitHub Release :package: with Assets :file_folder: and Changelog :bookmark:
 - [fjogeleit/yaml-update-action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
@@ -1367,6 +1368,7 @@
 
 ## automation 
 
+- [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
 - [hadiindrawan/automation-api-generator](https://github.com/hadiindrawan/automation-api-generator) - This project has created to relieve work load as SDET or Automation Test Engineer. In moderation, automation API code able to write with only run the script and generate from Postman collection. You j
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your everyday web browser.
@@ -2151,6 +2153,7 @@
 
 ## bash 
 
+- [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) - Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -3143,6 +3146,7 @@
 
 ## cli 
 
+- [exciteabletom/spud](https://github.com/exciteabletom/spud) - A CLI Spigot plugin manager that adheres to Unix conventions and Python best practices.
 - [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [wwkimball/yamlpath](https://github.com/wwkimball/yamlpath) - YAML/JSON/EYAML/Compatible get/set/merge/validate/scan/convert/diff processors using powerful, intuitive, command-line friendly syntax.
@@ -3958,7 +3962,7 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso) - Laravel Vue headless CMS / admin panel / dashboard / builder / API CRUD generator, anything !
-- [fictionco/fiction](https://github.com/fictionco/fiction) - Personal Marketing Platform (PMP)
+- [fictionco/fiction](https://github.com/fictionco/fiction) - Personal Marketing CMS
 - [abecms/abecms](https://github.com/abecms/abecms) - The lightning fast CMS
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
@@ -6310,6 +6314,8 @@
 
 ## docker 
 
+- [Giftora/dynamic-docker-compose](https://github.com/Giftora/dynamic-docker-compose) - Nodejs docker compose class with yaml merging.
+- [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [ipdr/ipdr](https://github.com/ipdr/ipdr) - 🐋 IPFS-backed Docker Registry
@@ -7179,6 +7185,7 @@
 
 ## emacs 
 
+- [psibi/justl.el](https://github.com/psibi/justl.el) - Major mode for driving just files.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub is a delightful, open source tool for managing your GitHub repositories
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
@@ -8057,6 +8064,7 @@
 
 ## github 
 
+- [extractions/setup-just](https://github.com/extractions/setup-just) - 🤖 GitHub Action to install the just command runner
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub is a delightful, open source tool for managing your GitHub repositories
 - [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
@@ -8151,6 +8159,7 @@
 
 ## github-actions 
 
+- [extractions/setup-just](https://github.com/extractions/setup-just) - 🤖 GitHub Action to install the just command runner
 - [katydecorah/bookmark-action](https://github.com/katydecorah/bookmark-action) - 🔖 A GitHub action to bookmark websites to a JSON file
 - [anton-yurchenko/git-release](https://github.com/anton-yurchenko/git-release) - Publish a GitHub Release :package: with Assets :file_folder: and Changelog :bookmark:
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -8292,7 +8301,6 @@
 - [nemonik/hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Packer, Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-C
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Auth and user management for the passkey era
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
 - [akamensky/argparse](https://github.com/akamensky/argparse) - Argparse for golang. Just because `flag` sucks
@@ -10854,6 +10862,7 @@
 
 ## jamstack 
 
+- [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [imbhargav5/nextbase-nextjs-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 14+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
 - [aws-amplify/amplify-hosting](https://github.com/aws-amplify/amplify-hosting) - AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.
 - [slinkity/slinkity](https://github.com/slinkity/slinkity) - To eleventy and beyond! The all-in-one tool for templates where you want them, component frameworks where you need them 🚀
@@ -10960,6 +10969,7 @@
 
 ## javascript 
 
+- [Giftora/dynamic-docker-compose](https://github.com/Giftora/dynamic-docker-compose) - Nodejs docker compose class with yaml merging.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -11954,6 +11964,7 @@
 
 ## kubernetes 
 
+- [bitnami/kube-libsonnet](https://github.com/bitnami/kube-libsonnet) - Bitnami's jsonnet library for building Kubernetes manifests
 - [jenkinsci/kubernetes-plugin](https://github.com/jenkinsci/kubernetes-plugin) - Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
@@ -13181,7 +13192,6 @@
 
 ## login 
 
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Auth and user management for the passkey era
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
@@ -13939,6 +13949,7 @@
 
 ## minecraft 
 
+- [exciteabletom/spud](https://github.com/exciteabletom/spud) - A CLI Spigot plugin manager that adheres to Unix conventions and Python best practices.
 - [kejonaMC/GeyserUpdater](https://github.com/kejonaMC/GeyserUpdater) - Automatically update GeyserMC on spigot, velocity, and bungeecord servers.
 - [Blockception/VSCode-Bedrock-Development-Extension](https://github.com/Blockception/VSCode-Bedrock-Development-Extension) - An extension that provides support for files such as: .mcfunction, .json and .lang. Features include: completion, validations, formatters, diagnostics, cheat-sheets, code-actions, generation of files,
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
@@ -14789,6 +14800,7 @@
 
 ## node 
 
+- [Giftora/dynamic-docker-compose](https://github.com/Giftora/dynamic-docker-compose) - Nodejs docker compose class with yaml merging.
 - [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
@@ -14925,6 +14937,7 @@
 
 ## nodejs 
 
+- [Giftora/dynamic-docker-compose](https://github.com/Giftora/dynamic-docker-compose) - Nodejs docker compose class with yaml merging.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [ianstormtaylor/makefile-help](https://github.com/ianstormtaylor/makefile-help) - An easy way to add a `make help` target to your Makefiles.
 - [socketsupply/socket](https://github.com/socketsupply/socket) - A cross-platform runtime for Web developers to build desktop & mobile apps for any OS using any frontend library.
@@ -15784,6 +15797,8 @@
 
 ## others 
 
+- [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) - PGP-encrypted git remotes
+- [jenkinsci/ibm-ucdeploy-pipeline-plugin](https://github.com/jenkinsci/ibm-ucdeploy-pipeline-plugin) - A plugin for Jenkins automation server to communicate with IBM UrbanCode Deploy
 - [UrbanCode/UCD-Docker-Images](https://github.com/UrbanCode/UCD-Docker-Images) - This project contains build scripts and Docker related utilities for creating Docker images (Dockerfiles) of UrbanCode Deploy.
 - [ganemone/dotfiles](https://github.com/ganemone/dotfiles) - 
 - [EdwinPhilip/jenkins-agent](https://github.com/EdwinPhilip/jenkins-agent) - 
@@ -16378,6 +16393,7 @@
 - [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [score-spec/score-compose](https://github.com/score-spec/score-compose) - Reference implementation for docker-compose target platform support
 - [xobserve/xo](https://github.com/xobserve/xo) - Observe any stack, any service and any data at anywhere,  using any UI style you prefer !
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Customer Identity and Access Management for the passkey era
 - [the4thamigo-uk/conflate](https://github.com/the4thamigo-uk/conflate) - Library providing routines to merge and validate JSON, YAML and/or TOML files
 - [refinedev/awesome-refine](https://github.com/refinedev/awesome-refine) - Carefully curated list of awesome refine resources 🍕
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
@@ -18752,6 +18768,7 @@
 
 ## python 
 
+- [exciteabletom/spud](https://github.com/exciteabletom/spud) - A CLI Spigot plugin manager that adheres to Unix conventions and Python best practices.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [wwkimball/yamlpath](https://github.com/wwkimball/yamlpath) - YAML/JSON/EYAML/Compatible get/set/merge/validate/scan/convert/diff processors using powerful, intuitive, command-line friendly syntax.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -21584,6 +21601,7 @@
 
 ## shell 
 
+- [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [PhilippFeO/recipe_selector](https://github.com/PhilippFeO/recipe_selector) - Never ever think about "What should I eat for dinner?" again and automate grocery shopping.
@@ -22037,6 +22055,7 @@
 
 ## svelte 
 
+- [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) - End-to-end encrypted file transfer.
 - [mishankov/vite-svelte-trpc](https://github.com/mishankov/vite-svelte-trpc) - Vite + Svelte + tRPC template
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
@@ -22140,6 +22159,7 @@
 
 ## tailwindcss 
 
+- [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) - End-to-end encrypted file transfer.
 - [froko/create-vite-ts](https://github.com/froko/create-vite-ts) - A CLI to bootstrap new vite-based TypeScript projects
 - [ayungavis/turborepo-nextjs-tailwind-trpc](https://github.com/ayungavis/turborepo-nextjs-tailwind-trpc) - The boilerplate Turborepo + Next.js + Tailwind + tRPC provides a starting point for building modern, fast, and responsive web applications.
@@ -23245,7 +23265,6 @@
 - [tjjfvi/subshape](https://github.com/tjjfvi/subshape) - composable shapes for cohesive code
 - [samchon/tstl](https://github.com/samchon/tstl) - TypeScript-STL (Standard Template Library, migrated from C++)
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Auth and user management for the passkey era
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [jeroenouw/cgx](https://github.com/jeroenouw/cgx) - 💻🔥CLI to generate the recommended documentation/files to improve contribution (Github, Gitlab, CodeCommit and Bitbucket)
@@ -23434,7 +23453,7 @@
 - [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 - [syumai/dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
-- [fictionco/fiction](https://github.com/fictionco/fiction) - Personal Marketing Platform (PMP)
+- [fictionco/fiction](https://github.com/fictionco/fiction) - Personal Marketing CMS
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [stoqey/ib](https://github.com/stoqey/ib) - Interactive Brokers TWS/IB Gateway API client library for Node.js (TS)
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
@@ -23888,6 +23907,7 @@
 
 ## vscode 
 
+- [skellock/vscode-just](https://github.com/skellock/vscode-just) - A Visual Studio Code plugin for working with Just.
 - [ShahradR/git-template](https://github.com/ShahradR/git-template) - Language-agnostic Git template repository to kickstart your projects!
 - [marcosgomesneto/bun-devcontainers](https://github.com/marcosgomesneto/bun-devcontainers) - Bun Runtime Template for DevContainers & Docker.
 - [StarlaneStudios/vscode-comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors) - ⚓A Visual Studio Code extension that adds support for comment anchors 🔭
@@ -23999,6 +24019,7 @@
 
 ## vscode-extension 
 
+- [skellock/vscode-just](https://github.com/skellock/vscode-just) - A Visual Studio Code plugin for working with Just.
 - [norbertK/taskmarks](https://github.com/norbertK/taskmarks) - VSCode Extension - Persist bookmarks for different tasks.
 - [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - Execute your runbooks, docs, and READMEs for VS Code.
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
@@ -24132,7 +24153,7 @@
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [fictionco/fiction](https://github.com/fictionco/fiction) - Personal Marketing Platform (PMP)
+- [fictionco/fiction](https://github.com/fictionco/fiction) - Personal Marketing CMS
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [tvjsx/trading-vue-js](https://github.com/tvjsx/trading-vue-js) - 💹  Hackable charting lib for traders. You can draw literally ANYTHING on top of candlestick charts. [Not Maintained]
