@@ -834,6 +834,7 @@
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and m
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -2662,7 +2663,7 @@
 - [jspw/VS-Code-Config](https://github.com/jspw/VS-Code-Config) - VS Code Setting (Live input output)  to make competitive programming easy and program analysis !
 - [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E)
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS®
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [xmake-io/xrepo](https://github.com/xmake-io/xrepo) - 🗂️ A cross-platform C/C++ package manager based on Xmake
 - [clibs/clib](https://github.com/clibs/clib) - Package manager for the C programming language.
@@ -2986,7 +2987,7 @@
 
 ## chinese 
 
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations.
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - [EMNLP 2022] An Open Toolkit for Knowledge Graph Extraction and Construction
 - [rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 - [forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
 
@@ -3146,6 +3147,8 @@
 
 ## cli 
 
+- [VladimirMarkelov/haku](https://github.com/VladimirMarkelov/haku) - A task/command runner inspired by 'make'
+- [nksaraf/pkger](https://github.com/nksaraf/pkger) - 📦 Simple (yet powerful) build tool for any target (browser/node/cli) ⚙ Powered by rollup, babel, gluegun, typescript
 - [exciteabletom/spud](https://github.com/exciteabletom/spud) - A CLI Spigot plugin manager that adheres to Unix conventions and Python best practices.
 - [unjs/std-env](https://github.com/unjs/std-env) - Runtime Agnostic JS utils
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
@@ -3349,6 +3352,7 @@
 - [jeroenouw/cgx](https://github.com/jeroenouw/cgx) - 💻🔥CLI to generate the recommended documentation/files to improve contribution (Github, Gitlab, CodeCommit and Bitbucket)
 - [hackmdio/hackmd-cli](https://github.com/hackmdio/hackmd-cli) - The HackMD/CodiMD Command Line Tool
 - [feinoujc/gh-search-cli](https://github.com/feinoujc/gh-search-cli) - searches github via command line. Supports repo, issues, code and commit searches and listing notifications
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [cezaraugusto/extension-create](https://github.com/cezaraugusto/extension-create) - 🧩 Create cross-browser extensions with no build configuration.
 - [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
@@ -3688,7 +3692,7 @@
 - [dinivas/dinivas](https://github.com/dinivas/dinivas) - AWS, GCP alternative on premise. Dinivas manage your private Cloud (OpenStack) infrastructure by providing many features based on popular Open Source projects
 - [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [infoslack/awesome-unikernels](https://github.com/infoslack/awesome-unikernels) - A list about Unikernels
 - [upgundecha/howtheyaws](https://github.com/upgundecha/howtheyaws) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
@@ -3816,7 +3820,7 @@
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) - :penguin: The immutable Linux meta-distribution for edge Kubernetes.
 - [koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) - A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc.
 - [wasmCloud/wash](https://github.com/wasmCloud/wash) - WAsmcloud SHell - the comprehensive command-line tool for wasmCloud development
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [upgundecha/howtheyaws](https://github.com/upgundecha/howtheyaws) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)
 - [kube-core/kube-core](https://github.com/kube-core/kube-core) - Configure once, deploy anywhere, for Kubernetes
 - [curiefense/curiefense](https://github.com/curiefense/curiefense) - Curiefense is a unified, open source platform protecting cloud native applications.
@@ -4103,6 +4107,7 @@
 
 ## command-line 
 
+- [VladimirMarkelov/haku](https://github.com/VladimirMarkelov/haku) - A task/command runner inspired by 'make'
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
@@ -4689,7 +4694,7 @@
 - [jspw/VS-Code-Config](https://github.com/jspw/VS-Code-Config) - VS Code Setting (Live input output)  to make competitive programming easy and program analysis !
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS®
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [jeremy-rifkin/libassert](https://github.com/jeremy-rifkin/libassert) - The most over-engineered and overpowered C++ assertion library.
@@ -5462,7 +5467,7 @@
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
 - [tarcieri/ithos](https://github.com/tarcieri/ithos) - A cryptographically verifiable access control and directory system for Linux servers
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [apache/ignite](https://github.com/apache/ignite) - Apache Ignite
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
@@ -5635,7 +5640,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations.
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - [EMNLP 2022] An Open Toolkit for Knowledge Graph Extraction and Construction
 - [jina-ai/examples](https://github.com/jina-ai/examples) - Jina examples and demos to help you get started
 - [koursaros-ai/nboost](https://github.com/koursaros-ai/nboost) - NBoost is a scalable, search-api-boosting platform for deploying transformer models to improve the relevance of search results on different platforms (i.e. Elasticsearch)
 - [DeepRec-AI/DeepRec](https://github.com/DeepRec-AI/DeepRec) - DeepRec is a high-performance recommendation deep learning framework based on TensorFlow. It is hosted in incubation in LF AI & Data Foundation.
@@ -5702,6 +5707,7 @@
 
 ## deno 
 
+- [kt3k/deno-bin](https://github.com/kt3k/deno-bin) - Use Deno via npm
 - [jurassiscripts/velociraptor](https://github.com/jurassiscripts/velociraptor) - The npm-style script runner for Deno
 - [guildenstern70/SmartDeno](https://github.com/guildenstern70/SmartDeno) - A simple Web Template application in Typescript for Deno
 - [Savory/Danet-CLI](https://github.com/Savory/Danet-CLI) - CLI tool for Danet applications
@@ -7185,6 +7191,7 @@
 
 ## emacs 
 
+- [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
 - [psibi/justl.el](https://github.com/psibi/justl.el) - Major mode for driving just files.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [jiacai2050/oh-my-github](https://github.com/jiacai2050/oh-my-github) - Oh My GitHub is a delightful, open source tool for managing your GitHub repositories
@@ -9666,7 +9673,7 @@
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS®
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
@@ -9919,7 +9926,7 @@
 - [schemahero/schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [asyncapi/studio](https://github.com/asyncapi/studio) - Visually design your AsyncAPI files and event-driven architecture.
 - [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
@@ -10242,7 +10249,6 @@
 - [u-root/u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -11925,7 +11931,7 @@
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
 - [chihming/awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations.
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - [EMNLP 2022] An Open Toolkit for Knowledge Graph Extraction and Construction
 - [frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness
 - [opencog/atomspace](https://github.com/opencog/atomspace) - The OpenCog (hyper-)graph database and graph rewriting system
 - [Uzay-G/espial](https://github.com/Uzay-G/espial) - Espial is an engine for automated organization and discovery of personal knowledge
@@ -12657,7 +12663,7 @@
 - [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable Vue.js 3 Design Systems.
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [polygon-io/client-js](https://github.com/polygon-io/client-js) - The official JS client library for the Polygon REST and WebSocket API.
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [greyblake/ta-rs](https://github.com/greyblake/ta-rs) - Technical analysis library for Rust language
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
@@ -13007,6 +13013,7 @@
 - [firehol/firehol](https://github.com/firehol/firehol) - A firewall for humans...
 - [utensils/essex](https://github.com/utensils/essex) - Essex - Boilerplate for Docker Based Projects
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+- [oreboot/oreboot](https://github.com/oreboot/oreboot) - oreboot is a fork of coreboot, with C removed, written in Rust.
 - [mdlayher/wgdynamic-go](https://github.com/mdlayher/wgdynamic-go) - Package wgdynamic implements a client and server for the the wg-dynamic protocol. MIT Licensed.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [kkamagui/shadow-box-for-x86](https://github.com/kkamagui/shadow-box-for-x86) - Shadow-Box: Lightweight and Practical Kernel Protector for x86 (Presented at BlackHat Asia 2017/2018, beVX 2018 and HITBSecConf 2017)
@@ -13481,7 +13488,7 @@
 - [mklement0/ttab](https://github.com/mklement0/ttab) - macOS and Linux CLI for opening a new terminal tab/window, optionally with a command to execute and/or display settings
 - [BrutalCoding/shady.ai](https://github.com/BrutalCoding/shady.ai) - Making offline AI models accessible to all types of edge devices.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS®
 - [txthinking/nami](https://github.com/txthinking/nami) - A clean and tidy decentralized package manager.
 - [abahmed/Deer](https://github.com/abahmed/Deer) - :pencil2:A modern, fast, beautiful note taking app, built on Electron and React
 - [PotatoProject/Leaflet](https://github.com/PotatoProject/Leaflet) - POSP official notes app, soon to be included
@@ -13851,7 +13858,7 @@
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
@@ -14743,7 +14750,7 @@
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations.
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - [EMNLP 2022] An Open Toolkit for Knowledge Graph Extraction and Construction
 - [jina-ai/examples](https://github.com/jina-ai/examples) - Jina examples and demos to help you get started
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [koursaros-ai/nboost](https://github.com/koursaros-ai/nboost) - NBoost is a scalable, search-api-boosting platform for deploying transformer models to improve the relevance of search results on different platforms (i.e. Elasticsearch)
@@ -15418,7 +15425,7 @@
 
 ## objective-c 
 
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS®
 - [cossacklabs/themis](https://github.com/cossacklabs/themis) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
 - [specta/specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C & Cocoa
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
@@ -15689,10 +15696,10 @@
 
 ## operating-system 
 
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS®
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
 - [jens-maus/thinRoot](https://github.com/jens-maus/thinRoot) - thinRoot is a buildroot (https://buildroot.org/) powered operating system environment to create lightweight user-defined kiosk systems as ThinClients (e.g. using intel NUC, RaspberryPi, ASUS Tinkerboa
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
@@ -15797,6 +15804,10 @@
 
 ## others 
 
+- [QuentinGruber/dockerfiletemplate](https://github.com/QuentinGruber/dockerfiletemplate) - vscode extension that allow you to use templates of dockerfiles for your project.
+- [galvez/fluent-env](https://github.com/galvez/fluent-env) - A convenient wrapper around env-schema and fluent-json-schema.
+- [JakeWharton/dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
+- [FGRibreau/jq.node](https://github.com/FGRibreau/jq.node) - jq.node - like jq but WAY MORE powerful (300+ helpers 🔥 & 1.45M modules 😱)
 - [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt) - PGP-encrypted git remotes
 - [jenkinsci/ibm-ucdeploy-pipeline-plugin](https://github.com/jenkinsci/ibm-ucdeploy-pipeline-plugin) - A plugin for Jenkins automation server to communicate with IBM UrbanCode Deploy
 - [UrbanCode/UCD-Docker-Images](https://github.com/UrbanCode/UCD-Docker-Images) - This project contains build scripts and Docker related utilities for creating Docker images (Dockerfiles) of UrbanCode Deploy.
@@ -18543,6 +18554,7 @@
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
 - [manekinekko/awesome-devcontainers](https://github.com/manekinekko/awesome-devcontainers) - A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [curusarn/resh](https://github.com/curusarn/resh) - RESH ❯❯ Contextual shell history for zsh and bash
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
@@ -19286,7 +19298,7 @@
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library
-- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations.
+- [zjunlp/DeepKE](https://github.com/zjunlp/DeepKE) - [EMNLP 2022] An Open Toolkit for Knowledge Graph Extraction and Construction
 - [JohnGiorgi/DeCLUTR](https://github.com/JohnGiorgi/DeCLUTR) - The corresponding code from our paper "DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations". Do not hesitate to open an issue if you run into any trouble!
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [koursaros-ai/nboost](https://github.com/koursaros-ai/nboost) - NBoost is a scalable, search-api-boosting platform for deploying transformer models to improve the relevance of search results on different platforms (i.e. Elasticsearch)
@@ -19435,7 +19447,6 @@
 
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [mat-sz/filedrop](https://github.com/mat-sz/filedrop) - 📲 WebRTC E2E encrypted file transfer - React + node.js
-- [froko/create-vite-ts](https://github.com/froko/create-vite-ts) - A CLI to bootstrap new vite-based TypeScript projects
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [andresmarpz/bookmarks](https://github.com/andresmarpz/bookmarks) - Next.js App Router experimental project - Save your internet discoveries on the cloud.
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
@@ -19900,7 +19911,7 @@
 - [scality/Zenko](https://github.com/scality/Zenko) - Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
-- [lostatc/acid-store](https://github.com/lostatc/acid-store) - A transactional and deduplicating virtual file system
+- [lostatc/acid-store](https://github.com/lostatc/acid-store) - [UNMAINTAINED] A transactional and deduplicating virtual file system
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [n1207n/video-transcode-queue](https://github.com/n1207n/video-transcode-queue) - A sample video upload platform as a kubernetes cluster (WIP)
 - [valeriansaliou/bloom](https://github.com/valeriansaliou/bloom) - :cherry_blossom: HTTP REST API caching middleware, to be used between load balancers and REST API workers.
@@ -20227,6 +20238,7 @@
 
 ## rust 
 
+- [VladimirMarkelov/haku](https://github.com/VladimirMarkelov/haku) - A task/command runner inspired by 'make'
 - [wormhole-foundation/wormhole](https://github.com/wormhole-foundation/wormhole) - A reference implementation for the Wormhole blockchain interoperability protocol.
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App
@@ -20517,7 +20529,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [remram44/dhstore](https://github.com/remram44/dhstore) - A thing that stores stuff
-- [lostatc/acid-store](https://github.com/lostatc/acid-store) - A transactional and deduplicating virtual file system
+- [lostatc/acid-store](https://github.com/lostatc/acid-store) - [UNMAINTAINED] A transactional and deduplicating virtual file system
 - [nlfiedler/fastcdc-rs](https://github.com/nlfiedler/fastcdc-rs) - FastCDC implementation in Rust
 - [openebs/mayastor](https://github.com/openebs/mayastor) - A cloud native declarative data plane in containers for containers
 - [saschagrunert/kmod](https://github.com/saschagrunert/kmod) - A Linux kernel module written in Rust
@@ -20894,7 +20906,7 @@
 - [oxsecurity/codetotal](https://github.com/oxsecurity/codetotal) - Analyze any snippet, file, or repository to detect possible security flaws such as secret in code, open source vulnerability, code security, vulnerability, insecure infrastructure as code, and potenti
 - [assimilation/assimilation-official](https://github.com/assimilation/assimilation-official) - This is the official main repository for the Assimilation project
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-- [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 - [SkuldNorniern/fluere](https://github.com/SkuldNorniern/fluere) - Fluere is a powerful and versatile tool designed for network monitoring and analysis. It is capable of capturing network packets in pcap format and converting them into NetFlow data, providing a compr
 - [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
@@ -21940,7 +21952,7 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
-- [lostatc/acid-store](https://github.com/lostatc/acid-store) - A transactional and deduplicating virtual file system
+- [lostatc/acid-store](https://github.com/lostatc/acid-store) - [UNMAINTAINED] A transactional and deduplicating virtual file system
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [sj14/dbbench](https://github.com/sj14/dbbench) - 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts
@@ -21949,7 +21961,7 @@
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
-- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
+- [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault-tolerant SQL engine.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 
 ## stable-diffusion 
@@ -22033,7 +22045,6 @@
 
 ## storybook 
 
-- [froko/create-vite-ts](https://github.com/froko/create-vite-ts) - A CLI to bootstrap new vite-based TypeScript projects
 - [NiGhTTraX/ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template for setting up a TypeScript monorepo
 - [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools by using these cards in your GitHub README.
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team
@@ -22161,7 +22172,6 @@
 
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) - End-to-end encrypted file transfer.
-- [froko/create-vite-ts](https://github.com/froko/create-vite-ts) - A CLI to bootstrap new vite-based TypeScript projects
 - [ayungavis/turborepo-nextjs-tailwind-trpc](https://github.com/ayungavis/turborepo-nextjs-tailwind-trpc) - The boilerplate Turborepo + Next.js + Tailwind + tRPC provides a starting point for building modern, fast, and responsive web applications.
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
 - [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS O
@@ -22957,6 +22967,7 @@
 
 ## typescript 
 
+- [nksaraf/pkger](https://github.com/nksaraf/pkger) - 📦 Simple (yet powerful) build tool for any target (browser/node/cli) ⚙ Powered by rollup, babel, gluegun, typescript
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [accordproject/concerto](https://github.com/accordproject/concerto) - Business schema language and runtime
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
@@ -22965,7 +22976,6 @@
 - [mat-sz/filedrop](https://github.com/mat-sz/filedrop) - 📲 WebRTC E2E encrypted file transfer - React + node.js
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [horiuchi/dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file
-- [froko/create-vite-ts](https://github.com/froko/create-vite-ts) - A CLI to bootstrap new vite-based TypeScript projects
 - [modernice/jotbot](https://github.com/modernice/jotbot) - JotBot generates the missing code documentation for your Go and TypeScript projects. Powered by AI.
 - [contentful-userland/cf-content-types-generator](https://github.com/contentful-userland/cf-content-types-generator) - Generate TS declarations for content types
 - [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader) - TypeScript loader for webpack
@@ -23752,6 +23762,7 @@
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [JohnEricson/dotfiles](https://github.com/JohnEricson/dotfiles) - Personal config files for Bash, Windows PowerShell, PowerShell Core and Vim/Neovim. Works on Linux/Windows/WSL/Cygwin/Git Bash/VS Code Remote - Containers. Good cross platform configuration that works
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
