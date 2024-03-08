@@ -163,6 +163,7 @@
 
 ## C 
 
+- [houmain/hamster](https://github.com/houmain/hamster) - A Firefox addon which allows hoarding web sites by bookmarking them.
 - [rocky/remake](https://github.com/rocky/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
 - [bkaradzic/GENie](https://github.com/bkaradzic/GENie) - GENie - Project generator tool
 - [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) - An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months bet
@@ -844,7 +845,6 @@
 - [jellydn/playwright-crawler-demo](https://github.com/jellydn/playwright-crawler-demo) - This template is a production ready boilerplate for developing with `PlaywrightCrawler`. Use this to bootstrap your projects using the most up-to-date code.
 - [chinayin-docker/playwright](https://github.com/chinayin-docker/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  playwright.dev
 - [ianwalter/playwright-container](https://github.com/ianwalter/playwright-container) - A GitHub Action / Docker image for Playwright, the browser automation library
-- [JacobLinCool/playwright-docker](https://github.com/JacobLinCool/playwright-docker) - Playwright Docker Images. (Ubuntu, Alpine) x (ARMv8, x64) x (Chromium, Firefox, WebKit, Chrome, Edge)
 - [ttruong11/jenkins-as-code](https://github.com/ttruong11/jenkins-as-code) - A repository for jenkins as code. This is meant to bootstrap a brand new jenkins installation within a docker container setup. Comes complete with custom plugins and themes
 - [jenkinsci/docker-inbound-agents](https://github.com/jenkinsci/docker-inbound-agents) - Jenkins docker inbound agents with tools built in.
 - [BrainTwister/docker-devel-env](https://github.com/BrainTwister/docker-devel-env) - Fast, reproducible, and portable software development environments
@@ -961,6 +961,8 @@
 
 ## Go 
 
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
+- [rorycl/lsbookmarks](https://github.com/rorycl/lsbookmarks) - List and interactively search firefox bookmarks from the terminal
 - [hahwul/authz0](https://github.com/hahwul/authz0) - 🔑 Authz0 is an automated authorization test tool. Unauthorized access can be identified based on URLs and Roles & Credentials.
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [evilsocket/xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
@@ -2372,6 +2374,7 @@
 
 ## HTML 
 
+- [hold-baby/bookmark-file-parser](https://github.com/hold-baby/bookmark-file-parser) - Parse Firefox/Chrome/IE/Safari HTML bookmarks files
 - [iipc/warc-specifications](https://github.com/iipc/warc-specifications) - Centralised repository for WARC usage specifications.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -2687,6 +2690,14 @@
 
 ## JavaScript 
 
+- [FatehAK/notebyte](https://github.com/FatehAK/notebyte) - Jot down your thoughts ✏️  with this simple note taking web app. Built with Node.js, Express and Mongo.
+- [Handy-Bookmarks-Manager/hbm-ff](https://github.com/Handy-Bookmarks-Manager/hbm-ff) - Extension developed for firefox to manage bookmarks
+- [mkoziarski/gotta-read-it](https://github.com/mkoziarski/gotta-read-it) - A Firefox add-on for creating simple, categorized lists of web pages you want to catch up with, out of your Firefox bookmarks. Get it at https://addons.mozilla.org/en-US/firefox/addon/gotta-read-it/
+- [peterhil/spellbook](https://github.com/peterhil/spellbook) - Spellbook is a WebExtension to easily add new bookmarks to correct categories
+- [teddy-gustiaux/quick-bookmarking](https://github.com/teddy-gustiaux/quick-bookmarking) - WebExtension allowing you to quickly bookmark pages to a default bookmark location via a dedicated icon. Some optional advanced features are also available.
+- [1nfiniteloop/json-bookmarks](https://github.com/1nfiniteloop/json-bookmarks) - Browser extension for Mozilla Firefox and Chrome for importing and exporting bookmarks with a json file
+- [herrherrmann/omnivore-list-popup](https://github.com/herrherrmann/omnivore-list-popup) - Web extension for Firefox and Chrome that shows a popup with a list of your Omnivore articles to quickly open or archive (similar to the In My Pocket extension).
+- [mdyd-dev/pos-cli](https://github.com/mdyd-dev/pos-cli) - CLI for platformOS
 - [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [oldweb-today/shepherd-client](https://github.com/oldweb-today/shepherd-client) - 
 - [ShaunLWM/ark](https://github.com/ShaunLWM/ark) - 🚢 A self-hosted, personal archival application
@@ -2781,6 +2792,7 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [Devzstudio/Vscode-Emoji-Snippets](https://github.com/Devzstudio/Vscode-Emoji-Snippets) - Visual Code Emoji Snippets 🚀😎
 - [nitayneeman/vscode-playwright-snippets](https://github.com/nitayneeman/vscode-playwright-snippets) - 📋 A Visual Studio Code extension which adds predefined useful code snippets for Playwright
+- [JacobLinCool/playwright-docker](https://github.com/JacobLinCool/playwright-docker) - Playwright Docker Images. (Ubuntu, Alpine) x (ARMv8, x64) x (Chromium, Firefox, WebKit, Chrome, Edge)
 - [ValeriiMandryka/Boilerplate-Playwright-PlaywrightReport](https://github.com/ValeriiMandryka/Boilerplate-Playwright-PlaywrightReport) - Browsers: [Chromium, Firefox, Webkit ]; mobile: [ MobileChrome, MobileSafari ]; Reporter: [Playwright Report ]
 - [mitmplay/mitm-play](https://github.com/mitmplay/mitm-play) - Man in the middle using Playwright
 - [arnaud/chrome-tab-sugar](https://github.com/arnaud/chrome-tab-sugar) - Organize and manage your tabs from a single page! - Firefox Panorama for Chrome
@@ -3404,7 +3416,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [benweet/stackedit.js](https://github.com/benweet/stackedit.js) - Add StackEdit to any website
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
+- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [chr15m/motionless](https://github.com/chr15m/motionless) - Generate static sites with code.
@@ -4069,6 +4081,7 @@
 
 ## Others 
 
+- [fastaddons/GroupSpeedDial](https://github.com/fastaddons/GroupSpeedDial) - This repository is for tracking bugs and documentation only
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [liatrio-chef/hygieia-dev-baked](https://github.com/liatrio-chef/hygieia-dev-baked) - A baked vagrant box that spins up a pipeline consisting of archiva, github, sonarqube, jenkins, tomcat, selenium, and hygieia.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -4684,6 +4697,9 @@
 
 ## Python 
 
+- [BURG3R5/firefox-bookmarks](https://github.com/BURG3R5/firefox-bookmarks) - Manage your Firefox bookmarks with ease
+- [alflanagan/MarksManager](https://github.com/alflanagan/MarksManager) - Some scripts to read your Firefox bookmarks backup files, and find duplicate bookmarks and dead links.
+- [psiegman/bookmark-generator](https://github.com/psiegman/bookmark-generator) - Bookmark generator. Generates bookmarks that can be imported in Firefox, Chrome and Internet Explorer
 - [oldweb-today/remote-desktop-server](https://github.com/oldweb-today/remote-desktop-server) - A set of Docker images for streaming a remote desktop video and audio
 - [oduwsdl/MementoMap](https://github.com/oduwsdl/MementoMap) - A Tool to Summarize Web Archive Holdings
 - [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver) - 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
@@ -4942,6 +4958,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [SupraSummus/dhall-python](https://github.com/SupraSummus/dhall-python) - Work in progress pure python dhall interpreter
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [microsoft/Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -5086,7 +5103,7 @@
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
@@ -5571,6 +5588,7 @@
 
 ## R 
 
+- [duncantl/RFirefoxData](https://github.com/duncantl/RFirefoxData) - R tools to query one's own or other information from Firefox, including pages visited, open tabs and windows, bookmarks
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [ankane/jetpack](https://github.com/ankane/jetpack) - A friendly package manager for R
 - [ropensci/targets](https://github.com/ropensci/targets) - Function-oriented Make-like declarative workflows for R
@@ -5818,7 +5836,7 @@
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All in one CLI tool for 10+ AI platforms, including OpenAI, Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All in one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [matthewwoodruff/sdoc](https://github.com/matthewwoodruff/sdoc) - Framework for building custom CLIs around shell, scripts, and executables
 - [woelper/oculante](https://github.com/woelper/oculante) - A minimalistic crossplatform image viewer written in rust
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
@@ -6423,6 +6441,7 @@
 
 ## Shell 
 
+- [ArtBIT/bash-bookmarks](https://github.com/ArtBIT/bash-bookmarks) - CLI-first plain-text URL bookmarks manager
 - [PeterMosmans/security-scripts](https://github.com/PeterMosmans/security-scripts) - A collection of security related Python and Bash shell scripts. Analyze hosts on generic security vulnerabilities. Wrapper around popular tools like nmap (portscanner), nikto (webscanner) and testssl.
 - [robotshell/magicRecon](https://github.com/robotshell/magicRecon) - MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in 
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
@@ -7046,6 +7065,9 @@
 
 ## TypeScript 
 
+- [fardjad/node-interactive-commander](https://github.com/fardjad/node-interactive-commander) - Commander.js with integrated interactive prompts
+- [osmoscraft/fjord](https://github.com/osmoscraft/fjord) - Host-free RSS reader in your browser.
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [swve/gitstorykit](https://github.com/swve/gitstorykit) - Build rich git projects history discovery apps with ease, used by Gitstory
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [wKovacs64/hibp](https://github.com/wKovacs64/hibp) - An unofficial TypeScript SDK for the 'Have I been pwned?' service.
@@ -7135,7 +7157,7 @@
 - [TaitoUnited/full-stack-template](https://github.com/TaitoUnited/full-stack-template) - Template for cloud-native applications and microservices running as containers/functions on Kubernetes, Docker Compose, or cloud. You can choose the stack during project creation.
 - [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
 - [Savory/Danet-CLI](https://github.com/Savory/Danet-CLI) - CLI tool for Danet applications
-- [Savory/Danet](https://github.com/Savory/Danet) - The most mature backend framework for Deno
+- [Savory/Danet](https://github.com/Savory/Danet) - The most mature backend framework for Deno. Create awesome HTTP and WebSocket server as well as KVQueue workers !
 - [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [dbfu/trpc-template](https://github.com/dbfu/trpc-template) - tRPC
 - [vonojs/vono-trpc-tanstackrouter](https://github.com/vonojs/vono-trpc-tanstackrouter) - Boilerplate for Vono, Tanstack Router and tRPC
@@ -7307,7 +7329,7 @@
 - [suchipi/yavascript](https://github.com/suchipi/yavascript) - shell script replacement; write shell scripts in js instead of bash, then run them with a single statically-linked file
 - [rejetto/hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
-- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦 🍣 Next-gen package bundler for TypeScript & ESM
+- [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [TimvanScherpenzeel/binpacker](https://github.com/TimvanScherpenzeel/binpacker) - CLI tool for packing multiple files into a single binary, as an alternative to spritesheets, in order to save network requests in the browser.
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
@@ -7363,7 +7385,7 @@
 - [fulls1z3/ngx-meta](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering)
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl) - Metadata scraper with support for oEmbed, Twitter Cards and Open Graph Protocol for Node.js :zap:
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
-- [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen let's you build faster headless storefronts in less time, on Shopify.
+- [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen lets you build faster headless storefronts in less time, on Shopify.
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.
@@ -7717,7 +7739,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [oclif/plugin-plugins](https://github.com/oclif/plugin-plugins) - plugins plugin for oclif
 - [asyncapi/parser-js](https://github.com/asyncapi/parser-js) - AsyncAPI parser for Javascript (browser-compatible too).
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
@@ -8410,6 +8431,7 @@
 
 ## Vue 
 
+- [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [ibrokethecloud/dashboard](https://github.com/ibrokethecloud/dashboard) - Harvester UI
 - [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
