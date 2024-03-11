@@ -497,7 +497,7 @@
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 5.1: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy se
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor with LLM wingman.
@@ -1064,7 +1064,7 @@
 - [LinuxSuRen/yaml-readme](https://github.com/LinuxSuRen/yaml-readme) - A helper to generate the READE file automatically from YAML-based metadata files.
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
-- [naiba/code-runner](https://github.com/naiba/code-runner) - :construction_worker: Docker-based remote code runner with simple API.
+- [naiba-archived/code-runner](https://github.com/naiba-archived/code-runner) - :construction_worker: Docker-based remote code runner with simple API.
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
 - [Amo-Addai/devsecops-ci-cd](https://github.com/Amo-Addai/devsecops-ci-cd) - Using multiple DevSecOps and DataOps tools to implement Continuous Integration and Delivery and (CI/CD) Automation in both Software Engineering and Big Data Analytics projects. Sample Tools: Docker, G
 - [stakater/GitWebhookProxy](https://github.com/stakater/GitWebhookProxy) - A proxy to let webhooks reach running services behind a firewall – [✩Star] if you're using it!
@@ -2401,6 +2401,7 @@
 
 ## HTML 
 
+- [binbashar/awesome-compose](https://github.com/binbashar/awesome-compose) - Awesome Docker Compose samples
 - [hold-baby/bookmark-file-parser](https://github.com/hold-baby/bookmark-file-parser) - Parse Firefox/Chrome/IE/Safari HTML bookmarks files
 - [iipc/warc-specifications](https://github.com/iipc/warc-specifications) - Centralised repository for WARC usage specifications.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -2608,6 +2609,7 @@
 
 ## Java 
 
+- [apache/incubator-heron](https://github.com/apache/incubator-heron) - Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) - Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
@@ -3985,6 +3987,14 @@
 
 ## Makefile 
 
+- [binbashar/public-docker-images](https://github.com/binbashar/public-docker-images) - Public docker images
+- [caracolazuldev/d-composer](https://github.com/caracolazuldev/d-composer) - A Gnu Make Makefile include to manage complex docker-compose definitions.
+- [joakimbits/normalize](https://github.com/joakimbits/normalize) - Make Make more inclusive - build automatically and from anywhere
+- [hazelops/icmk](https://github.com/hazelops/icmk) - 🧊 Framework that uses GNU Make for Infrastructure as Code
+- [alpha-build/alpha-build](https://github.com/alpha-build/alpha-build) - Simple monorepo build tool based on Make with out-of-the-box support for Python, Bash, Jupyter Notebooks, Markdown, YAML, HTML, CSS, JS, TS and with a strong focus on flexibility, transparency, and ex
+- [krisnova/Makefile](https://github.com/krisnova/Makefile) - Makefile example. All Makefiles should have "help"
+- [marmelab/make-docker-command](https://github.com/marmelab/make-docker-command) - Seamlessly execute commands (composer, bower, compass) in isolation using docker and make.
+- [pgporada/terraform-makefile](https://github.com/pgporada/terraform-makefile) - Helps me actually use terraform for multiple environments
 - [mateothegreat/docker-alpine-jenkins](https://github.com/mateothegreat/docker-alpine-jenkins) - Jenkins on alpine w/pre-installed plugins focused on Kubernetes.
 - [rosineygp/mkdkr_commitlint](https://github.com/rosineygp/mkdkr_commitlint) - Verify commit message using https://commitlint.js.org
 - [TheNetAdmin/Makefile-Templates](https://github.com/TheNetAdmin/Makefile-Templates) - Makefile templates for different sized projects
@@ -4868,7 +4878,7 @@
 - [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) - OpenAgents: An Open Platform for Language Agents in the Wild
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [wolfg1969/oh-my-stars](https://github.com/wolfg1969/oh-my-stars) - An offline CLI tool to search your GitHub Stars.
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -5754,6 +5764,7 @@
 
 ## Rust 
 
+- [LyonSyonII/run](https://github.com/LyonSyonII/run) - Run commands in the languages you love!
 - [Lisprez/so_stupid_search](https://github.com/Lisprez/so_stupid_search) - It's my honor to drive you fucking fire faster, to have more time with your Family and Sunshine.This tool is for those who often want to search for a string Deeply into a directory in Recursive mode, 
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
@@ -6486,6 +6497,7 @@
 
 ## Shell 
 
+- [kworkflow/kworkflow](https://github.com/kworkflow/kworkflow) - kw is our inglorious kernel developer workflow tool with a simple mission: reduce the overhead with infrastructure setup for Linux development
 - [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers
 - [shipping-docker/vessel](https://github.com/shipping-docker/vessel) - Up and running with small Docker environments
 - [fractalnetworksco/selfhosted-gateway](https://github.com/fractalnetworksco/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet with a docker compose interface.
