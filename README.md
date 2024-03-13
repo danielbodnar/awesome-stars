@@ -387,6 +387,7 @@
 - [r](#r)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
+- [rat](#rat)
 - [react](#react)
 - [react-hooks](#react-hooks)
 - [react-native](#react-native)
@@ -953,6 +954,7 @@
 
 ## animation 
 
+- [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [dphfox/Fusion](https://github.com/dphfox/Fusion) - A modern reactive UI library, built specifically for Roblox and Luau.
 - [layerJS/layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
@@ -1985,7 +1987,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [ezra-buckingham/terry-the-terraformer](https://github.com/ezra-buckingham/terry-the-terraformer) - A CLI for deploying red team infrastructure across mutliple cloud providers, all integrated with a virtual Nebula network, and full ELK integration
-- [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
+- [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [JamesWoolfenden/sato](https://github.com/JamesWoolfenden/sato) - Sato converts ARM or CFN into Terraform
 - [JamesWoolfenden/pike](https://github.com/JamesWoolfenden/pike) - Pike is a tool for determining the permissions or policy required for IAC code
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
@@ -2060,6 +2062,7 @@
 
 ## azure 
 
+- [Azure/azure-devops-utils](https://github.com/Azure/azure-devops-utils) - Azure DevOps Utilities
 - [Pwd9000-ML/docker-github-runner-linux](https://github.com/Pwd9000-ML/docker-github-runner-linux) - Repository for building a self hosted GitHub runner as a ubuntu linux container
 - [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
@@ -3003,6 +3006,7 @@
 
 ## cheatsheet 
 
+- [mre/vscode-snippet](https://github.com/mre/vscode-snippet) - 🐤 A Visual Studio Code extension for cheat.sh. Quickly and easily find code snippets for any language right inside your IDE.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
 - [MichaelCurrin/code-cookbook](https://github.com/MichaelCurrin/code-cookbook) - Reusable code patterns which you can use as reference or copy to your project 👩‍💻👨‍🍳📖🥗
@@ -3209,6 +3213,8 @@
 
 ## cli 
 
+- [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
+- [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [LyonSyonII/run](https://github.com/LyonSyonII/run) - Run commands in the languages you love!
 - [bfontaine/grape](https://github.com/bfontaine/grape) - :grapes: Syntax-aware grep-like for Clojure
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
@@ -4045,7 +4051,7 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [uasoft-indonesia/badaso](https://github.com/uasoft-indonesia/badaso) - Laravel Vue headless CMS / admin panel / dashboard / builder / API CRUD generator, anything !
-- [fictionco/fiction](https://github.com/fictionco/fiction) - Personal Marketing CMS
+- [fictionco/fiction](https://github.com/fictionco/fiction) - AI Marketing Platform (AMP) for personal websites, blogs, and newsletters
 - [abecms/abecms](https://github.com/abecms/abecms) - The lightning fast CMS
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
@@ -4141,6 +4147,7 @@
 
 ## code 
 
+- [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
@@ -4189,6 +4196,8 @@
 
 ## command-line 
 
+- [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
+- [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
 - [LyonSyonII/run](https://github.com/LyonSyonII/run) - Run commands in the languages you love!
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [fardjad/node-interactive-commander](https://github.com/fardjad/node-interactive-commander) - Commander.js with integrated interactive prompts
@@ -5987,6 +5996,7 @@
 
 ## developer-tools 
 
+- [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
@@ -6115,6 +6125,7 @@
 
 ## devops 
 
+- [Azure/azure-devops-utils](https://github.com/Azure/azure-devops-utils) - Azure DevOps Utilities
 - [joakimbits/normalize](https://github.com/joakimbits/normalize) - Make Make more inclusive - build automatically and from anywhere
 - [bashup/.devkit](https://github.com/bashup/.devkit) - Portable project automation and dependency bootstrapping for polyglot projects
 - [0x4D31/burpa](https://github.com/0x4D31/burpa) - Burp-Automator: A Burp Suite Automation Tool with Slack Integration. It can be used with Jenkins and Selenium to automate Dynamic Application Security Testing (DAST).
@@ -6442,6 +6453,7 @@
 
 ## docker 
 
+- [philpep/dockerfiles](https://github.com/philpep/dockerfiles) - 
 - [binbashar/awesome-compose](https://github.com/binbashar/awesome-compose) - Awesome Docker Compose samples
 - [binbashar/public-docker-images](https://github.com/binbashar/public-docker-images) - Public docker images
 - [caracolazuldev/d-composer](https://github.com/caracolazuldev/d-composer) - A Gnu Make Makefile include to manage complex docker-compose definitions.
@@ -7139,6 +7151,8 @@
 
 ## editor 
 
+- [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
+- [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [chr15m/slingcode](https://github.com/chr15m/slingcode) - personal computing platform
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -8124,6 +8138,7 @@
 
 ## git 
 
+- [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [swve/gitstorykit](https://github.com/swve/gitstorykit) - Build rich git projects history discovery apps with ease, used by Gitstory
@@ -8241,6 +8256,7 @@
 
 ## github 
 
+- [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [krisnova/Makefile](https://github.com/krisnova/Makefile) - Makefile example. All Makefiles should have "help"
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [swve/gitstorykit](https://github.com/swve/gitstorykit) - Build rich git projects history discovery apps with ease, used by Gitstory
@@ -8319,7 +8335,7 @@
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rusty-ferris-club/backpack](https://github.com/rusty-ferris-club/backpack) - 🎒 CLI to create starters from repos + Templates 🤖 + Actions 🚀
 - [reviewpad/reviewpad](https://github.com/reviewpad/reviewpad) - Next generation pull requests and issues 🦄
-- [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
+- [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [aerys/gpm](https://github.com/aerys/gpm) - Git-based Package Manager.
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [packit/packit](https://github.com/packit/packit) - Upstream project ← → Downstream distribution
@@ -8342,6 +8358,7 @@
 
 ## github-actions 
 
+- [f2calv/yamlizr](https://github.com/f2calv/yamlizr) - Azure DevOps Designer-to-YAML Pipeline CLI CodeGen Tool w/GitHub Actions Generation
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
 - [extractions/setup-just](https://github.com/extractions/setup-just) - 🤖 GitHub Action to install the just command runner
@@ -8399,6 +8416,8 @@
 
 ## go 
 
+- [tokozedg/sman](https://github.com/tokozedg/sman) - :bug: Command-line snippet manager
+- [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
 - [buildkite/agent](https://github.com/buildkite/agent) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [rorycl/lsbookmarks](https://github.com/rorycl/lsbookmarks) - List and interactively search firefox bookmarks from the terminal
@@ -9327,7 +9346,7 @@
 
 ## google-cloud 
 
-- [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
+- [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft (Azure), Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
 - [scality/Zenko](https://github.com/scality/Zenko) - Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -9806,6 +9825,8 @@
 
 ## hacktoberfest 
 
+- [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
+- [Kholid060/snapcode](https://github.com/Kholid060/snapcode) - Snippet code manager
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) - Stay happy while offline | World's first offline search engine.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) - Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
@@ -10208,7 +10229,6 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
 - [kbst/terraform-kubestack](https://github.com/kbst/terraform-kubestack) - Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
@@ -10562,6 +10582,7 @@
 
 ## hacktoberfest2021 
 
+- [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) - Stay happy while offline | World's first offline search engine.
 - [Canvasbird/canvasboard](https://github.com/Canvasbird/canvasboard) - An interactive board with plugins focusing on replacing the need of multiple platforms for teaching, presenting, managing or explaining your ideas.
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
@@ -10592,6 +10613,7 @@
 
 ## haskell 
 
+- [cmoog/traderjoes](https://github.com/cmoog/traderjoes) - Price tracking program and website for Trader Joe's, updated daily.
 - [alpha-build/alpha-build](https://github.com/alpha-build/alpha-build) - Simple monorepo build tool based on Make with out-of-the-box support for Python, Bash, Jupyter Notebooks, Markdown, YAML, HTML, CSS, JS, TS and with a strong focus on flexibility, transparency, and ex
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [roman/Haskell-etc](https://github.com/roman/Haskell-etc) - Declarative configuration spec for Haskell projects
@@ -11828,6 +11850,7 @@
 
 ## jenkins 
 
+- [Azure/azure-devops-utils](https://github.com/Azure/azure-devops-utils) - Azure DevOps Utilities
 - [mateothegreat/docker-alpine-jenkins](https://github.com/mateothegreat/docker-alpine-jenkins) - Jenkins on alpine w/pre-installed plugins focused on Kubernetes.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
@@ -12239,6 +12262,7 @@
 
 ## kubernetes 
 
+- [philpep/dockerfiles](https://github.com/philpep/dockerfiles) - 
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [mateothegreat/docker-alpine-jenkins](https://github.com/mateothegreat/docker-alpine-jenkins) - Jenkins on alpine w/pre-installed plugins focused on Kubernetes.
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
@@ -12450,7 +12474,7 @@
 - [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
 - [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc.
-- [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
+- [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way.
@@ -13589,6 +13613,7 @@
 
 ## mac 
 
+- [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -13793,6 +13818,7 @@
 
 ## macos 
 
+- [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
 - [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
@@ -16177,6 +16203,13 @@
 
 ## others 
 
+- [paketo-buildpacks/builder-jammy-base](https://github.com/paketo-buildpacks/builder-jammy-base) - A Cloud Native Buildpacks (CNB) builder with the Paketo Jammy Jellyfish Base stack and Paketo buildpacks.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
+- [gurayyarar/SnipCommand](https://github.com/gurayyarar/SnipCommand) - A free and open source command snippets manager for organize and copy fast.
+- [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
+- [jupytercalpoly/jupyterlab-code-snippets](https://github.com/jupytercalpoly/jupyterlab-code-snippets) - Save, reuse, and share code snippets using JupyterLab Code Snippets!
+- [harvard-lil/js-wacz](https://github.com/harvard-lil/js-wacz) - JavaScript module and CLI tool for working with web archive data using the WACZ format specification.
+- [bitnami/render-template](https://github.com/bitnami/render-template) - CLI tool for rendering templates with custom data
 - [kworkflow/kworkflow](https://github.com/kworkflow/kworkflow) - kw is our inglorious kernel developer workflow tool with a simple mission: reduce the overhead with infrastructure setup for Linux development
 - [apache/incubator-heron](https://github.com/apache/incubator-heron) - Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
 - [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
@@ -17281,6 +17314,7 @@
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
 - [FactorJS/factor-app-zeno](https://github.com/FactorJS/factor-app-zeno) - Zeno  - Factor example app / theme
 - [storyblok/storyblok-cli](https://github.com/storyblok/storyblok-cli) - The repo for our Storyblok CLI
+- [zalify/easy-email](https://github.com/zalify/easy-email) - React.js Drag-and-Drop Email Editor based on MJML. Transform structured JSON data into major email clients compatible HTML. Written in Typescript and supported both in browser and Node.js.
 - [p3ol/oak](https://github.com/p3ol/oak) - 🌳  Modern, lightweight & modulable page builder
 - [paperbits/paperbits-forms](https://github.com/paperbits/paperbits-forms) - This repository contains widgets and editors for building input forms.
 - [chroblert/WindowsVulnScan](https://github.com/chroblert/WindowsVulnScan) - 
@@ -17486,7 +17520,7 @@
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
 - [eucalyptus/eucalyptus](https://github.com/eucalyptus/eucalyptus) - Eucalyptus Cloud-computing Platform
 - [Corymbia/eucalyptus](https://github.com/Corymbia/eucalyptus) - Eucalyptus Cloud-computing Platform
-- [andrewchilds/overcast](https://github.com/andrewchilds/overcast) - Orchestrate VMs from your terminal.
+- [andrewchilds/overcast](https://github.com/andrewchilds/overcast) - Orchestrate VMs from your terminal
 - [outroll/vesta](https://github.com/outroll/vesta) - VESTA Control Panel
 - [repleo/bounca](https://github.com/repleo/bounca) - BounCA is a web tool to generate self-signed SSL certificates and setup a key infrastructure
 - [TBD54566975/tbdex-whitepaper](https://github.com/TBD54566975/tbdex-whitepaper) - 
@@ -18962,6 +18996,7 @@
 
 ## productivity 
 
+- [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [lukasbach/yana](https://github.com/lukasbach/yana) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more
@@ -19186,6 +19221,7 @@
 
 ## pwa 
 
+- [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja) - Code snippets manager for developers. PWA.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
@@ -19225,6 +19261,7 @@
 
 ## python 
 
+- [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [alpha-build/alpha-build](https://github.com/alpha-build/alpha-build) - Simple monorepo build tool based on Make with out-of-the-box support for Python, Bash, Jupyter Notebooks, Markdown, YAML, HTML, CSS, JS, TS and with a strong focus on flexibility, transparency, and ex
 - [definitive-io/code-indexer-loop](https://github.com/definitive-io/code-indexer-loop) - Code Indexer Loop is a Python library for indexing and retrieving source code files through an integrated vector database that's continuously and efficiently updated.
 - [hamelsmu/code_search](https://github.com/hamelsmu/code_search) - Code For Medium Article: "How To Create Natural Language Semantic Search for Arbitrary Objects With Deep Learning"
@@ -19679,6 +19716,7 @@
 
 ## python3 
 
+- [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [joakimbits/normalize](https://github.com/joakimbits/normalize) - Make Make more inclusive - build automatically and from anywhere
 - [wwkimball/yamlpath](https://github.com/wwkimball/yamlpath) - YAML/JSON/EYAML/Compatible get/set/merge/validate/scan/convert/diff processors using powerful, intuitive, command-line friendly syntax.
 - [SamLau95/nbinteract](https://github.com/SamLau95/nbinteract) - Create interactive webpages from Jupyter Notebooks
@@ -19906,6 +19944,18 @@
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 
+## rat 
+
+- [Viralmaniar/Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen c
+- [quantumcore/paradoxiaRAT](https://github.com/quantumcore/paradoxiaRAT) - ParadoxiaRat : Native Windows Remote access Tool.
+- [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+- [AHXR/ghost](https://github.com/AHXR/ghost) - :ghost: RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
+- [lu4p/ToRat](https://github.com/lu4p/ToRat) - ToRat is a Remote Administation tool written in Go using Tor as a transport mechanism and RPC for communication
+- [nathanlopez/Stitch](https://github.com/nathanlopez/Stitch) - Python Remote Administration Tool (RAT)
+- [r00t-3xp10it/venom](https://github.com/r00t-3xp10it/venom) - venom - C2 shellcode generator/compiler/handler
+- [Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX) - An evil RAT (Remote Administration Tool) for macOS / OS X.
+- [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then 
+
 ## react 
 
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) - Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
@@ -20115,7 +20165,6 @@
 - [Sitecore/jss](https://github.com/Sitecore/jss) - Software development kit for JavaScript developers building web applications with Sitecore Experience Platform
 - [firecmsco/firecms](https://github.com/firecmsco/firecms) - Awesome Firebase/Firestore-based CMS. The missing admin panel for your Firebase project!
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
-- [zalify/easy-email](https://github.com/zalify/easy-email) - React.js Drag-and-Drop Email Editor based on MJML. Transform structured JSON data into major email clients compatible HTML. Written in Typescript and supported both in browser and Node.js.
 - [pilotpirxie/visual-editor](https://github.com/pilotpirxie/visual-editor) - 🏗 Website editor built with React. Make a modern website in seconds with predefined blocks and drag and drop.
 - [eclipse/streamsheets](https://github.com/eclipse/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
@@ -22079,7 +22128,7 @@
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Software Edge Infra
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [matanolabs/matano](https://github.com/matanolabs/matano) - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS
@@ -22152,6 +22201,7 @@
 
 ## shell 
 
+- [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [bash-my-aws/bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
@@ -22855,6 +22905,7 @@
 
 ## terminal 
 
+- [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -23071,7 +23122,7 @@
 - [ezra-buckingham/terry-the-terraformer](https://github.com/ezra-buckingham/terry-the-terraformer) - A CLI for deploying red team infrastructure across mutliple cloud providers, all integrated with a virtual Nebula network, and full ELK integration
 - [sergelogvinov/terraform-talos](https://github.com/sergelogvinov/terraform-talos) - Terraform examples to run Talos
 - [Naman1997/simple-fcos-cluster](https://github.com/Naman1997/simple-fcos-cluster) - A simple kubernetes cluster using Fedora Core OS, Proxmox and k0sctl.
-- [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud Management and Automation Framework.
+- [shalb/cluster.dev](https://github.com/shalb/cluster.dev) - Cloud-native infrastructure templating. Creating cloud installers for SaaS. Replication of complex cloud-native infrastructures.
 - [JamesWoolfenden/sato](https://github.com/JamesWoolfenden/sato) - Sato converts ARM or CFN into Terraform
 - [JamesWoolfenden/pike](https://github.com/JamesWoolfenden/pike) - Pike is a tool for determining the permissions or policy required for IAC code
 - [flosell/iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
@@ -24037,7 +24088,7 @@
 - [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen) - A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 - [syumai/dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
-- [fictionco/fiction](https://github.com/fictionco/fiction) - Personal Marketing CMS
+- [fictionco/fiction](https://github.com/fictionco/fiction) - AI Marketing Platform (AMP) for personal websites, blogs, and newsletters
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [stoqey/ib](https://github.com/stoqey/ib) - Interactive Brokers TWS/IB Gateway API client library for Node.js (TS)
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
@@ -24609,6 +24660,7 @@
 
 ## vscode-extension 
 
+- [mre/vscode-snippet](https://github.com/mre/vscode-snippet) - 🐤 A Visual Studio Code extension for cheat.sh. Quickly and easily find code snippets for any language right inside your IDE.
 - [skellock/vscode-just](https://github.com/skellock/vscode-just) - A Visual Studio Code plugin for working with Just.
 - [norbertK/taskmarks](https://github.com/norbertK/taskmarks) - VSCode Extension - Persist bookmarks for different tasks.
 - [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - Execute your runbooks, docs, and READMEs for VS Code.
@@ -24664,6 +24716,9 @@
 
 ## vue 
 
+- [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
+- [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja) - Code snippets manager for developers. PWA.
+- [Kholid060/snapcode](https://github.com/Kholid060/snapcode) - Snippet code manager
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [formschema/native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 - [bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web) - Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.
@@ -24744,7 +24799,7 @@
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [fictionco/fiction](https://github.com/fictionco/fiction) - Personal Marketing CMS
+- [fictionco/fiction](https://github.com/fictionco/fiction) - AI Marketing Platform (AMP) for personal websites, blogs, and newsletters
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [tvjsx/trading-vue-js](https://github.com/tvjsx/trading-vue-js) - 💹  Hackable charting lib for traders. You can draw literally ANYTHING on top of candlestick charts. [Not Maintained]
@@ -24792,6 +24847,8 @@
 
 ## vuejs 
 
+- [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
+- [Kholid060/snapcode](https://github.com/Kholid060/snapcode) - Snippet code manager
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [sdras/vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - These snippets were built to supercharge my workflow in the most seamless manner possible.
@@ -25084,6 +25141,7 @@
 
 ## webapp 
 
+- [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja) - Code snippets manager for developers. PWA.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [kriasoft/node-starter-kit](https://github.com/kriasoft/node-starter-kit) - Node.js / GraphQL project template pre-configured with TypeScript, PostgreSQL, login flow, transactional emails, unit tests, CI/CD workflow.
 - [ablestack/nestjs-bff](https://github.com/ablestack/nestjs-bff) - A full-stack TypeScript solution, and starter project. Includes an API, CLI, and example client webapp. Features include production grade logging, authorization, authentication, MongoDB migrations, an
@@ -25147,7 +25205,7 @@
 - [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Software Edge Infra
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [andeya/wasmesh](https://github.com/andeya/wasmesh) - wasmesh is a WebAssembly service mesh framework.
 - [layer5io/wasm-filters](https://github.com/layer5io/wasm-filters) - A collection of Rust-based WebAssembly programs that are deployed as Envoy filters.
