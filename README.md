@@ -272,6 +272,7 @@
 - [laravel](#laravel)
 - [large-language-models](#large-language-models)
 - [latex](#latex)
+- [learn](#learn)
 - [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [leetcode](#leetcode)
@@ -2179,6 +2180,7 @@
 
 ## bash 
 
+- [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [alpha-build/alpha-build](https://github.com/alpha-build/alpha-build) - Simple monorepo build tool based on Make with out-of-the-box support for Python, Bash, Jupyter Notebooks, Markdown, YAML, HTML, CSS, JS, TS and with a strong focus on flexibility, transparency, and ex
 - [bashup/dotenv](https://github.com/bashup/dotenv) - Programmatically parse/read/edit .env files (docker-compose format)
@@ -2821,7 +2823,6 @@
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
-- [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popu
 - [RajdeepKonwar/stockast](https://github.com/RajdeepKonwar/stockast) - Predict stock market pricing over 180 minutes using Black-Scholes stochastic modeling and parallel Monte-Carlo simulations.
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -3214,6 +3215,25 @@
 
 ## cli 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
+- [nerdypepper/eva](https://github.com/nerdypepper/eva) - a calculator REPL, similar to bc(1)
+- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
+- [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) - A rust library to print aligned and formatted tables
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
+- [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
+- [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+- [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
+- [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A simple and portable proxy for capturing HTTP and HTTPS traffic.
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
 - [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
@@ -3265,7 +3285,6 @@
 - [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common CLI formats such as histograms, bar graphs, numerical summaries, tables, and more!
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
-- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [mklement0/ttab](https://github.com/mklement0/ttab) - macOS and Linux CLI for opening a new terminal tab/window, optionally with a command to execute and/or display settings
 - [APIDevTools/swagger-cli](https://github.com/APIDevTools/swagger-cli) - Swagger 2.0 and OpenAPI 3.0 command-line tool
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
@@ -4163,6 +4182,7 @@
 
 ## code-quality 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [Tencent/feflow](https://github.com/Tencent/feflow) - 🚀 A command line tool aims to improve front-end engineer workflow and standard, powered by TypeScript.
 - [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
@@ -4198,6 +4218,11 @@
 
 ## command-line 
 
+- [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
+- [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
 - [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
 - [LyonSyonII/run](https://github.com/LyonSyonII/run) - Run commands in the languages you love!
@@ -4941,10 +4966,10 @@
 
 ## cryptography 
 
+- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) - End-to-end encrypted file transfer.
 - [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
-- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [schollz/pake](https://github.com/schollz/pake) - PAKE library for generating a strong secret between parties over an insecure channel
 - [IBM/fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos
 - [cossacklabs/themis](https://github.com/cossacklabs/themis) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
@@ -5111,10 +5136,10 @@
 
 ## cybersecurity 
 
+- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [Esc4iCEscEsc/skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) - Dangerously fast DNS/network/port scanner
 - [SpectralOps/netz](https://github.com/SpectralOps/netz) - Discover internet-wide misconfigurations while drinking coffee
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
-- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, cov
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general 
@@ -8140,6 +8165,7 @@
 
 ## git 
 
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
@@ -9609,6 +9635,7 @@
 
 ## gui 
 
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 - [ahkohd/tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - 😎  a custom invoke system for Tauri that leverages WebSocket
 - [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
@@ -9828,6 +9855,12 @@
 
 ## hacktoberfest 
 
+- [tsoding/snitch](https://github.com/tsoding/snitch) - Language agnostic tool that collects TODOs in the source code and reports them as Issues
+- [nerdypepper/eva](https://github.com/nerdypepper/eva) - a calculator REPL, similar to bc(1)
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
+- [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
 - [Kholid060/snapcode](https://github.com/Kholid060/snapcode) - Snippet code manager
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) - Stay happy while offline | World's first offline search engine.
@@ -11249,6 +11282,7 @@
 
 ## javascript 
 
+- [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) - Stay happy while offline | World's first offline search engine.
 - [geekcell/docker-compose-nodejs-examples](https://github.com/geekcell/docker-compose-nodejs-examples) - Finally some real world examples on getting started with Docker Compose and Nodejs.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
@@ -11989,6 +12023,7 @@
 
 ## json 
 
+- [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [wwkimball/yamlpath](https://github.com/wwkimball/yamlpath) - YAML/JSON/EYAML/Compatible get/set/merge/validate/scan/convert/diff processors using powerful, intuitive, command-line friendly syntax.
 - [accordproject/concerto](https://github.com/accordproject/concerto) - Business schema language and runtime
@@ -12937,6 +12972,19 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
 
+## learn 
+
+- [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
+- [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
+- [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, cov
+- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
+- [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
+- [yoda-pa/yoda](https://github.com/yoda-pa/yoda) - Wise and powerful personal assistant, available in your nearest terminal
+- [kerneltlv/kernel-hacking](https://github.com/kerneltlv/kernel-hacking) - An environment and set of utilities aimed at making kernel hacking simple and accessible
+- [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
+- [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
+
 ## learn-to-code 
 
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
@@ -13024,6 +13072,9 @@
 
 ## linux 
 
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
@@ -13565,7 +13616,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Generative AI SDK for Web to build AI Assistants for apps built with JavaScript, React, Angular, Vue, Ember, Electron
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
-- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate versatile and simple to use admin apps - Run `npx dashpress` to see some magic!
+- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a line of code - Run `npx dashpress` to see some magic!
 - [appsemble/appsemble](https://github.com/appsemble/appsemble) - This is a mirror of https://gitlab.com/appsemble/appsemble
 - [uimix-editor/uimix](https://github.com/uimix-editor/uimix) - A WYSIWYG React component builder 🚧 Very work-in-progress
 - [valentin-vogel/awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A curated list of awesome nocode and lowcode ressources for building software without code.
@@ -13823,6 +13874,8 @@
 
 ## macos 
 
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
 - [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Compile binaries for macOS on Linux
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
@@ -15155,7 +15208,7 @@
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications. 0 external dependencies.
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
-- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate versatile and simple to use admin apps - Run `npx dashpress` to see some magic!
+- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a line of code - Run `npx dashpress` to see some magic!
 - [vocamen/web-mobile-html-builder](https://github.com/vocamen/web-mobile-html-builder) - Online Web and Mobile HTML Builder & Editor using daisyui, tailwind and grapejs in a 40kB box!
 - [uimix-editor/uimix](https://github.com/uimix-editor/uimix) - A WYSIWYG React component builder 🚧 Very work-in-progress
 - [ctk-hq/ctk](https://github.com/ctk-hq/ctk) - Visual composer for container based workloads
@@ -15588,7 +15641,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [OpenUserJS/OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.
 - [Leo4815162342/dukascopy-node](https://github.com/Leo4815162342/dukascopy-node) - ✨ Download historical price tick data for Crypto, Stocks, ETFs, CFDs, Forex via CLI and Node.js ✨
-- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate versatile and simple to use admin apps - Run `npx dashpress` to see some magic!
+- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a line of code - Run `npx dashpress` to see some magic!
 - [leemonade/leemons](https://github.com/leemonade/leemons) - 🚀  The Powerful, flexible, user-friendly and open source Learning Experience Platform built entirely in Javascript 😎
 - [Sandpack/nodebox-runtime](https://github.com/Sandpack/nodebox-runtime) - Nodebox is a runtime for executing Node.js modules in the browser.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -15876,6 +15929,7 @@
 
 ## open-source 
 
+- [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [TeamCodeStream/codestream](https://github.com/TeamCodeStream/codestream) - The Code Collaboration Tool Built for Remote Teams
@@ -16208,6 +16262,8 @@
 
 ## others 
 
+- [kigster/cmake-project-template](https://github.com/kigster/cmake-project-template) - This project is aimed at jump-starting a C/C++ project that can build libraries, binaries and have a working unit test suite. It uses CMake build system and is deliberately completely minimal.
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [paketo-buildpacks/builder-jammy-base](https://github.com/paketo-buildpacks/builder-jammy-base) - A Cloud Native Buildpacks (CNB) builder with the Paketo Jammy Jellyfish Base stack and Paketo buildpacks.
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [gurayyarar/SnipCommand](https://github.com/gurayyarar/SnipCommand) - A free and open source command snippets manager for organize and copy fast.
@@ -19268,6 +19324,7 @@
 
 ## python 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [alpha-build/alpha-build](https://github.com/alpha-build/alpha-build) - Simple monorepo build tool based on Make with out-of-the-box support for Python, Bash, Jupyter Notebooks, Markdown, YAML, HTML, CSS, JS, TS and with a strong focus on flexibility, transparency, and ex
 - [definitive-io/code-indexer-loop](https://github.com/definitive-io/code-indexer-loop) - Code Indexer Loop is a Python library for indexing and retrieving source code files through an integrated vector database that's continuously and efficiently updated.
@@ -19710,6 +19767,7 @@
 
 ## python-library 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [BURG3R5/firefox-bookmarks](https://github.com/BURG3R5/firefox-bookmarks) - Manage your Firefox bookmarks with ease
 - [python-openapi/openapi-core](https://github.com/python-openapi/openapi-core) - Openapi-core is a Python library that adds client-side and server-side support for the OpenAPI v3.0 and OpenAPI v3.1 specification.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -20141,7 +20199,7 @@
 - [solrachix/landing-page-template_4](https://github.com/solrachix/landing-page-template_4) - Ultimate support system for leading agencies
 - [globocom/megadraft](https://github.com/globocom/megadraft) - Megadraft is a Rich Text editor built on top of Facebook's Draft.JS featuring a nice default base of components and extensibility
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate versatile and simple to use admin apps - Run `npx dashpress` to see some magic!
+- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a line of code - Run `npx dashpress` to see some magic!
 - [SolidZORO/leaa](https://github.com/SolidZORO/leaa) - Leaa is a monorepo restful CMS / Admin built with Nest.js (@nestjsx/crud, node.js) and Ant Design.
 - [leemonade/leemons](https://github.com/leemonade/leemons) - 🚀  The Powerful, flexible, user-friendly and open source Learning Experience Platform built entirely in Javascript 😎
 - [gokulkrishh/expense.fyi](https://github.com/gokulkrishh/expense.fyi) - Effortlessly track and manage expenses on-the-go with categorisation and logging.
@@ -20766,13 +20824,29 @@
 - [education/classroom](https://github.com/education/classroom) - GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [kontena/kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use.
 - [SUSE/Portus](https://github.com/SUSE/Portus) - Authorization service and frontend for Docker registry (v2)
 - [victorb/autochecker](https://github.com/victorb/autochecker) - ♻️ Test your libraries in many different versions of NodeJS, Ruby, Java and many other languages
 
 ## rust 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
+- [nerdypepper/eva](https://github.com/nerdypepper/eva) - a calculator REPL, similar to bc(1)
+- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
+- [phsym/prettytable-rs](https://github.com/phsym/prettytable-rs) - A rust library to print aligned and formatted tables
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
+- [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
+- [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums.
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
+- [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
+- [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A simple and portable proxy for capturing HTTP and HTTPS traffic.
 - [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
 - [LyonSyonII/run](https://github.com/LyonSyonII/run) - Run commands in the languages you love!
@@ -20817,7 +20891,6 @@
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
-- [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + Solid add support for Android and iOS on top of desktop builds (linux, mac, windows).
@@ -21374,6 +21447,7 @@
 
 ## security 
 
+- [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) - Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
@@ -22042,6 +22116,7 @@
 
 ## server 
 
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [python-openapi/openapi-core](https://github.com/python-openapi/openapi-core) - Openapi-core is a Python library that adds client-side and server-side support for the OpenAPI v3.0 and OpenAPI v3.1 specification.
 - [vhodges/stitcherd](https://github.com/vhodges/stitcherd) - Dynamic content for mostly static sites.
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
@@ -22210,6 +22285,7 @@
 
 ## shell 
 
+- [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -22915,6 +22991,11 @@
 
 ## terminal 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
+- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
@@ -23340,6 +23421,7 @@
 
 ## tools 
 
+- [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
 - [mishakorzik/AllHackingTools](https://github.com/mishakorzik/AllHackingTools) - All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.
@@ -23518,6 +23600,11 @@
 
 ## tui 
 
+- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
+- [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 5.1: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy se
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍
 - [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Vulnerability scanning just got lazier
@@ -23535,6 +23622,7 @@
 - [yazdipour/OmnivoreX](https://github.com/yazdipour/OmnivoreX) - Omnivore TUI Terminal Client [Windows - MacOS - Linux]
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
+- [mistakenelf/fm](https://github.com/mistakenelf/fm) - A terminal based file manager
 - [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - Framework that joins data models, schemas, code generation, and a task engine. Language and technology agnostic.
 - [jrnxf/gh-eco](https://github.com/jrnxf/gh-eco) - 🦎 gh cli extension to explore the ecosystem
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
@@ -24016,7 +24104,7 @@
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
-- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate versatile and simple to use admin apps - Run `npx dashpress` to see some magic!
+- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a line of code - Run `npx dashpress` to see some magic!
 - [SolidZORO/leaa](https://github.com/SolidZORO/leaa) - Leaa is a monorepo restful CMS / Admin built with Nest.js (@nestjsx/crud, node.js) and Ant Design.
 - [tetra-fox/home-landing](https://github.com/tetra-fox/home-landing) - 🏠 Caddy-based landing page Docker image for my home network services
 - [Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter) - ⚡️ Free Next.js responsive landing page template for SaaS products made using JAMStack architecture.
@@ -24260,10 +24348,12 @@
 
 ## unity 
 
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - :books: Library of all kind of scripts, snippets & shaders for Unity
 
 ## unity3d 
 
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - :books: Library of all kind of scripts, snippets & shaders for Unity
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
@@ -24925,6 +25015,7 @@
 
 ## wasm 
 
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [rvolosatovs/wrpc](https://github.com/rvolosatovs/wrpc) - Asynchronous WIT-based RPC framework
@@ -25177,6 +25268,7 @@
 
 ## webassembly 
 
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [subconsciousnetwork/noosphere](https://github.com/subconsciousnetwork/noosphere) - Noosphere is a protocol for thought; let's discover it together!
 - [eunomia-bpf/eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf) - Build, Distribute and Run CO-RE eBPF programs easier with JSON and Webassembly OCI images
@@ -25407,6 +25499,8 @@
 
 ## windows 
 
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [SUPERAndroidAnalyzer/super](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor with LLM wingman.
@@ -25580,6 +25674,7 @@
 
 ## workflow 
 
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [sogou/srpc](https://github.com/sogou/srpc) - RPC framework based on C++ Workflow. Supports SRPC, Baidu bRPC, Tencent tRPC, thrift protocols.
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
