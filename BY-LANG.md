@@ -1358,7 +1358,7 @@
 - [crumbhole/argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) - A plugin to make Argo CD behave like we'd like.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [mdreizin/chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [solo-io/wasm](https://github.com/solo-io/wasm) - Web Assembly tools and SDKs for extending cloud-native infrastructure
@@ -1577,7 +1577,7 @@
 - [norouter/norouter](https://github.com/norouter/norouter) - NoRouter: IP-over-Stdio. The easiest multi-host & multi-cloud networking ever. No root privilege is required.
 - [awslabs/tecli](https://github.com/awslabs/tecli) - In a world where everything is Terraform, teams use Terraform Cloud API to manage their workloads. TECLI increases teams productivity by facilitating such interaction and by providing easy commands th
 - [buildpacks-community/kpack](https://github.com/buildpacks-community/kpack) - Kubernetes Native Container Build Service
-- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
@@ -4549,7 +4549,6 @@
 - [klaver/sysctl](https://github.com/klaver/sysctl) - Linux/BSD kernel tuning and network security hardening optimizations, improving the performance of server systems via optimized sysctl tweaks
 - [rootsongjc/cloud-native-sandbox](https://github.com/rootsongjc/cloud-native-sandbox) - Cloud Native Sandbox can help you setup a standalone Kubernetes and Istio environment with Docker on you own laptop.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
 - [painless-software/groundcontrol](https://github.com/painless-software/groundcontrol) - Painless Infrastructure for Small and Medium Size Businesses
 - [davebs/AgileLite](https://github.com/davebs/AgileLite) - Agile software development without all the burnout.
@@ -5066,7 +5065,7 @@
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [franciscozorrilla/metaGEM](https://github.com/franciscozorrilla/metaGEM) - :gem: An easy-to-use workflow for generating context specific genome-scale metabolic models and predicting metabolic interactions within microbial communities directly from metagenomic data
 - [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code platform to build LLM Agents, workflows and applications with your data
-- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Building persistent LLM agents with long-term memory 📚🦙
 - [yazdipour/OmnivoreX](https://github.com/yazdipour/OmnivoreX) - Omnivore TUI Terminal Client [Windows - MacOS - Linux]
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
 - [aazizisoufiane/llm-auto-labeler](https://github.com/aazizisoufiane/llm-auto-labeler) - An automated text labeling tool that employs multiple Language Model Mediators (LLMs) to assess, label, and justify text data, reducing the need for time-consuming human intervention
@@ -5147,7 +5146,7 @@
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) - A Central Control Plane for AWS Permissions and Access
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
-- [AgnostiqHQ/covalent](https://github.com/AgnostiqHQ/covalent) - Pythonic tool for running machine-learning/high performance/quantum-computing workflows in heterogeneous environments.
+- [AgnostiqHQ/covalent](https://github.com/AgnostiqHQ/covalent) - Pythonic tool for orchestrating machine-learning/high performance/quantum-computing workflows in heterogeneous compute environments.
 - [Cloud-Architects/cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) - The tool to help you discover resources in the cloud environment
 - [csgoh/roadmapper](https://github.com/csgoh/roadmapper) - Roadmapper - A Roadmap as Code (Rac) python library. Generate professional roadmap diagram using python code.
 - [pycontribs/mk](https://github.com/pycontribs/mk) - mk ease contributing to any open source repository by exposing most common actions you can run. Inspired by make, tox and other cool tools!
@@ -7044,6 +7043,7 @@
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [brannondorsey/mitm-router](https://github.com/brannondorsey/mitm-router) - ☠ Man-in-the-middle wireless access point inside a docker container 🐳
 - [jpetazzo/pxe](https://github.com/jpetazzo/pxe) - Dockerfile to build a PXE server in a Docker container
@@ -7935,6 +7935,7 @@
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
 - [navorite/sessionic](https://github.com/navorite/sessionic) - A web extension to save, manage and restore sessions, windows and tabs.
 - [effect-ts-app/boilerplate](https://github.com/effect-ts-app/boilerplate) - A boilerplate to build apps with effect/io and effect-ts-app/libs
@@ -8482,7 +8483,7 @@
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [onury/accesscontrol](https://github.com/onury/accesscontrol) - Role and Attribute based Access Control for Node.js
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [devalpha-io/devalpha-node](https://github.com/devalpha-io/devalpha-node) - A stream-based approach to algorithmic trading and backtesting in Node.js
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
@@ -8579,7 +8580,6 @@
 - [yasinatesim/markdown-manager](https://github.com/yasinatesim/markdown-manager) - This project is a markdown template generator tool via Vite + Vue 🤓
 - [ResearchHelper/research-helper](https://github.com/ResearchHelper/research-helper) - THE reference manager with features including PDF reading/annotating, Markdown/Excalidraw note-taking, project/note linking, and more...
 - [techspecs/zinc](https://github.com/techspecs/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [typesense/typesense-vue-instantsearch-demo](https://github.com/typesense/typesense-vue-instantsearch-demo) - A demo app that shows you how to use Vue & the Typesense InstantSearch adapter, to build rich search interfaces.
 - [nluedtke/linux_kernel_cves](https://github.com/nluedtke/linux_kernel_cves) - Tracking CVEs for the linux Kernel
