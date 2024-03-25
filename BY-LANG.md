@@ -1372,7 +1372,7 @@
 - [Vanilla-OS/ABRoot](https://github.com/Vanilla-OS/ABRoot) - ABRoot is utility which provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is al
 - [pterm/cli-template](https://github.com/pterm/cli-template) - ⚗ The most advanced CLI template on earth! Featuring automatic releases, website generation and a custom CI-System out of the box.
 - [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) - Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
-- [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME
+- [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
@@ -1650,7 +1650,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go
 - [kuberlogic/kuberlogic](https://github.com/kuberlogic/kuberlogic) - KuberLogic turns a containerized application into a functional SaaS offering, with integrated billing, monitoring, and customer management.
-- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Control Plane Manager for Kubernetes.
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
 - [yunionio/cloudpods](https://github.com/yunionio/cloudpods) - A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
 - [alibaba/hybridnet](https://github.com/alibaba/hybridnet) - Make underlay and overlay network can coexist, communicate, even be transformed purposefully.
 - [clusternet/clusternet](https://github.com/clusternet/clusternet) - [CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet ⎈
@@ -2545,7 +2545,7 @@
 - [kairen/kube-ansible](https://github.com/kairen/kube-ansible) - Build a Kubernetes cluster via Ansible playbook. :wrench: :wrench: :wrench:
 - [mhausenblas/troubleshooting-k8s-apps](https://github.com/mhausenblas/troubleshooting-k8s-apps) - Troubleshooting Kubernetes Applications
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
-- [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
+- [roxy-wi/roxy-wi](https://github.com/roxy-wi/roxy-wi) - Web interface for managing Haproxy, Nginx, Apache and Keepalived servers
 - [shopjs/shop.js](https://github.com/shopjs/shop.js) - 🛍️ Ecommerce UI components and framework powered by React.
 - [cpearce/mse-eme](https://github.com/cpearce/mse-eme) - Demo of ClearKey EME content playing via MSE
 - [netlify/netlify-statuskit](https://github.com/netlify/netlify-statuskit) - Netlify StatusKit is a template to deploy your own Status pages on Netlify.
@@ -3899,7 +3899,7 @@
 - [csho33/bacteria-ID](https://github.com/csho33/bacteria-ID) - Source code and demos for "Rapid identification of pathogenic bacteria using Raman spectroscopy and deep learning"
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - High quality resources & applications for LLMs, multi-modal models and VectorDBs
-- [mims-harvard/TDC](https://github.com/mims-harvard/TDC) - Therapeutics Data Commons: Artificial Intelligence Foundation for Therapeutic Science
+- [mims-harvard/TDC](https://github.com/mims-harvard/TDC) - Therapeutics Commons: Artificial Intelligence Foundation for Therapeutic Science
 - [LongOnly/Quantitative-Notebooks](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy
 - [letianzj/QuantResearch](https://github.com/letianzj/QuantResearch) - Quantitative analysis, strategies and backtests
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL:  Financial Reinforcement Learning. 🔥
@@ -7294,7 +7294,7 @@
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
 - [sachinraja/trpc-playground](https://github.com/sachinraja/trpc-playground) - playground for running tRPC queries in the browser
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
-- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS O
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS O
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
