@@ -581,14 +581,15 @@
 - [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - :closed_book: Clarity in the current fast-paced mess of Open Source innovation
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-tuning of 100+ LLMs
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [samalba/dagger-chatbot](https://github.com/samalba/dagger-chatbot) - AI Chatbot that helps you learn how to use Dagger
 - [Leask/halbot](https://github.com/Leask/halbot) - Just another `ChatGPT` / `Gemini` / `Mistral (by ollama)` Telegram bob, which is simple design, easy to use, extendable and fun.
 - [HelgeSverre/ollama-gui](https://github.com/HelgeSverre/ollama-gui) - A Web Interface for chatting with your local LLMs via the ollama API
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building AI applications.
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
+- [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [tsbrandon1010/TestGenie](https://github.com/tsbrandon1010/TestGenie) - Automatically generate unit tests for your code.
 - [boraelci/java-test-genie](https://github.com/boraelci/java-test-genie) - A command-line tool for AI-driven unit test generation
@@ -650,7 +651,7 @@
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc.,
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It's the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one in
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
@@ -805,6 +806,7 @@
 
 ## android 
 
+- [SDRausty/buildAPKs](https://github.com/SDRausty/buildAPKs) - Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - The app for BLE ether monitoring tracks your environment, finds some devices, makes relations between devices around you, and tracks devices' movements.
 - [SUPERAndroidAnalyzer/super](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
 - [dpnishant/raptor](https://github.com/dpnishant/raptor) - Web-based Source Code Vulnerability Scanner
@@ -1076,7 +1078,7 @@
 - [siberiacancode/mock-config-server](https://github.com/siberiacancode/mock-config-server) - 🎉 tool that easily and quickly imitates server operation, create full fake api in few steps
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
@@ -1194,6 +1196,7 @@
 
 ## app 
 
+- [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) - Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [lukasbach/yana](https://github.com/lukasbach/yana) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more
 - [andresmarpz/bookmarks](https://github.com/andresmarpz/bookmarks) - Next.js App Router experimental project - Save your internet discoveries on the cloud.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
@@ -1317,8 +1320,8 @@
 - [pgibler/cmdh](https://github.com/pgibler/cmdh) - Create Linux commands from natural language, in the shell.
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
-- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building AI applications.
+- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free!
+- [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
@@ -1388,6 +1391,7 @@
 
 ## automation 
 
+- [xebis/infrastructure-template](https://github.com/xebis/infrastructure-template) - Template to automate GitOps and IaC in a cloud. GitLab CI manages static and dynamic environments, which are created, updated, and destroyed by Terraform, then set up by cloud-init and Ansible.
 - [brocode/fw](https://github.com/brocode/fw) - workspace productivity booster
 - [0x4D31/burpa](https://github.com/0x4D31/burpa) - Burp-Automator: A Burp Suite Automation Tool with Slack Integration. It can be used with Jenkins and Selenium to automate Dynamic Application Security Testing (DAST).
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
@@ -1894,6 +1898,7 @@
 
 ## aws 
 
+- [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 - [hazelops/icmk](https://github.com/hazelops/icmk) - 🧊 Framework that uses GNU Make for Infrastructure as Code
 - [bash-my-aws/bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 - [turnerlabs/udeploy](https://github.com/turnerlabs/udeploy) - A simple way to deploy versioned AWS resources.
@@ -2182,6 +2187,19 @@
 
 ## bash 
 
+- [Anvil/bash-doxygen](https://github.com/Anvil/bash-doxygen) - A doxygen filter for bash scripts
+- [alanlivio/bash-helpers](https://github.com/alanlivio/bash-helpers) - Template to easily create multi-OS bash helpers for Windows (MSYS2/GitBash/WSL), Ubuntu, and Mac.
+- [gruntwork-io/bash-commons](https://github.com/gruntwork-io/bash-commons) - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
+- [hedzr/bash.sh](https://github.com/hedzr/bash.sh) - main entry template of your first bash script file
+- [jsamr/bootiso](https://github.com/jsamr/bootiso) - A bash program to securely create a bootable USB device from one image file.
+- [midwire/bash.env](https://github.com/midwire/bash.env) - Bash.env is a cascading Bash environment system for those who work on different hardware and OS environments.  Similar to oh-my-zsh but for Bash, and special sauce for those who work 'ssh' on remote m
+- [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
+- [neikei/syntaxchecks](https://github.com/neikei/syntaxchecks) - Syntaxchecks for Bash, PHP, Python, Ruby, Yaml and Crontab files. Ready to use with Jenkins, Bamboo, Bitbucket Pipelines and Travis CI.
+- [shlibs/shlibs.bash](https://github.com/shlibs/shlibs.bash) - Shared BASH Script Libraries https://shlibs.github.io/shlibs.bash/
+- [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
+- [xebis/repository-template](https://github.com/xebis/repository-template) - Highly automated, up-to-date, and well-documented repository template. Checks for common problems, Markdown, YAML, Bash, formats, lints, and tests before committing or pushing so you don't have any su
+- [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
+- [wd5gnr/bashrc](https://github.com/wd5gnr/bashrc) - System to organize and synchronize bash startup files and other files in your home directory
 - [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [alpha-build/alpha-build](https://github.com/alpha-build/alpha-build) - Simple monorepo build tool based on Make with out-of-the-box support for Python, Bash, Jupyter Notebooks, Markdown, YAML, HTML, CSS, JS, TS and with a strong focus on flexibility, transparency, and ex
@@ -2208,7 +2226,7 @@
 - [bbugyi200/cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
 - [mzfr/rsh](https://github.com/mzfr/rsh) - generate reverse shell from CLI for linux and Windows.
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
-- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - Execute your runbooks, docs, and READMEs for VS Code.
+- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - DevOps Workflows Built with Markdown for VS Code
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
@@ -2868,7 +2886,7 @@
 - [samalba/dagger-chatbot](https://github.com/samalba/dagger-chatbot) - AI Chatbot that helps you learn how to use Dagger
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
 - [jorge-menjivar/unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building AI applications.
+- [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [Zeeshanahmad4/chatgpt-knowledge-base-chatbot](https://github.com/Zeeshanahmad4/chatgpt-knowledge-base-chatbot) - An advanced chatbot that utilizes your own data to provide intelligent ChatGPT-style conversations using gpt-3.5-turbo and Ada for advanced embedding, as well as custom indexes and knowledgebase for a
 - [grumpyp/aixplora](https://github.com/grumpyp/aixplora) - AIxplora is a open-source tool which let's you query all kind of files not limited to any length or format.
@@ -4189,7 +4207,7 @@
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [Tencent/feflow](https://github.com/Tencent/feflow) - 🚀 A command line tool aims to improve front-end engineer workflow and standard, powered by TypeScript.
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
@@ -4207,7 +4225,7 @@
 - [TeamCodeStream/codestream](https://github.com/TeamCodeStream/codestream) - The Code Collaboration Tool Built for Remote Teams
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -4222,6 +4240,7 @@
 
 ## command-line 
 
+- [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
@@ -4497,6 +4516,8 @@
 
 ## config 
 
+- [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [rubyconfig/config](https://github.com/rubyconfig/config) - Easiest way to add multi-environment yaml settings to Rails, Sinatra, Padrino and other Ruby projects.
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
@@ -4758,6 +4779,7 @@
 
 ## continuous-integration 
 
+- [xebis/infrastructure-template](https://github.com/xebis/infrastructure-template) - Template to automate GitOps and IaC in a cloud. GitLab CI manages static and dynamic environments, which are created, updated, and destroyed by Terraform, then set up by cloud-init and Ansible.
 - [buildkite/agent](https://github.com/buildkite/agent) - The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network
 - [testground/testground](https://github.com/testground/testground) - 🧪 A platform for testing, benchmarking, and simulating distributed and p2p systems at scale.
 - [saidsef/alpine-jenkins-dockerfile](https://github.com/saidsef/alpine-jenkins-dockerfile) - Jenkins Blue Ocean Containerised Docker
@@ -5276,6 +5298,7 @@
 
 ## data 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
@@ -5751,7 +5774,7 @@
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
 - [AxeldeRomblay/MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library.
@@ -5872,7 +5895,7 @@
 - [cloudydeno/deno-kubernetes_apis](https://github.com/cloudydeno/deno-kubernetes_apis) - REST focused Typescript classes for Kubernetes APIs, and tools for generating API interfaces
 - [kt3k/packup](https://github.com/kt3k/packup) - 📦 Zero-config web application packager for Deno
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
-- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
+- [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [denoland/deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu
 - [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno
@@ -6046,7 +6069,7 @@
 - [uhafner/warnings-ng-plugin-devenv](https://github.com/uhafner/warnings-ng-plugin-devenv) - Development environment for Jenkins' Warnings Next Generation Plugin
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -6158,6 +6181,8 @@
 
 ## devops 
 
+- [gruntwork-io/bash-commons](https://github.com/gruntwork-io/bash-commons) - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
+- [hedzr/bash.sh](https://github.com/hedzr/bash.sh) - main entry template of your first bash script file
 - [Azure/azure-devops-utils](https://github.com/Azure/azure-devops-utils) - Azure DevOps Utilities
 - [joakimbits/normalize](https://github.com/joakimbits/normalize) - Make Make more inclusive - build automatically and from anywhere
 - [bashup/.devkit](https://github.com/bashup/.devkit) - Portable project automation and dependency bootstrapping for polyglot projects
@@ -6169,6 +6194,7 @@
 - [actionjack/so-you-want-to-onboard-a-devops-engineer](https://github.com/actionjack/so-you-want-to-onboard-a-devops-engineer) - Guidance on how to make your environment easier to onboard for Web Ops Engineers, SRE's and DevOps Practitioners
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
+- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - DevOps Workflows Built with Markdown for VS Code
 - [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [ssbostan/jenkins-stack-docker](https://github.com/ssbostan/jenkins-stack-docker) - Docker-compose version of jenkins-stack-kubernetes
@@ -7105,6 +7131,7 @@
 
 ## dotfiles 
 
+- [alanlivio/bash-helpers](https://github.com/alanlivio/bash-helpers) - Template to easily create multi-OS bash helpers for Windows (MSYS2/GitBash/WSL), Ubuntu, and Mac.
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
@@ -7322,7 +7349,7 @@
 - [awehook/blink-mind-desktop](https://github.com/awehook/blink-mind-desktop) - Cross-platform full-featured mind mapping and outline app based on electron.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 14+ enterprise-grade project generator
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
@@ -8177,6 +8204,8 @@
 
 ## git 
 
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
+- [xebis/repository-template](https://github.com/xebis/repository-template) - Highly automated, up-to-date, and well-documented repository template. Checks for common problems, Markdown, YAML, Bash, formats, lints, and tests before committing or pushing so you don't have any su
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
@@ -8438,12 +8467,15 @@
 
 ## github-api 
 
+- [SDRausty/buildAPKs](https://github.com/SDRausty/buildAPKs) - Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
+- [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) - Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
+- [shlibs/shlibs.bash](https://github.com/shlibs/shlibs.bash) - Shared BASH Script Libraries https://shlibs.github.io/shlibs.bash/
 - [BishopFox/GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
 - [Shiphero/shbin](https://github.com/Shiphero/shbin) - turns a Github repo into a pastebin
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [himynameisdave/git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - :flags: Manage your GitHub labels from the command line!
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
@@ -9441,7 +9473,7 @@
 - [keyvank/femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 - [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) - ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc.,
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It's the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one in
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
@@ -9494,7 +9526,7 @@
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Instant answers to any programming question
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It's the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one in
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
@@ -9715,6 +9747,7 @@
 
 ## hacking 
 
+- [SDRausty/buildAPKs](https://github.com/SDRausty/buildAPKs) - Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [r3curs1v3-pr0xy/vajra](https://github.com/r3curs1v3-pr0xy/vajra) - Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍
@@ -9867,6 +9900,7 @@
 
 ## hacktoberfest 
 
+- [PurpleBooth/a-good-readme-template](https://github.com/PurpleBooth/a-good-readme-template) - A template to make good README.md
 - [tsoding/snitch](https://github.com/tsoding/snitch) - Language agnostic tool that collects TODOs in the source code and reports them as Issues
 - [nerdypepper/eva](https://github.com/nerdypepper/eva) - a calculator REPL, similar to bc(1)
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
@@ -10839,7 +10873,6 @@
 - [pgaskin/easy-novnc](https://github.com/pgaskin/easy-novnc) - Single-binary noVNC instance, web UI, and multi-host proxy.
 - [SterlingButters/ip-kvm-interface](https://github.com/SterlingButters/ip-kvm-interface) - DIY IP-KVM for Remote Desktop Access
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
-- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 
@@ -11419,7 +11452,7 @@
 - [launchcodedev/app-config](https://github.com/launchcodedev/app-config) - Easy Configuration Loader with Strict Validation
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building AI applications.
+- [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [vladikoff/playwright-ai](https://github.com/vladikoff/playwright-ai) - Command-line utility to generate LLM-based Playwright tests
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -11515,7 +11548,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [asyncapi/parser-js](https://github.com/asyncapi/parser-js) - AsyncAPI parser for Javascript (browser-compatible too).
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
-- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
+- [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [sniptt-official/monads](https://github.com/sniptt-official/monads) - 👻 Option, Result, and Either types for TypeScript; Inspired by Rust
@@ -11896,6 +11929,7 @@
 
 ## jenkins 
 
+- [neikei/syntaxchecks](https://github.com/neikei/syntaxchecks) - Syntaxchecks for Bash, PHP, Python, Ruby, Yaml and Crontab files. Ready to use with Jenkins, Bamboo, Bitbucket Pipelines and Travis CI.
 - [Azure/azure-devops-utils](https://github.com/Azure/azure-devops-utils) - Azure DevOps Utilities
 - [mateothegreat/docker-alpine-jenkins](https://github.com/mateothegreat/docker-alpine-jenkins) - Jenkins on alpine w/pre-installed plugins focused on Kubernetes.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -12001,7 +12035,7 @@
 - [casbin/node-casbin](https://github.com/casbin/node-casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js and Browser
 - [flodlc/http-wizard](https://github.com/flodlc/http-wizard) - Http-wizard weaves TypeScript magic, offering a type-safe API client and ensuring a delightful end-to-end developer experience.
 - [smapiot/piral-cli-parcel](https://github.com/smapiot/piral-cli-parcel) - Packages for the piral-cli-parcel bundler plugin.
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building AI applications.
+- [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -12030,11 +12064,13 @@
 
 ## json 
 
+- [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [wwkimball/yamlpath](https://github.com/wwkimball/yamlpath) - YAML/JSON/EYAML/Compatible get/set/merge/validate/scan/convert/diff processors using powerful, intuitive, command-line friendly syntax.
 - [accordproject/concerto](https://github.com/accordproject/concerto) - Business schema language and runtime
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [hadiindrawan/automation-api-generator](https://github.com/hadiindrawan/automation-api-generator) - This project has created to relieve work load as SDET or Automation Test Engineer. In moderation, automation API code able to write with only run the script and generate from Postman collection. You j
 - [trassmann/schermz](https://github.com/trassmann/schermz) - Generate a schema from JSON objects
 - [vercel/schemas](https://github.com/vercel/schemas) - All schemas used for validation that are shared between our projects
@@ -12872,7 +12908,7 @@
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc.,
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It's the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one in
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - High quality resources & applications for LLMs, multi-modal models and VectorDBs
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
@@ -12880,6 +12916,7 @@
 ## language 
 
 - [LyonSyonII/run](https://github.com/LyonSyonII/run) - Run commands in the languages you love!
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [aztek/awesome-self-reference](https://github.com/aztek/awesome-self-reference) - A curated list of examples of self-reference in art, science, and technology
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
@@ -13082,6 +13119,11 @@
 
 ## linux 
 
+- [alanlivio/bash-helpers](https://github.com/alanlivio/bash-helpers) - Template to easily create multi-OS bash helpers for Windows (MSYS2/GitBash/WSL), Ubuntu, and Mac.
+- [gruntwork-io/bash-commons](https://github.com/gruntwork-io/bash-commons) - A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more
+- [hedzr/bash.sh](https://github.com/hedzr/bash.sh) - main entry template of your first bash script file
+- [midwire/bash.env](https://github.com/midwire/bash.env) - Bash.env is a cascading Bash environment system for those who work on different hardware and OS environments.  Similar to oh-my-zsh but for Bash, and special sauce for those who work 'ssh' on remote m
+- [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
@@ -13523,8 +13565,8 @@
 - [lrvl/ollama-twice](https://github.com/lrvl/ollama-twice) - Watch and hear endless conversations between two ollamas, hence the Two-Way Conversation Engine (TWICE)
 - [amscotti/local-LLM-with-RAG](https://github.com/amscotti/local-LLM-with-RAG) - Running local Language Learning Models to perform Retrieval-Augmented Generation
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building AI applications.
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
+- [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [tsbrandon1010/TestGenie](https://github.com/tsbrandon1010/TestGenie) - Automatically generate unit tests for your code.
 - [boraelci/java-test-genie](https://github.com/boraelci/java-test-genie) - A command-line tool for AI-driven unit test generation
@@ -13578,7 +13620,7 @@
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It's the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one in
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
@@ -13882,6 +13924,8 @@
 
 ## macos 
 
+- [alanlivio/bash-helpers](https://github.com/alanlivio/bash-helpers) - Template to easily create multi-OS bash helpers for Windows (MSYS2/GitBash/WSL), Ubuntu, and Mac.
+- [midwire/bash.env](https://github.com/midwire/bash.env) - Bash.env is a cascading Bash environment system for those who work on different hardware and OS environments.  Similar to oh-my-zsh but for Bash, and special sauce for those who work 'ssh' on remote m
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
@@ -14076,6 +14120,7 @@
 
 ## markdown 
 
+- [xebis/repository-template](https://github.com/xebis/repository-template) - Highly automated, up-to-date, and well-documented repository template. Checks for common problems, Markdown, YAML, Bash, formats, lints, and tests before committing or pushing so you don't have any su
 - [alpha-build/alpha-build](https://github.com/alpha-build/alpha-build) - Simple monorepo build tool based on Make with out-of-the-box support for Python, Bash, Jupyter Notebooks, Markdown, YAML, HTML, CSS, JS, TS and with a strong focus on flexibility, transparency, and ex
 - [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 - [bashup/doco](https://github.com/bashup/doco) - docker-compose project automation and literate devops
@@ -14088,7 +14133,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [sreedevk/bkmrq](https://github.com/sreedevk/bkmrq) - Export Your Bookmarks to Web Formats
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
-- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - Execute your runbooks, docs, and READMEs for VS Code.
+- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - DevOps Workflows Built with Markdown for VS Code
 - [enchant97/note-mark](https://github.com/enchant97/note-mark) - Note Mark is a lighting fast and minimal; web-based Markdown notes app.
 - [deathbeds/pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
@@ -15938,6 +15983,7 @@
 
 ## open-source 
 
+- [SDRausty/buildAPKs](https://github.com/SDRausty/buildAPKs) - Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [willdoescode/nat](https://github.com/willdoescode/nat) - `ls` alternative with useful info and a splash of color 🎨
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
@@ -15960,7 +16006,7 @@
 - [swagger-api/swagger-js](https://github.com/swagger-api/swagger-js) - Javascript library to connect to swagger-enabled APIs via browser or nodejs
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -16061,9 +16107,9 @@
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [jorge-menjivar/unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building AI applications.
+- [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
@@ -16113,7 +16159,7 @@
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) - ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc.,
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It's the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one in
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [unum-cloud/uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
@@ -16271,6 +16317,25 @@
 
 ## others 
 
+- [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
+- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
+- [docopt/docopts](https://github.com/docopt/docopts) - Shell interpreter for docopt, the command-line interface description language.
+- [kward/shflags](https://github.com/kward/shflags) - shFlags is a port of the Google gflags library for Unix shell.
+- [vlisivka/bash-modules](https://github.com/vlisivka/bash-modules) - Useful modules for bash
+- [aspiers/shell-env](https://github.com/aspiers/shell-env) - Adam's shell environment (bash/zsh) including a bunch of handy home-made utilities
+- [azdev-bash/azdvbsh-bash-cli-cookiecutter-template](https://github.com/azdev-bash/azdvbsh-bash-cli-cookiecutter-template) - A command line framework built using nothing but Bash and compatible with anything
+- [TiSiE/BASH.helpers](https://github.com/TiSiE/BASH.helpers) - Useful BASH scripts and functions.
+- [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
+- [frameable/aviary.sh](https://github.com/frameable/aviary.sh) - Minimal distributed configuration management in bash
+- [e-picas/bash-library](https://github.com/e-picas/bash-library) - An open source day-to-day bash library
+- [jonathantneal/git-bash-helpers](https://github.com/jonathantneal/git-bash-helpers) - My personal shortcuts for git
+- [martinburger/bash-common-helpers](https://github.com/martinburger/bash-common-helpers) - Helper functions commonly used when writing shell (for instance, Bash) scripts.
+- [progrium/bashstyle](https://github.com/progrium/bashstyle) - Let's do Bash right!
+- [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and D
+- [stephenturner/oneliners](https://github.com/stephenturner/oneliners) - Useful bash one-liners for bioinformatics.
+- [unfor19/ecs-stop-task](https://github.com/unfor19/ecs-stop-task) - 
+- [unfor19/replacer](https://github.com/unfor19/replacer) - Find and replace multiline strings
+- [jycouet/VSTSExtensions](https://github.com/jycouet/VSTSExtensions) - 
 - [learn-anything/graphstate](https://github.com/learn-anything/graphstate) - A reactive GraphQL client generator. (WIP)
 - [Xe/wallpapers](https://github.com/Xe/wallpapers) - My public wallpapers for consumption by downstream projects
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
@@ -16981,7 +17046,7 @@
 - [sdnts/blobs](https://github.com/sdnts/blobs) - AirDrop for the web. Privately stream files across browsers!
 - [effect-ts-app/boilerplate](https://github.com/effect-ts-app/boilerplate) - A boilerplate to build apps with effect/io and effect-ts-app/libs
 - [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
-- [stateful/runme](https://github.com/stateful/runme) - Execute your runbooks, docs, and READMEs.
+- [stateful/runme](https://github.com/stateful/runme) - DevOps Workflows Built with Markdown
 - [kharvd/build-a-la-carte-ts](https://github.com/kharvd/build-a-la-carte-ts) - Build Systems à la carte in TypeScript
 - [RobinMalfait/event-source](https://github.com/RobinMalfait/event-source) - A node library for writing event sourced applications
 - [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange) - Specification that codifies an inter-related pair of data formats for defining proof presentations (Presentation Definition) and subsequent proof submissions (Presentation Submission)
@@ -18752,6 +18817,7 @@
 
 ## php 
 
+- [neikei/syntaxchecks](https://github.com/neikei/syntaxchecks) - Syntaxchecks for Bash, PHP, Python, Ruby, Yaml and Crontab files. Ready to use with Jenkins, Bamboo, Bitbucket Pipelines and Travis CI.
 - [shipping-docker/vessel](https://github.com/shipping-docker/vessel) - Up and running with small Docker environments
 - [polaris64/web_exploit_detector](https://github.com/polaris64/web_exploit_detector) - The Web Exploit Detector is a Node.js application used to detect possible infections, malicious code and suspicious files in web hosting environments
 - [dpnishant/raptor](https://github.com/dpnishant/raptor) - Web-based Source Code Vulnerability Scanner
@@ -19152,7 +19218,7 @@
 - [mishakorzik/AllHackingTools](https://github.com/mishakorzik/AllHackingTools) - All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -19170,6 +19236,7 @@
 ## programming-language 
 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [red/red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cros
 - [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
@@ -19346,6 +19413,8 @@
 
 ## python 
 
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
+- [neikei/syntaxchecks](https://github.com/neikei/syntaxchecks) - Syntaxchecks for Bash, PHP, Python, Ruby, Yaml and Crontab files. Ready to use with Jenkins, Bamboo, Bitbucket Pipelines and Travis CI.
 - [learn-anything/tasks](https://github.com/learn-anything/tasks) - Tasks done exposed as library functions or HTTP endpoints
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
@@ -19585,7 +19654,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It's the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one in
 - [neuml/paperai](https://github.com/neuml/paperai) - 📄 🤖 Semantic search and workflows for medical/scientific papers
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
@@ -19806,6 +19875,7 @@
 
 ## python3 
 
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [joakimbits/normalize](https://github.com/joakimbits/normalize) - Make Make more inclusive - build automatically and from anywhere
 - [wwkimball/yamlpath](https://github.com/wwkimball/yamlpath) - YAML/JSON/EYAML/Compatible get/set/merge/validate/scan/convert/diff processors using powerful, intuitive, command-line friendly syntax.
@@ -20791,6 +20861,7 @@
 
 ## ruby 
 
+- [neikei/syntaxchecks](https://github.com/neikei/syntaxchecks) - Syntaxchecks for Bash, PHP, Python, Ruby, Yaml and Crontab files. Ready to use with Jenkins, Bamboo, Bitbucket Pipelines and Travis CI.
 - [dpnishant/raptor](https://github.com/dpnishant/raptor) - Web-based Source Code Vulnerability Scanner
 - [ZupIT/horusec](https://github.com/ZupIT/horusec) - Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.
 - [philnash/pwned](https://github.com/philnash/pwned) - 😱 An easy, Ruby way to use the Pwned Passwords API.
@@ -22064,7 +22135,7 @@
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks)
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [ohsayan/jotsy](https://github.com/ohsayan/jotsy) - Jotsy is a self-hosted, free and open-source note taking app with a goal of simplicity in mind
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
 - [werbot/werbot](https://github.com/werbot/werbot) - 🔑 Share access for teams - self-hosted solution for teams with single sign-on for easy, secure shared access to servers, databases or applications.
@@ -22307,6 +22378,14 @@
 
 ## shell 
 
+- [renatosilva/easyoptions](https://github.com/renatosilva/easyoptions) - Easy option parsing for Ruby and Bash.
+- [alanlivio/bash-helpers](https://github.com/alanlivio/bash-helpers) - Template to easily create multi-OS bash helpers for Windows (MSYS2/GitBash/WSL), Ubuntu, and Mac.
+- [hedzr/bash.sh](https://github.com/hedzr/bash.sh) - main entry template of your first bash script file
+- [midwire/bash.env](https://github.com/midwire/bash.env) - Bash.env is a cascading Bash environment system for those who work on different hardware and OS environments.  Similar to oh-my-zsh but for Bash, and special sauce for those who work 'ssh' on remote m
+- [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
+- [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
+- [xebis/repository-template](https://github.com/xebis/repository-template) - Highly automated, up-to-date, and well-documented repository template. Checks for common problems, Markdown, YAML, Bash, formats, lints, and tests before committing or pushing so you don't have any su
+- [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
@@ -22334,7 +22413,7 @@
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
-- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - Execute your runbooks, docs, and READMEs for VS Code.
+- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - DevOps Workflows Built with Markdown for VS Code
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [pgibler/cmdh](https://github.com/pgibler/cmdh) - Create Linux commands from natural language, in the shell.
@@ -22682,7 +22761,7 @@
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [janhq/nitro](https://github.com/janhq/nitro) - An inference server on top of llama.cpp. OpenAI-compatible API, queue, & scaling. Embed a prod-ready, local inference engine in your apps. Powers Jan
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building AI applications.
+- [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
@@ -23154,6 +23233,8 @@
 
 ## termux 
 
+- [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) - Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
+- [shlibs/shlibs.bash](https://github.com/shlibs/shlibs.bash) - Shared BASH Script Libraries https://shlibs.github.io/shlibs.bash/
 - [mishakorzik/AllHackingTools](https://github.com/mishakorzik/AllHackingTools) - All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.
 - [latestissue/AltaeraAI](https://github.com/latestissue/AltaeraAI) - A set of bash scripts to automate deployment of GGML/GGUF models [default: RWKV] with the use of KoboldCpp on Android - Termux
 - [noob-hackers/m-wiz](https://github.com/noob-hackers/m-wiz) - Install Metasploit And Repair Metasploit In Termux With Easy Steps
@@ -23170,6 +23251,9 @@
 
 ## terraform 
 
+- [xebis/infrastructure-template](https://github.com/xebis/infrastructure-template) - Template to automate GitOps and IaC in a cloud. GitLab CI manages static and dynamic environments, which are created, updated, and destroyed by Terraform, then set up by cloud-init and Ansible.
+- [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
+- [unfor19/modulecost](https://github.com/unfor19/modulecost) - Calculate Terraform modules cost, implemented with infracost
 - [hazelops/icmk](https://github.com/hazelops/icmk) - 🧊 Framework that uses GNU Make for Infrastructure as Code
 - [pgporada/terraform-makefile](https://github.com/pgporada/terraform-makefile) - Helps me actually use terraform for multiple environments
 - [ZupIT/horusec](https://github.com/ZupIT/horusec) - Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.
@@ -23673,6 +23757,7 @@
 
 ## tutorial 
 
+- [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) - Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [hamelsmu/code_search](https://github.com/hamelsmu/code_search) - Code For Medium Article: "How To Create Natural Language Semantic Search for Arbitrary Objects With Deep Learning"
 - [Akagi201/learning-cmake](https://github.com/Akagi201/learning-cmake) - learning cmake
 - [Raku/doc](https://github.com/Raku/doc) - 🦋 Raku documentation
@@ -23729,7 +23814,7 @@
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [ncarlier/readflow](https://github.com/ncarlier/readflow) - readflow is a news-reading (or read-it-later) solution focused on versatility and simplicity.
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
-- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - Execute your runbooks, docs, and READMEs for VS Code.
+- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - DevOps Workflows Built with Markdown for VS Code
 - [guildenstern70/SmartDeno](https://github.com/guildenstern70/SmartDeno) - A simple Web Template application in Typescript for Deno
 - [antoinejaussoin/retro-board](https://github.com/antoinejaussoin/retro-board) - Agile Retrospective Board
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
@@ -23890,8 +23975,8 @@
 - [GoogleContainerTools/kpt-functions-catalog](https://github.com/GoogleContainerTools/kpt-functions-catalog) - Curated catalog of generally useful kpt functions
 - [launchcodedev/app-config](https://github.com/launchcodedev/app-config) - Easy Configuration Loader with Strict Validation
 - [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
-- [lgrammel/modelfusion](https://github.com/lgrammel/modelfusion) - The TypeScript library for building AI applications.
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
+- [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [arcanis/typanion](https://github.com/arcanis/typanion) - Static and runtime type assertion library with no dependencies
 - [aws/jsii-rosetta](https://github.com/aws/jsii-rosetta) - The jsii sample code transliterator
 - [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
@@ -24006,7 +24091,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating data models based on inputs such as AsyncAPI, OpenAPI, or JSON Schema documents.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
+- [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library
 - [eta-dev/eta](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [denoland/deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
@@ -24548,7 +24633,7 @@
 - [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector) - Allows switch environment for Visual Studio Code using Nix Package Manager.
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 - [markdoc-extra/vscode-markdoc](https://github.com/markdoc-extra/vscode-markdoc) - VSCode extension for Markdoc syntax highlighting and language support
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [BorisWilhelms/devcontainer](https://github.com/BorisWilhelms/devcontainer) - Run and use devcontainer outside of Visual Studio Code
@@ -24671,7 +24756,7 @@
 - [ShahradR/git-template](https://github.com/ShahradR/git-template) - Language-agnostic Git template repository to kickstart your projects!
 - [marcosgomesneto/bun-devcontainers](https://github.com/marcosgomesneto/bun-devcontainers) - Bun Runtime Template for DevContainers & Docker.
 - [StarlaneStudios/vscode-comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors) - ⚓A Visual Studio Code extension that adds support for comment anchors 🔭
-- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - Execute your runbooks, docs, and READMEs for VS Code.
+- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - DevOps Workflows Built with Markdown for VS Code
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [fabiospampinato/vscode-todo-plus](https://github.com/fabiospampinato/vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
@@ -24742,7 +24827,7 @@
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
 - [davestewart/alias-hq](https://github.com/davestewart/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases
 - [eseom/nunjucks-template](https://github.com/eseom/nunjucks-template) - This is  a vscode extension for nunjucks template language which is also available to all Jinja style templates
-- [quack-ai/quack-companion-vscode](https://github.com/quack-ai/quack-companion-vscode) - VSCode extension for collaborative software development 💻 Turn your team development practices into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS L
+- [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
@@ -24782,7 +24867,7 @@
 - [mre/vscode-snippet](https://github.com/mre/vscode-snippet) - 🐤 A Visual Studio Code extension for cheat.sh. Quickly and easily find code snippets for any language right inside your IDE.
 - [skellock/vscode-just](https://github.com/skellock/vscode-just) - A Visual Studio Code plugin for working with Just.
 - [norbertK/taskmarks](https://github.com/norbertK/taskmarks) - VSCode Extension - Persist bookmarks for different tasks.
-- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - Execute your runbooks, docs, and READMEs for VS Code.
+- [stateful/vscode-runme](https://github.com/stateful/vscode-runme) - DevOps Workflows Built with Markdown for VS Code
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
@@ -24822,7 +24907,7 @@
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [svsool/memo](https://github.com/svsool/memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [markdoc-extra/vscode-markdoc](https://github.com/markdoc-extra/vscode-markdoc) - VSCode extension for Markdoc syntax highlighting and language support
-- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free and 100% private.
+- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense locally hosted (or API hosted) AI code completion plugin for Visual Studio Code, like GitHub Copilot but 100% free!
 - [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
@@ -25518,6 +25603,7 @@
 
 ## windows 
 
+- [alanlivio/bash-helpers](https://github.com/alanlivio/bash-helpers) - Template to easily create multi-OS bash helpers for Windows (MSYS2/GitBash/WSL), Ubuntu, and Mac.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
@@ -25755,6 +25841,7 @@
 
 ## xml 
 
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [usnistgov/OSCAL](https://github.com/usnistgov/OSCAL) - Open Security Controls Assessment Language (OSCAL)
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
@@ -25792,6 +25879,7 @@
 
 ## zsh 
 
+- [hedzr/bash.sh](https://github.com/hedzr/bash.sh) - main entry template of your first bash script file
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [bash-bastion/basalt](https://github.com/bash-bastion/basalt) - The rock-solid Bash package manager.
