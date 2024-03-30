@@ -855,6 +855,7 @@
 
 ## Dockerfile 
 
+- [soulmachine/ts-cli-starter](https://github.com/soulmachine/ts-cli-starter) - TypeScript CLI project template.
 - [geekcell/docker-compose-nodejs-examples](https://github.com/geekcell/docker-compose-nodejs-examples) - Finally some real world examples on getting started with Docker Compose and Nodejs.
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [articulate/docker-node](https://github.com/articulate/docker-node) - Articulate base Docker images for Node.js
@@ -988,6 +989,8 @@
 
 ## Go 
 
+- [dreadl0ck/zeus](https://github.com/dreadl0ck/zeus) - An Electrifying Build System
+- [rwxrob/bonzai](https://github.com/rwxrob/bonzai) - 🌳 Go Bonzai™ Composite Commander, meticulously manicured monolith and multicall binaries, built from imported composite commands, on any device, with recursive, light-weight tab completion, and colorf
 - [tsoding/snitch](https://github.com/tsoding/snitch) - Language agnostic tool that collects TODOs in the source code and reports them as Issues
 - [tcnksm/gcli](https://github.com/tcnksm/gcli) - The easy way to build Golang command-line application.
 - [paketo-buildpacks/builder-jammy-base](https://github.com/paketo-buildpacks/builder-jammy-base) - A Cloud Native Buildpacks (CNB) builder with the Paketo Jammy Jellyfish Base stack and Paketo buildpacks.
@@ -2734,6 +2737,15 @@
 
 ## JavaScript 
 
+- [Dharmendra205111014/web-project-cli](https://github.com/Dharmendra205111014/web-project-cli) - A cli to create a simple skeleton of static web project
+- [mokkabonna/inquirer-autocomplete-prompt](https://github.com/mokkabonna/inquirer-autocomplete-prompt) - Autocomplete prompt for inquirer
+- [Nordstrom/config](https://github.com/Nordstrom/config) - Simple Yaml Config for Node.js
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
+- [panates/ncfg](https://github.com/panates/ncfg) - Configuration management library for Node.js
+- [ruyadorno/ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
+- [vercel/micro-dev](https://github.com/vercel/micro-dev) - The development environment for `micro`
+- [benjamn/reify](https://github.com/benjamn/reify) - Enable ECMAScript 2015 modules in Node today. No caveats. Full stop.
+- [polkadot-js/dev](https://github.com/polkadot-js/dev) - Development configuration, scripts and and CI setup for polkadot-js projects. It acts as templates for other projects to reduce boilerplate, making everything consistent.
 - [godaddy/kubernetes-client](https://github.com/godaddy/kubernetes-client) - Simplified Kubernetes API client for Node.js.
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja) - Code snippets manager for developers. PWA.
@@ -2968,7 +2980,7 @@
 - [abahmed/Deer](https://github.com/abahmed/Deer) - :pencil2:A modern, fast, beautiful note taking app, built on Electron and React
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [KacperKozak/project-snippets](https://github.com/KacperKozak/project-snippets) - Keep code snippets directly in your project repository and let anyone create files easily and quickly.
-- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 🔥 🔥 The free & Open Source DocuSign alternative
+- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [gulpjs/liftoff](https://github.com/gulpjs/liftoff) - Launch your command line tool with ease.
 - [npkgz/cli-progress](https://github.com/npkgz/cli-progress) - :hourglass: easy to use progress-bar for command-line/terminal applications
 - [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts
@@ -3897,7 +3909,7 @@
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 - [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://aka.ms/autogen-dc
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [psychic-api/doctran](https://github.com/psychic-api/doctran) - 
 - [AnacletoLAB/grape](https://github.com/AnacletoLAB/grape) - 🍇 GRAPE is a Rust/Python Graph Representation Learning library for Predictions and Evaluations
@@ -4997,7 +5009,7 @@
 - [Lin-jun-xiang/docGPT-langchain](https://github.com/Lin-jun-xiang/docGPT-langchain) - 🔐Free GPT-3.5 chat with your docs (PDF, WORD, CSV, TXT)
 - [Quansight/ragna](https://github.com/Quansight/ragna) - RAG orchestration framework ⛵️
 - [pinecone-io/canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
-- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction with ML and LLM
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
 - [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.
@@ -5206,7 +5218,7 @@
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It's the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one in
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one 
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [lilianweng/stock-rnn](https://github.com/lilianweng/stock-rnn) - Predict stock market prices using RNN model with multilayer LSTM cells + optional multi-stock embeddings.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
@@ -5793,6 +5805,7 @@
 
 ## Rust 
 
+- [your-tools/ruplacer](https://github.com/your-tools/ruplacer) - Find and replace text in source files
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [nerdypepper/eva](https://github.com/nerdypepper/eva) - a calculator REPL, similar to bc(1)
@@ -5813,7 +5826,7 @@
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A simple and portable proxy for capturing HTTP and HTTPS traffic.
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A lightweight proxy for monitoring HTTP, HTTPS, and WebSocket traffic.
 - [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
 - [LyonSyonII/run](https://github.com/LyonSyonII/run) - Run commands in the languages you love!
@@ -6549,6 +6562,8 @@
 
 ## Shell 
 
+- [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles) - Dockerfiles for various common implementations
+- [ProfessorManhattan/template-npm-cli](https://github.com/ProfessorManhattan/template-npm-cli) - A boilerplate / starting template for NPM CLI packages (using Nest Commander)
 - [xebis/infrastructure-template](https://github.com/xebis/infrastructure-template) - Template to automate GitOps and IaC in a cloud. GitLab CI manages static and dynamic environments, which are created, updated, and destroyed by Terraform, then set up by cloud-init and Ansible.
 - [docopt/docopts](https://github.com/docopt/docopts) - Shell interpreter for docopt, the command-line interface description language.
 - [kward/shflags](https://github.com/kward/shflags) - shFlags is a port of the Google gflags library for Unix shell.
@@ -7188,6 +7203,7 @@
 
 ## Swift 
 
+- [devedbox/Commander](https://github.com/devedbox/Commander) - 🚀The framework to write type-safe and structured command line program easily in Swift.
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
@@ -7222,6 +7238,9 @@
 
 ## TypeScript 
 
+- [intuit/commently](https://github.com/intuit/commently) - 😀💬 Easily comment and update comments on GitHub PRs
+- [kirklin/unplugin-config](https://github.com/kirklin/unplugin-config) - 🔧 Configuration file generator for web apps, allowing external customization of global variables without repackaging.
+- [noodlefrenzy/promptgen](https://github.com/noodlefrenzy/promptgen) - CLI for managing and generating Foundation Model prompts
 - [jycouet/VSTSExtensions](https://github.com/jycouet/VSTSExtensions) - 
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
@@ -8199,7 +8218,7 @@
 - [pluralsh/plural](https://github.com/pluralsh/plural) - Deploy open source software on Kubernetes in record time. 🚀
 - [bunnyshell/demo-books](https://github.com/bunnyshell/demo-books) - Demo app for easily getting started with Bunnyshell
 - [scaffold-sh/cli](https://github.com/scaffold-sh/cli) - Scaffold is a framework to create a complete AWS infrastructure, defined as code, in seconds.
-- [datopian/portaljs](https://github.com/datopian/portaljs) - 🌀 Rapidly build rich data portals using a modern frontend framework
+- [datopian/datahub](https://github.com/datopian/datahub) - 🌀 Rapidly build rich data portals using a modern frontend framework
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [nextstrain/nextclade](https://github.com/nextstrain/nextclade) - Viral genome alignment, mutation calling, clade assignment, quality checks and phylogenetic placement
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
