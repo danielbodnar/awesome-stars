@@ -148,6 +148,7 @@
 - [nf-core/website](https://github.com/nf-core/website) - Code and files for the main nf-core website.
 - [hellotham/hello-astro](https://github.com/hellotham/hello-astro) - Hello Astro is a multi purpose Astro starter theme written in Typescript, TailwindCSS and AlpineJS. It supports Markdown and MDX based pages and blog posts.
 - [themesberg/flowbite-astro-admin-dashboard](https://github.com/themesberg/flowbite-astro-admin-dashboard) - Open-source admin dashboard template built with Astro, Flowbite, and Tailwind CSS
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Awk 
@@ -939,7 +940,7 @@
 - [bookmark-org/bookmark](https://github.com/bookmark-org/bookmark) - Bookmark.org digital archive service
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [dbstratta/margaret](https://github.com/dbstratta/margaret) - 👩‍🚀 A publishing platform. An open-source alternative to Medium.
 - [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog is news and podcast for developers. This is our open source platform.
 
@@ -2188,7 +2189,7 @@
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [ksimka/go-is-not-good](https://github.com/ksimka/go-is-not-good) - A curated list of articles complaining that go (golang) isn't good enough
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -2465,7 +2466,6 @@
 - [pd3f/pd3f](https://github.com/pd3f/pd3f) - 🏭 PDF text extraction pipeline: self-hosted, local-first, Docker-based
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [nisheethjaiswal/Data-Annotator-for-SpaCy](https://github.com/nisheethjaiswal/Data-Annotator-for-SpaCy) - 🚀SpAnnor annotator for Named Entity Recognition easy to use tool. The annotator allows users to quickly assign custom labels to one or more entities in the text. Easy to setup for Data Training for Sp
-- [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [luin/readability](https://github.com/luin/readability) - 📚 Turn any web page into a clean view
 - [alertbox/try-docsify](https://github.com/alertbox/try-docsify) - A ready-to-go dev container for trying out docsify, magical static site generating tool for docs, static sites, et al.
 - [solid/web-access-control-spec](https://github.com/solid/web-access-control-spec) - Web Access Control (WAC)
@@ -6685,7 +6685,7 @@
 - [mklement0/ttab](https://github.com/mklement0/ttab) - macOS and Linux CLI for opening a new terminal tab/window, optionally with a command to execute and/or display settings
 - [latestissue/AltaeraAI](https://github.com/latestissue/AltaeraAI) - A set of bash scripts to automate deployment of GGML/GGUF models [default: RWKV] with the use of KoboldCpp on Android - Termux
 - [infrastlabs/docker-headless](https://github.com/infrastlabs/docker-headless) - Remote Desktop with Docker: XRDP/NOVNC/PulseAudio. (Xfce, Mate, Cinnamon, Gnome, Plasma) MultiScreen Support!
-- [YunoHost/ynh-dev](https://github.com/YunoHost/ynh-dev) - Dev environement wrapper, based on LXD, to develop on YunoHost
+- [YunoHost/ynh-dev](https://github.com/YunoHost/ynh-dev) - Dev environement wrapper, based on Incus, to develop on YunoHost
 - [2aman-lafr9a/devops-scripts](https://github.com/2aman-lafr9a/devops-scripts) - The deployment has been successfully executed in Azure using a comprehensive stack that includes Docker, Docker Compose, Kubernetes (k8s), Jenkins, Azure Container Registry, Azure Storage, Azure DNS, 
 - [bruj0/jenkins_pipeline](https://github.com/bruj0/jenkins_pipeline) - A lean Continuous Deployment, Testing and Integration Pipeline using CoreOS/Docker/Jenkins
 - [damnhandy/jenkins-pipeline-docker](https://github.com/damnhandy/jenkins-pipeline-docker) - Containerized build environments with the Jenkins Pipeline plugin and Docker.
@@ -7988,6 +7988,7 @@
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
 - [dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
