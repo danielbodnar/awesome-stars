@@ -6194,7 +6194,7 @@
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres with real-time materialized views. Designed for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -6292,7 +6292,7 @@
 - [aramperes/onetun](https://github.com/aramperes/onetun) - User space WireGuard port-forward in Rust
 - [lostatc/acid-store](https://github.com/lostatc/acid-store) - [UNMAINTAINED] A transactional and deduplicating virtual file system
 - [nlfiedler/fastcdc-rs](https://github.com/nlfiedler/fastcdc-rs) - FastCDC implementation in Rust
-- [openebs/mayastor](https://github.com/openebs/mayastor) - A cloud native declarative data plane in containers for containers
+- [openebs/mayastor](https://github.com/openebs/mayastor) - Dynamically provision Stateful Persistent Replicated Cluster-wide Fabric Volumes & Filesystems for Kubernetes that is provisioned from an optimized NVME SPDK backend data storage stack.
 - [sousandrei/firesquid](https://github.com/sousandrei/firesquid) - Simple AWS Firecracker MicroVM Orchestrator
 - [saschagrunert/kmod](https://github.com/saschagrunert/kmod) - A Linux kernel module written in Rust
 - [ssokolow/rust-cli-boilerplate](https://github.com/ssokolow/rust-cli-boilerplate) - Rust project boilerplate for CLI applications
@@ -7248,6 +7248,7 @@
 
 ## TypeScript 
 
+- [wobsoriano/elysia-clerk](https://github.com/wobsoriano/elysia-clerk) - Unofficial Clerk plugin for Elysia.js.
 - [vscode-restructuredtext/vscode-restructuredtext](https://github.com/vscode-restructuredtext/vscode-restructuredtext) - reStructuredText Language Support in Visual Studio Code
 - [intuit/commently](https://github.com/intuit/commently) - 😀💬 Easily comment and update comments on GitHub PRs
 - [kirklin/unplugin-config](https://github.com/kirklin/unplugin-config) - 🔧 Configuration file generator for web apps, allowing external customization of global variables without repackaging.
@@ -7994,7 +7995,7 @@
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [muctadir/lama](https://github.com/muctadir/lama) - LaMa, short for Labelling Machine, is an web application developed for aiding in thematic analysis of qualitative data.
-- [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
@@ -8059,7 +8060,7 @@
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [yoyurec/logseq-awesome-ui](https://github.com/yoyurec/logseq-awesome-ui) - Reworked UI for Logseq
 - [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es) - Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
@@ -8293,7 +8294,7 @@
 - [tardis-dev/tardis-node](https://github.com/tardis-dev/tardis-node) - Convenient access to tick-level real-time and historical cryptocurrency market data via Node.js
 - [clementpl/influx-crypto-trader](https://github.com/clementpl/influx-crypto-trader) - Node js trading bot, let you create trading strategy and run it (backtest/simulation/live)
 - [contentlayerdev/next-contentlayer-example](https://github.com/contentlayerdev/next-contentlayer-example) - 
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform | Now in Public Beta
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [dxFeed/dxfeed-js-api](https://github.com/dxFeed/dxfeed-js-api) - dxFeed JavaScript API
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [jarthursquiers/FireByArthurTradingEngine](https://github.com/jarthursquiers/FireByArthurTradingEngine) - A real-time portfolio analysis and alerts engine for options traders, built as a Google Sheets add-on and written in Typescript.
