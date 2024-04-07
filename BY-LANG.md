@@ -857,6 +857,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) - 
 - [soulmachine/ts-cli-starter](https://github.com/soulmachine/ts-cli-starter) - TypeScript CLI project template.
 - [geekcell/docker-compose-nodejs-examples](https://github.com/geekcell/docker-compose-nodejs-examples) - Finally some real world examples on getting started with Docker Compose and Nodejs.
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
@@ -992,6 +993,8 @@
 
 ## Go 
 
+- [honeydipper/honeydipper](https://github.com/honeydipper/honeydipper) - Basically, your Swiss army knife for systems engineering and operations. An event-driven, policy-based orchestration system, with a pluggable open architecture.
+- [bamarni/dockplate](https://github.com/bamarni/dockplate) - Templating for Dockerfiles.
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
 - [zaquestion/lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [dreadl0ck/zeus](https://github.com/dreadl0ck/zeus) - An Electrifying Build System
@@ -2740,6 +2743,8 @@
 
 ## JavaScript 
 
+- [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset
+- [harvard-lil/perma](https://github.com/harvard-lil/perma) - Indelible links
 - [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) - Interactive code examples for documentation, education and fun.
 - [bahmutov/code-snippets](https://github.com/bahmutov/code-snippets) - Chrome DevTools code snippets
 - [Dharmendra205111014/web-project-cli](https://github.com/Dharmendra205111014/web-project-cli) - A cli to create a simple skeleton of static web project
@@ -4020,6 +4025,8 @@
 
 ## Makefile 
 
+- [project-makefile/project-makefile](https://github.com/project-makefile/project-makefile) - Project Makefile
+- [tsertkov/makefiles](https://github.com/tsertkov/makefiles) - Reusable makefiles collection
 - [binbashar/public-docker-images](https://github.com/binbashar/public-docker-images) - Public docker images
 - [caracolazuldev/d-composer](https://github.com/caracolazuldev/d-composer) - A Gnu Make Makefile include to manage complex docker-compose definitions.
 - [joakimbits/normalize](https://github.com/joakimbits/normalize) - Make Make more inclusive - build automatically and from anywhere
@@ -4736,6 +4743,7 @@
 
 ## PowerShell 
 
+- [visualon/docker-buildpack](https://github.com/visualon/docker-buildpack) - Docker base image
 - [Pwd9000-ML/docker-github-runner-linux](https://github.com/Pwd9000-ML/docker-github-runner-linux) - Repository for building a self hosted GitHub runner as a ubuntu linux container
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) - Jenkins agent (base image) and inbound agent Docker images
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
@@ -5728,6 +5736,8 @@
 
 ## Ruby 
 
+- [ecosyste-ms/repos](https://github.com/ecosyste-ms/repos) - An open API service providing repository metadata for many open source software ecosystems.
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [renatosilva/easyoptions](https://github.com/renatosilva/easyoptions) - Easy option parsing for Ruby and Bash.
 - [philnash/pwned](https://github.com/philnash/pwned) - 😱 An easy, Ruby way to use the Pwned Passwords API.
 - [liatrio-chef/hygieia-dev-unbaked](https://github.com/liatrio-chef/hygieia-dev-unbaked) - An unbaked vagrant box that uses chef to spin up a pipeline consisting of archiva, github, sonarqube, jenkins, tomcat, selenium, and hygieia.
@@ -6724,7 +6734,7 @@
 - [qdm12/basedevcontainer](https://github.com/qdm12/basedevcontainer) - Base development Docker image used by other development Docker images
 - [WUAmin/alpine-l2tp-vpn-client](https://github.com/WUAmin/alpine-l2tp-vpn-client) - An Alpine based docker image to setup an L2TP over IPsec VPN client w/ PSK (and optionally Socks5) within the container.
 - [haslersn/any-nix-shell](https://github.com/haslersn/any-nix-shell) - fish and zsh support for the nix run and nix-shell environments of the Nix package manager
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage manager/installer/updater and AUR-inspired database, now including 1900+ AppImage packages and official standalone apps for GNU/Linux. "AM" Application Manager also provides scripts to manage
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage manager, installer and updater including an extensible AUR-inspired database, now including 1900+ AppImages and official standalone apps for GNU/Linux. Easy to use like APT and powerful like 
 - [xmake-io/xrepo](https://github.com/xmake-io/xrepo) - 🗂️ A cross-platform C/C++ package manager based on Xmake
 - [ocaml/opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for opam, the source package manager of OCaml.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
@@ -7851,7 +7861,7 @@
 - [NebulaServices/Nebula](https://github.com/NebulaServices/Nebula) - a stunning and sleek web proxy with support for hundreds of popular sites.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [adrian-goe/nx-aws-cdk-v2](https://github.com/adrian-goe/nx-aws-cdk-v2) - 
-- [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
+- [ephraimduncan/termd](https://github.com/ephraimduncan/termd) - Render markdown in the terminal
 - [hypermod-io/hypermod-community](https://github.com/hypermod-io/hypermod-community) - Community-owned global registry and documentation hub for codemods. Write & run codemods, share them with your friends!
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
