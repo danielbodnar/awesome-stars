@@ -81,6 +81,7 @@
 - [common-lisp](#common-lisp)
 - [compiler](#compiler)
 - [composer](#composer)
+- [computer-graphics](#computer-graphics)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -1901,6 +1902,7 @@
 
 ## aws 
 
+- [project-makefile/project-makefile](https://github.com/project-makefile/project-makefile) - Project Makefile
 - [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 - [hazelops/icmk](https://github.com/hazelops/icmk) - 🧊 Framework that uses GNU Make for Infrastructure as Code
 - [bash-my-aws/bash-my-aws](https://github.com/bash-my-aws/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
@@ -3440,7 +3442,7 @@
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [tomphttp/bare-server-node](https://github.com/tomphttp/bare-server-node) - TompHTTP Bare server in the Node runtime
-- [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
+- [ephraimduncan/termd](https://github.com/ephraimduncan/termd) - Render markdown in the terminal
 - [hypermod-io/hypermod-community](https://github.com/hypermod-io/hypermod-community) - Community-owned global registry and documentation hub for codemods. Write & run codemods, share them with your friends!
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -4497,6 +4499,11 @@
 ## composer 
 
 - [ctk-hq/ctk](https://github.com/ctk-hq/ctk) - Visual composer for container based workloads
+
+## computer-graphics 
+
+- [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+- [junyanz/iGAN](https://github.com/junyanz/iGAN) - Interactive Image Generation via Generative Adversarial Networks
 
 ## computer-science 
 
@@ -6508,6 +6515,7 @@
 
 ## django 
 
+- [project-makefile/project-makefile](https://github.com/project-makefile/project-makefile) - Project Makefile
 - [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 - [bruj0/jenkins_pipeline](https://github.com/bruj0/jenkins_pipeline) - A lean Continuous Deployment, Testing and Integration Pipeline using CoreOS/Docker/Jenkins
 - [ogayanfe/websandbox](https://github.com/ogayanfe/websandbox) - An online frontend programming sandbox with integrated browser with live reloading built using react, react-dom, django and the webcontainer api
@@ -6537,6 +6545,7 @@
 
 ## docker 
 
+- [bamarni/dockplate](https://github.com/bamarni/dockplate) - Templating for Dockerfiles.
 - [philpep/dockerfiles](https://github.com/philpep/dockerfiles) - 
 - [binbashar/awesome-compose](https://github.com/binbashar/awesome-compose) - Awesome Docker Compose samples
 - [binbashar/public-docker-images](https://github.com/binbashar/public-docker-images) - Public docker images
@@ -11555,7 +11564,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [titaniumnetwork-dev/Vanadium](https://github.com/titaniumnetwork-dev/Vanadium) - A simple, functionality-focused Ultraviolet front-end.
-- [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
+- [ephraimduncan/termd](https://github.com/ephraimduncan/termd) - Render markdown in the terminal
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
@@ -12385,6 +12394,7 @@
 
 ## kubernetes 
 
+- [honeydipper/honeydipper](https://github.com/honeydipper/honeydipper) - Basically, your Swiss army knife for systems engineering and operations. An event-driven, policy-based orchestration system, with a pluggable open architecture.
 - [godaddy/kubernetes-client](https://github.com/godaddy/kubernetes-client) - Simplified Kubernetes API client for Node.js.
 - [philpep/dockerfiles](https://github.com/philpep/dockerfiles) - 
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
@@ -14234,7 +14244,7 @@
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [hatashiro/pen](https://github.com/hatashiro/pen) - We need a better Markdown previewer.
-- [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
+- [ephraimduncan/termd](https://github.com/ephraimduncan/termd) - Render markdown in the terminal
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [yasinatesim/markdown-manager](https://github.com/yasinatesim/markdown-manager) - This project is a markdown template generator tool via Vite + Vue 🤓
@@ -16367,6 +16377,12 @@
 
 ## others 
 
+- [ecosyste-ms/repos](https://github.com/ecosyste-ms/repos) - An open API service providing repository metadata for many open source software ecosystems.
+- [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset
+- [visualon/docker-buildpack](https://github.com/visualon/docker-buildpack) - Docker base image
+- [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) - 
+- [tsertkov/makefiles](https://github.com/tsertkov/makefiles) - Reusable makefiles collection
+- [harvard-lil/perma](https://github.com/harvard-lil/perma) - Indelible links
 - [wobsoriano/elysia-clerk](https://github.com/wobsoriano/elysia-clerk) - Unofficial Clerk plugin for Elysia.js.
 - [pentestfunctions/BlueDucky](https://github.com/pentestfunctions/BlueDucky) - 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
 - [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
@@ -18504,7 +18520,7 @@
 - [babarot/afx](https://github.com/babarot/afx) - 📦  Package manager for CLI
 - [marwanhawari/stew](https://github.com/marwanhawari/stew) - 🥘 An independent package manager for compiled binaries.
 - [software-mansion/scarb](https://github.com/software-mansion/scarb) - The Cairo package manager
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage manager/installer/updater and AUR-inspired database, now including 1900+ AppImage packages and official standalone apps for GNU/Linux. "AM" Application Manager also provides scripts to manage
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage manager, installer and updater including an extensible AUR-inspired database, now including 1900+ AppImages and official standalone apps for GNU/Linux. Easy to use like APT and powerful like 
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. `cotton install` runs faster than `rm -rf node_modules`.
 - [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts.
 - [txthinking/nami](https://github.com/txthinking/nami) - A clean and tidy decentralized package manager.
@@ -19477,6 +19493,7 @@
 
 ## python 
 
+- [project-makefile/project-makefile](https://github.com/project-makefile/project-makefile) - Project Makefile
 - [vscode-restructuredtext/vscode-restructuredtext](https://github.com/vscode-restructuredtext/vscode-restructuredtext) - reStructuredText Language Support in Visual Studio Code
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [neikei/syntaxchecks](https://github.com/neikei/syntaxchecks) - Syntaxchecks for Bash, PHP, Python, Ruby, Yaml and Crontab files. Ready to use with Jenkins, Bamboo, Bitbucket Pipelines and Travis CI.
@@ -20134,6 +20151,7 @@
 
 ## rails 
 
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [rubyconfig/config](https://github.com/rubyconfig/config) - Easiest way to add multi-environment yaml settings to Rails, Sinatra, Padrino and other Ruby projects.
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
 - [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) - Generate OpenAPI schema from RSpec request specs
@@ -22187,6 +22205,7 @@
 
 ## self-hosted 
 
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [transmitic/transmitic](https://github.com/transmitic/transmitic) - Encrypted, peer to peer, file transfer program :: https://discord.gg/tRT3J6T :: https://www.reddit.com/r/transmitic/ :: https://twitter.com/transmitic
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -23215,7 +23234,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
-- [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
+- [ephraimduncan/termd](https://github.com/ephraimduncan/termd) - Render markdown in the terminal
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI which makes it easy to launch vscode projects, with a focus on dev containers.
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
@@ -23329,6 +23348,7 @@
 
 ## terraform 
 
+- [honeydipper/honeydipper](https://github.com/honeydipper/honeydipper) - Basically, your Swiss army knife for systems engineering and operations. An event-driven, policy-based orchestration system, with a pluggable open architecture.
 - [xebis/infrastructure-template](https://github.com/xebis/infrastructure-template) - Template to automate GitOps and IaC in a cloud. GitLab CI manages static and dynamic environments, which are created, updated, and destroyed by Terraform, then set up by cloud-init and Ansible.
 - [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
 - [unfor19/modulecost](https://github.com/unfor19/modulecost) - Calculate Terraform modules cost, implemented with infracost
@@ -24114,7 +24134,7 @@
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [adrian-goe/nx-aws-cdk-v2](https://github.com/adrian-goe/nx-aws-cdk-v2) - 
-- [dephraiim/termd](https://github.com/dephraiim/termd) - Render markdown in the terminal
+- [ephraimduncan/termd](https://github.com/ephraimduncan/termd) - Render markdown in the terminal
 - [titaniumnetwork-dev/Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service w
 - [Create-Node-App/create-node-app](https://github.com/Create-Node-App/create-node-app) - Powerful tool to scaffold your application choosing between different templates and extensions for Web apps, Web Extensions, Monorepos, and more!
 - [flemay/3musketeers](https://github.com/flemay/3musketeers) - Test, build, and deploy your apps from anywhere, the same way!
@@ -25010,6 +25030,7 @@
 
 ## vue 
 
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
 - [dd3v/snippets.ninja](https://github.com/dd3v/snippets.ninja) - Code snippets manager for developers. PWA.
@@ -25205,6 +25226,7 @@
 
 ## wagtail 
 
+- [project-makefile/project-makefile](https://github.com/project-makefile/project-makefile) - Project Makefile
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 
 ## wasm 
