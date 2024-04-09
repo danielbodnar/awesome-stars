@@ -592,7 +592,6 @@
 - [HelgeSverre/ollama-gui](https://github.com/HelgeSverre/ollama-gui) - A Web Interface for chatting with your local LLMs via the ollama API
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [tsbrandon1010/TestGenie](https://github.com/tsbrandon1010/TestGenie) - Automatically generate unit tests for your code.
 - [boraelci/java-test-genie](https://github.com/boraelci/java-test-genie) - A command-line tool for AI-driven unit test generation
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -2214,7 +2213,7 @@
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [wd5gnr/bashrc](https://github.com/wd5gnr/bashrc) - System to organize and synchronize bash startup files and other files in your home directory
 - [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
-- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [alpha-build/alpha-build](https://github.com/alpha-build/alpha-build) - Simple monorepo build tool based on Make with out-of-the-box support for Python, Bash, Jupyter Notebooks, Markdown, YAML, HTML, CSS, JS, TS and with a strong focus on flexibility, transparency, and ex
 - [bashup/dotenv](https://github.com/bashup/dotenv) - Programmatically parse/read/edit .env files (docker-compose format)
 - [bashup/.devkit](https://github.com/bashup/.devkit) - Portable project automation and dependency bootstrapping for polyglot projects
@@ -2900,7 +2899,7 @@
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
 - [jorge-menjivar/unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI Copilot for 10+ AI platforms, including OpenAI, Gemini, Claude, Mistral, Ollama, VertexAI, Ernie, Qianwen...
 - [Zeeshanahmad4/chatgpt-knowledge-base-chatbot](https://github.com/Zeeshanahmad4/chatgpt-knowledge-base-chatbot) - An advanced chatbot that utilizes your own data to provide intelligent ChatGPT-style conversations using gpt-3.5-turbo and Ada for advanced embedding, as well as custom indexes and knowledgebase for a
 - [grumpyp/aixplora](https://github.com/grumpyp/aixplora) - AIxplora is a open-source tool which let's you query all kind of files not limited to any length or format.
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
@@ -2959,7 +2958,7 @@
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
 - [Leask/halbot](https://github.com/Leask/halbot) - Just another `ChatGPT` / `Gemini` / `Mistral (by ollama)` Telegram bob, which is simple design, easy to use, extendable and fun.
 - [jorge-menjivar/unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI Copilot for 10+ AI platforms, including OpenAI, Gemini, Claude, Mistral, Ollama, VertexAI, Ernie, Qianwen...
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [Zeeshanahmad4/chatgpt-knowledge-base-chatbot](https://github.com/Zeeshanahmad4/chatgpt-knowledge-base-chatbot) - An advanced chatbot that utilizes your own data to provide intelligent ChatGPT-style conversations using gpt-3.5-turbo and Ada for advanced embedding, as well as custom indexes and knowledgebase for a
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
@@ -3827,7 +3826,7 @@
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
 - [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multicloud management platform
-- [eclipse/che](https://github.com/eclipse/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
+- [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [aimeos/aimeos-headless](https://github.com/aimeos/aimeos-headless) - Aimeos cloud-native, API-first ecommerce headless distribution for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible
@@ -4648,7 +4647,7 @@
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
-- [eclipse/che](https://github.com/eclipse/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
+- [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -5124,7 +5123,7 @@
 - [Mobirise/Mobirise](https://github.com/Mobirise/Mobirise) - AI Website Builder, Open Source, Bootstrap 5
 - [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components) - Free Tailwind CSS UI Components - Crafted for modern websites, landing pages and web apps. TailGrids Core is free and open-source so, feel free to use with your personal or commercial projects. If you
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
@@ -6608,7 +6607,7 @@
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, M
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
@@ -8536,6 +8535,7 @@
 
 ## go 
 
+- [openvex/vexctl](https://github.com/openvex/vexctl) - A  tool to create, transform and attest VEX metadata
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [tokozedg/sman](https://github.com/tokozedg/sman) - :bug: Command-line snippet manager
 - [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
@@ -8920,6 +8920,7 @@
 
 ## golang 
 
+- [openvex/vexctl](https://github.com/openvex/vexctl) - A  tool to create, transform and attest VEX metadata
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [zaquestion/lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [rwxrob/bonzai](https://github.com/rwxrob/bonzai) - 🌳 Go Bonzai™ Composite Commander, meticulously manicured monolith and multicall binaries, built from imported composite commands, on any device, with recursive, light-weight tab completion, and colorf
@@ -9443,6 +9444,7 @@
 ## good-first-issue 
 
 - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
+- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [envless/envless](https://github.com/envless/envless) - OpenSource, frictionless and secure way to share and manage app secrets across teams.
 - [rusty-ferris-club/backpack](https://github.com/rusty-ferris-club/backpack) - 🎒 CLI to create starters from repos + Templates 🤖 + Actions 🚀
@@ -10452,7 +10454,7 @@
 - [openebs/libcstor](https://github.com/openebs/libcstor) - CAS Data Engine - Library to serve IOs on uZFS with synchronous replication, snapshots and clones
 - [Privado-Inc/privado](https://github.com/Privado-Inc/privado) - Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
@@ -10883,7 +10885,7 @@
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [chr15m/motionless](https://github.com/chr15m/motionless) - Generate static sites with code.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [ericalli/static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
@@ -11807,7 +11809,7 @@
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [chr15m/motionless](https://github.com/chr15m/motionless) - Generate static sites with code.
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
@@ -12495,7 +12497,7 @@
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [containernetworking/cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
-- [eclipse/che](https://github.com/eclipse/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
+- [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
 - [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -13635,7 +13637,6 @@
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [tsbrandon1010/TestGenie](https://github.com/tsbrandon1010/TestGenie) - Automatically generate unit tests for your code.
 - [boraelci/java-test-genie](https://github.com/boraelci/java-test-genie) - A command-line tool for AI-driven unit test generation
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
@@ -16188,7 +16189,7 @@
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [jorge-menjivar/unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI Copilot for 10+ AI platforms, including OpenAI, Gemini, Claude, Mistral, Ollama, VertexAI, Ernie, Qianwen...
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [Zeeshanahmad4/chatgpt-knowledge-base-chatbot](https://github.com/Zeeshanahmad4/chatgpt-knowledge-base-chatbot) - An advanced chatbot that utilizes your own data to provide intelligent ChatGPT-style conversations using gpt-3.5-turbo and Ada for advanced embedding, as well as custom indexes and knowledgebase for a
@@ -16395,6 +16396,7 @@
 
 ## others 
 
+- [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [egoist/joycon](https://github.com/egoist/joycon) - Find and load config files with joy.
 - [ecosyste-ms/repos](https://github.com/ecosyste-ms/repos) - An open API service providing repository metadata for many open source software ecosystems.
 - [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset
@@ -18539,7 +18541,7 @@
 - [babarot/afx](https://github.com/babarot/afx) - 📦  Package manager for CLI
 - [marwanhawari/stew](https://github.com/marwanhawari/stew) - 🥘 An independent package manager for compiled binaries.
 - [software-mansion/scarb](https://github.com/software-mansion/scarb) - The Cairo package manager
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) - AppImage packages Database "AUR-inspired" and CLI to manage/install/update them! This repo lists 1900+ standalone apps for GNU/Linux. You can extend it by adding your custom repositories, allows you t
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) - An "AUR-inspired" Database of AppImage packages and a CLI to manage/install/update them system-wide! This repo lists 1900+ standalone apps for GNU/Linux. You can extend it with custom repositories, cr
 - [danielhuang/cotton](https://github.com/danielhuang/cotton) - A package manager for JavaScript projects. `cotton install` runs faster than `rm -rf node_modules`.
 - [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts.
 - [txthinking/nami](https://github.com/txthinking/nami) - A clean and tidy decentralized package manager.
@@ -19120,7 +19122,7 @@
 ## powershell 
 
 - [r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets) - Collection of knowledge about information security
-- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [mzfr/rsh](https://github.com/mzfr/rsh) - generate reverse shell from CLI for linux and Windows.
 - [JockDaRock/Time2Code](https://github.com/JockDaRock/Time2Code) - Portable Scalable web code editor to integrate into your sites and learning experiences
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
@@ -19888,7 +19890,7 @@
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
-- [hadronepoch/python-ffmpeg-video-streaming](https://github.com/hadronepoch/python-ffmpeg-video-streaming) - 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
+- [quasarstream/python-ffmpeg-video-streaming](https://github.com/quasarstream/python-ffmpeg-video-streaming) - 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [ritvikb99/dark-fantasy-hack-tool](https://github.com/ritvikb99/dark-fantasy-hack-tool) - DDOS Tool: To take down small websites with HTTP FLOOD. Port scanner: To know the open ports of a site. FTP Password Cracker: To hack file system of websites.. Banner Grabber: To get the service or so
 - [toolswatch/vFeed](https://github.com/toolswatch/vFeed) - The Correlated CVE Vulnerability And Threat Intelligence Database API
@@ -22496,7 +22498,7 @@
 - [xebis/repository-template](https://github.com/xebis/repository-template) - Highly automated, up-to-date, and well-documented repository template. Checks for common problems, Markdown, YAML, Bash, formats, lints, and tests before committing or pushing so you don't have any su
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [simeg/functional-shell](https://github.com/simeg/functional-shell) - map and filter in your shell
-- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing shell snippets without leaving the terminal.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
@@ -24558,7 +24560,7 @@
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components) - Free Tailwind CSS UI Components - Crafted for modern websites, landing pages and web apps. TailGrids Core is free and open-source so, feel free to use with your personal or commercial projects. If you
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
@@ -24606,7 +24608,7 @@
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
 - [inkline/inkline](https://github.com/inkline/inkline) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable Vue.js 3 Design Systems.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
 
 ## v2ray 
 
@@ -24693,7 +24695,7 @@
 - [mltframework/mlt](https://github.com/mltframework/mlt) - MLT Multimedia Framework
 - [horgh/videostreamer](https://github.com/horgh/videostreamer) - Stream video (e.g. RTSP) to an HTML5 video element (MP4)
 - [snickers/snickers](https://github.com/snickers/snickers) - :chocolate_bar: An open source alternative to the video cloud encoding services.
-- [hadronepoch/python-ffmpeg-video-streaming](https://github.com/hadronepoch/python-ffmpeg-video-streaming) - 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
+- [quasarstream/python-ffmpeg-video-streaming](https://github.com/quasarstream/python-ffmpeg-video-streaming) - 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
@@ -26038,7 +26040,7 @@
 ## zsh 
 
 - [hedzr/bash.sh](https://github.com/hedzr/bash.sh) - main entry template of your first bash script file
-- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [bash-bastion/basalt](https://github.com/bash-bastion/basalt) - The rock-solid Bash package manager.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
