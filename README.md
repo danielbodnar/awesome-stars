@@ -599,7 +599,7 @@
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [tsbrandon1010/TestGenie](https://github.com/tsbrandon1010/TestGenie) - Automatically generate unit tests for your code.
 - [boraelci/java-test-genie](https://github.com/boraelci/java-test-genie) - A command-line tool for AI-driven unit test generation
-- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。（v10 版本已发布）
+- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
@@ -1045,7 +1045,7 @@
 - [timorunge/ansible-freeipa-server](https://github.com/timorunge/ansible-freeipa-server) - FreeIPA Identity Management Server provisioning.
 - [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
-- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - Deploys and configures Proxmox VE 6.x/7.x clusters.
+- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - IaC for Proxmox VE clusters.
 - [sylflo-ansible-kubernetes/rancher2-ansible](https://github.com/sylflo-ansible-kubernetes/rancher2-ansible) - Provision a single node rancher2 k8s cluster using Ansible
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
@@ -3050,7 +3050,7 @@
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - An Easy-to-use Knowledge Editing Framework for LLMs.
 - [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create 🦜️🔗 LangChain apps by just using prompts🌟 Star to support our work! | 只需使用句子即可创建 LangChain 应用程序。 给个star支持我们的工作吧！
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
-- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
+- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [withcatai/catai](https://github.com/withcatai/catai) - UI for 🦙model . Run AI assistant locally ✨
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -5082,7 +5082,7 @@
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
-- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。（v10 版本已发布）
+- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。
 - [rendora/rendora](https://github.com/rendora/rendora) - dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
@@ -7560,7 +7560,7 @@
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
-- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
+- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [ribhuji/ScreenGrab](https://github.com/ribhuji/ScreenGrab) - Take screenshots easily in multidisplay setups!!
 - [jooy2/vutron](https://github.com/jooy2/vutron) - 💚 Quick Start Templates for Vite + Electron + Vue 3 + Vuetify + TypeScript. Vutron is a preconfigured template for developing Electron cross-platform desktop apps. It uses Vue 3 and allows you to buil
@@ -8732,6 +8732,8 @@
 
 ## go 
 
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [jinzhu/configor](https://github.com/jinzhu/configor) - Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts.
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
@@ -9125,6 +9127,7 @@
 
 ## golang 
 
+- [jinzhu/configor](https://github.com/jinzhu/configor) - Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [rwxrob/boost](https://github.com/rwxrob/boost) - Get started right. Become a shell native. This is the way.
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
@@ -9354,7 +9357,7 @@
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [reposaur/reposaur](https://github.com/reposaur/reposaur) - Open source compliance tool for development platforms.
 - [aserto-dev/topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs
-- [raystack/frontier](https://github.com/raystack/frontier) - Frontier is a role-based cloud-native user management, access and authorization server for your applications and API endpoints.
+- [raystack/frontier](https://github.com/raystack/frontier) - Frontier is an all-in-one user management platform that provides identity, access and billing management to help organizations secure their systems and data.
 - [Appliscale/perun](https://github.com/Appliscale/perun) - A command-line validation tool for AWS Cloud Formation that allows to conquer the cloud faster!
 - [banzaicloud/pke](https://github.com/banzaicloud/pke) - PKE is an extremely simple CNCF certified Kubernetes installer and distribution, designed to work on any cloud, VM or bare metal.
 - [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
@@ -9961,7 +9964,7 @@
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 - [ahkohd/tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - 😎  a custom invoke system for Tauri that leverages WebSocket
-- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
+- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 - [red/red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cros
 - [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot) - Desktop automation for Bun
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
@@ -10885,7 +10888,7 @@
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - Deploys and configures Proxmox VE 6.x/7.x clusters.
+- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - IaC for Proxmox VE clusters.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
@@ -11762,7 +11765,7 @@
 - [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
 - [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
 - [chaijs/chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。（v10 版本已发布）
+- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。
 - [rendora/rendora](https://github.com/rendora/rendora) - dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [MockyAbstract/Mocky](https://github.com/MockyAbstract/Mocky) - Generate custom HTTP responses, the simpler way to test your Web Services
@@ -13878,7 +13881,7 @@
 - [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E)
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
-- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
+- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 - [antirez/gguf-tools](https://github.com/antirez/gguf-tools) - GGUF implementation in C as a library and a tools CLI program
 - [withcatai/catai](https://github.com/withcatai/catai) - UI for 🦙model . Run AI assistant locally ✨
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Force a JSON schema on the model output on the generation level
@@ -15921,7 +15924,7 @@
 - [lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [microcks/microcks-testcontainers-node](https://github.com/microcks/microcks-testcontainers-node) - Node/TypeScript lib for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instance thanks to containers.
-- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。（v10 版本已发布）
+- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。
 - [sindresorhus/capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites
 - [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
 - [avajs/awesome-ava](https://github.com/avajs/awesome-ava) - Awesome AVA resources
@@ -16698,6 +16701,11 @@
 
 ## others 
 
+- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+- [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema) - A fluent API to generate JSON schemas
+- [fastify/env-schema](https://github.com/fastify/env-schema) - Validate your env variable using Ajv and dotenv
+- [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
+- [tinijs/tinijs](https://github.com/tinijs/tinijs) - The TiniJS Framework 🥚
 - [GeoWerkstatt/create-jira-release](https://github.com/GeoWerkstatt/create-jira-release) - Creates a new Jira release in your GitHub Actions workflow
 - [DanielBodnar/bashew](https://github.com/DanielBodnar/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing
 - [zero4994/docker-management-dashboard](https://github.com/zero4994/docker-management-dashboard) - A management dashboard for your local docker containers
@@ -16906,7 +16914,7 @@
 - [fernandocanizo/my-bookmarks](https://github.com/fernandocanizo/my-bookmarks) - A centralized way to keep and better organize my bookmarks. Cross-browser, yay! :P
 - [elnook/notedo](https://github.com/elnook/notedo) - Notes, Todos, Markdown, Bookmarks and more with VIM support and full-text search - stay'in organized
 - [Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one) - This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto
-- [stxapps/brace-client](https://github.com/stxapps/brace-client) - Your bookmark manager with privacy at heart. Save links to everything and visit them later easily anytime on any of your devices with full control of your data.
+- [stxapps/brace-client](https://github.com/stxapps/brace-client) - Your bookmark manager with privacy at heart. Save links to everything and visit them later easily, anytime, on any device, with full control of your data.
 - [dharmeshkakadia/github-bookmarks-stars](https://github.com/dharmeshkakadia/github-bookmarks-stars) - All the repos I have starred on github
 - [akullpp/bookmarks](https://github.com/akullpp/bookmarks) - A list of bookmarks of remarkable sites which are about all things software engineering
 - [danpeig/bookmarks2md](https://github.com/danpeig/bookmarks2md) - Browser bookmarks to markdown converter
@@ -17386,7 +17394,7 @@
 - [kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools) - Tools to use with the controller-runtime libraries
 - [cisco-open/camblet](https://github.com/cisco-open/camblet) - Fine-grained, zero-trust workload identity & access control​
 - [DanielBodnar/autocomplete](https://github.com/DanielBodnar/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built on top of puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [oclif/plugin-plugins](https://github.com/oclif/plugin-plugins) - plugins plugin for oclif
@@ -18033,7 +18041,7 @@
 - [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - A new network stack based on gVisor
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [vbatts/nspawn-oci](https://github.com/vbatts/nspawn-oci) - OpenContainer runtime bundle wrapper around systemd-nspawn
-- [rsaihe/rtab](https://github.com/rsaihe/rtab) - A command-line tool for generating tables from CSV.
+- [selenebun/rtab](https://github.com/selenebun/rtab) - A command-line tool for generating tables from CSV.
 - [gwierzchowski/csv-async](https://github.com/gwierzchowski/csv-async) - CSV parsing in async context
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [binarly-io/FwHunt](https://github.com/binarly-io/FwHunt) - The Binarly Firmware Hunt (FwHunt) rule format was designed to scan for known vulnerabilities in UEFI firmware.
@@ -24557,7 +24565,7 @@
 - [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 - [microcks/microcks-testcontainers-node](https://github.com/microcks/microcks-testcontainers-node) - Node/TypeScript lib for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instance thanks to containers.
-- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。（v10 版本已发布）
+- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
@@ -25814,7 +25822,6 @@
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team
-- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。（v10 版本已发布）
 - [berrysauce/ingredients](https://github.com/berrysauce/ingredients) - 🧪  Determine the "ingredients" (or technologies) behind a website
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [chinedufn/percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
