@@ -996,6 +996,9 @@
 
 ## Go 
 
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [jinzhu/configor](https://github.com/jinzhu/configor) - Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
+- [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts.
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
@@ -1543,7 +1546,7 @@
 - [cruise-automation/k-rail](https://github.com/cruise-automation/k-rail) - Kubernetes security tool for policy enforcement
 - [stakpak/devx](https://github.com/stakpak/devx) - A tool for generating, validating & sharing all your configurations, powered by CUE. Works with Kubernetes, Terraform, Compose, GitHub actions and much more...
 - [aserto-dev/topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs
-- [raystack/frontier](https://github.com/raystack/frontier) - Frontier is a role-based cloud-native user management, access and authorization server for your applications and API endpoints.
+- [raystack/frontier](https://github.com/raystack/frontier) - Frontier is an all-in-one user management platform that provides identity, access and billing management to help organizations secure their systems and data.
 - [Appliscale/perun](https://github.com/Appliscale/perun) - A command-line validation tool for AWS Cloud Formation that allows to conquer the cloud faster!
 - [banzaicloud/pke](https://github.com/banzaicloud/pke) - PKE is an extremely simple CNCF certified Kubernetes installer and distribution, designed to work on any cloud, VM or bare metal.
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
@@ -2648,6 +2651,7 @@
 
 ## Java 
 
+- [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [Keyfactor/ejbca-ce](https://github.com/Keyfactor/ejbca-ce) - EJBCA® – Open-source public key infrastructure (PKI) and certificate authority (CA) software.
 - [apache/incubator-heron](https://github.com/apache/incubator-heron) - Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
@@ -2762,6 +2766,8 @@
 
 ## JavaScript 
 
+- [fastify/fluent-json-schema](https://github.com/fastify/fluent-json-schema) - A fluent API to generate JSON schemas
+- [fastify/env-schema](https://github.com/fastify/env-schema) - Validate your env variable using Ajv and dotenv
 - [dwmkerr/effective-shell](https://github.com/dwmkerr/effective-shell) - Text, samples and website for my 'Effective Shell' series.
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [democratic-csi/democratic-csi](https://github.com/democratic-csi/democratic-csi) - csi storage for container orchestration systems
@@ -2858,7 +2864,7 @@
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 - [skywolfmo/bookmarksai](https://github.com/skywolfmo/bookmarksai) - Chrome Bookmarks on steroids
 - [kiwibrowser/sync](https://github.com/kiwibrowser/sync) - Open-source Chrome Extension for Bookmarks and Profile sync
-- [stxapps/brace-client](https://github.com/stxapps/brace-client) - Your bookmark manager with privacy at heart. Save links to everything and visit them later easily anytime on any of your devices with full control of your data.
+- [stxapps/brace-client](https://github.com/stxapps/brace-client) - Your bookmark manager with privacy at heart. Save links to everything and visit them later easily, anytime, on any device, with full control of your data.
 - [onozaty/browser-online-bookmark-incsearch](https://github.com/onozaty/browser-online-bookmark-incsearch) - Online Bookmark Incremental Search for Firefox(WebExntension) and Google Chrome
 - [FernandoLins8/Tab-Groups-to-Bookmarks](https://github.com/FernandoLins8/Tab-Groups-to-Bookmarks) - A Chrome extension for managing and saving your tabs and tab groups.
 - [mathisgauthey/obsidian-workflow-template](https://github.com/mathisgauthey/obsidian-workflow-template) - This is an Obsidian vault template from my Workflow with Tasks and Project Management, Journaling, Media Tracking, Offline Read-it-later and Bookmark Management, Note-taking and Note-sharing on Your O
@@ -3229,7 +3235,7 @@
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built on top of puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
 - [asyncapi/nodejs-template](https://github.com/asyncapi/nodejs-template) - This template generates a server using your AsyncAPI document. It supports multiple different protocols, like Kafka or MQTT.  It is designed in the way that generated code is a library and with it's A
 - [shelljs/shx](https://github.com/shelljs/shx) - Portable Shell Commands for Node
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -4065,7 +4071,7 @@
 - [rosineygp/mkdkr_commitlint](https://github.com/rosineygp/mkdkr_commitlint) - Verify commit message using https://commitlint.js.org
 - [TheNetAdmin/Makefile-Templates](https://github.com/TheNetAdmin/Makefile-Templates) - Makefile templates for different sized projects
 - [ianstormtaylor/makefile-help](https://github.com/ianstormtaylor/makefile-help) - An easy way to add a `make help` target to your Makefiles.
-- [albertstarfield/alpaca-electron-zephyrine](https://github.com/albertstarfield/alpaca-electron-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
+- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 - [clemedon/Makefile_tutor](https://github.com/clemedon/Makefile_tutor) - This project aims to create a crystal clear tutorial on a cryptic looking topic.
 - [clvx/k8s-rbac-model](https://github.com/clvx/k8s-rbac-model) - A multi tenant and multi project RBAC model implementation in Kubernetes
 - [enspirit/makefile-for-monorepos](https://github.com/enspirit/makefile-for-monorepos) - A flexible and extensible makefile for monorepos with  docker/docker-compose.
@@ -5679,7 +5685,7 @@
 - [aker-gateway/Aker](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver
 - [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Web-application firewalls (WAFs) from security standpoint.
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
-- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - Deploys and configures Proxmox VE 6.x/7.x clusters.
+- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) - IaC for Proxmox VE clusters.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [InfamousSYN/rogue](https://github.com/InfamousSYN/rogue) - An extensible toolkit providing penetration testers an easy-to-use platform to deploy Access Points during penetration testing and red team engagements.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -6319,7 +6325,7 @@
 - [tailhook/zellij](https://github.com/tailhook/zellij) - A terminal workspace with batteries included
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
-- [rsaihe/rtab](https://github.com/rsaihe/rtab) - A command-line tool for generating tables from CSV.
+- [selenebun/rtab](https://github.com/selenebun/rtab) - A command-line tool for generating tables from CSV.
 - [gwierzchowski/csv-async](https://github.com/gwierzchowski/csv-async) - CSV parsing in async context
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) - Convert CSV files to HTML tables
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
@@ -7363,6 +7369,7 @@
 
 ## TypeScript 
 
+- [tinijs/tinijs](https://github.com/tinijs/tinijs) - The TiniJS Framework 🥚
 - [aralroca/diff-dom-streaming](https://github.com/aralroca/diff-dom-streaming) - HTML Streaming Over the Wire! 🥳  Diff DOM algorithm with streaming to make only the necessary modifications, insertions and deletions between a DOM node and an HTML stream reader.
 - [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator) - Customize your Bash Prompt by setting the PS1 variable.
 - [nfriend/ts-git](https://github.com/nfriend/ts-git) - A naïve implementation of git, written in TypeScript. Built to help me understand how git works under the hood.
@@ -7897,7 +7904,7 @@
 - [nightwatchjs/nightwatch-chrome-recorder](https://github.com/nightwatchjs/nightwatch-chrome-recorder) - Generate Nightwatch Tests from Google Chrome DevTools Recorder
 - [microcks/microcks-testcontainers-node](https://github.com/microcks/microcks-testcontainers-node) - Node/TypeScript lib for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instance thanks to containers.
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web scraper that's nearly impossible to block - now called @ulixee/hero
-- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。（v10 版本已发布）
+- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。
 - [hdorgeval/playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API around playwright
 - [bamlab/flashlight](https://github.com/bamlab/flashlight) - 📱⚡️ Lighthouse for Mobile - audits your app and gives a performance score to your Android apps (native, React Native, Flutter..). Measure performance on CLI, E2E tests, CI...
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
