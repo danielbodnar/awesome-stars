@@ -235,6 +235,7 @@
 - [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
 - [huggingface/neuralcoref](https://github.com/huggingface/neuralcoref) - ✨Fast Coreference Resolution in spaCy with Neural Networks
 - [pmem/syscall_intercept](https://github.com/pmem/syscall_intercept) - The system call intercepting library
+- [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [iqiyi/qnsm](https://github.com/iqiyi/qnsm) - QNSM is network security monitoring framework based on DPDK.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
@@ -455,7 +456,6 @@
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - :books: Library of all kind of scripts, snippets & shaders for Unity
 - [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels) - Dev Tunnels SDK
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [Redocly/openapi-starter](https://github.com/Redocly/openapi-starter) - OpenAPI starter repository
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
@@ -1569,7 +1569,7 @@
 - [cruise-automation/k-rail](https://github.com/cruise-automation/k-rail) - Kubernetes security tool for policy enforcement
 - [stakpak/devx](https://github.com/stakpak/devx) - A tool for generating, validating & sharing all your configurations, powered by CUE. Works with Kubernetes, Terraform, Compose, GitHub actions and much more...
 - [aserto-dev/topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs
-- [raystack/frontier](https://github.com/raystack/frontier) - Frontier is an all-in-one user management platform that provides identity, access and billing management to help organizations secure their systems and data.
+- [raystack/frontier](https://github.com/raystack/frontier) - Frontier is an all-in-one user management platform that provides identity, access and billing management to help organizations secure their systems and data. (Open source alternative to Clerk)
 - [Appliscale/perun](https://github.com/Appliscale/perun) - A command-line validation tool for AWS Cloud Formation that allows to conquer the cloud faster!
 - [banzaicloud/pke](https://github.com/banzaicloud/pke) - PKE is an extremely simple CNCF certified Kubernetes installer and distribution, designed to work on any cloud, VM or bare metal.
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
@@ -2374,7 +2374,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [vdemeester/docker-volume-ipfs](https://github.com/vdemeester/docker-volume-ipfs) - 🐳 This is an open source volume plugin that allows using an ipfs filesystem as a volume.
 - [chrissnell/chickenlittle](https://github.com/chrissnell/chickenlittle) - A RESTful service to get ahold of people, quickly.
-- [micro/micro](https://github.com/micro/micro) - API first development platform
+- [micro/micro](https://github.com/micro/micro) - A Go API development platform
 - [ledisdb/ledisdb](https://github.com/ledisdb/ledisdb) - A high performance NoSQL Database Server powered by Go
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
@@ -3060,7 +3060,6 @@
 - [cloudflare/json-schema-tools](https://github.com/cloudflare/json-schema-tools) - Packages for working with JSON Schema and JSON Hyper-Schema
 - [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation
 - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1
-- [nearform/openapi-transformer-toolkit](https://github.com/nearform/openapi-transformer-toolkit) - Automate design-first API workflows by generating schemas and types from OpenAPI specs.
 - [lirantal/lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint an npm or yarn lockfile to analyze and detect security issues
 - [PaddlePaddle/Paddle.js](https://github.com/PaddlePaddle/Paddle.js) - Paddle.js is a web project for Baidu PaddlePaddle, which is an open source deep learning framework running in the browser. Paddle.js can either load a pre-trained model, or transforming a model from p
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -3534,7 +3533,7 @@
 - [shadcn/gatsby-themes](https://github.com/shadcn/gatsby-themes) - A collection of open source, well designed, highly customizable and 100% free Gatsby themes for blazing fast sites. We are working on the next version of the Flex theme. See https://github.com/reflexj
 - [p3ol/oak](https://github.com/p3ol/oak) - 🌳  Modern, lightweight & modulable page builder
 - [pilotpirxie/visual-editor](https://github.com/pilotpirxie/visual-editor) - 🏗 Website editor built with React. Make a modern website in seconds with predefined blocks and drag and drop.
-- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
+- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [eclipse/streamsheets](https://github.com/eclipse/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
 - [kuwala-io/kuwala](https://github.com/kuwala-io/kuwala) - Kuwala is the no-code data platform for BI analysts and engineers enabling you to build powerful analytics workflows. We are set out to bring state-of-the-art data engineering tools you love, such as 
 - [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, 
@@ -4847,6 +4846,7 @@
 - [visualon/docker-buildpack](https://github.com/visualon/docker-buildpack) - Docker base image
 - [Pwd9000-ML/docker-github-runner-linux](https://github.com/Pwd9000-ML/docker-github-runner-linux) - Repository for building a self hosted GitHub runner as a ubuntu linux container
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) - Jenkins agent (base image) and inbound agent Docker images
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
 - [JohnEricson/dotfiles](https://github.com/JohnEricson/dotfiles) - Personal config files for Bash, Windows PowerShell, PowerShell Core and Vim/Neovim. Works on Linux/Windows/WSL/Cygwin/Git Bash/VS Code Remote - Containers. Good cross platform configuration that works
 - [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
@@ -5274,6 +5274,7 @@
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
+- [vyos/vyos-build](https://github.com/vyos/vyos-build) - VyOS image build scripts
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [mahmoud/glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
@@ -6104,7 +6105,7 @@
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one chat and copilot CLI that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen, Moonshot...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat & Copilot that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen...
 - [matthewwoodruff/sdoc](https://github.com/matthewwoodruff/sdoc) - Framework for building custom CLIs around shell, scripts, and executables
 - [woelper/oculante](https://github.com/woelper/oculante) - A minimalistic crossplatform image viewer written in rust
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
@@ -6168,7 +6169,7 @@
 - [deislabs/spiderlightning](https://github.com/deislabs/spiderlightning) - A set of WIT definitions and associated implementations to enable app developers to work at a faster pace and require less knowledge of the environment in which they are executing.
 - [BiagioFesta/wtransport](https://github.com/BiagioFesta/wtransport) - Async-friendly WebTransport implementation in Rust
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
@@ -7055,7 +7056,6 @@
 - [DannyBen/alf](https://github.com/DannyBen/alf) - Bash Alias Generator and Manager
 - [DannyBen/opcode](https://github.com/DannyBen/opcode) - Local Command Shortcuts
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
-- [vyos/vyos-build](https://github.com/vyos/vyos-build) - VyOS image build scripts
 - [Nordic-MVP-GitOps-Repos/hypersonic-lightweight-cp4i](https://github.com/Nordic-MVP-GitOps-Repos/hypersonic-lightweight-cp4i) - 
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
@@ -7074,7 +7074,6 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [pirovc/genome_updater](https://github.com/pirovc/genome_updater) - Bash script to download/update snapshots of files from NCBI genomes repository (refseq/genbank) with track of changes and without redundancy
-- [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [kairos-io/packages](https://github.com/kairos-io/packages) - :whale: Cross-distribution packages as standalone OCI images
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) - Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft (Azure), Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
@@ -7830,6 +7829,7 @@
 - [hyperjump-io/browser](https://github.com/hyperjump-io/browser) - A generic hypermedia client for JSON Reference
 - [sagold/json-schema-library](https://github.com/sagold/json-schema-library) - Customizable and hackable json-validator and json-schema utilities for traversal, data generation and validation
 - [borjapazr/express-typescript-skeleton](https://github.com/borjapazr/express-typescript-skeleton) - 🔰🦸 Template to start developing a REST API with Node.js (Express), TypeScript, Ts.ED, ESLint, Prettier, Husky, Prisma, etc.
+- [nearform/openapi-transformer-toolkit](https://github.com/nearform/openapi-transformer-toolkit) - Automate design-first API workflows by generating schemas and types from OpenAPI specs.
 - [touchifyapp/spec2ts](https://github.com/touchifyapp/spec2ts) - Utilies to convert specifications (JSON Schemas and Open API) to Typescript using TypeScript native compiler
 - [ajv-validator/ajv-cli](https://github.com/ajv-validator/ajv-cli) - Command-line interface for Ajv JSON Validator
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
@@ -8000,7 +8000,7 @@
 - [nightwatchjs/nightwatch-chrome-recorder](https://github.com/nightwatchjs/nightwatch-chrome-recorder) - Generate Nightwatch Tests from Google Chrome DevTools Recorder
 - [microcks/microcks-testcontainers-node](https://github.com/microcks/microcks-testcontainers-node) - Node/TypeScript lib for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instance thanks to containers.
 - [ulixee/secret-agent](https://github.com/ulixee/secret-agent) - The web scraper that's nearly impossible to block - now called @ulixee/hero
-- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - x-crawl is a flexible Node.js AI-assisted crawler library. Making crawler work more efficient, intelligent and convenient. ------ x-crawl 是一个灵活的 Node.js AI 辅助爬虫库。使爬虫工作变得更加高效、智能和便捷。
+- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl) - Flexible Node.js AI-assisted crawler library
 - [hdorgeval/playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Fluent API around playwright
 - [bamlab/flashlight](https://github.com/bamlab/flashlight) - 📱⚡️ Lighthouse for Mobile - audits your app and gives a performance score to your Android apps (native, React Native, Flutter..). Measure performance on CLI, E2E tests, CI...
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
@@ -8177,7 +8177,7 @@
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [alibaba/pipcook](https://github.com/alibaba/pipcook) - Machine learning platform for Web developers
 - [garronej/tsafe](https://github.com/garronej/tsafe) - 🔩 The missing TypeScript utils
-- [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
+- [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [badbatch/zod-config-builder](https://github.com/badbatch/zod-config-builder) - Build configs with type safety from zod schema.
 - [seasonedcc/domain-functions](https://github.com/seasonedcc/domain-functions) - Decouple your business logic from your framework. With first-class type inference from end to end.
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
@@ -8404,7 +8404,7 @@
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
@@ -8569,7 +8569,7 @@
 - [Elderjs/elderjs](https://github.com/Elderjs/elderjs) - Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
-- [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
+- [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [f13end/tradingview-custom-indicators](https://github.com/f13end/tradingview-custom-indicators) - An awesome collection of the various technical indicators implemented in Pine Script Language.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [cinar/indicatorts](https://github.com/cinar/indicatorts) - IndicatorTS - Stock technical indicators and strategies in TypeScript for browser and server programs.
@@ -8637,7 +8637,7 @@
 - [slicknode/slicknode](https://github.com/slicknode/slicknode) - GraphQL Backend, Gateway, and Headless CMS for creating custom backends and digital products with content management.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
