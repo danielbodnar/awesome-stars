@@ -67,6 +67,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
+- [Metal](#metal)
 - [Mustache](#mustache)
 - [Nextflow](#nextflow)
 - [Nim](#nim)
@@ -510,7 +511,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) - Stay happy while offline | World's first offline search engine.
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like search, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed fil
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pa
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
@@ -526,7 +527,7 @@
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [sogou/srpc](https://github.com/sogou/srpc) - RPC framework based on C++ Workflow. Supports SRPC, Baidu bRPC, Tencent tRPC, thrift protocols.
 - [the-hyp0cr1t3/CC](https://github.com/the-hyp0cr1t3/CC) - Everything competitive programming related - introductory guide, topics/concepts, practice problems, snippets & templates, tips & tricks and more.
-- [janhq/nitro](https://github.com/janhq/nitro) - An inference server on top of llama.cpp. OpenAI-compatible API, queue, & scaling. Embed a prod-ready, local inference engine in your apps. Powers Jan
+- [janhq/cortex](https://github.com/janhq/cortex) - Drop-in, local AI alternative to the OpenAI stack. Multi-engine (llama.cpp, TensorRT-LLM). Powers 👋 Jan
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [adishavit/argh](https://github.com/adishavit/argh) - Argh! A minimalist argument handler.
@@ -691,7 +692,7 @@
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [securesocketfunneling/ssf](https://github.com/securesocketfunneling/ssf) - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform
 - [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) - A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
-- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming langu
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
 - [dchapyshev/aspia](https://github.com/dchapyshev/aspia) - Remote desktop and file transfer tool.
 - [reverbrain/elliptics](https://github.com/reverbrain/elliptics) - Distributed storage for medium and large objects with streaming support
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
@@ -1512,7 +1513,7 @@
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [schemahero/schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [hotaruswarm/dagu](https://github.com/hotaruswarm/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
 - [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps.
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
@@ -2232,7 +2233,7 @@
 - [sensu/sensu-go](https://github.com/sensu/sensu-go) - Simple. Scalable. Multi-cloud monitoring.
 - [google/cloudprober](https://github.com/google/cloudprober) - [Moved to cloudprober/cloudprober] An active monitoring software to detect failures before your customers do.
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [rancher/lb-controller](https://github.com/rancher/lb-controller) - Load Balancer for Rancher services via ingress controllers backed up by a Load Balancer provider of choice
 - [cloudworkz/kube-eagle](https://github.com/cloudworkz/kube-eagle) - A prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster.
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
@@ -2468,7 +2469,6 @@
 
 ## HTML 
 
-- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [binbashar/awesome-compose](https://github.com/binbashar/awesome-compose) - Awesome Docker Compose samples
 - [hold-baby/bookmark-file-parser](https://github.com/hold-baby/bookmark-file-parser) - Parse Firefox/Chrome/IE/Safari HTML bookmarks files
@@ -2675,6 +2675,7 @@
 
 ## Java 
 
+- [jenkinsci/branch-api-plugin](https://github.com/jenkinsci/branch-api-plugin) - 
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生数智运维平台
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
@@ -3396,7 +3397,6 @@
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [projectfluent/fluent](https://github.com/projectfluent/fluent) - Fluent — planning, spec and documentation
-- [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [Netflix-Skunkworks/stethoscope-app](https://github.com/Netflix-Skunkworks/stethoscope-app) - A desktop application that checks security-related settings and makes recommendations for improvements without requiring central device management or automated reporting.
 - [alibaba/anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and Adguard
@@ -4118,7 +4118,6 @@
 - [rosineygp/mkdkr_commitlint](https://github.com/rosineygp/mkdkr_commitlint) - Verify commit message using https://commitlint.js.org
 - [TheNetAdmin/Makefile-Templates](https://github.com/TheNetAdmin/Makefile-Templates) - Makefile templates for different sized projects
 - [ianstormtaylor/makefile-help](https://github.com/ianstormtaylor/makefile-help) - An easy way to add a `make help` target to your Makefiles.
-- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 - [clemedon/Makefile_tutor](https://github.com/clemedon/Makefile_tutor) - This project aims to create a crystal clear tutorial on a cryptic looking topic.
 - [clvx/k8s-rbac-model](https://github.com/clvx/k8s-rbac-model) - A multi tenant and multi project RBAC model implementation in Kubernetes
 - [enspirit/makefile-for-monorepos](https://github.com/enspirit/makefile-for-monorepos) - A flexible and extensible makefile for monorepos with  docker/docker-compose.
@@ -4171,6 +4170,10 @@
 ## Mathematica 
 
 - [Azure/CCOInsights](https://github.com/Azure/CCOInsights) - Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repository you will find all the guidance and files needed to deploy the Dashboard in your environment to take b
+
+## Metal 
+
+- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
 
 ## Mustache 
 
@@ -4838,6 +4841,7 @@
 
 ## PowerShell 
 
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.
 - [AliyunContainerService/k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。
 - [d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet) - Collection of reverse shells for red team operations.
@@ -4890,6 +4894,7 @@
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [disintar/ton-k8s](https://github.com/disintar/ton-k8s) - Easy to setup production ready infrastructure for TON network via compose / kubernetes
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
@@ -4984,7 +4989,7 @@
 - [safevideo/autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
 - [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create 🦜️🔗 LangChain apps by just using prompts🌟 Star to support our work! | 只需使用句子即可创建 LangChain 应用程序。 给个star支持我们的工作吧！
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
-- [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
+- [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 - [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -6932,7 +6937,7 @@
 - [ssbostan/jenkins-stack-kubernetes](https://github.com/ssbostan/jenkins-stack-kubernetes) - Scripts and manifests to deploy complete Jenkins on Kubernetes
 - [jenkinsci/jenkinsfile-runner-github-actions](https://github.com/jenkinsci/jenkinsfile-runner-github-actions) - Jenkins single-shot pipeline execution in a GitHub Action POC
 - [zebrunner/community-edition](https://github.com/zebrunner/community-edition) - Zebrunner is a Test Automation Management Tool
-- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, 
+- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, 
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
@@ -7054,7 +7059,7 @@
 - [DannyBen/alf](https://github.com/DannyBen/alf) - Bash Alias Generator and Manager
 - [DannyBen/opcode](https://github.com/DannyBen/opcode) - Local Command Shortcuts
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
-- [Nordic-MVP-GitOps-Repos/hypersonic-lightweight-cp4i](https://github.com/Nordic-MVP-GitOps-Repos/hypersonic-lightweight-cp4i) - 
+- [Nordic-MVP-GitOps-Repos/hypersonic-lightweight-cp4i](https://github.com/Nordic-MVP-GitOps-Repos/hypersonic-lightweight-cp4i) - GitOps resources for IBM Cloud Pak for Integration
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
 - [EmreOvunc/Linux-System-Management-Scripts-Tricks](https://github.com/EmreOvunc/Linux-System-Management-Scripts-Tricks) - Linux Security & Linux Hardening & Linux Management & Linux Configuration
@@ -7678,7 +7683,7 @@
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator for ⚡️Vite
 - [itgalaxy/webfont](https://github.com/itgalaxy/webfont) - Awesome generator of webfont
-- [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
+- [baptadn/photoshot](https://github.com/baptadn/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [SitePen/dts-generator](https://github.com/SitePen/dts-generator) - Generates a single .d.ts bundle containing external module declarations exported from TypeScript module files.
 - [all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper) - AI Wallpaper Generator
@@ -8215,7 +8220,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
-- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -8408,6 +8413,7 @@
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [churichard/notabase](https://github.com/churichard/notabase) - A second brain for your knowledge, thoughts, and ideas.
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
+- [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [open-source-labs/Spearmint](https://github.com/open-source-labs/Spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
@@ -8424,7 +8430,7 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [vincentdchan/CubyText](https://github.com/vincentdchan/CubyText) - An open-source knowledge management app.
-- [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with Typescript/Python/WASM, no matter where and how your (legacy) systems are.
+- [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM/Typescript/Python, no matter where and how your (legacy) systems are.
 - [olliswe/iamworkingonit-cli](https://github.com/olliswe/iamworkingonit-cli) - 👨🏽‍💻👩🏾‍💻 🧑🏻‍💻 Let your colleagues know what your working on - without leaving your terminal!
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications. 0 external dependencies.
@@ -8464,7 +8470,7 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure cloud runtime for AI apps & AI agents. Fully open-source.
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 - [windingwind/zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) - Action it, tag it, sorted.
