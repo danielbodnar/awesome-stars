@@ -1011,6 +1011,8 @@
 
 ## Go 
 
+- [kubernetes-sigs/cli-experimental](https://github.com/kubernetes-sigs/cli-experimental) - Experimental Kubectl libraries and commands.
+- [kubernetes-sigs/cli-utils](https://github.com/kubernetes-sigs/cli-utils) - This repo contains binaries that built from libraries in cli-runtime.
 - [projectsveltos/addon-controller](https://github.com/projectsveltos/addon-controller) - Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in
 - [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
 - [anjia0532/gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) - all of the gcr.io docker image mirror
@@ -1371,7 +1373,7 @@
 - [kubecfg/kubecfg](https://github.com/kubecfg/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Auth and User Management for the passkey era. An open source alternative to Auth0 and Clerk.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - An open source Authentication and User Management platform for B2B and B2C.
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [the4thamigo-uk/conflate](https://github.com/the4thamigo-uk/conflate) - Library providing routines to merge and validate JSON, YAML and/or TOML files
@@ -6346,7 +6348,7 @@
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Cloud-native SQL stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. PostgreSQL simplicity, unrivaled performance, and seamless elasticity. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
