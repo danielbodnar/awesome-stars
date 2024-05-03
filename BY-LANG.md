@@ -1016,6 +1016,7 @@
 
 ## Go 
 
+- [metal3d/katenary](https://github.com/metal3d/katenary) - Convert docker and podamn compose to a configurable helm chart
 - [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
 - [oduwsdl/MemGator](https://github.com/oduwsdl/MemGator) - A Memento Aggregator CLI and Server in Go
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file 
@@ -1317,6 +1318,7 @@
 - [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
 - [matryer/silk](https://github.com/matryer/silk) - Markdown based document-driven RESTful API testing.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
 - [acorn-io/cmd](https://github.com/acorn-io/cmd) - Simple Cobra CLI Wrapper
@@ -1384,7 +1386,7 @@
 - [kubecfg/kubecfg](https://github.com/kubecfg/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - An open source Authentication and User Management platform for B2B and B2C.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open Source Authentication and User Management Platform with Passkey Superpowers.
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [the4thamigo-uk/conflate](https://github.com/the4thamigo-uk/conflate) - Library providing routines to merge and validate JSON, YAML and/or TOML files
@@ -1425,6 +1427,7 @@
 - [alash3al/srchx](https://github.com/alash3al/srchx) - A standalone lightweight full-text search engine built on top of blevesearch and Go with multiple storage (scorch, boltdb, leveldb, badger)
 - [gomlx/tokenizers](https://github.com/gomlx/tokenizers) - Tokenizers for Language Models - Go API for HuggingFace Tokenizers
 - [stateful/runme](https://github.com/stateful/runme) - DevOps Workflows Built with Markdown
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [contentful-labs/terraform-diff](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
@@ -2421,6 +2424,7 @@
 
 ## Groovy 
 
+- [folio-org/jenkins-pipeline-libs](https://github.com/folio-org/jenkins-pipeline-libs) - Shared library for Jenkins Pipeline
 - [bmustiata/jenny](https://github.com/bmustiata/jenny) - Command line Jenkinsfile runner written in groovy. Does not need a Jenkins installation to run the Jenkinsfile.
 - [siministry/jenkins-pipeline](https://github.com/siministry/jenkins-pipeline) - A set of useful Jenkins Pipeline methods implemented by some example flows.
 - [ruben-nieva/jenkins-pipeline](https://github.com/ruben-nieva/jenkins-pipeline) - A set of useful Jenkins Pipeline methods implemented by some example flows.
@@ -2453,6 +2457,7 @@
 
 ## HCL 
 
+- [ibudasov/hydra](https://github.com/ibudasov/hydra) - A containerized app with Redis dependency, wrapped in docker-compose, orchestrated with Kubernetes, monitored with Prometheus and Grafana, deployed in GKE with Github Actions. Provisioned with Terrafo
 - [cloudposse/terraform-aws-security-group](https://github.com/cloudposse/terraform-aws-security-group) - Terraform module to provision an AWS Security Group
 - [btkrausen/hashicorp](https://github.com/btkrausen/hashicorp) - Random code for HashiCorp related projects, training, etc.
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
@@ -2810,6 +2815,10 @@
 
 ## JavaScript 
 
+- [digitalroute/cz-conventional-changelog-for-jira](https://github.com/digitalroute/cz-conventional-changelog-for-jira) - A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
+- [commitizen/cz-jira-smart-commit](https://github.com/commitizen/cz-jira-smart-commit) - A commitizen adapter for Jira Smart Commits
+- [jonschlinkert/data-store](https://github.com/jonschlinkert/data-store) - Easily get, set and persist config data. Fast. Supports dot-notation in keys. No dependencies.
+- [motdotla/dotenv-expand](https://github.com/motdotla/dotenv-expand) - Variable expansion for dotenv. Expand variables already on your machine for use in your .env file.
 - [pnpm/npm-conf](https://github.com/pnpm/npm-conf) - Get the npm config
 - [ImmoweltGroup/find-config-up](https://github.com/ImmoweltGroup/find-config-up) - Resolve your packages configuration from a .*rc or package.json file with a given property up the file-tree.
 - [zerodevx/zero-md](https://github.com/zerodevx/zero-md) - Ridiculously simple zero-config markdown displayer
@@ -4018,6 +4027,7 @@
 
 ## Jupyter Notebook 
 
+- [Vivek-Murali/Docker-Compose---Helm-Charts](https://github.com/Vivek-Murali/Docker-Compose---Helm-Charts) - 
 - [Canner/vulcan-sql-examples](https://github.com/Canner/vulcan-sql-examples) - Curated VulcanSQL show cases
 - [commoncrawl/cc-notebooks](https://github.com/commoncrawl/cc-notebooks) - Various Jupyter notebooks about Common Crawl data
 - [DerwenAI/kglab](https://github.com/DerwenAI/kglab) - Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython,
@@ -4230,7 +4240,7 @@
 
 - [opensearch-project/helm-charts](https://github.com/opensearch-project/helm-charts) - :wheel_of_dharma: A community repository for Helm Charts of OpenSearch Project.
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 - [netdata/helmchart](https://github.com/netdata/helmchart) - Helm chart for kubernetes deployments
 - [banzaicloud/banzai-charts](https://github.com/banzaicloud/banzai-charts) - Curated list of Banzai Cloud Helm charts used by the Pipeline Platform
 
@@ -5287,7 +5297,7 @@
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [franciscozorrilla/metaGEM](https://github.com/franciscozorrilla/metaGEM) - :gem: An easy-to-use workflow for generating context specific genome-scale metabolic models and predicting metabolic interactions within microbial communities directly from metagenomic data
 - [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code platform to build LLM Agents, workflows and applications with your data
-- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Building persistent LLM agents with long-term memory 📚🦙
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
 - [yazdipour/OmnivoreX](https://github.com/yazdipour/OmnivoreX) - Omnivore TUI Terminal Client [Windows - MacOS - Linux]
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
 - [aazizisoufiane/llm-auto-labeler](https://github.com/aazizisoufiane/llm-auto-labeler) - An automated text labeling tool that employs multiple Language Model Mediators (LLMs) to assess, label, and justify text data, reducing the need for time-consuming human intervention
@@ -5488,7 +5498,7 @@
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
-- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [ra1nb0rn/avain](https://github.com/ra1nb0rn/avain) - A Modular Framework for the Automated Vulnerability Analysis in IP-based Networks
 - [idaholab/Malcolm](https://github.com/idaholab/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 - [medbenali/CyberScan](https://github.com/medbenali/CyberScan) - CyberScan: Network's Forensics ToolKit
@@ -5921,6 +5931,7 @@
 
 ## Ruby 
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [coinbase/terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
 - [ecosyste-ms/repos](https://github.com/ecosyste-ms/repos) - An open API service providing repository metadata for many open source software ecosystems.
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
@@ -6333,7 +6344,7 @@
 - [novus-package-manager/novus](https://github.com/novus-package-manager/novus) - A blazingly fast and efficient package manager for windows.
 - [steven-omaha/pacdef](https://github.com/steven-omaha/pacdef) - multi-backend declarative package manager for Linux
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
-- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [orogene/orogene](https://github.com/orogene/orogene) - Makes `node_modules/` happen. Fast. No fuss.
@@ -6782,6 +6793,8 @@
 
 ## Shell 
 
+- [jtcressy/KubeConfigs](https://github.com/jtcressy/KubeConfigs) - 
+- [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [homeinfra-org/infra](https://github.com/homeinfra-org/infra) - Homeinfra offers a strong, dependable, and easily replicable configuration for your homelab, incorporating vital elements like HTTPS, NAT traversal, Security, CI/CD pipelines, Cronjobs, DDNS, Docker m
@@ -7204,7 +7217,7 @@
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
 - [Madic-/Sway-DE](https://github.com/Madic-/Sway-DE) - 🏠 Sway desktop environment dotfile installation for Arch Linux
 - [azlux/log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [andybug/thinkorswim-container](https://github.com/andybug/thinkorswim-container) - A containerized environment for thinkorswim by TD Ameritrade
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
@@ -7431,6 +7444,7 @@
 
 ## Smarty 
 
+- [erdemdoganayy/docker-compose-helm-chart](https://github.com/erdemdoganayy/docker-compose-helm-chart) - 
 - [lrvl/backstage-helm-chart](https://github.com/lrvl/backstage-helm-chart) - 
 - [rancher/charts](https://github.com/rancher/charts) - Github based Helm Chart Index Repository providing charts crafted for Rancher Manager
 - [TouchInstinct/charts](https://github.com/TouchInstinct/charts) - 
@@ -7521,6 +7535,9 @@
 
 ## TypeScript 
 
+- [EndemolShineGroup/cz-jira-smart-commit](https://github.com/EndemolShineGroup/cz-jira-smart-commit) - A Commitizen adapter for JIRA smart commits
+- [nestjs/config](https://github.com/nestjs/config) - Configuration module for Nest framework (node.js) 🍓
+- [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
 - [samchon/openapi](https://github.com/samchon/openapi) - Type safe OpenAPI definitions
 - [Nikaple/nest-typed-config](https://github.com/Nikaple/nest-typed-config) - Intuitive, type-safe configuration module for Nest framework ✨
 - [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
@@ -8150,7 +8167,6 @@
 - [skovhus/jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest https://github.com/facebook/jest 👾
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
 - [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [amannn/next-intl](https://github.com/amannn/next-intl) - Internationalization (i18n) for Next.js that gets out of your way. 🌐
 - [asyncapi/glee](https://github.com/asyncapi/glee) - Glee — The AsyncAPI framework that will make you smile again :)
 - [sibiraj-s/ngx-editor](https://github.com/sibiraj-s/ngx-editor) - 🖋️ Rich Text Editor for angular using ProseMirror
@@ -8336,7 +8352,6 @@
 - [kharvd/build-a-la-carte-ts](https://github.com/kharvd/build-a-la-carte-ts) - Build Systems à la carte in TypeScript
 - [RobinMalfait/event-source](https://github.com/RobinMalfait/event-source) - A node library for writing event sourced applications
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
