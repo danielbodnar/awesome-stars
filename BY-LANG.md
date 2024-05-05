@@ -1016,6 +1016,8 @@
 
 ## Go 
 
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [iamthen0ise/better-branch](https://github.com/iamthen0ise/better-branch) - Interactive CLI helper for creating git branches with JIRA Links and some text
 - [linka-cloud/d2vm](https://github.com/linka-cloud/d2vm) - Build Virtual Machine Image from Dockerfile or Docker image
 - [binwiederhier/pcopy](https://github.com/binwiederhier/pcopy) - pcopy is a temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
 - [abutaha/aws-es-proxy](https://github.com/abutaha/aws-es-proxy) - aws-es-proxy is a small web server application sitting between your HTTP client (browser, curl, etc...) and Amazon Elasticsearch service.
@@ -1121,7 +1123,7 @@
 - [alecthomas/kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [retr0h/gilt](https://github.com/retr0h/gilt) - A GIT layering tool.
@@ -2498,6 +2500,7 @@
 
 ## HTML 
 
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [juffalow/node-express-kubernetes-example](https://github.com/juffalow/node-express-kubernetes-example) - Simple NodeJS application to explain basic parts of Kubernetes.
 - [webrecorder/specs](https://github.com/webrecorder/specs) - Specifications developed and maintained by the Webrecorder community.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
@@ -2823,6 +2826,12 @@
 
 ## JavaScript 
 
+- [migassantos18/chrome-history-exporter](https://github.com/migassantos18/chrome-history-exporter) - Exports Google Chrome history to a CSV or JSON file over a specified period of time.
+- [openapi-contrib/openapi3-generator](https://github.com/openapi-contrib/openapi3-generator) - Use your API OpenAPI 3 definition to generate code, documentation, and literally anything you need.
+- [tobilg/api2html](https://github.com/tobilg/api2html) - A CLI tool to transform Swagger/OpenAPI/AsyncAPI docs to beautiful HTML pages via Shins/Widdershins.
+- [APIs-guru/awesome-openapi3](https://github.com/APIs-guru/awesome-openapi3) - 😎 A list of awesome projects related to OpenAPI 3.0.x, curated by the community
+- [Everduin94/flotes-docs](https://github.com/Everduin94/flotes-docs) - Documentation for https://flotes.app (Written with Astro & Starlight)
+- [DanielBodnar/better-commits](https://github.com/DanielBodnar/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [Depado/goploader](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant
 - [scottstanfield/markdown-to-json](https://github.com/scottstanfield/markdown-to-json) - 🕹️ Convert YAML front-matter in Markdown files to JSON. v0.5.1 is published on NPM. Current version is v0.6.0
 - [xojs/eslint-config-xo](https://github.com/xojs/eslint-config-xo) - ESLint shareable config for XO
@@ -2927,7 +2936,6 @@
 - [peterhil/spellbook](https://github.com/peterhil/spellbook) - Spellbook is a WebExtension to easily add new bookmarks to correct categories
 - [teddy-gustiaux/quick-bookmarking](https://github.com/teddy-gustiaux/quick-bookmarking) - WebExtension allowing you to quickly bookmark pages to a default bookmark location via a dedicated icon. Some optional advanced features are also available.
 - [1nfiniteloop/json-bookmarks](https://github.com/1nfiniteloop/json-bookmarks) - Browser extension for Mozilla Firefox and Chrome for importing and exporting bookmarks with a json file
-- [herrherrmann/omnivore-list-popup](https://github.com/herrherrmann/omnivore-list-popup) - Web extension for Firefox and Chrome that shows a popup with a list of your Omnivore articles to quickly open or archive (similar to the In My Pocket extension).
 - [mdyd-dev/pos-cli](https://github.com/mdyd-dev/pos-cli) - CLI for platformOS
 - [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [oldweb-today/shepherd-client](https://github.com/oldweb-today/shepherd-client) - 
@@ -3224,7 +3232,7 @@
 - [anyproto/any-ns](https://github.com/anyproto/any-ns) - Smart contracts/frontend for Any Naming System
 - [coderaiser/goldstein](https://github.com/coderaiser/goldstein) - JavaScript with no limits 🤫
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
-- [putoutjs/redput](https://github.com/putoutjs/redput) - 
+- [putoutjs/redput](https://github.com/putoutjs/redput) - CLI tool to download source of a rule and fixtures from 🐊Putout Editor and generate tests from it.
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [nodejs/citgm](https://github.com/nodejs/citgm) - Canary in the Gold Mine
 - [prprprus/softest](https://github.com/prprprus/softest) - Recording Browser Interactions And Generating Test Scripts.
@@ -4334,6 +4342,8 @@
 
 ## Others 
 
+- [command-line-interface-pages/cli-pages](https://github.com/command-line-interface-pages/cli-pages) - Command Line Interface (CLI) pages
+- [RehanSaeed/Bash-Cheat-Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - A cheat sheet for bash commands.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [ahadb/flat-file-cms](https://github.com/ahadb/flat-file-cms) - :open_file_folder: :page_with_curl: A list of strictly flat-file cms systems
@@ -4845,6 +4855,7 @@
 
 ## PHP 
 
+- [cebe/yii2-openapi](https://github.com/cebe/yii2-openapi) - REST API application generator for Yii2, openapi 3.0 YAML -&gt; Yii2
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [Tuhinshubhra/RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK) - All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers
 - [nette/schema](https://github.com/nette/schema) - 📐 Validating data structures against a given Schema.
@@ -4984,6 +4995,7 @@
 
 ## Python 
 
+- [Fatal1ty/openapify](https://github.com/Fatal1ty/openapify) - Framework agnostic OpenAPI Specification generation for code lovers
 - [irsl/curlshell](https://github.com/irsl/curlshell) - reverse shell using curl
 - [okigan/awscurl](https://github.com/okigan/awscurl) - curl-like access to AWS resources with AWS Signature Version 4 request signing.
 - [jullrich/pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
@@ -6050,6 +6062,7 @@
 
 ## Rust 
 
+- [spyglass-search/lens-box](https://github.com/spyglass-search/lens-box) - Directory of lenses for Spyglass (https://github.com/spyglass-search/spyglass)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [al8n/skipdb](https://github.com/al8n/skipdb) - An embedded, in-memory, zero-copy, atomicity, consistency, isolation, MVCC, almost lock-free and serializable snapshot isolation database engine.
@@ -6772,6 +6785,7 @@
 
 ## SCSS 
 
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
 - [johnbedeir/Devops-Tools-Documentation](https://github.com/johnbedeir/Devops-Tools-Documentation) - This Repository contains DevOps Projects and Tools Documentation step by step practice
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
@@ -6824,6 +6838,14 @@
 
 ## Shell 
 
+- [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification
+- [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
+- [command-line-interface-pages/v2-tooling](https://github.com/command-line-interface-pages/v2-tooling) - Tools for handling v2.*.* syntax
+- [xshoji/bash-script-starter](https://github.com/xshoji/bash-script-starter) - ScriptStarter provides a means to generate a pretty template of bash script.
+- [oxyc/bash-boilerplate](https://github.com/oxyc/bash-boilerplate) - A simple starting point for bash scripts
+- [xwmx/search.sh](https://github.com/xwmx/search.sh) - A command line search multi-tool.
+- [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
+- [TrainingByPackt/Command-Line-Fundamentals](https://github.com/TrainingByPackt/Command-Line-Fundamentals) - Learn to use the Unix command-line tools and Bash shell scripting
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) - Use cURL with cookies from Chrome
 - [jtcressy/KubeConfigs](https://github.com/jtcressy/KubeConfigs) - 
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
@@ -6982,7 +7004,7 @@
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
 - [Xmetalfanx/firefoxSync](https://github.com/Xmetalfanx/firefoxSync) - scripts to backup and restore firefox profiles on different installs of Linux
 - [loadenmb/pppFox](https://github.com/loadenmb/pppFox) - Portable firefox & profile manager shell scripts which create & load firefox profiles with predefined proxy settings, useragent & mac address
-- [marcosgomesneto/bun-devcontainers](https://github.com/marcosgomesneto/bun-devcontainers) - Bun Runtime Template for DevContainers & Docker.
+- [marcosgomesneto/bun-devcontainers](https://github.com/marcosgomesneto/bun-devcontainers) - Bun Runtime Template for DevContainers & Docker. Bun Dev Container!
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [jocelynmallon/zshmarks](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (simple bookmarking plugin by Todd Werth) for oh-my-zsh
 - [bbugyi200/cookie](https://github.com/bbugyi200/cookie) - A Template-based File Generator. Like cookiecutter but works with file templates instead of project templates.
@@ -7567,6 +7589,19 @@
 
 ## TypeScript 
 
+- [sinclairzx81/typebox-codegen](https://github.com/sinclairzx81/typebox-codegen) - Code Generation for TypeBox Types
+- [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification
+- [foxel/openapi3-typescript-codegen](https://github.com/foxel/openapi3-typescript-codegen) - typescript codegen for OpenAPI 3
+- [serafin-labs/serafin](https://github.com/serafin-labs/serafin) - An API framework in Typescript/Node.js with OpenApi 3 & GraphQL
+- [Enalmada/env-valibot](https://github.com/Enalmada/env-valibot) - validate env variables with valibot
+- [perkinsjr/t3-app-clerk-minimal](https://github.com/perkinsjr/t3-app-clerk-minimal) - TRPC + CLERK - Move fast break nothing, secure everything
+- [d-ivashchuk/cascade](https://github.com/d-ivashchuk/cascade) - Best open-source SaaS boilerplate. Free, powerful & extendable.
+- [trpc/zart](https://github.com/trpc/zart) - 🤯  zART-stack — Zero-API, React [Native], & TypeScript
+- [accounts-js/accounts](https://github.com/accounts-js/accounts) - Fullstack authentication and accounts-management for Javascript.
+- [sachinraja/trpc-ultra](https://github.com/sachinraja/trpc-ultra) - tRPC + Ultra
+- [hacxy/cli-unbuild-template](https://github.com/hacxy/cli-unbuild-template) - CLI application development template using unbuild as a build tool.
+- [jaredLunde/zcli](https://github.com/jaredLunde/zcli) - A framework for building type-safe command-line tools using Zod validators in Deno
+- [tsirysndr/repl](https://github.com/tsirysndr/repl) - Simple extensible REPL Command Line Tool. With auto-complete, history and auto-install, no more `bash: cmd: command not found` 💻 🚀✨
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
 - [vite-pwa/sveltekit](https://github.com/vite-pwa/sveltekit) - Zero-config PWA Plugin for SvelteKit
 - [nuxt-modules/ionic](https://github.com/nuxt-modules/ionic) - Batteries-included, zero-config Ionic integration for Nuxt
@@ -7640,6 +7675,7 @@
 - [fardjad/node-interactive-commander](https://github.com/fardjad/node-interactive-commander) - Commander.js with integrated interactive prompts
 - [osmoscraft/fjord](https://github.com/osmoscraft/fjord) - Host-free RSS reader in your browser.
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
+- [herrherrmann/omnivore-list-popup](https://github.com/herrherrmann/omnivore-list-popup) - Web extension for Firefox and Chrome that shows a popup with a list of your Omnivore articles to quickly open or archive (similar to the In My Pocket extension).
 - [swve/gitstorykit](https://github.com/swve/gitstorykit) - Build rich git projects history discovery apps with ease, used by Gitstory
 - [webrecorder/replayweb.page](https://github.com/webrecorder/replayweb.page) - Serverless replay of web archives directly in the browser
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -7917,7 +7953,7 @@
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
-- [ambujraj/ByteShare](https://github.com/ambujraj/ByteShare) - Large file sharing app [Community Edition]
+- [innovencelabs/byteshare](https://github.com/innovencelabs/byteshare) - Large file sharing app [Community Edition]
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [xavimondev/supaplay](https://github.com/xavimondev/supaplay) - Supabase Launch Week 8 Hackathon - A playground to test and refine your JavaScript functions against your   PostgreSQL database.
 - [ogayanfe/websandbox](https://github.com/ogayanfe/websandbox) - An online frontend programming sandbox with integrated browser with live reloading built using react, react-dom, django and the webcontainer api
