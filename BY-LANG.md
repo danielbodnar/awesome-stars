@@ -115,6 +115,7 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vim Script](#vim-script)
+- [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
 - [WDL](#wdl)
 - [WebAssembly](#webassembly)
@@ -251,7 +252,7 @@
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
 - [projectacrn/acrn-hypervisor](https://github.com/projectacrn/acrn-hypervisor) - Project ACRN hypervisor
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android amd64/arm64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [openebs-archive/libcstor](https://github.com/openebs-archive/libcstor) - CAS Data Engine - Library to serve IOs on uZFS with synchronous replication, snapshots and clones
 - [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
@@ -509,6 +510,7 @@
 
 ## C++ 
 
+- [chenshuo/recipes](https://github.com/chenshuo/recipes) - Some code snippets for sharing
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -720,6 +722,7 @@
 
 ## CSS 
 
+- [check-m4te/codeebox](https://github.com/check-m4te/codeebox) - A super cool code playground! 50 themes and Monaco editor!
 - [ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan) - nodejsscan is a static security code scanner for Node.js applications.
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs
 - [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder) - Browser extension that allows to find and delete duplicate bookmarks.
@@ -1015,6 +1018,7 @@
 
 ## Go 
 
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [iamthen0ise/better-branch](https://github.com/iamthen0ise/better-branch) - Interactive CLI helper for creating git branches with JIRA Links and some text
 - [linka-cloud/d2vm](https://github.com/linka-cloud/d2vm) - Build Virtual Machine Image from Dockerfile or Docker image
@@ -2499,6 +2503,9 @@
 
 ## HTML 
 
+- [DevDungeon/Cookbook](https://github.com/DevDungeon/Cookbook) - Code snippets for various programming languages and libraries
+- [humphd/browser-shell](https://github.com/humphd/browser-shell) - A Linux command-line shell in the browser
+- [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [juffalow/node-express-kubernetes-example](https://github.com/juffalow/node-express-kubernetes-example) - Simple NodeJS application to explain basic parts of Kubernetes.
 - [webrecorder/specs](https://github.com/webrecorder/specs) - Specifications developed and maintained by the Webrecorder community.
@@ -2825,6 +2832,26 @@
 
 ## JavaScript 
 
+- [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community.
+- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+- [Darin755/browser-linux](https://github.com/Darin755/browser-linux) - Linux, in your browser
+- [filerjs/filer](https://github.com/filerjs/filer) - Node-like file system for browsers
+- [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
+- [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
+- [henryhale/livecode](https://github.com/henryhale/livecode) - ⚡️ Minimal code playground
+- [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) - Hand-crafted Frida examples
+- [SplitmediaLabsLimited/devctl](https://github.com/SplitmediaLabsLimited/devctl) - Easily start developing in monorepos with docker-compose
+- [bezkoder/docker-compose-nodejs-postgres](https://github.com/bezkoder/docker-compose-nodejs-postgres) - Dockerize Nodejs Express and postgres example - Nodejs connect Postgresql using Docker Compose
+- [edm00se/simple-docker-compose-node-redis-demo](https://github.com/edm00se/simple-docker-compose-node-redis-demo) - A simplistic docker-compose example, mirroring the one in the docker-compose docs, but with node instead of python.
+- [gkampitakis/docker-local-stack](https://github.com/gkampitakis/docker-local-stack) - A repo containing docker compose for running locally various services
+- [andreshincapier/docker-compose](https://github.com/andreshincapier/docker-compose) - Docker configurations
+- [iamwlb/docker-compose-collection](https://github.com/iamwlb/docker-compose-collection) - This repository collects docker-compose files for various Docker projects to quickly build Docker environments.
+- [jaebradley/fruit](https://github.com/jaebradley/fruit) - 🥝🍋🍐🍓🍊🍍 Automatically generate your rollup.js boilerplate  🍒🍈🍇🍉🍏🍎
+- [gulpjs/vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
+- [topeogunleye/Recipe-App-V2](https://github.com/topeogunleye/Recipe-App-V2) - Meal Finder app that pulls from TheMealDB API to allow users to search for and view recipes, or get random recipes. Built with React and Tailwind CSS.
+- [masudranashawon/foodverse](https://github.com/masudranashawon/foodverse) - Foodverse is a recipe web application, where a user can search for a variety of recipes and find the ingredients and quantities needed to make each recipe item. Also, favorite recipe items can be save
+- [rinormaloku/k8s-mastery](https://github.com/rinormaloku/k8s-mastery) - Repository for the article "Learn Kubernetes in Under 3 Hours"
+- [APIPatterns/typespec-demo](https://github.com/APIPatterns/typespec-demo) - Demo of TypeSpec
 - [migassantos18/chrome-history-exporter](https://github.com/migassantos18/chrome-history-exporter) - Exports Google Chrome history to a CSV or JSON file over a specified period of time.
 - [openapi-contrib/openapi3-generator](https://github.com/openapi-contrib/openapi3-generator) - Use your API OpenAPI 3 definition to generate code, documentation, and literally anything you need.
 - [tobilg/api2html](https://github.com/tobilg/api2html) - A CLI tool to transform Swagger/OpenAPI/AsyncAPI docs to beautiful HTML pages via Shins/Widdershins.
@@ -4057,6 +4084,7 @@
 
 ## Jupyter Notebook 
 
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - A powerful data & AI notebook templates catalog: prompts, plugins, models, workflow automation, analytics, code snippets - following the IMO framework to be searchable and reusable in any context.
 - [Vivek-Murali/Docker-Compose---Helm-Charts](https://github.com/Vivek-Murali/Docker-Compose---Helm-Charts) - 
 - [Canner/vulcan-sql-examples](https://github.com/Canner/vulcan-sql-examples) - Curated VulcanSQL show cases
 - [commoncrawl/cc-notebooks](https://github.com/commoncrawl/cc-notebooks) - Various Jupyter notebooks about Common Crawl data
@@ -4341,6 +4369,10 @@
 
 ## Others 
 
+- [cherkavi/cheat-sheet](https://github.com/cherkavi/cheat-sheet) - collection of cheat sheets
+- [ServiceNowDevProgram/Hacktoberfest](https://github.com/ServiceNowDevProgram/Hacktoberfest) - One repo to rule them all, one repo to find them, One repo to bring them all, and in the darkness bind them.
+- [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
+- [rollup/awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources
 - [command-line-interface-pages/cli-pages](https://github.com/command-line-interface-pages/cli-pages) - Command Line Interface (CLI) pages
 - [RehanSaeed/Bash-Cheat-Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - A cheat sheet for bash commands.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -4995,6 +5027,10 @@
 
 ## Python 
 
+- [benjamincburns/websockproxy](https://github.com/benjamincburns/websockproxy) - 
+- [canonical/discourse-k8s-operator](https://github.com/canonical/discourse-k8s-operator) - discourse-k8s-operator - charm repository.
+- [QwenLM/CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5) - CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Fatal1ty/openapify](https://github.com/Fatal1ty/openapify) - Framework agnostic OpenAPI Specification generation for code lovers
 - [irsl/curlshell](https://github.com/irsl/curlshell) - reverse shell using curl
 - [okigan/awscurl](https://github.com/okigan/awscurl) - curl-like access to AWS resources with AWS Signature Version 4 request signing.
@@ -6062,6 +6098,8 @@
 
 ## Rust 
 
+- [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
+- [oxidecomputer/helios-bash-completion](https://github.com/oxidecomputer/helios-bash-completion) - bash tab completion for Helios systems
 - [spyglass-search/lens-box](https://github.com/spyglass-search/lens-box) - Directory of lenses for Spyglass (https://github.com/spyglass-search/spyglass)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
@@ -6838,6 +6876,19 @@
 
 ## Shell 
 
+- [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
+- [Darin755/browser-buildroot](https://github.com/Darin755/browser-buildroot) - The Buildroot config for browser linux
+- [Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) - A collection of snippets of codes and commands to make your life easier!
+- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
+- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
+- [gardener/vpn2](https://github.com/gardener/vpn2) - Network connector between the control plane (deployed in a Seed cluster) and a Shoot cluster superseding the vpn repository.
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way!
+- [LumIT-Labs/open-securekos](https://github.com/LumIT-Labs/open-securekos) - Open Secure-K OS is an operating system booting from a USB key in which you can safely create and store your personal and private data.  It is a next generation live operating system following liveng 
+- [sandrokeil/yubikey-full-disk-encryption-secure-boot-uefi](https://github.com/sandrokeil/yubikey-full-disk-encryption-secure-boot-uefi) - Tutorial to create full disk encryption with YubiKey, encrypted boot partition and secure boot with UEFI
+- [agherzan/yubikey-full-disk-encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
 - [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [command-line-interface-pages/v2-tooling](https://github.com/command-line-interface-pages/v2-tooling) - Tools for handling v2.*.* syntax
@@ -7589,6 +7640,37 @@
 
 ## TypeScript 
 
+- [iam-rohid/code-to-img](https://github.com/iam-rohid/code-to-img) - Code to Image converter is a beautifully designed application that helps you generate beautiful and customizable images of your code snippets. This is built for the developer by the developer. If you 
+- [live-codes/livecodes](https://github.com/live-codes/livecodes) - Code Playground That Just Works!
+- [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
+- [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
+- [theanujdev/code-playground-backend](https://github.com/theanujdev/code-playground-backend) - Code Playground Backend server built with typescript, express, socket.io and mongoose(mongoDB).
+- [theanujdev/code-playground-frontend](https://github.com/theanujdev/code-playground-frontend) - Code Playground Frontend built with xternjs terminal and monoco editor.
+- [af/envalid](https://github.com/af/envalid) - Environment variable validation for Node.js
+- [LeoBakerHytch/ts-dotenv](https://github.com/LeoBakerHytch/ts-dotenv) - Strongly-typed environment variables for Node.js
+- [nestjsplus/config](https://github.com/nestjsplus/config) - Flexible, Docker-friendly, Dotenv-based Configuration Module for NestJS
+- [strong-config/node](https://github.com/strong-config/node) - 💪 Simple & Secure Config Management for Node.js 💪
+- [nestjsx/nestjs-config](https://github.com/nestjsx/nestjs-config) - Config module for nestjs using dotenv :key:
+- [luqmanoop/sync-dotenv](https://github.com/luqmanoop/sync-dotenv) - Keep your .env in sync with .env.example
+- [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers.
+- [PDMLab/docker-compose](https://github.com/PDMLab/docker-compose) - Manage Docker-Compose via Node.js
+- [jarvma18/app-docker-compose-template](https://github.com/jarvma18/app-docker-compose-template) - Ready template for dockerized application
+- [Trugamr/dabba](https://github.com/Trugamr/dabba) - Manage docker compose stacks with ease
+- [binoy638/express-typescript-boilerplate](https://github.com/binoy638/express-typescript-boilerplate) - 🚀 Boilerplate and Starter Express and TypeScript ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Docker + Docker-Compose + Jest
+- [KengoTODA/actions-setup-docker-compose](https://github.com/KengoTODA/actions-setup-docker-compose) - the GitHub Action setting up docker-compose command
+- [dohsimpson/docker2kube](https://github.com/dohsimpson/docker2kube) - TypeScript lib to convert docker-compose to kubernetes
+- [microsoft/compose-language-service](https://github.com/microsoft/compose-language-service) - Language service for Docker Compose documents
+- [smarlhens/nest-boilerplate](https://github.com/smarlhens/nest-boilerplate) - Nest.js boilerplate with CircleCI, Commitizen, Commitlint, Docker-Compose, ESLint, GitHub Actions, Husky, Lint-staged, OpenAPI, Prettier, PostGreSQL, TypeORM
+- [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
+- [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore
+- [bevry/envfile](https://github.com/bevry/envfile) - Parse and write environment files with Node.js
+- [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit) - A blog starter kit to use Hashnode as a Headless CMS using GraphQL APIs.
+- [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
+- [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
+- [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [sinclairzx81/typebox-codegen](https://github.com/sinclairzx81/typebox-codegen) - Code Generation for TypeBox Types
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification
 - [foxel/openapi3-typescript-codegen](https://github.com/foxel/openapi3-typescript-codegen) - typescript codegen for OpenAPI 3
@@ -8833,7 +8915,7 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -8885,6 +8967,7 @@
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Cloud Native packages
@@ -9043,6 +9126,10 @@
 - [yannh/openbsd_immutable_router](https://github.com/yannh/openbsd_immutable_router) - Packer/Ansible configuration for the automatic generation of an immutable OpenBSD image for a full router/firewall server
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 
+## Vim Snippet 
+
+- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
+
 ## Vue 
 
 - [LightAPIs/bookmark-url-batch-replacer](https://github.com/LightAPIs/bookmark-url-batch-replacer) - Batch replace bookmark URL.
@@ -9096,7 +9183,6 @@
 - [motla/vue-document-editor](https://github.com/motla/vue-document-editor) - :page_facing_up: Paper-sized WYSIWYG document editor for Vue apps
 - [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [budgetzero/budgetzero](https://github.com/budgetzero/budgetzero) - Open-source, self-hosted, zero-based budgeting.
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)
 - [DeimosC2/DeimosC2](https://github.com/DeimosC2/DeimosC2) - DeimosC2 is a Golang command and control framework for post-exploitation.
