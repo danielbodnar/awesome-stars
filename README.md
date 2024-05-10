@@ -567,6 +567,7 @@
 
 ## ai 
 
+- [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & "outside code in config". Kubernetes & edge
 - [Canner/vulcan-sql](https://github.com/Canner/vulcan-sql) - Data API Framework for AI Agents and Data Apps
 - [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution
@@ -650,7 +651,7 @@
 - [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Instant answers to any programming question
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
-- [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
+- [aircodelabs/documate](https://github.com/aircodelabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [enesozturk/json-data-ai-template](https://github.com/enesozturk/json-data-ai-template) - JSONDataAI.com template with Next.js 13 and Vercel AI SDK
@@ -1145,7 +1146,7 @@
 - [imRohan/Pantry](https://github.com/imRohan/Pantry) - 🍊  Free data storage as a service. Pantry allows devs to store JSON for multiple apps & users. A good resource when building personal projects, apps for hackathons, and prototypes alike.
 - [ladjs/lad](https://github.com/ladjs/lad) - Node.js framework made by a former @expressjs TC and @koajs team member. Built for @forwardemail, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
-- [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use tRPC-like server for Rust.
+- [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A framework for building typesafe web backends in Rust
 - [open-source-labs/Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, gRPC, and tRPC..
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
@@ -1979,6 +1980,7 @@
 
 ## aws 
 
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
 - [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [abutaha/aws-es-proxy](https://github.com/abutaha/aws-es-proxy) - aws-es-proxy is a small web server application sitting between your HTTP client (browser, curl, etc...) and Amazon Elasticsearch service.
 - [okigan/awscurl](https://github.com/okigan/awscurl) - curl-like access to AWS resources with AWS Signature Version 4 request signing.
@@ -2159,6 +2161,7 @@
 
 ## azure 
 
+- [weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools) - GitOps Visual Studio Code Extension
 - [microsoft/rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) - The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern.
 - [Azure/azure-devops-utils](https://github.com/Azure/azure-devops-utils) - Azure DevOps Utilities
 - [Pwd9000-ML/docker-github-runner-linux](https://github.com/Pwd9000-ML/docker-github-runner-linux) - Repository for building a self hosted GitHub runner as a ubuntu linux container
@@ -2280,6 +2283,7 @@
 
 ## bash 
 
+- [bytebutcher/bundler.sh](https://github.com/bytebutcher/bundler.sh) - Bundle multiple shell scripts into a single executable.
 - [xwmx/search.sh](https://github.com/xwmx/search.sh) - A command line search multi-tool.
 - [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -2761,6 +2765,7 @@
 
 ## browser 
 
+- [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [filerjs/filer](https://github.com/filerjs/filer) - Node-like file system for browsers
 - [humphd/browser-shell](https://github.com/humphd/browser-shell) - A Linux command-line shell in the browser
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
@@ -3202,7 +3207,7 @@
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
-- [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
+- [aircodelabs/documate](https://github.com/aircodelabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from ChatGPT right from your terminal
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
@@ -3242,6 +3247,7 @@
 
 ## cheatsheet 
 
+- [saviomartin/codehouse](https://github.com/saviomartin/codehouse) - A whole new world of 300+ developer cheatsheets
 - [cherkavi/cheat-sheet](https://github.com/cherkavi/cheat-sheet) - collection of cheat sheets
 - [d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet) - Collection of reverse shells for red team operations.
 - [ruanbekker/cheatsheets](https://github.com/ruanbekker/cheatsheets) - My Cheatsheet Repository
@@ -3270,6 +3276,7 @@
 
 ## cheatsheets 
 
+- [saviomartin/codehouse](https://github.com/saviomartin/codehouse) - A whole new world of 300+ developer cheatsheets
 - [cherkavi/cheat-sheet](https://github.com/cherkavi/cheat-sheet) - collection of cheat sheets
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
 - [r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets) - Collection of knowledge about information security
@@ -3458,6 +3465,8 @@
 
 ## cli 
 
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
+- [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
 - [jaebradley/fruit](https://github.com/jaebradley/fruit) - 🥝🍋🍐🍓🍊🍍 Automatically generate your rollup.js boilerplate  🍒🍈🍇🍉🍏🍎
 - [iamthen0ise/better-branch](https://github.com/iamthen0ise/better-branch) - Interactive CLI helper for creating git branches with JIRA Links and some text
 - [hacxy/cli-unbuild-template](https://github.com/hacxy/cli-unbuild-template) - CLI application development template using unbuild as a build tool.
@@ -3682,7 +3691,7 @@
 - [baloise/gitopscli](https://github.com/baloise/gitopscli) - GitOps CLI - a command line interface (CLI) to perform operations on git repositories with yaml files
 - [asyncapi/cli](https://github.com/asyncapi/cli) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [seriousme/openapi-schema-validator](https://github.com/seriousme/openapi-schema-validator) - OpenApi schema validation for OpenApi versions v2, v3.0.x and v3.1.x
 - [generate/generate](https://github.com/generate/generate) - A new command line tool and developer framework for scaffolding out GitHub projects. Generate offers the robustness and configurability of Yeoman, the expressiveness and simplicity of Slush, and more 
 - [boraelci/java-test-genie](https://github.com/boraelci/java-test-genie) - A command-line tool for AI-driven unit test generation
@@ -4489,6 +4498,7 @@
 
 ## code 
 
+- [saviomartin/codehouse](https://github.com/saviomartin/codehouse) - A whole new world of 300+ developer cheatsheets
 - [iam-rohid/code-to-img](https://github.com/iam-rohid/code-to-img) - Code to Image converter is a beautifully designed application that helps you generate beautiful and customizable images of your code snippets. This is built for the developer by the developer. If you 
 - [live-codes/livecodes](https://github.com/live-codes/livecodes) - Code Playground That Just Works!
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
@@ -5190,6 +5200,7 @@
 
 ## cpp 
 
+- [glideapps/quicktype-vscode](https://github.com/glideapps/quicktype-vscode) - VS Code extension to convert JSON to TypeScript, C#, Go, and many more
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [joakimbits/normalize](https://github.com/joakimbits/normalize) - Make Make more inclusive - build automatically and from anywhere
@@ -5385,6 +5396,7 @@
 
 ## csharp 
 
+- [glideapps/quicktype-vscode](https://github.com/glideapps/quicktype-vscode) - VS Code extension to convert JSON to TypeScript, C#, Go, and many more
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [JockDaRock/Time2Code](https://github.com/JockDaRock/Time2Code) - Portable Scalable web code editor to integrate into your sites and learning experiences
@@ -5410,6 +5422,7 @@
 
 ## css 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [Rohit19060/bookmark-store](https://github.com/Rohit19060/bookmark-store) - App for storing bookmarks temporary, it is utilizing Local Storage
 - [FernandoLins8/Tab-Groups-to-Bookmarks](https://github.com/FernandoLins8/Tab-Groups-to-Bookmarks) - A Chrome extension for managing and saving your tabs and tab groups.
@@ -6266,6 +6279,7 @@
 
 ## deno 
 
+- [mimiMonads/vixeny](https://github.com/mimiMonads/vixeny) - 🌐 Vixeny: At the forefront of modern web development, Vixeny stands as a runtime-independent, efficiency-driven library dedicated to upholding the principles of functional purity. It's crafted to empo
 - [jaredLunde/zcli](https://github.com/jaredLunde/zcli) - A framework for building type-safe command-line tools using Zod validators in Deno
 - [tsirysndr/repl](https://github.com/tsirysndr/repl) - Simple extensible REPL Command Line Tool. With auto-complete, history and auto-install, no more `bash: cmd: command not found` 💻 🚀✨
 - [wKovacs64/hibp](https://github.com/wKovacs64/hibp) - An unofficial TypeScript SDK for the 'Have I been pwned?' service.
@@ -6444,6 +6458,7 @@
 
 ## developer-tools 
 
+- [saviomartin/codehouse](https://github.com/saviomartin/codehouse) - A whole new world of 300+ developer cheatsheets
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [vsaravind007/nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs Code Snippets From Menubar! :computer:
@@ -6741,7 +6756,7 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
@@ -7564,7 +7579,7 @@
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
-- [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
+- [aircodelabs/documate](https://github.com/aircodelabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ✨ ultra-high-performance✨ static site generator that builds a website based on simple text files.
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
@@ -7667,7 +7682,7 @@
 
 ## ecommerce 
 
-- [blefnk/relivator](https://github.com/blefnk/relivator) - ⭐ Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS
+- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 14 Store, Landing, Admin, Dashboard ▲ i18n Stripe Shadcn Tailwind Drizzle Zod Trpc TypeScript Clerk NexAuth, Lucide CSS Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS 
 - [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
 - [aimeos/aimeos-headless](https://github.com/aimeos/aimeos-headless) - Aimeos cloud-native, API-first ecommerce headless distribution for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - [vtex/faststore](https://github.com/vtex/faststore) - Digital commerce toolkit for frontend developers
@@ -7974,6 +7989,7 @@
 
 ## emoji 
 
+- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - Gitmoji tool for git commit messages in VSCode
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [vivaxy/gacp](https://github.com/vivaxy/gacp) - 💬Git add, commit, push with Conventional Commits and Gitmoji.
 - [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji
@@ -8043,6 +8059,7 @@
 
 ## eslint 
 
+- [idahogurl/vs-code-prettier-eslint](https://github.com/idahogurl/vs-code-prettier-eslint) - A Visual Studio Code Extension to format JavaScript and TypeScript code using the prettier-eslint package.
 - [smarlhens/nest-boilerplate](https://github.com/smarlhens/nest-boilerplate) - Nest.js boilerplate with CircleCI, Commitizen, Commitlint, Docker-Compose, ESLint, GitHub Actions, Husky, Lint-staged, OpenAPI, Prettier, PostGreSQL, TypeORM
 - [xojs/eslint-config-xo](https://github.com/xojs/eslint-config-xo) - ESLint shareable config for XO
 - [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files
@@ -8685,6 +8702,7 @@
 
 ## game-development 
 
+- [NSSTC/sim-ecs](https://github.com/NSSTC/sim-ecs) - Batteries included TypeScript ECS
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -8692,6 +8710,7 @@
 
 ## game-engine 
 
+- [NSSTC/sim-ecs](https://github.com/NSSTC/sim-ecs) - Batteries included TypeScript ECS
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## gamedev 
@@ -8773,6 +8792,7 @@
 
 ## git 
 
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [iamthen0ise/better-branch](https://github.com/iamthen0ise/better-branch) - Interactive CLI helper for creating git branches with JIRA Links and some text
 - [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [homeinfra-org/infra](https://github.com/homeinfra-org/infra) - Homeinfra offers a strong, dependable, and easily replicable configuration for your homelab, incorporating vital elements like HTTPS, NAT traversal, Security, CI/CD pipelines, Cronjobs, DDNS, Docker m
@@ -8911,6 +8931,7 @@
 
 ## github 
 
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [salesforce/dockerfile-image-update](https://github.com/salesforce/dockerfile-image-update) - A tool that helps you get security patches for Docker images into production as quickly as possible without breaking things
 - [bbkane/starghaze](https://github.com/bbkane/starghaze) - Save information about your GitHub starred repos into Google Sheets, Zinc, and SQLite!
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
@@ -8969,7 +8990,6 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
-- [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
 - [howardroark/pollinate](https://github.com/howardroark/pollinate) - Template your base files and generate new projects from Git(Hub).
 - [jeroenouw/cgx](https://github.com/jeroenouw/cgx) - 💻🔥CLI to generate the recommended documentation/files to improve contribution (Github, Gitlab, CodeCommit and Bitbucket)
 - [feinoujc/gh-search-cli](https://github.com/feinoujc/gh-search-cli) - searches github via command line. Supports repo, issues, code and commit searches and listing notifications
@@ -9025,7 +9045,7 @@
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De
 - [extractions/setup-just](https://github.com/extractions/setup-just) - 🤖 GitHub Action to install the just command runner
-- [katydecorah/bookmark-action](https://github.com/katydecorah/bookmark-action) - 🔖 A GitHub action to bookmark websites to a JSON file
+- [library-pals/bookmark-action](https://github.com/library-pals/bookmark-action) - 🔖 A GitHub action to bookmark websites to a JSON file
 - [anton-yurchenko/git-release](https://github.com/anton-yurchenko/git-release) - Publish a GitHub Release :package: with Assets :file_folder: and Changelog :bookmark:
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [LinuxSuRen/yaml-readme](https://github.com/LinuxSuRen/yaml-readme) - A helper to generate the READE file automatically from YAML-based metadata files.
@@ -9083,6 +9103,9 @@
 
 ## go 
 
+- [glideapps/quicktype-vscode](https://github.com/glideapps/quicktype-vscode) - VS Code extension to convert JSON to TypeScript, C#, Go, and many more
+- [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
+- [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [iamthen0ise/better-branch](https://github.com/iamthen0ise/better-branch) - Interactive CLI helper for creating git branches with JIRA Links and some text
 - [linka-cloud/d2vm](https://github.com/linka-cloud/d2vm) - Build Virtual Machine Image from Dockerfile or Docker image
@@ -9487,6 +9510,7 @@
 
 ## golang 
 
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [encoredev/examples](https://github.com/encoredev/examples) - Templates for Encore
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
@@ -10225,7 +10249,7 @@
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [microcks/microcks](https://github.com/microcks/microcks) - Kubernetes native tool for mocking and testing API and micro-services. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [siberiacancode/mock-config-server](https://github.com/siberiacancode/mock-config-server) - 🎉 tool that easily and quickly imitates server operation, create full fake api in few steps
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 - [microcks/microcks-testcontainers-node](https://github.com/microcks/microcks-testcontainers-node) - Node/TypeScript lib for Testcontainers that enables embedding Microcks into your unit tests with lightweight, throwaway instance thanks to containers.
@@ -10236,7 +10260,7 @@
 - [n1ru4l/envelop](https://github.com/n1ru4l/envelop) - Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [enisdenjo/graphql-sse](https://github.com/enisdenjo/graphql-sse) - Zero-dependency, HTTP/1 safe, simple, GraphQL over Server-Sent Events Protocol server and client.
-- [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - Automatically stitch multiple schemas together into one larger API in a simple, fast and powerful way.
+- [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - 🪡GraphQL Schema Stitching - Combine any kind of GraphQL APIs into one larger API without vendor-locking
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
@@ -10570,6 +10594,9 @@
 
 ## hacktoberfest 
 
+- [muesli/scratchy](https://github.com/muesli/scratchy) - Quickly bootstrap a Linux distro in a (non-Docker) container and interactively execute something in it
+- [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community.
 - [ServiceNowDevProgram/Hacktoberfest](https://github.com/ServiceNowDevProgram/Hacktoberfest) - One repo to rule them all, one repo to find them, One repo to bring them all, and in the darkness bind them.
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
@@ -10768,7 +10795,7 @@
 - [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files.
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [asyncapi/cli](https://github.com/asyncapi/cli) - CLI to work with your AsyncAPI files. You can validate them and in the future use a generator and even bootstrap a new file. Contributions are welcomed!
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [swagger-api/swagger-js](https://github.com/swagger-api/swagger-js) - Javascript library to connect to swagger-enabled APIs via browser or nodejs
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
@@ -11973,6 +12000,7 @@
 
 ## java 
 
+- [glideapps/quicktype-vscode](https://github.com/glideapps/quicktype-vscode) - VS Code extension to convert JSON to TypeScript, C#, Go, and many more
 - [DevDungeon/Cookbook](https://github.com/DevDungeon/Cookbook) - Code snippets for various programming languages and libraries
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) - Hand-crafted Frida examples
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
@@ -12055,6 +12083,12 @@
 
 ## javascript 
 
+- [egodigital/vscode-powertools](https://github.com/egodigital/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
+- [cmstead/js-refactor](https://github.com/cmstead/js-refactor) - JS Refactoring tool for Visual Studio Code
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+- [jacklehamster/bun-template](https://github.com/jacklehamster/bun-template) - Bun template for creating projects using bunjs
+- [NSSTC/sim-ecs](https://github.com/NSSTC/sim-ecs) - Batteries included TypeScript ECS
+- [mimiMonads/vixeny](https://github.com/mimiMonads/vixeny) - 🌐 Vixeny: At the forefront of modern web development, Vixeny stands as a runtime-independent, efficiency-driven library dedicated to upholding the principles of functional purity. It's crafted to empo
 - [DevDungeon/Cookbook](https://github.com/DevDungeon/Cookbook) - Code snippets for various programming languages and libraries
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [live-codes/livecodes](https://github.com/live-codes/livecodes) - Code Playground That Just Works!
@@ -12796,6 +12830,7 @@
 
 ## jquery 
 
+- [egodigital/vscode-powertools](https://github.com/egodigital/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
 - [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
 - [Mobirise/Mobirise](https://github.com/Mobirise/Mobirise) - AI Website Builder, Open Source, Bootstrap 5
@@ -12805,6 +12840,7 @@
 
 ## js 
 
+- [NSSTC/sim-ecs](https://github.com/NSSTC/sim-ecs) - Batteries included TypeScript ECS
 - [ruyadorno/ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow
 - [Rohit19060/bookmark-store](https://github.com/Rohit19060/bookmark-store) - App for storing bookmarks temporary, it is utilizing Local Storage
 - [Devzstudio/Vscode-Emoji-Snippets](https://github.com/Devzstudio/Vscode-Emoji-Snippets) - Visual Code Emoji Snippets 🚀😎
@@ -12845,6 +12881,8 @@
 
 ## json 
 
+- [glideapps/quicktype-vscode](https://github.com/glideapps/quicktype-vscode) - VS Code extension to convert JSON to TypeScript, C#, Go, and many more
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [jonschlinkert/data-store](https://github.com/jonschlinkert/data-store) - Easily get, set and persist config data. Fast. Supports dot-notation in keys. No dependencies.
 - [klaytonfaria/markdown-json](https://github.com/klaytonfaria/markdown-json) - Markdown to json has yaml support and converts your markdown files to json so you can use them as a static api.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
@@ -13141,6 +13179,7 @@
 
 ## kubernetes 
 
+- [weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools) - GitOps Visual Studio Code Extension
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [dohsimpson/docker2kube](https://github.com/dohsimpson/docker2kube) - TypeScript lib to convert docker-compose to kubernetes
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
@@ -13524,7 +13563,7 @@
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [liqotech/liqo](https://github.com/liqotech/liqo) - Enable dynamic and seamless Kubernetes multi-cluster topologies
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
 - [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
@@ -13876,7 +13915,6 @@
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview q
 - [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, cov
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
 - [yoda-pa/yoda](https://github.com/yoda-pa/yoda) - Wise and powerful personal assistant, available in your nearest terminal
 - [kerneltlv/kernel-hacking](https://github.com/kerneltlv/kernel-hacking) - An environment and set of utilities aimed at making kernel hacking simple and accessible
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
@@ -13974,6 +14012,7 @@
 
 ## linux 
 
+- [bytebutcher/bundler.sh](https://github.com/bytebutcher/bundler.sh) - Bundle multiple shell scripts into a single executable.
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [Darin755/browser-linux](https://github.com/Darin755/browser-linux) - Linux, in your browser
 - [humphd/browser-shell](https://github.com/humphd/browser-shell) - A Linux command-line shell in the browser
@@ -14657,6 +14696,7 @@
 
 ## machine-learning 
 
+- [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
@@ -15054,6 +15094,8 @@
 
 ## markdown 
 
+- [xyc/vscode-mdx-preview](https://github.com/xyc/vscode-mdx-preview) - MDX Preview for Visual Studio Code
+- [zaaack/vscode-markdown-editor](https://github.com/zaaack/vscode-markdown-editor) - A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [unjs/untyped](https://github.com/unjs/untyped) - Generate types and markdown from a config object.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -15311,7 +15353,7 @@
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
-- [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - Automatically stitch multiple schemas together into one larger API in a simple, fast and powerful way.
+- [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - 🪡GraphQL Schema Stitching - Combine any kind of GraphQL APIs into one larger API without vendor-locking
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
@@ -15531,6 +15573,7 @@
 
 ## monitoring 
 
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
@@ -15994,6 +16037,8 @@
 
 ## nextjs 
 
+- [saviomartin/codehouse](https://github.com/saviomartin/codehouse) - A whole new world of 300+ developer cheatsheets
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers.
 - [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit) - A blog starter kit to use Hashnode as a Headless CMS using GraphQL APIs.
 - [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
@@ -16011,7 +16056,7 @@
 - [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
-- [blefnk/relivator](https://github.com/blefnk/relivator) - ⭐ Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS
+- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 14 Store, Landing, Admin, Dashboard ▲ i18n Stripe Shadcn Tailwind Drizzle Zod Trpc TypeScript Clerk NexAuth, Lucide CSS Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS 
 - [NiGhTTraX/ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template for setting up a TypeScript monorepo
 - [syhner/next-kickstart](https://github.com/syhner/next-kickstart) - Next.js 14 kickstarter. Zero setup & edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia Auth, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun
 - [imbhargav5/nextbase-nextjs-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 14+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
@@ -16298,6 +16343,7 @@
 
 ## node 
 
+- [mimiMonads/vixeny](https://github.com/mimiMonads/vixeny) - 🌐 Vixeny: At the forefront of modern web development, Vixeny stands as a runtime-independent, efficiency-driven library dedicated to upholding the principles of functional purity. It's crafted to empo
 - [af/envalid](https://github.com/af/envalid) - Environment variable validation for Node.js
 - [LeoBakerHytch/ts-dotenv](https://github.com/LeoBakerHytch/ts-dotenv) - Strongly-typed environment variables for Node.js
 - [strong-config/node](https://github.com/strong-config/node) - 💪 Simple & Secure Config Management for Node.js 💪
@@ -16449,6 +16495,7 @@
 
 ## nodejs 
 
+- [egodigital/vscode-powertools](https://github.com/egodigital/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
 - [filerjs/filer](https://github.com/filerjs/filer) - Node-like file system for browsers
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [theanujdev/code-playground-backend](https://github.com/theanujdev/code-playground-backend) - Code Playground Backend server built with typescript, express, socket.io and mongoose(mongoDB).
@@ -17054,6 +17101,7 @@
 
 ## open-source 
 
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [phasehq/console](https://github.com/phasehq/console) - End-to-End encrypted application secrets and configuration management for developers.
 - [SDRausty/buildAPKs](https://github.com/SDRausty/buildAPKs) - Really quickly build APKs on handheld device (smartphone or tablet) in Amazon, Android, Chromebook and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
@@ -17396,6 +17444,21 @@
 
 ## others 
 
+- [tobua/epic-cli](https://github.com/tobua/epic-cli) - Useful commands for everyday Web Development.
+- [vyder/bunbox](https://github.com/vyder/bunbox) - A framework to build APIs with bun
+- [Enalmada/npm-module-template](https://github.com/Enalmada/npm-module-template) - starter template for npm modules
+- [desm/config-from-argv-ts-example](https://github.com/desm/config-from-argv-ts-example) - 
+- [desm/config-from-argv](https://github.com/desm/config-from-argv) - 
+- [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter
+- [mritd/bubbles](https://github.com/mritd/bubbles) - TUI components for Bubble Tea(Similar to the official bubbles 😊)
+- [sachinraja/trpc-bun](https://github.com/sachinraja/trpc-bun) - tRPC + Bun
+- [itsyoboieltr/dbest-stack](https://github.com/itsyoboieltr/dbest-stack) - 
+- [ahoys/tiny-remote-executioner](https://github.com/ahoys/tiny-remote-executioner) - A lightweight Bun-based Shell-script remote runner.
+- [a-sharapov/bun-shell](https://github.com/a-sharapov/bun-shell) - Small bun shell based CLI
+- [tr1ckydev/bsh](https://github.com/tr1ckydev/bsh) - Run bun shell as a standalone interactive shell.
+- [Aekras1a/hackingLibrary](https://github.com/Aekras1a/hackingLibrary) - ‪APT,‬ ‪Cyber warfare,‬ ‪Penetration testing,‬ ‪Zero-day,Exploiting,‬Fuzzing,Privilege-Escalation,browser-security‪,Spyware,Malwres evade anti-virus detection,‬ ‪Rookit CYPTER,‬ ‪Antiviruses Bypassing
+- [shlevy/long-shebang](https://github.com/shlevy/long-shebang) - A tool for #! scripts with more than one argument
+- [rbren/baml](https://github.com/rbren/baml) - 
 - [benjamincburns/websockproxy](https://github.com/benjamincburns/websockproxy) - 
 - [Darin755/browser-buildroot](https://github.com/Darin755/browser-buildroot) - The Buildroot config for browser linux
 - [chenshuo/recipes](https://github.com/chenshuo/recipes) - Some code snippets for sharing
@@ -19913,6 +19976,7 @@
 
 ## pentesting 
 
+- [bytebutcher/bundler.sh](https://github.com/bytebutcher/bundler.sh) - Bundle multiple shell scripts into a single executable.
 - [d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet) - Collection of reverse shells for red team operations.
 - [sneakerhax/TTPs](https://github.com/sneakerhax/TTPs) - Tactics, Techniques, and Procedures
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
@@ -20138,6 +20202,7 @@
 
 ## postgresql 
 
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [bezkoder/docker-compose-nodejs-postgres](https://github.com/bezkoder/docker-compose-nodejs-postgres) - Dockerize Nodejs Express and postgres example - Nodejs connect Postgresql using Docker Compose
 - [gkampitakis/docker-local-stack](https://github.com/gkampitakis/docker-local-stack) - A repo containing docker compose for running locally various services
 - [jarvma18/app-docker-compose-template](https://github.com/jarvma18/app-docker-compose-template) - Ready template for dockerized application
@@ -20389,6 +20454,7 @@
 
 ## productivity 
 
+- [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Bring your dotfile commands and configuration to any shell. Sensible defaults and hundreds of commands preloaded. Supports Bash, Zsh, Fish, Nu, Xonsh, Elvish, Dash, KornShell, macOS, Linux, Wind
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
@@ -20514,6 +20580,7 @@
 
 ## project-management 
 
+- [mkloubert/vscode-kanban](https://github.com/mkloubert/vscode-kanban) - Kanban board for Visual Studio Code.
 - [bashup/loco](https://github.com/bashup/loco) - LOcally-configured COmmands with `loco`
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [boltpkg/bolt](https://github.com/boltpkg/bolt) - ⚡️ Super-powered JavaScript project management
@@ -21424,6 +21491,7 @@
 
 ## react 
 
+- [xyc/vscode-mdx-preview](https://github.com/xyc/vscode-mdx-preview) - MDX Preview for Visual Studio Code
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [theanujdev/code-playground-frontend](https://github.com/theanujdev/code-playground-frontend) - Code Playground Frontend built with xternjs terminal and monoco editor.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
@@ -22423,7 +22491,7 @@
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [Nadrieril/dhall-rust](https://github.com/Nadrieril/dhall-rust) - Maintainable configuration files, for Rust users
 - [gear-tech/gear](https://github.com/gear-tech/gear) - Web3 Ultimate Execution Engine
-- [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use tRPC-like server for Rust.
+- [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A framework for building typesafe web backends in Rust
 - [asyncapi/modelina](https://github.com/asyncapi/modelina) - A library for generating typed models based on inputs such as AsyncAPI, OpenAPI, and JSON Schema documents with high customization
 - [thames-technology/monads](https://github.com/thames-technology/monads) - Option, Result, and Either types for TypeScript - Inspired by Rust 🦀
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
@@ -22869,6 +22937,7 @@
 
 ## search-engine 
 
+- [Wscats/search-online](https://github.com/Wscats/search-online) - 🔍A simple extension for VSCode to search online easily using search engine.
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) - Stay happy while offline | World's first offline search engine.
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
@@ -23580,7 +23649,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -23688,6 +23757,8 @@
 
 ## serverless 
 
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [vercel/storage](https://github.com/vercel/storage) - Vercel Postgres, KV, Blob, and Edge Config
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
@@ -23719,7 +23790,7 @@
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [kormyen/memex](https://github.com/kormyen/memex) - Simple bookmarks and notes
-- [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
+- [aircodelabs/documate](https://github.com/aircodelabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
 - [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification
 - [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are.
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
@@ -23801,6 +23872,7 @@
 
 ## shell 
 
+- [spack/sbang](https://github.com/spack/sbang) - Run scripts with very long shebang (#!) lines
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [Darin755/browser-linux](https://github.com/Darin755/browser-linux) - Linux, in your browser
 - [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
@@ -24008,6 +24080,7 @@
 
 ## simulation 
 
+- [NSSTC/sim-ecs](https://github.com/NSSTC/sim-ecs) - Batteries included TypeScript ECS
 - [SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl) - Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.
 - [roq-trading/roq-api](https://github.com/roq-trading/roq-api) - The C++23 interfaces used to communicate between trading strategies and market gateways.
 - [shadow/shadow](https://github.com/shadow/shadow) - Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and s
@@ -24262,7 +24335,7 @@
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [grow/grow](https://github.com/grow/grow) - A declarative website generator designed for high-quality websites, with a focus on easy maintenance and localization.
 - [rosano/hyperdraft](https://github.com/rosano/hyperdraft) - Turn your notes into a website.
-- [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
+- [aircodelabs/documate](https://github.com/aircodelabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
 - [packit/packit.dev](https://github.com/packit/packit.dev) - packit.dev website content
@@ -24345,6 +24418,7 @@
 
 ## svelte 
 
+- [jamesbirtles/svelte-vscode](https://github.com/jamesbirtles/svelte-vscode) - Svelte language support for VS Code
 - [tinijs/tinijs](https://github.com/tinijs/tinijs) - The TiniJS Framework 🥚
 - [peterhil/spellbook](https://github.com/peterhil/spellbook) - Spellbook is a WebExtension to easily add new bookmarks to correct categories
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
@@ -24456,6 +24530,7 @@
 
 ## tailwindcss 
 
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [topeogunleye/Recipe-App-V2](https://github.com/topeogunleye/Recipe-App-V2) - Meal Finder app that pulls from TheMealDB API to allow users to search for and view recipes, or get random recipes. Built with React and Tailwind CSS.
 - [masudranashawon/foodverse](https://github.com/masudranashawon/foodverse) - Foodverse is a recipe web application, where a user can search for a variety of recipes and find the ingredients and quantities needed to make each recipe item. Also, favorite recipe items can be save
 - [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit) - A blog starter kit to use Hashnode as a Headless CMS using GraphQL APIs.
@@ -24592,6 +24667,8 @@
 
 ## terminal 
 
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
@@ -24910,7 +24987,7 @@
 - [tunnckoCore/opensource](https://github.com/tunnckoCore/opensource) - Delivering delightful digital solutions. Monorepo of monorepos of Open Source packages with combined ~100M/month downloads, semantically versioned following @conventional-commits. Fully powered ES Mod
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
 - [microcks/microcks](https://github.com/microcks/microcks) - Kubernetes native tool for mocking and testing API and micro-services. Microcks is a Cloud Native Computing Foundation sandbox project 🚀
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [typicode/xv](https://github.com/typicode/xv) - 🙅‍♀️ ✌️ fastest test runner
 - [vitalets/playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner
 - [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
@@ -25066,6 +25143,9 @@
 
 ## tools 
 
+- [egodigital/vscode-powertools](https://github.com/egodigital/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
+- [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist) - vscode extension for quick gists
+- [cmstead/js-refactor](https://github.com/cmstead/js-refactor) - JS Refactoring tool for Visual Studio Code
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 - [intuit/commently](https://github.com/intuit/commently) - 😀💬 Easily comment and update comments on GitHub PRs
 - [vercel/micro-dev](https://github.com/vercel/micro-dev) - The development environment for `micro`
@@ -25247,6 +25327,9 @@
 
 ## tui 
 
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
+- [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
@@ -25339,6 +25422,13 @@
 
 ## typescript 
 
+- [idahogurl/vs-code-prettier-eslint](https://github.com/idahogurl/vs-code-prettier-eslint) - A Visual Studio Code Extension to format JavaScript and TypeScript code using the prettier-eslint package.
+- [glideapps/quicktype-vscode](https://github.com/glideapps/quicktype-vscode) - VS Code extension to convert JSON to TypeScript, C#, Go, and many more
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+- [jacklehamster/bun-template](https://github.com/jacklehamster/bun-template) - Bun template for creating projects using bunjs
+- [NSSTC/sim-ecs](https://github.com/NSSTC/sim-ecs) - Batteries included TypeScript ECS
+- [mimiMonads/vixeny](https://github.com/mimiMonads/vixeny) - 🌐 Vixeny: At the forefront of modern web development, Vixeny stands as a runtime-independent, efficiency-driven library dedicated to upholding the principles of functional purity. It's crafted to empo
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [live-codes/livecodes](https://github.com/live-codes/livecodes) - Code Playground That Just Works!
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
@@ -25592,7 +25682,7 @@
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
-- [ardatan/feTS](https://github.com/ardatan/feTS) - TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
+- [ardatan/feTS](https://github.com/ardatan/feTS) - 🗹 TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [pvarentsov/typescript-clean-architecture](https://github.com/pvarentsov/typescript-clean-architecture) - It is my attempt to create Clean Architecture based application in TypeScript.
 - [vasu31dev/playwright-ts](https://github.com/vasu31dev/playwright-ts) - Playwright TypeScript Framework: a robust solution for testing Web (Desktop & Mobile), API, and Electron apps. With customized utilities, linting, logging, webhooks, and GitHub actions, it offers a st
@@ -25634,7 +25724,7 @@
 - [Himenon/kubernetes-template](https://github.com/Himenon/kubernetes-template) - Kubernetes Template: Generated By TypeScript
 - [envless/envless](https://github.com/envless/envless) - OpenSource, frictionless and secure way to share and manage app secrets across teams.
 - [codemodsquad/astx](https://github.com/codemodsquad/astx) - Super powerful structural search and replace for JavaScript and TypeScript to automate your refactoring
-- [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use tRPC-like server for Rust.
+- [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A framework for building typesafe web backends in Rust
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
@@ -26112,6 +26202,7 @@
 
 ## vercel 
 
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by OpenAI.
@@ -26225,6 +26316,8 @@
 
 ## visual-studio-code 
 
+- [GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension) - Add handy buttons like beautify, show opened files, save, toggle terminal, etc to the editor menu bar in VSCode. You can also create your own buttons with custom commands. VSCode Marketplace link: htt
+- [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [vscode-restructuredtext/vscode-restructuredtext](https://github.com/vscode-restructuredtext/vscode-restructuredtext) - reStructuredText Language Support in Visual Studio Code
 - [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
@@ -26365,6 +26458,20 @@
 
 ## vscode 
 
+- [xyc/vscode-mdx-preview](https://github.com/xyc/vscode-mdx-preview) - MDX Preview for Visual Studio Code
+- [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist) - vscode extension for quick gists
+- [Gerrnperl/outline-map](https://github.com/Gerrnperl/outline-map) - A visual, interactive outline map that combines the clarity of the outline with the intuitive overview of the minimap. Alternative Minimap.
+- [jamesbirtles/svelte-vscode](https://github.com/jamesbirtles/svelte-vscode) - Svelte language support for VS Code
+- [GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension) - Add handy buttons like beautify, show opened files, save, toggle terminal, etc to the editor menu bar in VSCode. You can also create your own buttons with custom commands. VSCode Marketplace link: htt
+- [pajoma/vscode-journal](https://github.com/pajoma/vscode-journal) - Lightweight journal and simple notes support for Visual Studio Code
+- [glideapps/quicktype-vscode](https://github.com/glideapps/quicktype-vscode) - VS Code extension to convert JSON to TypeScript, C#, Go, and many more
+- [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits) - 💬Conventional Commits for VSCode.
+- [zaaack/vscode-markdown-editor](https://github.com/zaaack/vscode-markdown-editor) - A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor
+- [github/vscode-codeql](https://github.com/github/vscode-codeql) - An extension for Visual Studio Code that adds rich language support for CodeQL
+- [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
+- [github/vscode-codeql-starter](https://github.com/github/vscode-codeql-starter) - Starter workspace to use with the CodeQL extension for Visual Studio Code.
+- [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
 - [microsoft/compose-language-service](https://github.com/microsoft/compose-language-service) - Language service for Docker Compose documents
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 - [skellock/vscode-just](https://github.com/skellock/vscode-just) - A Visual Studio Code plugin for working with Just.
@@ -26479,6 +26586,34 @@
 
 ## vscode-extension 
 
+- [Wscats/search-online](https://github.com/Wscats/search-online) - 🔍A simple extension for VSCode to search online easily using search engine.
+- [egodigital/vscode-powertools](https://github.com/egodigital/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
+- [xyc/vscode-mdx-preview](https://github.com/xyc/vscode-mdx-preview) - MDX Preview for Visual Studio Code
+- [ryanmcalister/unotes](https://github.com/ryanmcalister/unotes) - Unotes Visual Studio Code Extension. A markdown WYSIWYG notes editor.
+- [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist) - vscode extension for quick gists
+- [idahogurl/vs-code-prettier-eslint](https://github.com/idahogurl/vs-code-prettier-eslint) - A Visual Studio Code Extension to format JavaScript and TypeScript code using the prettier-eslint package.
+- [yousefvand/shellman](https://github.com/yousefvand/shellman) - vscode shell script snippet extension
+- [Gerrnperl/outline-map](https://github.com/Gerrnperl/outline-map) - A visual, interactive outline map that combines the clarity of the outline with the intuitive overview of the minimap. Alternative Minimap.
+- [janisdd/vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv) - vs code extension to edit csv files with an excel like table ui
+- [mkloubert/vscode-remote-workspace](https://github.com/mkloubert/vscode-remote-workspace) - Multi protocol support for handling remote files like local ones in Visual Studio Code.
+- [cmstead/js-refactor](https://github.com/cmstead/js-refactor) - JS Refactoring tool for Visual Studio Code
+- [jamesbirtles/svelte-vscode](https://github.com/jamesbirtles/svelte-vscode) - Svelte language support for VS Code
+- [GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension) - Add handy buttons like beautify, show opened files, save, toggle terminal, etc to the editor menu bar in VSCode. You can also create your own buttons with custom commands. VSCode Marketplace link: htt
+- [weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools) - GitOps Visual Studio Code Extension
+- [pajoma/vscode-journal](https://github.com/pajoma/vscode-journal) - Lightweight journal and simple notes support for Visual Studio Code
+- [glideapps/quicktype-vscode](https://github.com/glideapps/quicktype-vscode) - VS Code extension to convert JSON to TypeScript, C#, Go, and many more
+- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - Gitmoji tool for git commit messages in VSCode
+- [mkloubert/vscode-kanban](https://github.com/mkloubert/vscode-kanban) - Kanban board for Visual Studio Code.
+- [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits) - 💬Conventional Commits for VSCode.
+- [zaaack/vscode-markdown-editor](https://github.com/zaaack/vscode-markdown-editor) - A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor
+- [github/vscode-codeql](https://github.com/github/vscode-codeql) - An extension for Visual Studio Code that adds rich language support for CodeQL
+- [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
+- [github/vscode-codeql-starter](https://github.com/github/vscode-codeql-starter) - Starter workspace to use with the CodeQL extension for Visual Studio Code.
+- [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
+- [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
+- [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
+- [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [nuxtlabs/vscode-mdc](https://github.com/nuxtlabs/vscode-mdc) - Provides syntax highlighting and colon matching for MDC (Markdown Components) files for Nuxt Content.
 - [mre/vscode-snippet](https://github.com/mre/vscode-snippet) - 🐤 A Visual Studio Code extension for cheat.sh. Quickly and easily find code snippets for any language right inside your IDE.
 - [skellock/vscode-just](https://github.com/skellock/vscode-just) - A Visual Studio Code plugin for working with Just.
@@ -26838,6 +26973,7 @@
 
 ## web 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 - [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
 - [polaris64/web_exploit_detector](https://github.com/polaris64/web_exploit_detector) - The Web Exploit Detector is a Node.js application used to detect possible infections, malicious code and suspicious files in web hosting environments
@@ -26981,6 +27117,7 @@
 
 ## webapp 
 
+- [egodigital/vscode-powertools](https://github.com/egodigital/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
 - [Darin755/browser-linux](https://github.com/Darin755/browser-linux) - Linux, in your browser
 - [theanujdev/code-playground-frontend](https://github.com/theanujdev/code-playground-frontend) - Code Playground Frontend built with xternjs terminal and monoco editor.
 - [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
