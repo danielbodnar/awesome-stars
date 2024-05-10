@@ -21,6 +21,7 @@
 - [CSS](#css)
 - [CUE](#cue)
 - [Clojure](#clojure)
+- [CodeQL](#codeql)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [Common Workflow Language](#common-workflow-language)
@@ -174,6 +175,7 @@
 
 ## C 
 
+- [shlevy/long-shebang](https://github.com/shlevy/long-shebang) - A tool for #! scripts with more than one argument
 - [ktock/container-bootfs](https://github.com/ktock/container-bootfs) - Container image converter aiming to minimize image size and speed up boot time dramatically with block-level de-dupliction and lazy-pull technology.
 - [DanEngelbrecht/longtail](https://github.com/DanEngelbrecht/longtail) - Incremental asset delivery library
 - [ArchiveTeam/wget-lua](https://github.com/ArchiveTeam/wget-lua) - Wget-AT is a modern Wget with Lua hooks, Zstandard (+dictionary) WARC compression and URL-agnostic deduplication.
@@ -803,6 +805,10 @@
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
+## CodeQL 
+
+- [github/vscode-codeql-starter](https://github.com/github/vscode-codeql-starter) - Starter workspace to use with the CodeQL extension for Visual Studio Code.
+
 ## CoffeeScript 
 
 - [jnordberg/wintersmith](https://github.com/jnordberg/wintersmith) - A flexible static site generator
@@ -1018,6 +1024,15 @@
 
 ## Go 
 
+- [muesli/scratchy](https://github.com/muesli/scratchy) - Quickly bootstrap a Linux distro in a (non-Docker) container and interactively execute something in it
+- [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
+- [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
+- [mritd/bubbles](https://github.com/mritd/bubbles) - TUI components for Bubble Tea(Similar to the official bubbles 😊)
+- [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
+- [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [iamthen0ise/better-branch](https://github.com/iamthen0ise/better-branch) - Interactive CLI helper for creating git branches with JIRA Links and some text
@@ -2503,6 +2518,7 @@
 
 ## HTML 
 
+- [a-sharapov/bun-shell](https://github.com/a-sharapov/bun-shell) - Small bun shell based CLI
 - [DevDungeon/Cookbook](https://github.com/DevDungeon/Cookbook) - Code snippets for various programming languages and libraries
 - [humphd/browser-shell](https://github.com/humphd/browser-shell) - A Linux command-line shell in the browser
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
@@ -2832,6 +2848,14 @@
 
 ## JavaScript 
 
+- [saviomartin/codehouse](https://github.com/saviomartin/codehouse) - A whole new world of 300+ developer cheatsheets
+- [egodigital/vscode-powertools](https://github.com/egodigital/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
+- [ryanmcalister/unotes](https://github.com/ryanmcalister/unotes) - Unotes Visual Studio Code Extension. A markdown WYSIWYG notes editor.
+- [idahogurl/vs-code-prettier-eslint](https://github.com/idahogurl/vs-code-prettier-eslint) - A Visual Studio Code Extension to format JavaScript and TypeScript code using the prettier-eslint package.
+- [mkloubert/vscode-kanban](https://github.com/mkloubert/vscode-kanban) - Kanban board for Visual Studio Code.
+- [Enalmada/npm-module-template](https://github.com/Enalmada/npm-module-template) - starter template for npm modules
+- [desm/config-from-argv-ts-example](https://github.com/desm/config-from-argv-ts-example) - 
+- [desm/config-from-argv](https://github.com/desm/config-from-argv) - 
 - [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community.
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [Darin755/browser-linux](https://github.com/Darin755/browser-linux) - Linux, in your browser
@@ -4200,6 +4224,7 @@
 ## M4 
 
 - [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
+- [DEAD10C5/1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - food food food
 
 ## MATLAB 
 
@@ -4210,7 +4235,7 @@
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [artusjs/spec](https://github.com/artusjs/spec) - Spec for Artus.js.
 - [rviscomi/har.fyi](https://github.com/rviscomi/har.fyi) - 
-- [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - Automatically stitch multiple schemas together into one larger API in a simple, fast and powerful way.
+- [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - 🪡GraphQL Schema Stitching - Combine any kind of GraphQL APIs into one larger API without vendor-locking
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -4256,7 +4281,6 @@
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [flemay/3musketeers](https://github.com/flemay/3musketeers) - Test, build, and deploy your apps from anywhere, the same way!
 - [container-storage-interface/spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
-- [DEAD10C5/1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - food food food
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is an open-source no-/low-code data, model, and pipeline orchestration platform
 - [tinyclub/linux-lab](https://github.com/tinyclub/linux-lab) - Docker/Qemu Based Linux Kernel Learning, Development and Testing Environment; New Linux ELF Video Course from this project author: https://www.cctalk.com/m/group/88089283
 - [pevma/SEPTun-Mark-II](https://github.com/pevma/SEPTun-Mark-II) - Suricata Extreme Performance Tuning guide - Mark II
@@ -4299,7 +4323,7 @@
 
 - [opensearch-project/helm-charts](https://github.com/opensearch-project/helm-charts) - :wheel_of_dharma: A community repository for Helm Charts of OpenSearch Project.
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
 - [netdata/helmchart](https://github.com/netdata/helmchart) - Helm chart for kubernetes deployments
 - [banzaicloud/banzai-charts](https://github.com/banzaicloud/banzai-charts) - Curated list of Banzai Cloud Helm charts used by the Pipeline Platform
 
@@ -4369,6 +4393,8 @@
 
 ## Others 
 
+- [cmstead/js-refactor](https://github.com/cmstead/js-refactor) - JS Refactoring tool for Visual Studio Code
+- [Aekras1a/hackingLibrary](https://github.com/Aekras1a/hackingLibrary) - ‪APT,‬ ‪Cyber warfare,‬ ‪Penetration testing,‬ ‪Zero-day,Exploiting,‬Fuzzing,Privilege-Escalation,browser-security‪,Spyware,Malwres evade anti-virus detection,‬ ‪Rookit CYPTER,‬ ‪Antiviruses Bypassing
 - [cherkavi/cheat-sheet](https://github.com/cherkavi/cheat-sheet) - collection of cheat sheets
 - [ServiceNowDevProgram/Hacktoberfest](https://github.com/ServiceNowDevProgram/Hacktoberfest) - One repo to rule them all, one repo to find them, One repo to bring them all, and in the darkness bind them.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
@@ -4614,6 +4640,7 @@
 - [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3) - A list of D3 libraries, plugins and utilities
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [ever-co/ever-opensaas](https://github.com/ever-co/ever-opensaas) - Ever® OpenSaaS™ - Open-Source solution for creating, managing, and deploying full-featured SaaS offerings.
+- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [chihming/awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
 - [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Generative AI SDK for Web to create AI Agents for apps built with JavaScript, React, Angular, Vue, Ember, Electron
@@ -5214,7 +5241,7 @@
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
 - [otto-de/recsys-dataset](https://github.com/otto-de/recsys-dataset) - 🛍 A real-world e-commerce dataset for session-based recommender systems research.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
@@ -6098,6 +6125,7 @@
 
 ## Rust 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [Canop/termimad](https://github.com/Canop/termimad) - A library to display rich (Markdown) snippets and texts in a rust terminal application
 - [oxidecomputer/helios-bash-completion](https://github.com/oxidecomputer/helios-bash-completion) - bash tab completion for Helios systems
 - [spyglass-search/lens-box](https://github.com/spyglass-search/lens-box) - Directory of lenses for Spyglass (https://github.com/spyglass-search/spyglass)
@@ -6316,7 +6344,7 @@
 - [gear-tech/gear](https://github.com/gear-tech/gear) - Web3 Ultimate Execution Engine
 - [wasmerio/vscode-wasm](https://github.com/wasmerio/vscode-wasm) - WebAssembly extension for VSCode
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) - A basic Command-Line Interface platform
-- [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A blazingly fast and easy to use tRPC-like server for Rust.
+- [oscartbeaumont/rspc](https://github.com/oscartbeaumont/rspc) - A framework for building typesafe web backends in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain
@@ -6876,6 +6904,10 @@
 
 ## Shell 
 
+- [yousefvand/shellman](https://github.com/yousefvand/shellman) - vscode shell script snippet extension
+- [bytebutcher/bundler.sh](https://github.com/bytebutcher/bundler.sh) - Bundle multiple shell scripts into a single executable.
+- [spack/sbang](https://github.com/spack/sbang) - Run scripts with very long shebang (#!) lines
+- [rbren/baml](https://github.com/rbren/baml) - 
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [Darin755/browser-buildroot](https://github.com/Darin755/browser-buildroot) - The Buildroot config for browser linux
 - [Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) - A collection of snippets of codes and commands to make your life easier!
@@ -7640,6 +7672,38 @@
 
 ## TypeScript 
 
+- [Wscats/search-online](https://github.com/Wscats/search-online) - 🔍A simple extension for VSCode to search online easily using search engine.
+- [xyc/vscode-mdx-preview](https://github.com/xyc/vscode-mdx-preview) - MDX Preview for Visual Studio Code
+- [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist) - vscode extension for quick gists
+- [Gerrnperl/outline-map](https://github.com/Gerrnperl/outline-map) - A visual, interactive outline map that combines the clarity of the outline with the intuitive overview of the minimap. Alternative Minimap.
+- [janisdd/vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv) - vs code extension to edit csv files with an excel like table ui
+- [mkloubert/vscode-remote-workspace](https://github.com/mkloubert/vscode-remote-workspace) - Multi protocol support for handling remote files like local ones in Visual Studio Code.
+- [jamesbirtles/svelte-vscode](https://github.com/jamesbirtles/svelte-vscode) - Svelte language support for VS Code
+- [GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension) - Add handy buttons like beautify, show opened files, save, toggle terminal, etc to the editor menu bar in VSCode. You can also create your own buttons with custom commands. VSCode Marketplace link: htt
+- [weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools) - GitOps Visual Studio Code Extension
+- [pajoma/vscode-journal](https://github.com/pajoma/vscode-journal) - Lightweight journal and simple notes support for Visual Studio Code
+- [glideapps/quicktype-vscode](https://github.com/glideapps/quicktype-vscode) - VS Code extension to convert JSON to TypeScript, C#, Go, and many more
+- [seatonjiang/gitmoji-vscode](https://github.com/seatonjiang/gitmoji-vscode) - Gitmoji tool for git commit messages in VSCode
+- [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits) - 💬Conventional Commits for VSCode.
+- [zaaack/vscode-markdown-editor](https://github.com/zaaack/vscode-markdown-editor) - A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor
+- [github/vscode-codeql](https://github.com/github/vscode-codeql) - An extension for Visual Studio Code that adds rich language support for CodeQL
+- [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
+- [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
+- [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
+- [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
+- [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
+- [tobua/epic-cli](https://github.com/tobua/epic-cli) - Useful commands for everyday Web Development.
+- [vyder/bunbox](https://github.com/vyder/bunbox) - A framework to build APIs with bun
+- [jacklehamster/bun-template](https://github.com/jacklehamster/bun-template) - Bun template for creating projects using bunjs
+- [NSSTC/sim-ecs](https://github.com/NSSTC/sim-ecs) - Batteries included TypeScript ECS
+- [mimiMonads/vixeny](https://github.com/mimiMonads/vixeny) - 🌐 Vixeny: At the forefront of modern web development, Vixeny stands as a runtime-independent, efficiency-driven library dedicated to upholding the principles of functional purity. It's crafted to empo
+- [sachinraja/trpc-bun](https://github.com/sachinraja/trpc-bun) - tRPC + Bun
+- [itsyoboieltr/dbest-stack](https://github.com/itsyoboieltr/dbest-stack) - 
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
+- [ahoys/tiny-remote-executioner](https://github.com/ahoys/tiny-remote-executioner) - A lightweight Bun-based Shell-script remote runner.
+- [tr1ckydev/bsh](https://github.com/tr1ckydev/bsh) - Run bun shell as a standalone interactive shell.
 - [iam-rohid/code-to-img](https://github.com/iam-rohid/code-to-img) - Code to Image converter is a beautifully designed application that helps you generate beautiful and customizable images of your code snippets. This is built for the developer by the developer. If you 
 - [live-codes/livecodes](https://github.com/live-codes/livecodes) - Code Playground That Just Works!
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
@@ -7831,7 +7895,7 @@
 - [andresmarpz/bookmarks](https://github.com/andresmarpz/bookmarks) - Next.js App Router experimental project - Save your internet discoveries on the cloud.
 - [masonmcelvain/hop](https://github.com/masonmcelvain/hop) - A browser extension featuring aesthetic bookmarks
 - [norbertK/taskmarks](https://github.com/norbertK/taskmarks) - VSCode Extension - Persist bookmarks for different tasks.
-- [katydecorah/bookmark-action](https://github.com/katydecorah/bookmark-action) - 🔖 A GitHub action to bookmark websites to a JSON file
+- [library-pals/bookmark-action](https://github.com/library-pals/bookmark-action) - 🔖 A GitHub action to bookmark websites to a JSON file
 - [camellia-app/camellia](https://github.com/camellia-app/camellia) - Browser extension which helps with managing huge amounts of browser bookmarks by placing them at the new tab screen.
 - [StarlaneStudios/vscode-comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors) - ⚓A Visual Studio Code extension that adds support for comment anchors 🔭
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
@@ -7871,7 +7935,7 @@
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
 - [sachinraja/trpc-playground](https://github.com/sachinraja/trpc-playground) - playground for running tRPC queries in the browser
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
-- [blefnk/relivator](https://github.com/blefnk/relivator) - ⭐ Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS
+- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 14 Store, Landing, Admin, Dashboard ▲ i18n Stripe Shadcn Tailwind Drizzle Zod Trpc TypeScript Clerk NexAuth, Lucide CSS Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS 
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
@@ -8288,7 +8352,7 @@
 - [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [ayakashi-io/ayakashi](https://github.com/ayakashi-io/ayakashi) - :zap: Ayakashi.io - The next generation web scraping framework
-- [ardatan/feTS](https://github.com/ardatan/feTS) - TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
+- [ardatan/feTS](https://github.com/ardatan/feTS) - 🗹 TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 - [Zeeshanahmad4/chatgpt-knowledge-base-chatbot](https://github.com/Zeeshanahmad4/chatgpt-knowledge-base-chatbot) - An advanced chatbot that utilizes your own data to provide intelligent ChatGPT-style conversations using gpt-3.5-turbo and Ada for advanced embedding, as well as custom indexes and knowledgebase for a
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 - [gajananpp/puppeteer-ide-extension](https://github.com/gajananpp/puppeteer-ide-extension) - Standalone puppeteer playground in browser's developer tools.
@@ -8612,7 +8676,7 @@
 - [JP1016/Markdown](https://github.com/JP1016/Markdown) - 📖Clean & Modern MarkDown Generator, 🔌Offline Support and Easy Generation of Markdown ⚡️⚛️ https://github.com/JP1016/Markdown-Electron/releases
 - [WorldBrain/storex](https://github.com/WorldBrain/storex) - Storex Core - A modular and portable database abstraction ecosystem for JavaScript
 - [memex-life/memex](https://github.com/memex-life/memex) - Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you.
-- [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
+- [aircodelabs/documate](https://github.com/aircodelabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
 - [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
@@ -9250,7 +9314,6 @@
 - [liampwll/zig-efi-os](https://github.com/liampwll/zig-efi-os) - 
 - [kprotty/zap](https://github.com/kprotty/zap) - An asynchronous runtime with a focus on performance and resource efficiency.
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
-- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [sam701/zig-cli](https://github.com/sam701/zig-cli) - A simple package for building command line apps in Zig
 - [theseyan/bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable
