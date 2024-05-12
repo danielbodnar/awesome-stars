@@ -1277,7 +1277,6 @@
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
-- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
 - [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging
@@ -4347,6 +4346,7 @@
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [glotcode/glot-images](https://github.com/glotcode/glot-images) - 
 - [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
+- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [justinwoo/easy-dhall-nix](https://github.com/justinwoo/easy-dhall-nix) - Derivations for easily downloading Dhall binaries and putting them to use.
@@ -6507,7 +6507,6 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [oxidecomputer/oxide.rs](https://github.com/oxidecomputer/oxide.rs) - The Oxide Rust SDK and CLI
-- [ballista-compute/ballista](https://github.com/ballista-compute/ballista) - Distributed compute platform implemented in Rust, and powered by Apache Arrow.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
@@ -8003,7 +8002,7 @@
 - [borsini/chrome-otto-tabs](https://github.com/borsini/chrome-otto-tabs) - Smart tabs management
 - [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - Organize and group your Chrome tabs with AI
 - [polywrap/evo.ninja](https://github.com/polywrap/evo.ninja) - A versatile generalist agent.
-- [withcatai/catai](https://github.com/withcatai/catai) - UI for 🦙model . Run AI assistant locally ✨
+- [withcatai/catai](https://github.com/withcatai/catai) - Run AI ✨ assistant locally! with simple API for Node.js 🚀
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Force a JSON schema on the model output on the generation level
 - [airtasker/spot](https://github.com/airtasker/spot) - Spot is a concise, developer-friendly way to describe your API contract.
 - [sebastianwessel/surrealdb-client-generator](https://github.com/sebastianwessel/surrealdb-client-generator) - Tool which generates a typescript client for SurrealDB and zod schema of a given database
