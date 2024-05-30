@@ -102,6 +102,7 @@
 - [css-modules](#css-modules)
 - [css3](#css3)
 - [ctf](#ctf)
+- [cuda](#cuda)
 - [cyber-security](#cyber-security)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
@@ -527,7 +528,6 @@
 - [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-10](#windows-10)
-- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [wpf](#wpf)
@@ -1004,6 +1004,7 @@
 
 ## animation 
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
@@ -3399,7 +3400,7 @@
 - [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 Коллекция пользовательских скриптов
 - [dertuxmalwieder/ymarks](https://github.com/dertuxmalwieder/ymarks) - The self-hosted ymarks bookmark syncing tool (Git mirror)
 - [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder) - Browser extension that allows to find and delete duplicate bookmarks.
 - [FernandoLins8/Tab-Groups-to-Bookmarks](https://github.com/FernandoLins8/Tab-Groups-to-Bookmarks) - A Chrome extension for managing and saving your tabs and tab groups.
@@ -5555,6 +5556,19 @@
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern multiple reverse shell sessions manager written in go
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [infobyte/spoilerwall](https://github.com/infobyte/spoilerwall) - Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!
+
+## cuda 
+
+- [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
+- [albertstarfield/project-zephyrine](https://github.com/albertstarfield/project-zephyrine) - Introducing Project Zephyrine: Elevating Your Interaction Plug and Play, and Employing GPU Acceleration within a Modernized Automata Local Graphical User Interface.
+- [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Force a JSON schema on the model output on the generation level
+- [BrainTwister/docker-devel-env](https://github.com/BrainTwister/docker-devel-env) - Fast, reproducible, and portable software development environments
+- [janhq/cortex](https://github.com/janhq/cortex) - Drop-in, local AI alternative to the OpenAI stack. Multi-engine (llama.cpp, TensorRT-LLM). Powers 👋 Jan
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
+- [rapidsai/raft](https://github.com/rapidsai/raft) - RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing hig
+- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+- [enfiskutensykkel/cuda-rdma-bench](https://github.com/enfiskutensykkel/cuda-rdma-bench) - NVIDIA GPU direct RDMA using SISCI API
 
 ## cyber-security 
 
@@ -9029,6 +9043,7 @@
 
 ## github 
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [algolia/github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [salesforce/dockerfile-image-update](https://github.com/salesforce/dockerfile-image-update) - A tool that helps you get security patches for Docker images into production as quickly as possible without breaking things
@@ -10709,6 +10724,7 @@
 
 ## hacktoberfest 
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
@@ -12809,7 +12825,7 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
-- [chrispsn/mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface.
+- [chrispsn/mesh](https://github.com/chrispsn/mesh) - Old version. Visualise data and edit JavaScript code using a spreadsheet interface.
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
 - [funkia/turbine](https://github.com/funkia/turbine) - Purely functional frontend framework for building web applications
@@ -13308,6 +13324,7 @@
 
 ## kubernetes 
 
+- [spinkube/spin-plugin-kube](https://github.com/spinkube/spin-plugin-kube) - A Spin plugin for interacting with Kubernetes.
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vecto
 - [hadron-project/hadron](https://github.com/hadron-project/hadron) - The Kubernetes native and CloudEvents native distributed event streaming, event orchestration & messaging platform
@@ -17618,6 +17635,9 @@
 
 ## others 
 
+- [nikhil-shuklaa/Cool-GitHub-Profile-README](https://github.com/nikhil-shuklaa/Cool-GitHub-Profile-README) - This repo is dedicated to collecting and showcasing the coolest GitHub profile READMEs from developers around the world. Whether your README is visually stunning, informative, or uniquely creative, we
+- [malvuln/RansomLord](https://github.com/malvuln/RansomLord) - RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise ransomware pre-encryption.
+- [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [absholi7ly/Bypass-authentication-GitHub-Enterprise-Server](https://github.com/absholi7ly/Bypass-authentication-GitHub-Enterprise-Server) - The authentication bypass vulnerability in GitHub Enterprise Server (GHES) allows an unauthorized attacker to access an instance of GHES without requiring pre-authentication. The vulnerability affects
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [zoontek/valienv](https://github.com/zoontek/valienv) - A simple environment variables validator for Node.js, web browsers and React Native ✓
@@ -17952,7 +17972,6 @@
 - [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts) - Custom tweaks and preferences for Firefox
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
 - [mozilla/ecosystem-platform](https://github.com/mozilla/ecosystem-platform) - Documentation Hub for Firefox Accounts, Sync Client Integrations and More
-- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs
 - [ParadigmZero/firefox-bookmark-tag-transform](https://github.com/ParadigmZero/firefox-bookmark-tag-transform) - Node | JavaScript | npm package | nvm : Transform Firefox bookmarks file to aid cross-platform bookmark sync/usability strategy
 - [Xmetalfanx/firefoxSync](https://github.com/Xmetalfanx/firefoxSync) - scripts to backup and restore firefox profiles on different installs of Linux
 - [mozilla-services/server-syncstorage](https://github.com/mozilla-services/server-syncstorage) - The SyncServer server software, as used by Firefox Sync
@@ -19408,7 +19427,6 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [chaos/diod](https://github.com/chaos/diod) - Distributed I/O Daemon - a 9P file server
 - [chaos/9nbd](https://github.com/chaos/9nbd) - network block device over 9P transport
-- [enfiskutensykkel/cuda-rdma-bench](https://github.com/enfiskutensykkel/cuda-rdma-bench) - NVIDIA GPU direct RDMA using SISCI API
 - [jcarreira/cirrus-kv](https://github.com/jcarreira/cirrus-kv) - High-performance key-value store
 - [SymbioticLab/Infiniswap](https://github.com/SymbioticLab/Infiniswap) - Infiniswap enables unmodified applications to efficiently use disaggregated memory.
 - [dotnwat/fusell-seed](https://github.com/dotnwat/fusell-seed) - FUSE (the low-level interface) file system boilerplate :open_file_folder: :electric_plug: :floppy_disk:
@@ -20292,6 +20310,7 @@
 
 ## php 
 
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [DevDungeon/Cookbook](https://github.com/DevDungeon/Cookbook) - Code snippets for various programming languages and libraries
 - [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [cebe/yii2-openapi](https://github.com/cebe/yii2-openapi) - REST API application generator for Yii2, openapi 3.0 YAML -&gt; Yii2
@@ -20654,7 +20673,7 @@
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [lukasbach/yana](https://github.com/lukasbach/yana) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more
 - [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 Коллекция пользовательских скриптов
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [lostintangent/codeswing](https://github.com/lostintangent/codeswing) - VS Code extension for building web applications ("swings") using a interactive and editor-integrated coding environment
 - [jwu910/check-it-out](https://github.com/jwu910/check-it-out) - A command line interface for Git Checkout. See branches available for checkout.
@@ -26415,7 +26434,7 @@
 
 ## userscript 
 
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 Коллекция пользовательских скриптов
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 
 ## ux 
@@ -27411,6 +27430,7 @@
 
 ## webassembly 
 
+- [spinkube/spin-plugin-kube](https://github.com/spinkube/spin-plugin-kube) - A Spin plugin for interacting with Kubernetes.
 - [arakoodev/EdgeChains](https://github.com/arakoodev/EdgeChains) - EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & "outside code in config". Kubernetes & edge
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [CalmSystem/wala](https://github.com/CalmSystem/wala) - It aims to be for WASM what YAML is for JSON. Programming language targetting WebAssembly. Human friendly WAT
@@ -27823,14 +27843,6 @@
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [builtbybel/control-uwp](https://github.com/builtbybel/control-uwp) - 🌚🌓Alternative Control Panel for Windows 10
-- [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 11, Windows 10, Windows Server 2022, 2019, 2016, also with Docker
-
-## windows-11 
-
-- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-- [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 11, Windows 10, Windows Server 2022, 2019, 2016, also with Docker
 
 ## wordpress 
