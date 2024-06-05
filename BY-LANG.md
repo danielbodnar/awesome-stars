@@ -1040,6 +1040,7 @@
 
 ## Go 
 
+- [frzam/hail](https://github.com/frzam/hail) - Cross-platform script management CLI written in go.
 - [project-stacker/stacker](https://github.com/project-stacker/stacker) - Build OCI images natively from a declarative format
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [score-spec/score-helm](https://github.com/score-spec/score-helm) - Score implementation for Helm
@@ -4207,7 +4208,7 @@
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [executablebooks/thebe](https://github.com/executablebooks/thebe) - Turn static HTML pages into live documents with Jupyter kernels.
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
-- [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - An Easy-to-use Knowledge Editing Framework for LLMs.
+- [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [Sentdex/TermGPT](https://github.com/Sentdex/TermGPT) - Giving LLMs like GPT-4 the ability to plan and execute terminal commands
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
@@ -6140,7 +6141,7 @@
 
 ## ReScript 
 
-- [DZakh/rescript-schema](https://github.com/DZakh/rescript-schema) - The fastest composable parser/serializer for ReScript (and TypeScript)
+- [DZakh/rescript-schema](https://github.com/DZakh/rescript-schema) - The fastest composable parser/serializer for ReScript and TypeScript
 
 ## Reason 
 
@@ -6163,6 +6164,7 @@
 
 ## Ruby 
 
+- [actions/importer-labs](https://github.com/actions/importer-labs) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [wfxr/emoji-cli](https://github.com/wfxr/emoji-cli) - 
 - [piotrmurach/tty](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
