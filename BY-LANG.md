@@ -1377,7 +1377,7 @@
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 - [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
 - [kbst/kbst](https://github.com/kbst/kbst) - Kubestack framework CLI
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
@@ -1500,7 +1500,7 @@
 - [realTristan/hermes](https://github.com/realTristan/hermes) - Extremely Fast Full-Text-Search Algorithm and Caching System
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
-- [deislabs/ratify](https://github.com/deislabs/ratify) - Artifact Ratification Framework
+- [ratify-project/ratify](https://github.com/ratify-project/ratify) - Artifact Ratification Framework
 - [Azure/draft](https://github.com/Azure/draft) - A day 0 tool for getting your app on k8s fast
 - [cnabio/duffle](https://github.com/cnabio/duffle) - CNAB installer
 - [alash3al/srchx](https://github.com/alash3al/srchx) - A standalone lightweight full-text search engine built on top of blevesearch and Go with multiple storage (scorch, boltdb, leveldb, badger)
@@ -1511,7 +1511,7 @@
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [contentful-labs/terraform-diff](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
-- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.
+- [warrant-dev/warrant](https://github.com/warrant-dev/warrant) - Warrant is a highly scalable, centralized authorization service based on Google Zanzibar. Use it to define, enforce, query, and audit application authorization and access control.
 - [crumbhole/argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) - A plugin to make Argo CD behave like we'd like.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
@@ -1727,7 +1727,7 @@
 - [appboot/appboot](https://github.com/appboot/appboot) - Appboot, which means application BootLoader, is a universal platform for creating applications.  Appboot creates applications based on templates.  A template contains code, configuration(description, 
 - [mojocn/felix](https://github.com/mojocn/felix) - A Friendly SSH Jumper Bastion Fortress Server
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
+- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [indeedeng/iwf](https://github.com/indeedeng/iwf) - iWF is an API orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -2897,6 +2897,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [cypress-io/github-action](https://github.com/cypress-io/github-action) - GitHub Action for running Cypress end-to-end & component tests
@@ -5115,7 +5116,7 @@
 - [Pwd9000-ML/docker-github-runner-linux](https://github.com/Pwd9000-ML/docker-github-runner-linux) - Repository for building a self hosted GitHub runner as a ubuntu linux container
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) - Jenkins agent (base image) and inbound agent Docker images
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
-- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 - [JohnEricson/dotfiles](https://github.com/JohnEricson/dotfiles) - Personal config files for Bash, Windows PowerShell, PowerShell Core and Vim/Neovim. Works on Linux/Windows/WSL/Cygwin/Git Bash/VS Code Remote - Containers. Good cross platform configuration that works
 - [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.
 - [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) - The Official Bash Bunny Payload Repository
@@ -5501,7 +5502,7 @@
 - [vrmarcelino/MetaModels](https://github.com/vrmarcelino/MetaModels) - Scripts to analyse metagenome-wide metabolic models
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
-- [Rxm0n/freegpt-webui](https://github.com/Rxm0n/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
+- [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
@@ -6255,6 +6256,7 @@
 
 ## Rust 
 
+- [coreos/bootupd](https://github.com/coreos/bootupd) - Bootloader updater
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
@@ -6909,7 +6911,7 @@
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
-- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
+- [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix Web ecosystem usage.
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
@@ -8143,7 +8145,7 @@
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
-- [samchon/nestia](https://github.com/samchon/nestia) - Make NestJS much faster and easier
+- [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper Libraries + TypeScript OpenAPI generator
 - [fabiospampinato/vscode-todo-plus](https://github.com/fabiospampinato/vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - LLM powered development for VSCode
 - [marp-team/marp-vscode](https://github.com/marp-team/marp-vscode) - Marp for VS Code: Create slide deck written in Marp Markdown on VS Code
@@ -8247,7 +8249,7 @@
 - [jvidalv/vital](https://github.com/jvidalv/vital) - Starter template for Vite with React (TypeScript). Supports Tailwind. Vitest and @react/testing-library configured and ready to go. Also ESLint, Prettier, Husky, Commit-lint and Atomic Design for comp
 - [kbysiec/vite-vanilla-ts-lib-starter](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - The starter is built on top of Vite 5.x and prepared for writing libraries in TypeScript. It generates a hybrid package - both support for CommonJS and ESM modules.
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + Solid add support for Android and iOS on top of desktop builds (linux, mac, windows).
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidJS
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI V2 and Nextjs.
 - [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template) - A plugin template for Zotero.
 - [tjx666/awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
