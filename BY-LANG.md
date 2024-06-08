@@ -655,7 +655,7 @@
 - [second-state/runw](https://github.com/second-state/runw) - 
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [WAVM/WAVM](https://github.com/WAVM/WAVM) - WebAssembly Virtual Machine
-- [ajayrandhawa/Keylogger](https://github.com/ajayrandhawa/Keylogger) - Keylogger is 100% invisible keylogger not only for users, but also undetectable by antivirus software. Blackcat keylogger Monitors all keystokes, Mouse clicks. It has a seperate process which continue
+- [ajayrandhawa/Keylogger](https://github.com/ajayrandhawa/Keylogger) - Keylogger is 100% invisible keylogger not only for users, but also undetectable by antivirus software. keylogger Monitors all keystokes, Mouse clicks. It has a seperate process which continues capture
 - [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
 - [Tripwire/tripwire-open-source](https://github.com/Tripwire/tripwire-open-source) - Open Source Tripwire®
 - [joelsernamoreno/EvilCrow-RF](https://github.com/joelsernamoreno/EvilCrow-RF) - Evil Crow RF device.
@@ -2884,6 +2884,7 @@
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [hlavki/g-suite-identity-sync](https://github.com/hlavki/g-suite-identity-sync) - G Suite to LDAP identity synchronizer
 - [OpenIdentityPlatform/OpenAM](https://github.com/OpenIdentityPlatform/OpenAM) - OpenAM is an open access management solution that includes Authentication, SSO, Authorization, Federation, Entitlements and Web Services Security.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [JumpMind/symmetric-ds](https://github.com/JumpMind/symmetric-ds) - SymmetricDS is database replication and file synchronization software that is platform independent, web enabled, and database agnostic.  It is designed to make bi-directional data replication fast, ea
 - [codeabovelab/haven-platform](https://github.com/codeabovelab/haven-platform) - Haven is an open source Docker container management system. It integrates container, application, cluster, image, and registry management in one single place.
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
@@ -3117,7 +3118,7 @@
 - [ryanmcdermott/starmark](https://github.com/ryanmcdermott/starmark) - :octocat: Turn your GitHub stars into Chrome bookmarks
 - [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts) - Custom tweaks and preferences for Firefox
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
-- [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your everyday web browser.
+- [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - A CLI tool to replace and automate your daily web browser.
 - [pulse-browser/browser](https://github.com/pulse-browser/browser) - Pulse Browser: An experimental firefox fork
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 пользовательских скриптов
@@ -4425,7 +4426,6 @@
 ## Nim 
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [Yardanico/cosmonim](https://github.com/Yardanico/cosmonim) - A Nim template to compile your code with the Cosmopolitan libc
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
 
@@ -4708,7 +4708,6 @@
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
@@ -5236,7 +5235,7 @@
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [RASSec/pentestER-Fully-automatic-scanner](https://github.com/RASSec/pentestER-Fully-automatic-scanner) - DNS Subdomain● Brute force ● Web Spider ● Nmap Scan ● etc
 - [0x4D31/burpa](https://github.com/0x4D31/burpa) - Burp-Automator: A Burp Suite Automation Tool with Slack Integration. It can be used with Jenkins and Selenium to automate Dynamic Application Security Testing (DAST).
-- [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
+- [topcodersonline-solutions/betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
 - [BishopFox/GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
 - [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
@@ -6454,7 +6453,7 @@
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek...
 - [matthewwoodruff/sdoc](https://github.com/matthewwoodruff/sdoc) - Framework for building custom CLIs around shell, scripts, and executables
-- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many opering systems
+- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -6509,7 +6508,7 @@
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-- [apache/incubator-horaedb](https://github.com/apache/incubator-horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database.
+- [apache/horaedb](https://github.com/apache/horaedb) - Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database.
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [ForetagInc/alchemy](https://github.com/ForetagInc/alchemy) - Archived - High performance, realtime BaaS with RBAC, graphing, full text search, S3 / B2 Storage and GIS with a GraphQL, gRPC and REST API
@@ -6554,6 +6553,7 @@
 - [quickwit-oss/tantivy-cli](https://github.com/quickwit-oss/tantivy-cli) - 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [pact-foundation/pact-plugins](https://github.com/pact-foundation/pact-plugins) - 🏰 Architecture to support Plugins 🔌 with Pact 🔗
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - An Event Sourcing runtime with WebAssembly & embedded event store
 - [shashwatah/jot](https://github.com/shashwatah/jot) - ⚡Rapid note management for the terminal.
@@ -8130,7 +8130,7 @@
 - [ayungavis/turborepo-nextjs-tailwind-trpc](https://github.com/ayungavis/turborepo-nextjs-tailwind-trpc) - The boilerplate Turborepo + Next.js + Tailwind + tRPC provides a starting point for building modern, fast, and responsive web applications.
 - [intergalacticspacehighway/expo-trpc](https://github.com/intergalacticspacehighway/expo-trpc) - tRPC, expo universal monorepo
 - [romanzy313/trpc-uwebsockets](https://github.com/romanzy313/trpc-uwebsockets) - tRPC adapter for uWebSockets.js server
-- [trpkit/trpkit](https://github.com/trpkit/trpkit) - The monorepo to our applications that offers ZKPP and E2EE.
+- [trpkit/trpkit](https://github.com/trpkit/trpkit) - Privacy first, end-to-end encrypted web insights
 - [KyleAMathews/trpc-crdt](https://github.com/KyleAMathews/trpc-crdt) - tRPC integrations for CRDTs: CRDT-native RPC calls
 - [mkosir/trpc-api-boilerplate](https://github.com/mkosir/trpc-api-boilerplate) - ⚒️ Minimal tRPC API boilerplate for separate BE-FE repositories. Easily publish fully typesafe APIs that any frontend can consume.
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
@@ -8514,7 +8514,7 @@
 - [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [cucumber/vscode](https://github.com/cucumber/vscode) - Official Visual Studio Code Extension for Cucumber
-- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly.
+- [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Build low-code app on your codebase.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
@@ -9314,7 +9314,6 @@
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [bitwarden/directory-connector](https://github.com/bitwarden/directory-connector) - A tool for syncing a directory (AD, LDAP, Azure, G Suite, Okta) to an organization.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [mizchi/next-editor](https://github.com/mizchi/next-editor) - Standalone Git Editor on Browser
 - [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [huggingface/Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB
