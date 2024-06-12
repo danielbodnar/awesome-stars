@@ -64,6 +64,7 @@
 - [Kotlin](#kotlin)
 - [LiveScript](#livescript)
 - [Lua](#lua)
+- [Luau](#luau)
 - [M4](#m4)
 - [MATLAB](#matlab)
 - [MDX](#mdx)
@@ -163,6 +164,7 @@
 
 ## Awk 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Opensource lightweight posix script for tools (500+) management and classic command extensions
 - [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 
 ## Batchfile 
@@ -2909,6 +2911,10 @@
 
 ## JavaScript 
 
+- [nijikokun/generate-schema](https://github.com/nijikokun/generate-schema) - 🧞 Convert JSON Objects to MySQL, JSON Schema, Mongoose, Google BigQuery, Swagger, and more.
+- [APIPatterns/typespec-demo](https://github.com/APIPatterns/typespec-demo) - Demo of TypeSpec
+- [devthefuture-org/foundernetes](https://github.com/devthefuture-org/foundernetes) - Infra Idempotence As A Framework
+- [screwdriver-cd/config-parser](https://github.com/screwdriver-cd/config-parser) - Node module for parsing screwdriver.yaml configurations
 - [blue-build/schema](https://github.com/blue-build/schema) - TypeSpec schema for BlueBuild modules and recipes
 - [LaiJunBin/typespec-template](https://github.com/LaiJunBin/typespec-template) - This is a template for my typespec project, it implements a simple code-generation tool and hot-reloading server for typespec projects.
 - [mikekistler/typespec-openapiv3-examples](https://github.com/mikekistler/typespec-openapiv3-examples) - Examples of using TypeSpec to create OpenAPI v3 API definitions
@@ -3764,7 +3770,6 @@
 - [jadkins89/Recipe-Scraper](https://github.com/jadkins89/Recipe-Scraper) - A JS package for scraping recipes from the web.
 - [keenwilson/WhatsForDinner-WeeklyMealPlanner](https://github.com/keenwilson/WhatsForDinner-WeeklyMealPlanner) - A recipe/meal plan generator app that helps the user find something to cook and plan weekly meals for their family dinner.
 - [arimai/meal-planner](https://github.com/arimai/meal-planner) - A web application to plan what you eat daily in accordance to dietary needs
-- [food-nutrients/food-nutrients](https://github.com/food-nutrients/food-nutrients) - :fork_and_knife: Food Nutrients
 - [CoCreate-app/CoCreateJS](https://github.com/CoCreate-app/CoCreateJS) - A collaborative low code headless CMS and Javascript framework for building collaborative no code platforms, apps and UI's. Build powerful applications using HTML5 attributes or Javascript api.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [tideflow-io/tideflow](https://github.com/tideflow-io/tideflow) - Building extensible automation. Tideflow is a Realtime, open source workflows execution and monitorization web application.
@@ -3777,7 +3782,6 @@
 - [gobeam/truthy-react-frontend](https://github.com/gobeam/truthy-react-frontend) - Truthy CMS's Frontend application written in ReactJS & Redux Saga. This project includes UI implementation of User Management, Role Management, Permission Management, Email Module, Account Settings, O
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [shadcn/gatsby-themes](https://github.com/shadcn/gatsby-themes) - A collection of open source, well designed, highly customizable and 100% free Gatsby themes for blazing fast sites. We are working on the next version of the Flex theme. See https://github.com/reflexj
-- [p3ol/oak](https://github.com/p3ol/oak) - 🌳  Modern, lightweight & modulable page builder
 - [pilotpirxie/visual-editor](https://github.com/pilotpirxie/visual-editor) - 🏗 Website editor built with React. Make a modern website in seconds with predefined blocks and drag and drop.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [eclipse/streamsheets](https://github.com/eclipse/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
@@ -4328,7 +4332,6 @@
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [nccgroup/nmap-nse-vulnerability-scripts](https://github.com/nccgroup/nmap-nse-vulnerability-scripts) - NMAP Vulnerability Scanning Scripts
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
-- [dphfox/Fusion](https://github.com/dphfox/Fusion) - A modern reactive UI library, built specifically for Roblox and Luau.
 - [luvit/lit](https://github.com/luvit/lit) - Toolkit for developing, sharing, and running luvit/lua programs and libraries.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -4343,6 +4346,10 @@
 - [lawsdontapplytopigs/dotfiles](https://github.com/lawsdontapplytopigs/dotfiles) - welcome to my crybb 😎😎😎😎😎😎
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
+
+## Luau 
+
+- [dphfox/Fusion](https://github.com/dphfox/Fusion) - A modern reactive UI library, built specifically for Roblox and Luau.
 
 ## M4 
 
@@ -4780,6 +4787,7 @@
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [chihming/awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
 - [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Generative AI SDK for Web to create AI Agents for apps built with JavaScript, React, Angular, Vue, Ember, Electron
+- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [codediodeio/rektor-db](https://github.com/codediodeio/rektor-db) - Rektor Vector Database
 - [mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles) - Design Microservices Architecture with Patterns & Principles. We're going to learn how to Design Microservices Architecture with using Design Patterns, Principles and the Best Practices.  You will Lea
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
@@ -5196,7 +5204,7 @@
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [peaceiris/mkdocs-material-boilerplate](https://github.com/peaceiris/mkdocs-material-boilerplate) - MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.
 - [dharmatech/fed_net_liquidity.py](https://github.com/dharmatech/fed_net_liquidity.py) - 
-- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform, Linux terminal command manager. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass em
+- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform terminal command manager. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass empowers 
 - [Eugeny/tabby-connection-gateway](https://github.com/Eugeny/tabby-connection-gateway) - Connection gateway for Tabby Web
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to.
 - [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) - Tabby Web - an SSH/Telnet/Serial client in your browser.
@@ -6333,7 +6341,7 @@
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of an LLM or any other script
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what the past year looks like in command line!
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - A Rust-Based Shell History Analyzer
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [ashuio/shavee](https://github.com/ashuio/shavee) - shavee is a Program to automatically decrypt and mount ZFS datasets using Yubikey HMAC as 2FA or any File on USB/SFTP/HTTPS drive with support for PAM to auto mount home directories.
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
@@ -7099,6 +7107,7 @@
 
 ## Shell 
 
+- [buildpacks/spec](https://github.com/buildpacks/spec) - Specification for Cloud Native Buildpacks
 - [ssh0/dot](https://github.com/ssh0/dot) - Simplest dotfiles manager written in shellscript :shell:
 - [zulip/docker-zulip](https://github.com/zulip/docker-zulip) - Container configurations, images, and examples for Zulip.
 - [airflow-helm/charts](https://github.com/airflow-helm/charts) - The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2017, it has since helped thousands of companies create production-rea
@@ -7876,6 +7885,13 @@
 
 ## TypeScript 
 
+- [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config) - Load configuration variables from multiple sources with flexible adapters, ensuring type safety with Zod.
+- [cloydlau/json-editor-vue](https://github.com/cloydlau/json-editor-vue) - Vue 2.6/2.7/3 & Nuxt 2/3 isomorphic JSON editor, viewer, formatter and validator.
+- [nestjs/schematics](https://github.com/nestjs/schematics) - Nest architecture element generation based on Angular schematics 🎬
+- [fabien0102/openapi-codegen](https://github.com/fabien0102/openapi-codegen) - A tool for generating code base on an OpenAPI schema.
+- [google/schema-dts](https://github.com/google/schema-dts) - JSON-LD TypeScript types for Schema.org vocabulary
+- [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
+- [httptoolkit/openapi-directory-js](https://github.com/httptoolkit/openapi-directory-js) - Building & bundling https://github.com/APIs-guru/openapi-directory for easy use from JS
 - [unplugin/unplugin-replace](https://github.com/unplugin/unplugin-replace) - A universal bundler plugin which replaces targeted strings in files.
 - [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter) - Starter template for unplugin
 - [unplugin/unplugin-vue-jsx](https://github.com/unplugin/unplugin-vue-jsx) - Vue JSX plugin for both Vue 2 and 3. Support Rollup, Vite, esbuild, Webpack, and more.
@@ -8672,7 +8688,7 @@
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
 - [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [amannn/next-intl](https://github.com/amannn/next-intl) - Internationalization (i18n) for Next.js that gets out of your way. 🌐
+- [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js
 - [asyncapi/glee](https://github.com/asyncapi/glee) - Glee — The AsyncAPI framework that will make you smile again :)
 - [sibiraj-s/ngx-editor](https://github.com/sibiraj-s/ngx-editor) - 🖋️ Rich Text Editor for angular using ProseMirror
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
@@ -9051,7 +9067,6 @@
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
 - [zzj3720/blocksvite](https://github.com/zzj3720/blocksvite) - A simple Block editor like BlockSuite, based on Vue and @blocksuite/store
-- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [FourThievesVinegar/vinni](https://github.com/FourThievesVinegar/vinni) - 
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [cto-ai/web-app-generator](https://github.com/cto-ai/web-app-generator) - 📦An opinionated approach for generating a web application using The Ops Platform 🚀
@@ -9181,6 +9196,7 @@
 - [marcellobarile/nutrifacts.js](https://github.com/marcellobarile/nutrifacts.js) - A library to calculate nutrition facts, smartly. No third party services or remote DBs involved.
 - [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.
 - [frontendnetwork/veganify](https://github.com/frontendnetwork/veganify) - Veganify is a modern webapp that allows you to easily scan EAN barcodes to check if a product is vegan-friendly. With a database of over 3 million products, you can quickly find out if your favorite f
+- [food-nutrients/food-nutrients](https://github.com/food-nutrients/food-nutrients) - :fork_and_knife: Food Nutrients
 - [vangelov/calories-in](https://github.com/vangelov/calories-in) - A web-based meal plan editor for people who prepare all of their food.
 - [ConduitPlatform/Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries-included backend that works with any stack.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
@@ -9209,6 +9225,7 @@
 - [b4rtaz/t3mpl-editor](https://github.com/b4rtaz/t3mpl-editor) - Generic editor and static site generator in browser.
 - [zalify/easy-email-editor](https://github.com/zalify/easy-email-editor) - Easy Email Editor is a feature-rich, top open-source SaaS email editor based on React and MJML.
 - [hodgef/PRSS](https://github.com/hodgef/PRSS) - PRSS Site Creator. Powerful Editor for Blogs & Websites using Github Pages
+- [p3ol/oak](https://github.com/p3ol/oak) - 🌳  Modern, lightweight & modulable page builder
 - [paperbits/paperbits-forms](https://github.com/paperbits/paperbits-forms) - This repository contains widgets and editors for building input forms.
 - [crusher-dev/crusher](https://github.com/crusher-dev/crusher) - 🧙‍♀️ Fast low-code testing — create, run tests and get alerts ⏱️ Create test in &lt;60 secs  👉 Better open source alternative to selenium, cypress and puppeteer
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
