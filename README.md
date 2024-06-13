@@ -2326,7 +2326,7 @@
 
 - [ssh0/dot](https://github.com/ssh0/dot) - Simplest dotfiles manager written in shellscript :shell:
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
-- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform, Linux terminal command manager. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass em
+- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform terminal command manager/notebook. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass 
 - [bytebutcher/bundler.sh](https://github.com/bytebutcher/bundler.sh) - Bundle multiple shell scripts into a single executable.
 - [xwmx/search.sh](https://github.com/xwmx/search.sh) - A command line search multi-tool.
 - [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
@@ -2373,7 +2373,7 @@
 - [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts.
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what the past year looks like in command line!
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - A Rust-Based Shell History Analyzer
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
@@ -3213,6 +3213,7 @@
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
@@ -3523,6 +3524,7 @@
 
 ## cli 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Opensource lightweight posix script for tools (500+) management and classic command extensions
 - [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild's command line program that builds custom Fedora Atomic images based on your recipe.yml
 - [frinyvonnick/gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - A changelog generator for gitmoji 😜
 - [aurelia/cli](https://github.com/aurelia/cli) - The Aurelia 1 command line tool. Use the CLI to create projects, scaffold components, and bundle your app for release.
@@ -3599,7 +3601,7 @@
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [ropery/FFcast](https://github.com/ropery/FFcast) - Run command on rectangular screen regions
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what the past year looks like in command line!
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - A Rust-Based Shell History Analyzer
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
 - [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 - [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
@@ -4172,6 +4174,7 @@
 
 ## cloud 
 
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Opensource lightweight posix script for tools (500+) management and classic command extensions
 - [guiqui/k8Studio](https://github.com/guiqui/k8Studio) - K8Studio: A Kubernetes IDE
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
@@ -4518,6 +4521,7 @@
 
 ## cncf 
 
+- [buildpacks/spec](https://github.com/buildpacks/spec) - Specification for Cloud Native Buildpacks
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
@@ -4647,7 +4651,7 @@
 - [ptkdev-boilerplate/node-cli-boilerplate](https://github.com/ptkdev-boilerplate/node-cli-boilerplate) - 🪓 Create node cli with this user friendly boilerplate
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
-- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform, Linux terminal command manager. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass em
+- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform terminal command manager/notebook. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass 
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [xwmx/search.sh](https://github.com/xwmx/search.sh) - A command line search multi-tool.
@@ -4951,6 +4955,7 @@
 
 ## config 
 
+- [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config) - Load configuration variables from multiple sources with flexible adapters, ensuring type safety with Zod.
 - [nestjsx/nestjs-config](https://github.com/nestjsx/nestjs-config) - Config module for nestjs using dotenv :key:
 - [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
@@ -10305,7 +10310,7 @@
 
 ## good-first-issue 
 
-- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform, Linux terminal command manager. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass em
+- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform terminal command manager/notebook. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass 
 - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -13190,6 +13195,8 @@
 
 ## json 
 
+- [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config) - Load configuration variables from multiple sources with flexible adapters, ensuring type safety with Zod.
+- [cloydlau/json-editor-vue](https://github.com/cloydlau/json-editor-vue) - Vue 2.6/2.7/3 & Nuxt 2/3 isomorphic JSON editor, viewer, formatter and validator.
 - [omniti-labs/jsend](https://github.com/omniti-labs/jsend) - JSend is a specification for a simple, no-frills, JSON based format for application-level communication.
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [glideapps/quicktype-vscode](https://github.com/glideapps/quicktype-vscode) - VS Code extension to convert JSON to TypeScript, C#, Go, and many more
@@ -13434,6 +13441,7 @@
 
 ## knowledge-graph 
 
+- [google/schema-dts](https://github.com/google/schema-dts) - JSON-LD TypeScript types for Schema.org vocabulary
 - [DerwenAI/kglab](https://github.com/DerwenAI/kglab) - Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython,
 - [IntelLabs/fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework
 - [AKSW/KBox](https://github.com/AKSW/KBox) - 📦 The Knowledge Box - A data dependency management framework to help users to publish, find and install data models
@@ -14360,7 +14368,7 @@
 
 - [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client) - Node.js command-line client for tldr pages
 - [frzam/hail](https://github.com/frzam/hail) - Cross-platform script management CLI written in go.
-- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform, Linux terminal command manager. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass em
+- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform terminal command manager/notebook. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass 
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) - Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code and re-use it everywhere (local machine, CI, server ...)  💻 🚀 ✨
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [bytebutcher/bundler.sh](https://github.com/bytebutcher/bundler.sh) - Bundle multiple shell scripts into a single executable.
@@ -14860,6 +14868,7 @@
 - [instructor-ai/instructor-js](https://github.com/instructor-ai/instructor-js) - structured extraction for llms
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [lrvl/ollama-twice](https://github.com/lrvl/ollama-twice) - Watch and hear endless conversations between two ollamas, hence the Two-Way Conversation Engine (TWICE)
@@ -15097,6 +15106,7 @@
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
@@ -16907,6 +16917,7 @@
 
 ## nodejs 
 
+- [nestjs/schematics](https://github.com/nestjs/schematics) - Nest architecture element generation based on Angular schematics 🎬
 - [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client) - Node.js command-line client for tldr pages
 - [ahmadawais/create-node-cli](https://github.com/ahmadawais/create-node-cli) - 📟 CLI to create new Node.js CLI applications in minutes not hours.
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI. Written in TypeScript/Node
@@ -17363,6 +17374,7 @@
 - [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build po
 - [denyncrawford/dndb](https://github.com/denyncrawford/dndb) - A Deno 🦕 persistent, embeddable and optimized NoSQL database for JS & TS
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
 - [nosqlclient/nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
 - [alash3al/redix](https://github.com/alash3al/redix) - a very simple pure key =&gt; value storage system that speaks Redis protocol with Postgres as storage engine and more
 - [jiangwenyuan/nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
@@ -17448,6 +17460,7 @@
 
 ## nuxt 
 
+- [cloydlau/json-editor-vue](https://github.com/cloydlau/json-editor-vue) - Vue 2.6/2.7/3 & Nuxt 2/3 isomorphic JSON editor, viewer, formatter and validator.
 - [nuxt-modules/ionic](https://github.com/nuxt-modules/ionic) - Batteries-included, zero-config Ionic integration for Nuxt
 - [nuxtlabs/studio-module](https://github.com/nuxtlabs/studio-module) - Edit Nuxt Content website with a visual editor, in produciton.
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
@@ -17916,6 +17929,14 @@
 
 ## others 
 
+- [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
+- [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
+- [nijikokun/generate-schema](https://github.com/nijikokun/generate-schema) - 🧞 Convert JSON Objects to MySQL, JSON Schema, Mongoose, Google BigQuery, Swagger, and more.
+- [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
+- [APIPatterns/typespec-demo](https://github.com/APIPatterns/typespec-demo) - Demo of TypeSpec
+- [httptoolkit/openapi-directory-js](https://github.com/httptoolkit/openapi-directory-js) - Building & bundling https://github.com/APIs-guru/openapi-directory for easy use from JS
+- [devthefuture-org/foundernetes](https://github.com/devthefuture-org/foundernetes) - Infra Idempotence As A Framework
+- [screwdriver-cd/config-parser](https://github.com/screwdriver-cd/config-parser) - Node module for parsing screwdriver.yaml configurations
 - [unplugin/unplugin-replace](https://github.com/unplugin/unplugin-replace) - A universal bundler plugin which replaces targeted strings in files.
 - [unplugin/unplugin-starter](https://github.com/unplugin/unplugin-starter) - Starter template for unplugin
 - [blue-build/schema](https://github.com/blue-build/schema) - TypeSpec schema for BlueBuild modules and recipes
@@ -17953,7 +17974,7 @@
 - [actions/importer-labs](https://github.com/actions/importer-labs) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [project-stacker/stacker](https://github.com/project-stacker/stacker) - Build OCI images natively from a declarative format
 - [markuman/tinywebdis](https://github.com/markuman/tinywebdis) - tinywebdis - a lean webdis replacement using turbo.lua
-- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator to create Kubernetes-native APIs from Helm charts for multi-instance SaaS
+- [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator for Cloud-Native SaaS
 - [kurokobo/awx-on-k3s](https://github.com/kurokobo/awx-on-k3s) - An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords.
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
@@ -21306,7 +21327,7 @@
 
 - [subuser-security/subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
 - [SanPen/GridCal](https://github.com/SanPen/GridCal) - GridCal, a cross-platform power systems software written in Python with user interface, used in academia and industry.
-- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform, Linux terminal command manager. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass em
+- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform terminal command manager/notebook. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass 
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [DevDungeon/Cookbook](https://github.com/DevDungeon/Cookbook) - Code snippets for various programming languages and libraries
@@ -21869,6 +21890,7 @@
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
@@ -22180,7 +22202,7 @@
 - [hackmcgill/dashboard](https://github.com/hackmcgill/dashboard) - 🐥 McHacks dashboard
 - [Olanetsoft/awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) - This is a curated list of amazing hackathon projects
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
-- [amannn/next-intl](https://github.com/amannn/next-intl) - Internationalization (i18n) for Next.js that gets out of your way. 🌐
+- [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js
 - [osdevisnot/klap](https://github.com/osdevisnot/klap) - zero config, zero dependency bundler for tiny javascript packages
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [hatashiro/pen](https://github.com/hatashiro/pen) - We need a better Markdown previewer.
@@ -22974,7 +22996,7 @@
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [Onelinerhub/onelinerhub](https://github.com/Onelinerhub/onelinerhub) - Thousands of code solutions with clear explanation @ onelinerhub.com
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what the past year looks like in command line!
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - A Rust-Based Shell History Analyzer
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
@@ -24489,7 +24511,7 @@
 
 ## shell 
 
-- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform, Linux terminal command manager. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass em
+- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform terminal command manager/notebook. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass 
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
@@ -25306,7 +25328,7 @@
 ## terminal 
 
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
-- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform, Linux terminal command manager. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass em
+- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform terminal command manager/notebook. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass 
 - [Piturnah/gex](https://github.com/Piturnah/gex) - Git Explorer: cross-platform git workflow improvement tool inspired by Magit
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [ericfreese/rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
@@ -26095,6 +26117,10 @@
 
 ## typescript 
 
+- [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config) - Load configuration variables from multiple sources with flexible adapters, ensuring type safety with Zod.
+- [nestjs/schematics](https://github.com/nestjs/schematics) - Nest architecture element generation based on Angular schematics 🎬
+- [fabien0102/openapi-codegen](https://github.com/fabien0102/openapi-codegen) - A tool for generating code base on an OpenAPI schema.
+- [google/schema-dts](https://github.com/google/schema-dts) - JSON-LD TypeScript types for Schema.org vocabulary
 - [egoist/rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild) - Use ESBuild with Rollup to transform ESNext and TypeScript code.
 - [mnahkies/openapi-code-generator](https://github.com/mnahkies/openapi-code-generator) - A code generation tool for openapi 3 / 3.1 specifications written in typescript, primarily aimed at generating typescript clients and server stubs. Other target languages may be added in future.
 - [aurelia/cli](https://github.com/aurelia/cli) - The Aurelia 1 command line tool. Use the CLI to create projects, scaffold components, and bundle your app for release.
@@ -27377,6 +27403,8 @@
 
 ## vue 
 
+- [antfu-collective/vitesse-lite](https://github.com/antfu-collective/vitesse-lite) - ⛺️ Lightweight version of Vitesse
+- [cloydlau/json-editor-vue](https://github.com/cloydlau/json-editor-vue) - Vue 2.6/2.7/3 & Nuxt 2/3 isomorphic JSON editor, viewer, formatter and validator.
 - [unplugin/unplugin-vue-jsx](https://github.com/unplugin/unplugin-vue-jsx) - Vue JSX plugin for both Vue 2 and 3. Support Rollup, Vite, esbuild, Webpack, and more.
 - [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, community-driven, dependable, fast Vite-based frontend framework.
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
@@ -28441,7 +28469,7 @@
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what the past year looks like in command line!
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - A Rust-Based Shell History Analyzer
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
