@@ -529,6 +529,9 @@
 
 ## C++ 
 
+- [alexandria-org/alexandria](https://github.com/alexandria-org/alexandria) - Full text search engine powering Alexandria.org - the open search engine.
+- [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast full-text and vector search
 - [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland) - xdg-desktop-portal backend for Hyprland
 - [chenshuo/recipes](https://github.com/chenshuo/recipes) - Some code snippets for sharing
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
@@ -1049,6 +1052,9 @@
 
 ## Go 
 
+- [Debian/dcs](https://github.com/Debian/dcs) - Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!
+- [karust/openserp](https://github.com/karust/openserp) - Get Google, Yandex, Baidu search engine results via API or CLI for free 🎉
+- [cybercongress/go-cyber](https://github.com/cybercongress/go-cyber) - Your 🔵 Superintelligence
 - [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm) - The Cluster API provider for creating microvm (i.e. Firecracker, Cloud Hypervisor) clusters
 - [Allenxuxu/gev](https://github.com/Allenxuxu/gev) - 🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.
 - [frzam/hail](https://github.com/frzam/hail) - Cross-platform script management CLI written in go.
@@ -1739,7 +1745,7 @@
 - [mojocn/felix](https://github.com/mojocn/felix) - A Friendly SSH Jumper Bastion Fortress Server
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
-- [indeedeng/iwf](https://github.com/indeedeng/iwf) - iWF is an API orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes
+- [indeedeng/iwf](https://github.com/indeedeng/iwf) - iWF is a WorkflowAsCode API orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [norouter/norouter](https://github.com/norouter/norouter) - NoRouter: IP-over-Stdio. The easiest multi-host & multi-cloud networking ever. No root privilege is required.
@@ -2545,7 +2551,7 @@
 - [ibudasov/hydra](https://github.com/ibudasov/hydra) - A containerized app with Redis dependency, wrapped in docker-compose, orchestrated with Kubernetes, monitored with Prometheus and Grafana, deployed in GKE with Github Actions. Provisioned with Terrafo
 - [cloudposse/terraform-aws-security-group](https://github.com/cloudposse/terraform-aws-security-group) - Terraform module to provision an AWS Security Group
 - [btkrausen/hashicorp](https://github.com/btkrausen/hashicorp) - Random code for HashiCorp related projects, training, etc.
-- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
@@ -2575,6 +2581,9 @@
 
 ## HTML 
 
+- [Aquila-Network/aquila](https://github.com/Aquila-Network/aquila) - An easy to use Neural Search Engine. Index latent vectors along with JSON metadata and do efficient k-NN search.
+- [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
+- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 - [DevUnltd/js-library-boilerplate-basic](https://github.com/DevUnltd/js-library-boilerplate-basic) - Javascript Minimal Starter Boilerplate - Webpack 5 🚀, Babel 7, UMD, Unit Testing
 - [flexdinesh/dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
 - [a-sharapov/bun-shell](https://github.com/a-sharapov/bun-shell) - Small bun shell based CLI
@@ -2911,6 +2920,10 @@
 
 ## JavaScript 
 
+- [thesephist/revery](https://github.com/thesephist/revery) - A personal semantic search engine capable of surfacing relevant bookmarks, journal entries, notes, blogs, contacts, and more, built on an efficient document embedding algorithm and Monocle's personal 
+- [itemsapi/itemsjs](https://github.com/itemsapi/itemsjs) - Extremely fast faceted search engine in JavaScript - lightweight, flexible, and simple to use
+- [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus an
+- [garywill/BigSearch](https://github.com/garywill/BigSearch) - Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 - [nijikokun/generate-schema](https://github.com/nijikokun/generate-schema) - 🧞 Convert JSON Objects to MySQL, JSON Schema, Mongoose, Google BigQuery, Swagger, and more.
 - [APIPatterns/typespec-demo](https://github.com/APIPatterns/typespec-demo) - Demo of TypeSpec
 - [devthefuture-org/foundernetes](https://github.com/devthefuture-org/foundernetes) - Infra Idempotence As A Framework
@@ -4225,6 +4238,7 @@
 
 ## Jupyter Notebook 
 
+- [treygrainger/ai-powered-search](https://github.com/treygrainger/ai-powered-search) - The codebase for the book "AI-Powered Search" (Manning Publications, 2024)
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000+ Unsplash images made available for research and machine learning
 - [cssmodels/howtousellms](https://github.com/cssmodels/howtousellms) - This offers a Jupyter Notebook introduction on how to use Large Language Models for text analysis within the social sciences.
@@ -4520,6 +4534,8 @@
 
 ## Others 
 
+- [gottingen/kumo-search](https://github.com/gottingen/kumo-search) - docs for search system and ai infra
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [omniti-labs/jsend](https://github.com/omniti-labs/jsend) - JSend is a specification for a simple, no-frills, JSON based format for application-level communication.
 - [jeena/fxsync-docker](https://github.com/jeena/fxsync-docker) - Docker compose and other useful files for selfhosting of Firefox sync server
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
@@ -5197,6 +5213,15 @@
 
 ## Python 
 
+- [Bhupesh-V/tutorialdb](https://github.com/Bhupesh-V/tutorialdb) - A search 🔎 engine for programming/dev tutorials,
+- [AnonCatalyst/Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT) - This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user
+- [AmenRa/retriv](https://github.com/AmenRa/retriv) - A Python Search Engine for Humans 🥸
+- [Ravn-Tech/HyperTag](https://github.com/Ravn-Tech/HyperTag) - HyperTag - Intuitive Knowledge Management WebApp & CLI for Humans using Deep Learning & Tags
+- [soxoj/marple](https://github.com/soxoj/marple) - 📖 Collect links to profiles by username through search engines and analyze with various plugins
+- [WordPress/openverse](https://github.com/WordPress/openverse) - Openverse is a search engine for openly-licensed media. This monorepo includes all application code.
+- [EulerSearch/embedding_studio](https://github.com/EulerSearch/embedding_studio) - Embedding Studio is a framework which allows you transform your Vector Database into a feature-rich Search Engine.
+- [essamamdani/search-result-scraper-markdown](https://github.com/essamamdani/search-result-scraper-markdown) - This project provides a powerful web scraping tool that fetches search results and converts them into Markdown format using FastAPI, SearXNG, and Browserless. It includes the capability to use proxies
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [subuser-security/subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
 - [posativ/weave-minimal](https://github.com/posativ/weave-minimal) - lightweight firefox weave/sync server
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
@@ -6296,6 +6321,9 @@
 
 ## Rust 
 
+- [izihawa/summa](https://github.com/izihawa/summa) - Full-text IPFS-friendly and WASM-compatible Search in Rust
+- [minio/minsql](https://github.com/minio/minsql) - High-performance log search engine.
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building search, recommendations, and RAG. Trieve combines search language models with tools for tuning ranking and relevance.
 - [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild's command line program that builds custom Fedora Atomic images based on your recipe.yml
 - [hatoo/cargo-snippet](https://github.com/hatoo/cargo-snippet) - A snippet extrator for competitive programmers
 - [mozilla/dogear](https://github.com/mozilla/dogear) - Firefox Sync's bookmark tree merging algorithm. 📚
@@ -6340,7 +6368,7 @@
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [jasonjmcghee/plock](https://github.com/jasonjmcghee/plock) - From anywhere you can type, query and stream the output of an LLM or any other script
 - [Hyde46/hoard](https://github.com/Hyde46/hoard) - cli command organizer written in rust
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - A Rust-Based Shell History Analyzer
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 Rust-Based Shell History Analyzer
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [ashuio/shavee](https://github.com/ashuio/shavee) - shavee is a Program to automatically decrypt and mount ZFS datasets using Yubikey HMAC as 2FA or any File on USB/SFTP/HTTPS drive with support for PAM to auto mount home directories.
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
@@ -6422,7 +6450,7 @@
 - [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
 - [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
 - [GeekMasher/quibble](https://github.com/GeekMasher/quibble) - A container security tool written in Rust focusing on making security easy for compose based configurations
-- [wrpc/wrpc](https://github.com/wrpc/wrpc) - Wasm component-native RPC framework
+- [bytecodealliance/wrpc](https://github.com/bytecodealliance/wrpc) - Wasm component-native RPC framework
 - [rustifybe/web-rpc](https://github.com/rustifybe/web-rpc) - Bi-directional RPC for the Web
 - [brytelands/sologger](https://github.com/brytelands/sologger) - Sologger is a group of libraries and binaries that can be used to parse raw logs emitted from a Solana RPC into structured logs and transport Solana logs to either a LogStash or OpenTelemetry endpoint
 - [near/read-rpc](https://github.com/near/read-rpc) - Read-only NEAR RPC centralized-like performant solution
@@ -6455,7 +6483,7 @@
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) - A simple example with Rust and Cosmopolitan Libc
 - [avalon1610/spa-rs](https://github.com/avalon1610/spa-rs) - Library who can embed all SPA web application files into a single binary executable.
 - [cjrh/lifter](https://github.com/cjrh/lifter) - Download and sync new releases of single-file binaries from Github Releases and other sites
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [lpenz/rust-sourcebundler](https://github.com/lpenz/rust-sourcebundler) - Bundle the source code of a binary in a crate into a single .rs file to be used in single-file programming competition sites
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
@@ -7106,6 +7134,7 @@
 
 ## Shell 
 
+- [filiparag/wikiman](https://github.com/filiparag/wikiman) - Wikiman is an offline search engine for manual pages, Arch Wiki, Gentoo Wiki and other documentation.
 - [buildpacks/spec](https://github.com/buildpacks/spec) - Specification for Cloud Native Buildpacks
 - [ssh0/dot](https://github.com/ssh0/dot) - Simplest dotfiles manager written in shellscript :shell:
 - [zulip/docker-zulip](https://github.com/zulip/docker-zulip) - Container configurations, images, and examples for Zulip.
@@ -7814,6 +7843,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - A based rollup. 🥁
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) - End-to-end encrypted file transfer.
@@ -7884,6 +7914,21 @@
 
 ## TypeScript 
 
+- [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - 😎 An open-source, pretty, simple and fast ⚡ meilisearch admin dashboard UI for managing your meilisearch instances 🕹
+- [kachkaev/njt](https://github.com/kachkaev/njt) - njt (npm jump to): a quick navigation tool for npm packages
+- [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
+- [JoshuaRabiu/spresso-search](https://github.com/JoshuaRabiu/spresso-search) - Visual metasearch engine built with TypeScript, React, Redux & Express
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
+- [sapphiredev/website](https://github.com/sapphiredev/website) - Documentation for Sapphire Project
+- [udondan/cdk-ec2-key-pair](https://github.com/udondan/cdk-ec2-key-pair) - AWS CDK L3 construct for managing EC2 Key Pairs
+- [openstax/rex-web](https://github.com/openstax/rex-web) - Unified Reading EXperience
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [janus-idp/backstage-plugins](https://github.com/janus-idp/backstage-plugins) - Plugins for Backstage
+- [itzsaga/reading-plan-worker](https://github.com/itzsaga/reading-plan-worker) - Cloudflare worker to serve up The Axis Church reading plan each day.
+- [awslabs/aws-crt-nodejs](https://github.com/awslabs/aws-crt-nodejs) - NodeJS bindings for the AWS Common Runtime.
+- [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
+- [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
+- [unyt-org/uix](https://github.com/unyt-org/uix) - The UIX Framework
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [antfu-collective/vitesse-lite](https://github.com/antfu-collective/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
@@ -8071,7 +8116,7 @@
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based crawler in a single Docker container
 - [cncf/landscape2](https://github.com/cncf/landscape2) - Landscape2 is a tool that generates interactive landscapes websites
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines alternative. Automate security workflows at scale with code and no-code.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative.
 - [vazco/uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema.
 - [radarsu/radarsu](https://github.com/radarsu/radarsu) - Node.js server-side TypeScript framework with one thing in mind - removing code is easier than writing it. Auto-generated Swagger docs, REST, GraphQL, WebSockets and others - have it all, delete what 
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
@@ -8545,7 +8590,7 @@
 - [otto-de/api-guidelines](https://github.com/otto-de/api-guidelines) - A set of rules to build consistent and high quality REST and Async APIs at OTTO.
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
-- [fern-api/fern](https://github.com/fern-api/fern) - 🌿 Stripe-level SDKs and Docs for your API
+- [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
@@ -9076,7 +9121,7 @@
 - [cto-ai/k8s](https://github.com/cto-ai/k8s) - 📦Managing Kubernetes using Slack + CLI on The Ops Platform 🚀
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
-- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
+- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [warpdotdev/commands.dev](https://github.com/warpdotdev/commands.dev) - Commands.dev is a searchable, templated catalog of popular terminal commands curated from across the internet.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
