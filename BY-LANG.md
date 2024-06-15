@@ -2581,6 +2581,9 @@
 
 ## HTML 
 
+- [w3c/webrtc-extensions](https://github.com/w3c/webrtc-extensions) - A repository for experimental additions to the WebRTC API
+- [mdn/interactive-examples](https://github.com/mdn/interactive-examples) - Home of the MDN live code editor interactive examples
+- [mdn/learning-area](https://github.com/mdn/learning-area) - GitHub repo for the MDN Learning Area.
 - [Aquila-Network/aquila](https://github.com/Aquila-Network/aquila) - An easy to use Neural Search Engine. Index latent vectors along with JSON metadata and do efficient k-NN search.
 - [MetaOSINT/MetaOSINT.github.io](https://github.com/MetaOSINT/MetaOSINT.github.io) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis.
 - [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
@@ -2920,6 +2923,16 @@
 
 ## JavaScript 
 
+- [rooseveltframework/source-configs](https://github.com/rooseveltframework/source-configs) - 🎛 Provides structure to define app-level configuration schemas and automatically consume values via multiple sources in Node.js applications.
+- [vuepress/configs](https://github.com/vuepress/configs) - Config files for VuePress Organization
+- [mmkal/eslint-plugin-wrapper](https://github.com/mmkal/eslint-plugin-wrapper) - Write project-specific rules, in your own eslint config file.
+- [StackExchange/stacks-utils](https://github.com/StackExchange/stacks-utils) - A monorepo containing a collection of Stacks config files and other utilities
+- [GoSome/fileUpdater](https://github.com/GoSome/fileUpdater) - A WEB EDITOR FOR update linux config files with hook
+- [sbchapin/serverless-terraform-variables](https://github.com/sbchapin/serverless-terraform-variables) - Retrieve terraform output variables for interpolation in serverless configuration
+- [DanielBodnar/configorama](https://github.com/DanielBodnar/configorama) - ⚙️ ${variable} support for config files
+- [DavidWells/configorama](https://github.com/DavidWells/configorama) - ⚙️ ${variable} support for config files
+- [eslint/create-config](https://github.com/eslint/create-config) - Utility to create ESLint config files
+- [gh-conf/gh-conf-write](https://github.com/gh-conf/gh-conf-write) - Writes to gihub config file
 - [thesephist/revery](https://github.com/thesephist/revery) - A personal semantic search engine capable of surfacing relevant bookmarks, journal entries, notes, blogs, contacts, and more, built on an efficient document embedding algorithm and Monocle's personal 
 - [itemsapi/itemsjs](https://github.com/itemsapi/itemsjs) - Extremely fast faceted search engine in JavaScript - lightweight, flexible, and simple to use
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus an
@@ -4534,6 +4547,7 @@
 
 ## Others 
 
+- [mdn/.github](https://github.com/mdn/.github) - MDN Web Docs public organization profile
 - [gottingen/kumo-search](https://github.com/gottingen/kumo-search) - docs for search system and ai infra
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [omniti-labs/jsend](https://github.com/omniti-labs/jsend) - JSend is a specification for a simple, no-frills, JSON based format for application-level communication.
@@ -5302,7 +5316,7 @@
 - [uber/petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, a
 - [RASSec/pentestER-Fully-automatic-scanner](https://github.com/RASSec/pentestER-Fully-automatic-scanner) - DNS Subdomain● Brute force ● Web Spider ● Nmap Scan ● etc
 - [0x4D31/burpa](https://github.com/0x4D31/burpa) - Burp-Automator: A Burp Suite Automation Tool with Slack Integration. It can be used with Jenkins and Selenium to automate Dynamic Application Security Testing (DAST).
-- [topcodersonline-solutions/betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
+- [tcosolutions/betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
 - [BishopFox/GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
 - [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
@@ -5388,7 +5402,7 @@
 - [aashutoshrathi/awesome-bashrc](https://github.com/aashutoshrathi/awesome-bashrc) - 🚀 Collection of bash snippets/aliases that will save your time on the terminal
 - [rdkcentral/BundleGen](https://github.com/rdkcentral/BundleGen) - A command-line tool to convert OCI Images into extended OCI Bundles for use with the Dobby container manager.
 - [random-python/nspawn](https://github.com/random-python/nspawn) - Containers with systemd-nspawn
-- [Jip-Hop/jailmaker](https://github.com/Jip-Hop/jailmaker) - Persistent Linux 'jails' on TrueNAS SCALE to install software (docker-compose, portainer, podman, etc.) with full access to all files via bind mounts thanks to systemd-nspawn!
+- [Jip-Hop/jailmaker](https://github.com/Jip-Hop/jailmaker) - Persistent Linux 'jails' on TrueNAS SCALE to install software (k3s, docker, portainer, podman, etc.) with full access to all files via bind mounts thanks to systemd-nspawn!
 - [amol-/depot](https://github.com/amol-/depot) - Toolkit for storing files and attachments in web applications
 - [Rainbow-Dreamer/separable_merge](https://github.com/Rainbow-Dreamer/separable_merge) - This is a cross-platform file merger and splitter which uses a file merging algorithm designed by me to merge multiple files and folders into a single separable binary file
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
@@ -5781,7 +5795,7 @@
 - [kblin/ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) - Scripts to download genomes from the NCBI FTP servers
 - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 - [microsoft/InnerEye-DeepLearning](https://github.com/microsoft/InnerEye-DeepLearning) - Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [SpiderLabs/HostHunter](https://github.com/SpiderLabs/HostHunter) - HostHunter a recon tool for discovering hostnames using OSINT techniques.
 - [packit/packit-service](https://github.com/packit/packit-service) - Packit provided as a service
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
@@ -6321,6 +6335,7 @@
 
 ## Rust 
 
+- [mdn/rumba](https://github.com/mdn/rumba) - The clean kuma (🤖🧹)
 - [izihawa/summa](https://github.com/izihawa/summa) - Full-text IPFS-friendly and WASM-compatible Search in Rust
 - [minio/minsql](https://github.com/minio/minsql) - High-performance log search engine.
 - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building search, recommendations, and RAG. Trieve combines search language models with tools for tuning ranking and relevance.
@@ -7868,6 +7883,7 @@
 
 ## Swift 
 
+- [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
 - [inket/stts](https://github.com/inket/stts) - A simple macOS app for monitoring the status of cloud services
 - [vsaravind007/nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs Code Snippets From Menubar! :computer:
@@ -7914,6 +7930,17 @@
 
 ## TypeScript 
 
+- [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) - env plugin for Elysia 🦊
+- [sinclairzx81/typebox-workbench](https://github.com/sinclairzx81/typebox-workbench) - Type Transform Tool for Runtime Type Systems
+- [samialdury/envey](https://github.com/samialdury/envey) - Type-safe configuration schemas for Node.js.
+- [MetaConfigurator/meta-configurator](https://github.com/MetaConfigurator/meta-configurator) - MetaConfigurator is a form generator and schema editor for JSON schema, making editing configuration files, research data and schemas easier and more enjoyable.
+- [AthennaIO/Config](https://github.com/AthennaIO/Config) - ⚙️ Cache and handle environment variables and config files of Athenna.
+- [EndBug/label-sync](https://github.com/EndBug/label-sync) - :octocat: An action that allows you to sync labels from a repository or a config file
+- [alvis/presetter](https://github.com/alvis/presetter) - 🛹 Reuse and manage build scripts, devDependencies and config files from your favourite presets, instead of copy and paste!
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+- [SimplifyJobs/webpack-ext-reloader](https://github.com/SimplifyJobs/webpack-ext-reloader) - Add hot reloading to your webpack WebExtension! 🔥
+- [davidnguyen11/web-extension-svelte-boilerplate](https://github.com/davidnguyen11/web-extension-svelte-boilerplate) - The web extension boilerplate which helps setting up browser extension project quickly using typescript, svelte, jest, webpack, githook, prettier and github actions
+- [mdn/yari](https://github.com/mdn/yari) - The platform code behind MDN Web Docs
 - [riccox/meilisearch-ui](https://github.com/riccox/meilisearch-ui) - 😎 An open-source, pretty, simple and fast ⚡ meilisearch admin dashboard UI for managing your meilisearch instances 🕹
 - [kachkaev/njt](https://github.com/kachkaev/njt) - njt (npm jump to): a quick navigation tool for npm packages
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
@@ -8680,7 +8707,6 @@
 - [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM)
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [MockyAbstract/Mocky](https://github.com/MockyAbstract/Mocky) - Generate custom HTTP responses, the simpler way to test your Web Services
 - [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
@@ -8895,7 +8921,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [muctadir/lama](https://github.com/muctadir/lama) - LaMa, short for Labelling Machine, is an web application developed for aiding in thematic analysis of qualitative data.
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified platform for discovery, observability, and governance powered by a central metadata repository, in-depth lineage, and seamless team collaboration.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
