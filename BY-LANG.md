@@ -1052,6 +1052,9 @@
 
 ## Go 
 
+- [svandragt/fafi](https://github.com/svandragt/fafi) - Web content indexing and search tool
+- [loghinalexandru/anchor](https://github.com/loghinalexandru/anchor) - Bookmarking CLI tool with automatic sync
+- [sebastianxyzsss/tardigrade](https://github.com/sebastianxyzsss/tardigrade) - Bookmark for all your commands.
 - [Debian/dcs](https://github.com/Debian/dcs) - Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!
 - [karust/openserp](https://github.com/karust/openserp) - Get Google, Yandex, Baidu search engine results via API or CLI for free 🎉
 - [cybercongress/go-cyber](https://github.com/cybercongress/go-cyber) - Your 🔵 Superintelligence
@@ -1745,7 +1748,7 @@
 - [mojocn/felix](https://github.com/mojocn/felix) - A Friendly SSH Jumper Bastion Fortress Server
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
-- [indeedeng/iwf](https://github.com/indeedeng/iwf) - iWF is a WorkflowAsCode API orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes
+- [indeedeng/iwf](https://github.com/indeedeng/iwf) - iWF is a WorkflowAsCode microservice orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [norouter/norouter](https://github.com/norouter/norouter) - NoRouter: IP-over-Stdio. The easiest multi-host & multi-cloud networking ever. No root privilege is required.
@@ -2923,6 +2926,28 @@
 
 ## JavaScript 
 
+- [plandes/zotsite](https://github.com/plandes/zotsite) - Export Zotero to a stand-alone web site
+- [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors) - Chrome, Firefox, Edge, and Safari extensions for Zotero
+- [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
+- [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
+- [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
+- [wbotelhos/raty](https://github.com/wbotelhos/raty) - :star2: Raty - A Star Rating Plugin
+- [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
+- [webpack/tapable](https://github.com/webpack/tapable) - Just a little module for plugins.
+- [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
+- [offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema) - Compile and pack JSON schema definitions on import using esbuild
+- [gillstrom/dpn-cli](https://github.com/gillstrom/dpn-cli) - Get the dependents of a users npm modules
+- [gillstrom/dpn](https://github.com/gillstrom/dpn) - Get the dependents of a users npm modules
+- [sindresorhus/node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a Node.js module
+- [Offerel/SyncMarks-Extension](https://github.com/Offerel/SyncMarks-Extension) - Browser Webextension for Firefox, Edge or Chromium derivatives to sync your bookmarks with a private backend.
+- [stsourlidakis/pame](https://github.com/stsourlidakis/pame) - Construct and open links in your browser from the comfort of your terminal
+- [majidsajadi/paperboard](https://github.com/majidsajadi/paperboard) - Paperboard, is a cli application for managing a reading list of bookmarks from the Internet.
+- [yrwq/termstart](https://github.com/yrwq/termstart) - :rocket: A terminal-themed bookmark manager for web browsers
+- [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
+- [storybookjs/lazy-universal-dotenv](https://github.com/storybookjs/lazy-universal-dotenv) - Robust Environment Configuration for Universal Applications.
 - [rooseveltframework/source-configs](https://github.com/rooseveltframework/source-configs) - 🎛 Provides structure to define app-level configuration schemas and automatically consume values via multiple sources in Node.js applications.
 - [vuepress/configs](https://github.com/vuepress/configs) - Config files for VuePress Organization
 - [mmkal/eslint-plugin-wrapper](https://github.com/mmkal/eslint-plugin-wrapper) - Write project-specific rules, in your own eslint config file.
@@ -3422,6 +3447,7 @@
 - [Leask/halbot](https://github.com/Leask/halbot) - Just another `ChatGPT` / `Gemini` / `Mistral (by ollama)` Telegram bob, which is simple design, easy to use, extendable and fun.
 - [vladikoff/playwright-ai](https://github.com/vladikoff/playwright-ai) - Command-line utility to generate LLM-based Playwright tests
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [intuit/judo](https://github.com/intuit/judo) - Judo is an easy-to-use Command Line Interface (CLI) Integration Testing Framework, driven from a simple yaml file that also contains assertions.
 - [anyproto/any-ns](https://github.com/anyproto/any-ns) - Smart contracts/frontend for Any Naming System
@@ -4547,6 +4573,9 @@
 
 ## Others 
 
+- [Myria-de/firefox-sync-docker](https://github.com/Myria-de/firefox-sync-docker) - Einen eigenen Firefox-Sync-Server einrichten
+- [ashu-tosh-kumar/sting-sync](https://github.com/ashu-tosh-kumar/sting-sync) - [In Progress Attempt] A cross-platform cross-browser bookmark sync extension supporting Safari, Chromium and Firefox at the very least.
+- [arshadkazmi42/ak-cli](https://github.com/arshadkazmi42/ak-cli) - :bookmark: Collection of useful cli commands
 - [mdn/.github](https://github.com/mdn/.github) - MDN Web Docs public organization profile
 - [gottingen/kumo-search](https://github.com/gottingen/kumo-search) - docs for search system and ai infra
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
@@ -5227,6 +5256,9 @@
 
 ## Python 
 
+- [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatibility layer for papis
+- [jbaiter/zotero-cli](https://github.com/jbaiter/zotero-cli) - Command-line interface for Zotero
+- [mattrichmo/BookMarker](https://github.com/mattrichmo/BookMarker) - Simple CLI to add a bookmark to markdown and html file from anywhere in your terminal. Creates bookmarks.md & bookmarks.html
 - [Bhupesh-V/tutorialdb](https://github.com/Bhupesh-V/tutorialdb) - A search 🔎 engine for programming/dev tutorials,
 - [AnonCatalyst/Ominis-OSINT](https://github.com/AnonCatalyst/Ominis-OSINT) - This Python application is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Web Hunter." It performs online information gathering by querying Google for search results related to a user
 - [AmenRa/retriv](https://github.com/AmenRa/retriv) - A Python Search Engine for Humans 🥸
@@ -5349,7 +5381,7 @@
 - [srstevenson/nb-clean](https://github.com/srstevenson/nb-clean) - Clean Jupyter notebooks of outputs, metadata, and empty cells, with Git integration
 - [deathbeds/pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
 - [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
-- [timkpaine/knowledgelab](https://github.com/timkpaine/knowledgelab) - KnowledgeRepo + JupyterLab
+- [tkp-archive/knowledgelab](https://github.com/tkp-archive/knowledgelab) - KnowledgeRepo + JupyterLab
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [greenape/mknotebooks](https://github.com/greenape/mknotebooks) - A plugin for mkdocs to help you include Jupyter notebooks in your projects
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
@@ -6335,6 +6367,7 @@
 
 ## Rust 
 
+- [ghuh/bookmark_manager](https://github.com/ghuh/bookmark_manager) - A cross-platform, CLI based, web bookmark manager in Rust that saves bookmarks to a flat file (CSV).
 - [mdn/rumba](https://github.com/mdn/rumba) - The clean kuma (🤖🧹)
 - [izihawa/summa](https://github.com/izihawa/summa) - Full-text IPFS-friendly and WASM-compatible Search in Rust
 - [minio/minsql](https://github.com/minio/minsql) - High-performance log search engine.
@@ -7930,6 +7963,29 @@
 
 ## TypeScript 
 
+- [daeh/zotero-markdb-connect](https://github.com/daeh/zotero-markdb-connect) - Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made n
+- [zotero-chinese/zotero-plugins](https://github.com/zotero-chinese/zotero-plugins) - Zotero Plugins Collection | Zotero 插件合集 | Awesome Zotero Plugins
+- [mgmeyers/obsidian-zotero-integration](https://github.com/mgmeyers/obsidian-zotero-integration) - Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian.
+- [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero.
+- [dvanoni/notero](https://github.com/dvanoni/notero) - A Zotero plugin for syncing items and notes into Notion
+- [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Yet another unofficial Obsidian plugin allowing users to synchronize notes between local device and the cloud service. Supports S3, Dropbox, OneDrive, webdav.
+- [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
+- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+- [salesforcecli/plugin-schema](https://github.com/salesforcecli/plugin-schema) - 
+- [aws-cloudformation/cloudformation-cli-typescript-plugin](https://github.com/aws-cloudformation/cloudformation-cli-typescript-plugin) - The CloudFormation Provider Development Toolkit Node.js Plugin allows you to autogenerate TypeScript code based on an input schema.
+- [commercelayer/common-utils](https://github.com/commercelayer/common-utils) - A set of common utilities internally used in Commerce Layer.
+- [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader
+- [serafin-labs/schema-builder](https://github.com/serafin-labs/schema-builder) - A typescript JSON Schema library that creates a schema and its type at the same time
+- [egovelox/mozeidon](https://github.com/egovelox/mozeidon) - Mozeidon is a CLI to handle Mozilla Firefox tabs and bookmarks.
+- [Cloud-Pipelines/pipeline-editor](https://github.com/Cloud-Pipelines/pipeline-editor) - Cloud Pipelines Editor is a web app that allows the users to build and run Machine Learning pipelines without having to set up development environment.
+- [sebastian-software/universal-dotenv](https://github.com/sebastian-software/universal-dotenv) - Robust Environment Configuration for Universal Applications.
+- [oaspub/openapi](https://github.com/oaspub/openapi) - OpenAPI types, schemas, and validators - powered by TypeBox
+- [nicolabovolato/basica](https://github.com/nicolabovolato/basica) - The Foundational Library of Modern Applications
+- [pitininja/envious](https://github.com/pitininja/envious) - Environment variable parsing using Dotenv & Typebox
+- [erfanium/fetch-typebox](https://github.com/erfanium/fetch-typebox) - drop-in replacement for fetch that brings easy integration with TypeBox
+- [trpc-labs/onetyped](https://github.com/trpc-labs/onetyped) - one schema to rule them all
 - [yolk-oss/elysia-env](https://github.com/yolk-oss/elysia-env) - env plugin for Elysia 🦊
 - [sinclairzx81/typebox-workbench](https://github.com/sinclairzx81/typebox-workbench) - Type Transform Tool for Runtime Type Systems
 - [samialdury/envey](https://github.com/samialdury/envey) - Type-safe configuration schemas for Node.js.
@@ -8300,7 +8356,7 @@
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
 - [sachinraja/trpc-playground](https://github.com/sachinraja/trpc-playground) - playground for running tRPC queries in the browser
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
-- [blefnk/relivator-nextjs-starter](https://github.com/blefnk/relivator-nextjs-starter) - Next.js 14 Store, Landing, Admin, Dashboard ▲ i18n Stripe Shadcn Tailwind Drizzle Zod Trpc TypeScript Clerk NexAuth, Lucide CSS Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS 
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 💜 Next.js 14 Store, Landing, Admin, Dashboard ▲ i18n Stripe Shadcn Tailwind Drizzle Zod Trpc TypeScript Clerk NexAuth, Lucide CSS Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon T
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
@@ -8659,7 +8715,6 @@
 - [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 - [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
 - [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket) - :rocket: Extensible Angular 14+ enterprise-grade project generator
-- [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [phenomnomnominal/betterer](https://github.com/phenomnomnominal/betterer) - betterer makes it easier to make incremental improvements to your codebase
 - [gperdomor/nx-tools](https://github.com/gperdomor/nx-tools) - Nx Workspaces builders and tools
@@ -9284,7 +9339,7 @@
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open Commerce Platform
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [surmon-china/nodepress](https://github.com/surmon-china/nodepress) - 🟢 RESTful API service for https://surmon.me blog, powered by @nestjs
