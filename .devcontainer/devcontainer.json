@@ -1,7 +1,0 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-    "ghcr.io/marcozac/devcontainer-features/buf:1": {},
-    "ghcr.io/devcontainers-contrib/features/ansible:2": {}
-  }
-}
