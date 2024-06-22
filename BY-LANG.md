@@ -184,6 +184,7 @@
 
 ## C 
 
+- [pkgconf/pkgconf](https://github.com/pkgconf/pkgconf) - package compiler and linker metadata toolkit
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
@@ -1088,7 +1089,7 @@
 - [frzam/hail](https://github.com/frzam/hail) - Cross-platform script management CLI written in go.
 - [project-stacker/stacker](https://github.com/project-stacker/stacker) - Build OCI images natively from a declarative format
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [score-spec/score-helm](https://github.com/score-spec/score-helm) - Score implementation for Helm
+- [score-spec/score-helm](https://github.com/score-spec/score-helm) - Score implementation for Helm (deprecated)
 - [ContainerSolutions/helm-monitor](https://github.com/ContainerSolutions/helm-monitor) - Monitor K8S Helm release, rollback on metrics behavior (Prometheus, Elasticsearch, Sentry)
 - [hypnoglow/helm-s3](https://github.com/hypnoglow/helm-s3) - ⎈ Helm plugin that adds support for AWS S3 as a chart repository.
 - [werf/kubedog](https://github.com/werf/kubedog) - Library to watch and follow kubernetes resources in CI/CD deploy pipelines
@@ -1600,7 +1601,7 @@
 - [hedzr/cmdr](https://github.com/hedzr/cmdr) - POSIX-compliant command-line UI (CLI) parser and Hierarchical-configuration operations
 - [manifoldco/manifold-cli](https://github.com/manifoldco/manifold-cli) - Manage your services and config from the command line
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
-- [score-spec/score-humanitec](https://github.com/score-spec/score-humanitec) - Reference implementation for Humanitec target platform support
+- [score-spec/score-humanitec](https://github.com/score-spec/score-humanitec) - Score implementation for Humanitec (deprecated)
 - [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 - [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM.
 - [cloudevents/sdk-go](https://github.com/cloudevents/sdk-go) - Go SDK for CloudEvents
@@ -2721,6 +2722,7 @@
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [clarklab/chowdown](https://github.com/clarklab/chowdown) - Simple recipes in Markdown format
 - [nextcloud/cookbook](https://github.com/nextcloud/cookbook) - 🍲 A library for all your recipes
 - [schollz/ingredients](https://github.com/schollz/ingredients) - Extract recipe ingredients from any recipe website on the internet.
@@ -2952,6 +2954,19 @@
 
 ## JavaScript 
 
+- [ruyadorno/ntl](https://github.com/ruyadorno/ntl) - Node Task List: Interactive cli to list and run package.json scripts
+- [vercel/arg](https://github.com/vercel/arg) - Simple argument parsing
+- [fastify/fastify-cli](https://github.com/fastify/fastify-cli) - Run a Fastify application with one command!
+- [sindresorhus/yoctocolors](https://github.com/sindresorhus/yoctocolors) - The smallest and fastest command-line coloring package on the internet
+- [cutenode/good-first-issue](https://github.com/cutenode/good-first-issue) - 🖥 CLI for finding good first issues
+- [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
+- [adobe/aio-cli-plugin-app](https://github.com/adobe/aio-cli-plugin-app) - Create, Build and Deploy Cloud Native Applications
+- [unifiedjs/unified-args](https://github.com/unifiedjs/unified-args) - Create CLIs for unified processors
+- [JS-DevTools/template-node-typescript](https://github.com/JS-DevTools/template-node-typescript) - Template repo for Node.js projects written in TypeScript
+- [sindresorhus/node-cli-boilerplate](https://github.com/sindresorhus/node-cli-boilerplate) - Boilerplate to kickstart creating a Node.js command-line tool
+- [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
+- [yargs/cliui](https://github.com/yargs/cliui) - easily create complex multi-column command-line-interfaces.
+- [junip/jirax](https://github.com/junip/jirax) - :sunglasses: :computer: Simple and flexible CLI Tool for your daily JIRA activity (supported on all OSes)
 - [mehd-io/parquet-info-firefox-extension](https://github.com/mehd-io/parquet-info-firefox-extension) - Firefox extension that shows parquet schema when going over GCP cloud storage. Use DuckDB WASM
 - [uhop/stream-json](https://github.com/uhop/stream-json) - The micro-library of Node.js stream components for creating custom JSON processing pipelines with a minimal memory footprint. It can parse JSON files far exceeding available memory streaming individua
 - [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode) - A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
@@ -4441,6 +4456,7 @@
 
 ## Lua 
 
+- [sayanarijit/gh-xplr](https://github.com/sayanarijit/gh-xplr) - Explore GitHub repos using xplr via GitHub CLI
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 - [markuman/tinywebdis](https://github.com/markuman/tinywebdis) - tinywebdis - a lean webdis replacement using turbo.lua
 - [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) - 🔌 Plug and play Neovim plugin boilerplate with pre-configured CI, CD, linter, docs and tests.
@@ -7994,7 +8010,6 @@
 - [creativetimofficial/notus-svelte](https://github.com/creativetimofficial/notus-svelte) - Notus Svelte: Free Tailwind CSS UI Kit and Admin
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 
@@ -8047,6 +8062,17 @@
 
 ## TypeScript 
 
+- [bencoveney/barrelsby](https://github.com/bencoveney/barrelsby) - Automatic TypeScript barrels (index.ts files) for your entire code base
+- [expo/eas-cli](https://github.com/expo/eas-cli) - Fastest way to build, submit, and update iOS and Android apps
+- [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - The Rspack-based build tool. It's fast, out-of-the-box and extensible.
+- [Puskar-Roy/create-my-api](https://github.com/Puskar-Roy/create-my-api) - An Awesome API Library and a CLI, designed to accelerate the creation of Backend projects.
+- [ryansonshine/typescript-npm-package-template](https://github.com/ryansonshine/typescript-npm-package-template) - Boilerplate to kickstart creating an npm package using TypeScript
+- [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM
+- [renejfc/conmmit](https://github.com/renejfc/conmmit) - A CLI that helps you create conventional commits with ease :)
+- [Glowstudent777/YouVersion-API-NPM](https://github.com/Glowstudent777/YouVersion-API-NPM) - A simple module to get the Verse of the Day or any verse you would like.
+- [visormatt/generator](https://github.com/visormatt/generator) - 🤖 A Command Line Tool to speed up the creation of repetitive boiler-plate code.
 - [AthennaIO/Artisan](https://github.com/AthennaIO/Artisan) - 💻 The Athenna CLI application. Built on top of commander and inspired in @adonisjs/ace.
 - [angelmadames/dems-cli](https://github.com/angelmadames/dems-cli) - DEMS (Development Environment Management System) CLI Made with Bun and Commander.js.
 - [trvswgnr/cmdctr](https://github.com/trvswgnr/cmdctr) - A *tiny* no-frills library for creating CLI applications.
@@ -8086,7 +8112,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 192 TypeScript projects (and 160+ examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 193 TypeScript projects (and ~170 examples) for general purpose, functional, data driven development
 - [shahradelahi/node-cronstack](https://github.com/shahradelahi/node-cronstack) - ⏳ A versatile library for Task management & Automation + CLI
 - [kingstinct/zemble](https://github.com/kingstinct/zemble) - Zemble Plugin System
 - [Huilensolis/memoir](https://github.com/Huilensolis/memoir) - Memoir is a web editor for journaling and documenting your reflections.
@@ -8507,7 +8533,7 @@
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
 - [sachinraja/trpc-playground](https://github.com/sachinraja/trpc-playground) - playground for running tRPC queries in the browser
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 💜 Next.js 14 Store, Landing, Admin, Dashboard ▲ i18n Stripe Shadcn Tailwind Drizzle Zod Trpc TypeScript Clerk NexAuth, Lucide CSS Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon T
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming on July 1 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Pos
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
@@ -8614,7 +8640,7 @@
 - [jvidalv/vital](https://github.com/jvidalv/vital) - Starter template for Vite with React (TypeScript). Supports Tailwind. Vitest and @react/testing-library configured and ready to go. Also ESLint, Prettier, Husky, Commit-lint and Atomic Design for comp
 - [kbysiec/vite-vanilla-ts-lib-starter](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - The starter is built on top of Vite 5.x and prepared for writing libraries in TypeScript. It generates a hybrid package - both support for CommonJS and ESM modules.
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidJS
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI V2 and Nextjs.
 - [windingwind/zotero-plugin-template](https://github.com/windingwind/zotero-plugin-template) - A plugin template for Zotero.
 - [tjx666/awesome-chrome-extension-boilerplate](https://github.com/tjx666/awesome-chrome-extension-boilerplate) - Use react + typescript + webpack to enhance your chrome extension development experience
