@@ -1782,7 +1782,7 @@
 - [awslabs/tecli](https://github.com/awslabs/tecli) - In a world where everything is Terraform, teams use Terraform Cloud API to manage their workloads. TECLI increases teams productivity by facilitating such interaction and by providing easy commands th
 - [buildpacks-community/kpack](https://github.com/buildpacks-community/kpack) - Kubernetes Native Container Build Service
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
-- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [redhat-developer/odo](https://github.com/redhat-developer/odo) - odo - Developer-focused CLI for fast & iterative container-based application development on Podman and Kubernetes. Implementation of the open Devfile standard.
@@ -2833,6 +2833,7 @@
 
 - [Blockception/VSCode-Bedrock-Development-Extension](https://github.com/Blockception/VSCode-Bedrock-Development-Extension) - An extension that provides support for files such as: .mcfunction, .json and .lang. Features include: completion, validations, formatters, diagnostics, cheat-sheets, code-actions, generation of files,
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Java 
 
@@ -4577,7 +4578,6 @@
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mathematica 
@@ -6463,7 +6463,11 @@
 
 ## Rust 
 
+- [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite
+- [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite + Little Raft = 🚀
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
+- [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
@@ -8068,6 +8072,14 @@
 
 ## TypeScript 
 
+- [only-cliches/Nano-SQL](https://github.com/only-cliches/Nano-SQL) - Universal database layer for the client, server & mobile devices. It's like Lego for databases.
+- [kriasoft/node-sqlite](https://github.com/kriasoft/node-sqlite) - SQLite client wrapper around sqlite3 for Node.js applications with SQL-based migrations API written in Typescript
+- [adonisjs/lucid](https://github.com/adonisjs/lucid) - AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more
+- [dev-xo/remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS Application.
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
+- [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
+- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [productdevbookcom/ts-bundle-template](https://github.com/productdevbookcom/ts-bundle-template) - Smart TypeScript speed bundle template
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
@@ -8094,7 +8106,7 @@
 - [trvswgnr/cmdctr](https://github.com/trvswgnr/cmdctr) - A *tiny* no-frills library for creating CLI applications.
 - [Pop-Code/nestjs-console](https://github.com/Pop-Code/nestjs-console) - A nestjs module that provide a cli to your application.
 - [antfu/utils](https://github.com/antfu/utils) - Collection of common JavaScript / TypeScript utils
-- [antfu/importx](https://github.com/antfu/importx) - Unified tool for importing TypeScript modules at runtime.
+- [antfu-collective/importx](https://github.com/antfu-collective/importx) - Unified tool for importing TypeScript modules at runtime.
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Effortless backends ✨
 - [direktiv/direktiv](https://github.com/direktiv/direktiv) - Serverless Container Orchestration
 - [falberthen/GitMarker](https://github.com/falberthen/GitMarker) - A Visual Studio Code extension to ease GitHub users searching, bookmarking and tracking repositories.
@@ -8257,7 +8269,7 @@
 - [sindresorhus/sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [tommy351/kosko](https://github.com/tommy351/kosko) - Organize Kubernetes manifests in TypeScript.
 - [mister-what/esbuild-plugin-ajv](https://github.com/mister-what/esbuild-plugin-ajv) - AJV plugin for esbuild
-- [devtodollars/startup-boilerplate](https://github.com/devtodollars/startup-boilerplate) - Everything you need to build a startup from the CTO of a YC-backed startup
+- [devtodollars/mvp-boilerplate](https://github.com/devtodollars/mvp-boilerplate) - Everything you need to build a startup from the CTO of a YC-backed startup
 - [paralect/ship](https://github.com/paralect/ship) - A toolkit for makers to ship better products faster 🚀
 - [alifarooq9/rapidlaunch](https://github.com/alifarooq9/rapidlaunch) - Beautiful Next.js SaaS Starterkits, Blocks and guides. Built using Shadcn ui, Next.js 14, DrizzleORM, Resend, and more
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
@@ -9054,7 +9066,7 @@
 - [codemodsquad/astx](https://github.com/codemodsquad/astx) - Super powerful structural search and replace for JavaScript and TypeScript to automate your refactoring
 - [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit supercharges Prisma ORM with a fine-grained Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
@@ -9666,7 +9678,7 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
-- [antfu/unconfig](https://github.com/antfu/unconfig) - A universal solution for loading configurations.
+- [antfu-collective/unconfig](https://github.com/antfu-collective/unconfig) - A universal solution for loading configurations.
 - [deislabs/hippo](https://github.com/deislabs/hippo) - The WebAssembly Platform
 - [stoqey/ib](https://github.com/stoqey/ib) - Interactive Brokers TWS/IB Gateway API client library for Node.js (TS)
 - [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate) - Deduplication tool for yarn.lock files
