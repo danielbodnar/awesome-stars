@@ -2956,6 +2956,50 @@
 
 ## JavaScript 
 
+- [sjinks/node-config-reloadable](https://github.com/sjinks/node-config-reloadable) - Reloadable version of lorenwest/node-config
+- [typhonjs-typedoc/typedoc-pkg](https://github.com/typhonjs-typedoc/typedoc-pkg) - Provides a zero config CLI to create API documentation with TypeDoc from `package.json` exports conditions.
+- [tsmx/secure-config](https://github.com/tsmx/secure-config) - Easy and secure NodeJS configuration management.
+- [mjackson/unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
+- [DopplerHQ/gitops-secrets-nodejs](https://github.com/DopplerHQ/gitops-secrets-nodejs) - GitOps encrypted secrets workflow for Node.js
+- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
+- [boxboat/config-merge](https://github.com/boxboat/config-merge) - Tool for merging JSON/TOML/YAML files and performing environment variable substitution
+- [americanexpress/eslint-config-amex](https://github.com/americanexpress/eslint-config-amex) - ✨ This is American Express' eslint config
+- [mapbox/cfn-config](https://github.com/mapbox/cfn-config) - Quickly configure, start, and update AWS CloudFormation stacks.
+- [stylelint/eslint-config-stylelint](https://github.com/stylelint/eslint-config-stylelint) - Stylelint org's shareable config for eslint
+- [standard/eslint-config-semistandard](https://github.com/standard/eslint-config-semistandard) - :100: semistandard eslint sharable config
+- [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue projects
+- [antonk52/lilconfig](https://github.com/antonk52/lilconfig) - Zero-dependency nodejs config seeker.
+- [epicweb-dev/config](https://github.com/epicweb-dev/config) - Reasonable ESLint, Prettier, and TypeScript configs for epic web devs
+- [TanStack/config](https://github.com/TanStack/config) - Configuration and tools for publishing and maintaining high-quality JavaScript packages
+- [xojs/eslint-config-xo-typescript](https://github.com/xojs/eslint-config-xo-typescript) - ESLint shareable config for TypeScript to be used with eslint-config-xo
+- [jupyterhub/configurable-http-proxy](https://github.com/jupyterhub/configurable-http-proxy) - node-http-proxy plus a REST API
+- [Shopify/web-configs](https://github.com/Shopify/web-configs) - Common configurations for building web apps at Shopify
+- [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - The most comprehensive ES code style guide.
+- [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
+- [stealjs/steal](https://github.com/stealjs/steal) - Gets JavaScript
+- [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
+- [unifiedjs/unified-engine](https://github.com/unifiedjs/unified-engine) - Engine to process multiple files with unified
+- [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
+- [vfile/vfile](https://github.com/vfile/vfile) - Virtual file format for text processing used in @unifiedjs
+- [vfile/to-vfile](https://github.com/vfile/to-vfile) - utility to create a vfile from a filepath
+- [sindresorhus/is-camera-on-cli](https://github.com/sindresorhus/is-camera-on-cli) - Check if the built-in Mac camera is on
+- [sindresorhus/dot-prop](https://github.com/sindresorhus/dot-prop) - Get, set, or delete a property from a nested object using a dot path
+- [sindresorhus/environment](https://github.com/sindresorhus/environment) - Check which JavaScript environment your code is running in at runtime: browser, Node.js, Bun, etc
+- [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
+- [sindresorhus/debounce](https://github.com/sindresorhus/debounce) - Delay function calls until a set time elapses after the last invocation
+- [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
+- [sindresorhus/awesome-mac](https://github.com/sindresorhus/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [sindresorhus/globals](https://github.com/sindresorhus/globals) - Global identifiers from different JavaScript environments
+- [GitbookIO/gitbook-cli](https://github.com/GitbookIO/gitbook-cli) - GitBook's command line interface
+- [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
+- [open-cli-tools/chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - Fast cross-platform cli utility to watch file system changes
+- [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
+- [tus/tus-js-client](https://github.com/tus/tus-js-client) - A pure JavaScript client for the tus resumable upload protocol
+- [sequelize/cli](https://github.com/sequelize/cli) - The Sequelize CLI
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
+- [octokit/rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
+- [nijikokun/minami](https://github.com/nijikokun/minami) - 💅 Clean and minimal JSDoc 3 Template / Theme
+- [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs) - Beautiful toolbox for jsdoc generated documentation - with 'typescript', `category` and `component` plugins
 - [rovelstars/reejs](https://github.com/rovelstars/reejs) - Make Sites Faster, without the need of building anything!
 - [Airkro/cheetor](https://github.com/Airkro/cheetor) - 
 - [ruyadorno/ntl](https://github.com/ruyadorno/ntl) - Node Task List: Interactive cli to list and run package.json scripts
@@ -4663,6 +4707,7 @@
 
 ## Others 
 
+- [DanielBodnar/opssdk](https://github.com/DanielBodnar/opssdk) - A composable, pluggable, cli sdk for dev and cloud operations
 - [Myria-de/firefox-sync-docker](https://github.com/Myria-de/firefox-sync-docker) - Einen eigenen Firefox-Sync-Server einrichten
 - [ashu-tosh-kumar/sting-sync](https://github.com/ashu-tosh-kumar/sting-sync) - [In Progress Attempt] A cross-platform cross-browser bookmark sync extension supporting Safari, Chromium and Firefox at the very least.
 - [arshadkazmi42/ak-cli](https://github.com/arshadkazmi42/ak-cli) - :bookmark: Collection of useful cli commands
@@ -5263,6 +5308,7 @@
 
 ## Perl 
 
+- [proxmox/pve-zsync](https://github.com/proxmox/pve-zsync) - 
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [dolmen/github-keygen](https://github.com/dolmen/github-keygen) - Easy creation of secure SSH configuration for your GitHub account(s)
 - [yaml/yaml-runtimes](https://github.com/yaml/yaml-runtimes) - YAML processor runtimes via docker
@@ -5347,6 +5393,8 @@
 
 ## Python 
 
+- [alunduil/zfs-replicate](https://github.com/alunduil/zfs-replicate) - ZFS Replication
+- [ddebeau/zfs_uploader](https://github.com/ddebeau/zfs_uploader) - Simple program for backing up full and incremental ZFS snapshots to Amazon S3.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [papis/papis-zotero](https://github.com/papis/papis-zotero) - Zotero compatibility layer for papis
 - [jbaiter/zotero-cli](https://github.com/jbaiter/zotero-cli) - Command-line interface for Zotero
@@ -6463,6 +6511,7 @@
 
 ## Rust 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite
 - [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite + Little Raft = 🚀
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
@@ -7289,6 +7338,8 @@
 
 ## Shell 
 
+- [sapegin/dotfiles](https://github.com/sapegin/dotfiles) - My macOS environment: zsh, Git, Visual Studio Code, etc.
+- [osboot/make-initrd](https://github.com/osboot/make-initrd) - Creates an initramfs image
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
 - [ImBIOS/bun-node](https://github.com/ImBIOS/bun-node) - Pre-configured Bun and Node.js Docker Images for Seamless, Optimized Development and Deployment.
 - [trolologuy/useful-tools](https://github.com/trolologuy/useful-tools) - A list of useful tools and programs for developers, DevOps and SysAdmins
@@ -8072,6 +8123,52 @@
 
 ## TypeScript 
 
+- [liudonghua123/cross-shell](https://github.com/liudonghua123/cross-shell) - A simple cross platform shell for windows which supports set envs, wildcard expansions ...
+- [culur/culur](https://github.com/culur/culur) - 
+- [jaywcjlove/auto-config-loader](https://github.com/jaywcjlove/auto-config-loader) - Find and load configuration from a package.json property, rc file, or CommonJS module.
+- [vercel/edge-runtime](https://github.com/vercel/edge-runtime) - Developing, testing, and defining the runtime Web APIs for Edge infrastructure.
+- [funny-bytes/node-config-typescript-example](https://github.com/funny-bytes/node-config-typescript-example) - Sample project for using node-config in TypeScript
+- [tryabby/abby](https://github.com/tryabby/abby) - Open-Source Feature Flags, Remote Config & A/B Tests for Developers ⛳🧪
+- [danielroe/siroc](https://github.com/danielroe/siroc) - Zero-config build tooling for Node
+- [vite-pwa/nuxt](https://github.com/vite-pwa/nuxt) - Zero-config PWA Plugin for Nuxt 3
+- [configjs/unconfigurator](https://github.com/configjs/unconfigurator) - Try to make a web page to managing all frontend project configurations.
+- [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
+- [elninotech/uppload](https://github.com/elninotech/uppload) - 📁 JavaScript image uploader and editor, no backend required
+- [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
+- [kravetsone/create-elysiajs](https://github.com/kravetsone/create-elysiajs) - Scaffolding your Elysia project with the environment with easy!
+- [optimumqa/cypress-boilerplate](https://github.com/optimumqa/cypress-boilerplate) - Quickly start a new pre-configured Cypress project with only one command.
+- [rspack-contrib/rspack-plugins](https://github.com/rspack-contrib/rspack-plugins) - Some community plugins for Rspack
+- [Parsifal-M/backstage-opa-plugins](https://github.com/Parsifal-M/backstage-opa-plugins) - Open Policy Agent (OPA) Plugins for Backstage
+- [sapphiredev/plugins](https://github.com/sapphiredev/plugins) - Plugins for the Sapphire Framework
+- [felvin-search/instant-apps](https://github.com/felvin-search/instant-apps) - Your search box is now an app store! 🎉
+- [ddzy/ts-utility-plugins](https://github.com/ddzy/ts-utility-plugins) - :octocat: Useful plugins library,  including Canvas、Business、Utility and more
+- [worktile/plait](https://github.com/worktile/plait) - A completely customizable framework for building all-in-one drawing whiteboard
+- [davidmyersdev/ink-mde](https://github.com/davidmyersdev/ink-mde) - A beautiful, modern, customizable Markdown editor powered by CodeMirror 6 and TypeScript
+- [fabiospampinato/autogit](https://github.com/fabiospampinato/autogit) - Define commands, using plugins, to execute across all your repositories.
+- [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) - Safely execute untrusted Javascript in your Javascript, and execute synchronous code that uses async functions
+- [golevelup/nestjs](https://github.com/golevelup/nestjs) - A collection of badass modules and utilities to help you level up your NestJS applications 🚀
+- [bunsvr/app](https://github.com/bunsvr/app) - Build high-performance and scalable web apps
+- [sindresorhus/p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
+- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
+- [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
+- [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [openapistack/openapi-client-axios](https://github.com/openapistack/openapi-client-axios) - JavaScript client library for consuming OpenAPI-enabled APIs with axios
+- [aws-azure-login/aws-azure-login](https://github.com/aws-azure-login/aws-azure-login) - Use Azure AD SSO to log into the AWS via CLI.
+- [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli) - Azure Static Web Apps CLI ✨
+- [microsoft/typed-rest-client](https://github.com/microsoft/typed-rest-client) - Node Rest and Http Clients with typings for use with TypeScript
+- [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
+- [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
+- [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
+- [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management
+- [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹
+- [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
+- [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
+- [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
+- [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
+- [seonglae/github-setter](https://github.com/seonglae/github-setter) - 
 - [only-cliches/Nano-SQL](https://github.com/only-cliches/Nano-SQL) - Universal database layer for the client, server & mobile devices. It's like Lego for databases.
 - [kriasoft/node-sqlite](https://github.com/kriasoft/node-sqlite) - SQLite client wrapper around sqlite3 for Node.js applications with SQL-based migrations API written in Typescript
 - [adonisjs/lucid](https://github.com/adonisjs/lucid) - AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more
@@ -9818,6 +9915,7 @@
 
 ## Vue 
 
+- [nuxt-ui-pro/saas](https://github.com/nuxt-ui-pro/saas) - A SaaS template made with Nuxt UI Pro.
 - [LightAPIs/bookmark-url-batch-replacer](https://github.com/LightAPIs/bookmark-url-batch-replacer) - Batch replace bookmark URL.
 - [zero4994/docker-management-dashboard](https://github.com/zero4994/docker-management-dashboard) - A management dashboard for your local docker containers
 - [ndabAP/vue-command](https://github.com/ndabAP/vue-command) - A fully working, most feature-rich Vue.js terminal emulator. Now with Vue.js 3 support!
