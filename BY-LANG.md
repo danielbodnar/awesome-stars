@@ -917,6 +917,7 @@
 
 ## Dockerfile 
 
+- [ravens/docker-vyos](https://github.com/ravens/docker-vyos) - VyOS inside a container.
 - [kurokobo/awx-on-k3s](https://github.com/kurokobo/awx-on-k3s) - An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords.
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
 - [haxqer/jira](https://github.com/haxqer/jira) - The simplest docker file of JIRA. Support v9.16.1(latest) and v9.12.10(lts)
@@ -1068,6 +1069,7 @@
 
 ## Go 
 
+- [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
 - [ksctl/ksctl](https://github.com/ksctl/ksctl) - Cloud Agnostic Kubernetes Management (Core)
 - [cristalhq/aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
 - [lucasepe/draft](https://github.com/lucasepe/draft) - Generate High Level Cloud Architecture diagrams using YAML syntax.
@@ -2043,7 +2045,7 @@
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -2420,7 +2422,7 @@
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다. 
 - [kintoandar/fwd](https://github.com/kintoandar/fwd) - 🚂 The little forwarder that could
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
 - [Janusec/janusec](https://github.com/Janusec/janusec) - JANUSEC Application Gateway provides secure access, including reverse proxy, K8S Ingress Controller, Automatic ACME Certificate, WAF, 5-Second Shield, CC Defense, OAuth2 Authentication, Global Server 
@@ -2578,6 +2580,7 @@
 
 ## HCL 
 
+- [markthebault/transit-vpc-aws-vyos](https://github.com/markthebault/transit-vpc-aws-vyos) - Simple transit VPC example on AWS using vyos instances
 - [maddevsio/aws-eks-base](https://github.com/maddevsio/aws-eks-base) - This boilerplate contains terraform configurations for the rapid deployment of a Kubernetes cluster, supporting services, and the underlying infrastructure in AWS.
 - [ibudasov/hydra](https://github.com/ibudasov/hydra) - A containerized app with Redis dependency, wrapped in docker-compose, orchestrated with Kubernetes, monitored with Prometheus and Grafana, deployed in GKE with Github Actions. Provisioned with Terrafo
 - [cloudposse/terraform-aws-security-group](https://github.com/cloudposse/terraform-aws-security-group) - Terraform module to provision an AWS Security Group
@@ -2956,6 +2959,14 @@
 
 ## JavaScript 
 
+- [cerebral/cerebral](https://github.com/cerebral/cerebral) - Declarative state and side effects management for popular JavaScript frameworks
+- [javascript-studio/schema](https://github.com/javascript-studio/schema) - 🧩 Plain JavaScript objects with runtime type guarantees
+- [octokit/openapi](https://github.com/octokit/openapi) - GitHub's official OpenAPI spec with Octokit extensions
+- [design-first/system-runtime](https://github.com/design-first/system-runtime) - A JavaScript library that runs systems
+- [google/schemarama](https://github.com/google/schemarama) - Schemarama is a project exploring standards-based validation for structured data, especially Schema.org.
+- [ajv-validator/config](https://github.com/ajv-validator/config) - Shared typescript, eslint and prettier configuration
+- [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
+- [unjs/unwasm](https://github.com/unjs/unwasm) - 🇼 WebAssembly tools for JavaScript
 - [sjinks/node-config-reloadable](https://github.com/sjinks/node-config-reloadable) - Reloadable version of lorenwest/node-config
 - [typhonjs-typedoc/typedoc-pkg](https://github.com/typhonjs-typedoc/typedoc-pkg) - Provides a zero config CLI to create API documentation with TypeDoc from `package.json` exports conditions.
 - [tsmx/secure-config](https://github.com/tsmx/secure-config) - Easy and secure NodeJS configuration management.
@@ -3834,7 +3845,6 @@
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [projectfluent/fluent](https://github.com/projectfluent/fluent) - Fluent — planning, spec and documentation
-- [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [Netflix-Skunkworks/stethoscope-app](https://github.com/Netflix-Skunkworks/stethoscope-app) - A desktop application that checks security-related settings and makes recommendations for improvements without requiring central device management or automated reporting.
 - [alibaba/anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and Adguard
@@ -4373,6 +4383,7 @@
 
 ## Jinja 
 
+- [sever-sever/vyos-automate](https://github.com/sever-sever/vyos-automate) - Automate scripts
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
 - [rosineygp/mkdkr_exporter](https://github.com/rosineygp/mkdkr_exporter) - export mkdkr to another pipeline engine
@@ -4396,6 +4407,7 @@
 
 ## Jsonnet 
 
+- [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs' Jsonnet libraries
 - [kubecfg/k8s-libsonnet](https://github.com/kubecfg/k8s-libsonnet) - Helpers for creating k8s resources without abuse of constructor functions
 - [bitnami/kube-libsonnet](https://github.com/bitnami/kube-libsonnet) - Bitnami's jsonnet library for building Kubernetes manifests
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
@@ -4560,6 +4572,7 @@
 
 ## Makefile 
 
+- [aws/eks-anywhere-build-tooling](https://github.com/aws/eks-anywhere-build-tooling) - Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere
 - [jenkinsci/jenkinsfile-runner-image-packs](https://github.com/jenkinsci/jenkinsfile-runner-image-packs) - Contains custom Jenkinsfile Runner images for common use-cases
 - [aclark4life/project-makefile](https://github.com/aclark4life/project-makefile) - Project Makefile
 - [tsertkov/makefiles](https://github.com/tsertkov/makefiles) - Reusable makefiles collection
@@ -4649,6 +4662,7 @@
 
 ## Nim 
 
+- [roquie/smalte](https://github.com/roquie/smalte) - Dynamically configure applications that require static configuration in docker container.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥
 - [nim-lang/nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
@@ -4707,6 +4721,10 @@
 
 ## Others 
 
+- [ashimov/vyos-build-action](https://github.com/ashimov/vyos-build-action) - VyOS ISO Automation Build
+- [vyos/vyos-rolling-nightly-builds](https://github.com/vyos/vyos-rolling-nightly-builds) - Scheduled ISO nightly builds for current branch
+- [9l/vyos-build-action](https://github.com/9l/vyos-build-action) - VyOS ISO Automation Build
+- [web-infra-dev/awesome-rspack](https://github.com/web-infra-dev/awesome-rspack) - A curated list of awesome things related to Rspack, Rsbuild and Rspress
 - [DanielBodnar/opssdk](https://github.com/DanielBodnar/opssdk) - A composable, pluggable, cli sdk for dev and cloud operations
 - [Myria-de/firefox-sync-docker](https://github.com/Myria-de/firefox-sync-docker) - Einen eigenen Firefox-Sync-Server einrichten
 - [ashu-tosh-kumar/sting-sync](https://github.com/ashu-tosh-kumar/sting-sync) - [In Progress Attempt] A cross-platform cross-browser bookmark sync extension supporting Safari, Chromium and Firefox at the very least.
@@ -5393,6 +5411,8 @@
 
 ## Python 
 
+- [vyos/vyos-infrastructure](https://github.com/vyos/vyos-infrastructure) - Various scripts and automations for VyOS infrastructure tasks
+- [vyos/vyos-documentation](https://github.com/vyos/vyos-documentation) - VyOS readthedocs
 - [alunduil/zfs-replicate](https://github.com/alunduil/zfs-replicate) - ZFS Replication
 - [ddebeau/zfs_uploader](https://github.com/ddebeau/zfs_uploader) - Simple program for backing up full and incremental ZFS snapshots to Amazon S3.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
@@ -6511,6 +6531,9 @@
 
 ## Rust 
 
+- [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for JavaScript monorepos
+- [umijs/mako](https://github.com/umijs/mako) - An extremely fast, production-grade web bundler based on Rust.
+- [swc-project/plugins](https://github.com/swc-project/plugins) - Plugins for swc, written in rust
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite
 - [chiselstrike/chiselstore](https://github.com/chiselstrike/chiselstore) - SQLite + Little Raft = 🚀
@@ -7338,6 +7361,11 @@
 
 ## Shell 
 
+- [tjjh89017/vyos-on-k8s](https://github.com/tjjh89017/vyos-on-k8s) - 
+- [budimanjojo/vyos-config](https://github.com/budimanjojo/vyos-config) - My VyOS IaC configuration
+- [keshavdv/vyattta-config-sync](https://github.com/keshavdv/vyattta-config-sync) - Open source implementation of Vyatta and VyOS config-sync
+- [ahaitoute/ansible-vyos](https://github.com/ahaitoute/ansible-vyos) - Installs VyOS configuration.
+- [vyos-legacy/build-iso](https://github.com/vyos-legacy/build-iso) - Top-level build system for VyOS
 - [sapegin/dotfiles](https://github.com/sapegin/dotfiles) - My macOS environment: zsh, Git, Visual Studio Code, etc.
 - [osboot/make-initrd](https://github.com/osboot/make-initrd) - Creates an initramfs image
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
@@ -8050,6 +8078,7 @@
 
 ## Svelte 
 
+- [delay/sveltekit-auth](https://github.com/delay/sveltekit-auth) - This is a Sveltekit Auth project. It utilizes Lucia for authentication, shadcn-svelte for ui elements, Drizzle for database connectivity and type safety, Lucide for icons, Zod and Superforms to handle
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -8119,10 +8148,47 @@
 
 ## Twig 
 
+- [boltdesignsystem/bolt](https://github.com/boltdesignsystem/bolt) - The Bolt Design System provides robust Twig and Web Component-powered UI components, reusable visual styles, and powerful tooling to help developers, designers, and content authors build, maintain, an
 - [paragonie/paseto-io](https://github.com/paragonie/paseto-io) - Paseto Website
 
 ## TypeScript 
 
+- [nrwl/nx-recipes](https://github.com/nrwl/nx-recipes) - 🧑‍🍳 Common recipes to productively use Nx with various technologies and in different setups. Made with ❤️ by the Nx Team
+- [nrwl/monorepo.tools](https://github.com/nrwl/monorepo.tools) - Your defacto guide on monorepos, and in depth feature comparisons of tooling solutions.
+- [Quramy/npm-ts-workspaces-example](https://github.com/Quramy/npm-ts-workspaces-example) - Monorepos example project using npm workspaces and TypeScript project references
+- [ojkelly/yarn.build](https://github.com/ojkelly/yarn.build) - Build 🛠 and Bundle 📦 your local workspaces. Like Bazel, Buck, Pants and Please but for Yarn Berry. Build any language, mix javascript, typescript, golang and more in one polyglot repo. Ship your bundl
+- [aws/aws-pdk](https://github.com/aws/aws-pdk) - The AWS PDK provides building blocks for common patterns together with development tools to manage and build your projects.
+- [innocces/taro-hooks](https://github.com/innocces/taro-hooks) - Hooks Library for Taro
+- [tszhong0411/honghong.me](https://github.com/tszhong0411/honghong.me) - ⚡ A monorepo of my personal website and blog built with TypeScript, Next.js, and Tailwind CSS
+- [contentful/rich-text](https://github.com/contentful/rich-text) - Libraries for handling and rendering Rich Text 📄
+- [iTwin/itwinjs-core](https://github.com/iTwin/itwinjs-core) - Monorepo for iTwin.js Library
+- [xmlking/ngx-starter-kit](https://github.com/xmlking/ngx-starter-kit) - :a: Angular :rocket: NestJS :monkey: Starter Kit
+- [bluelibs/bluelibs](https://github.com/bluelibs/bluelibs) - A collection of open-source software solutions designed for the modern web and enterprise scale.
+- [semaphore-protocol/semaphore](https://github.com/semaphore-protocol/semaphore) - A zero-knowledge protocol for anonymous interactions.
+- [nrwl/nx-examples](https://github.com/nrwl/nx-examples) - Example repo for Nx workspace
+- [folke/ultra-runner](https://github.com/folke/ultra-runner) - 🏃⛰ Ultra fast monorepo script runner and build tool
+- [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
+- [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol Monorepo
+- [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [stijnvanhulle/template](https://github.com/stijnvanhulle/template) - Monorepo template with TurboRepo and changeset
+- [koliveira15/nx-sonarqube](https://github.com/koliveira15/nx-sonarqube) - A Nx plugin that scans projects using SonarQube / SonarCloud.
+- [semantic-release-plus/semantic-release-plus](https://github.com/semantic-release-plus/semantic-release-plus) - semantic-release-plus monorepo to build and publish all semantic-release related repositories
+- [nxpm/stack](https://github.com/nxpm/stack) - 🥭 nxpm-stack lets you generate a complete and opinionated full-stack application in a Nx Workspace, ready to extend and deploy!
+- [atlassian-labs/json-schema-viewer](https://github.com/atlassian-labs/json-schema-viewer) - A JSON Schema Viewer for any JSON Schema on earth.
+- [PlasmoHQ/bms](https://github.com/PlasmoHQ/bms) - 📢 Browser Market Submission
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [a-type/verdant](https://github.com/a-type/verdant) - 🌿 Storage, sync & realtime for local-first web apps. Build an app in minutes, deploy as a static page, and add sync with a few lines.
+- [mohammed-bahumaish/prisma-editor](https://github.com/mohammed-bahumaish/prisma-editor) - Prisma Editor - A powerful tool to visualize and edit Prisma Schema.
+- [OADA/formats](https://github.com/OADA/formats) - Simplified approach to OADA formats that actually uses JSON Schema
+- [zowe/zowe-cli-sample-plugin](https://github.com/zowe/zowe-cli-sample-plugin) - Plugin Tutorial for Zowe CLI
+- [configcat/common-js](https://github.com/configcat/common-js) - Common Javascript library for ConfigCat. ConfigCat is a hosted feature flag service: https://configcat.com. Manage feature toggles across frontend, backend, mobile, desktop apps. Alternative to Launch
+- [unjs/unkit](https://github.com/unjs/unkit) - 📙 UnJS standard library
+- [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Common ECMAScript module utils
+- [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
+- [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
+- [unjs/unctx](https://github.com/unjs/unctx) - 🍦 Composables in vanilla JS
+- [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [liudonghua123/cross-shell](https://github.com/liudonghua123/cross-shell) - A simple cross platform shell for windows which supports set envs, wildcard expansions ...
 - [culur/culur](https://github.com/culur/culur) - 
 - [jaywcjlove/auto-config-loader](https://github.com/jaywcjlove/auto-config-loader) - Find and load configuration from a package.json property, rc file, or CommonJS module.
@@ -8366,7 +8432,7 @@
 - [sindresorhus/sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [tommy351/kosko](https://github.com/tommy351/kosko) - Organize Kubernetes manifests in TypeScript.
 - [mister-what/esbuild-plugin-ajv](https://github.com/mister-what/esbuild-plugin-ajv) - AJV plugin for esbuild
-- [devtodollars/mvp-boilerplate](https://github.com/devtodollars/mvp-boilerplate) - Everything you need to build a startup from the CTO of a YC-backed startup
+- [devtodollars/mvp-boilerplate](https://github.com/devtodollars/mvp-boilerplate) - Everything you need to build an MVP from the CTO of a YC-backed startup
 - [paralect/ship](https://github.com/paralect/ship) - A toolkit for makers to ship better products faster 🚀
 - [alifarooq9/rapidlaunch](https://github.com/alifarooq9/rapidlaunch) - Beautiful Next.js SaaS Starterkits, Blocks and guides. Built using Shadcn ui, Next.js 14, DrizzleORM, Resend, and more
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
@@ -8424,7 +8490,7 @@
 - [sachinraja/trpc-bun](https://github.com/sachinraja/trpc-bun) - tRPC + Bun
 - [itsyoboieltr/dbest-stack](https://github.com/itsyoboieltr/dbest-stack) - 
 - [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
 - [ahoys/tiny-remote-executioner](https://github.com/ahoys/tiny-remote-executioner) - A lightweight Bun-based Shell-script remote runner.
 - [tr1ckydev/bsh](https://github.com/tr1ckydev/bsh) - Run bun shell as a standalone interactive shell.
 - [iam-rohid/code-to-img](https://github.com/iam-rohid/code-to-img) - Code to Image converter is a beautifully designed application that helps you generate beautiful and customizable images of your code snippets. This is built for the developer by the developer. If you 
@@ -8658,7 +8724,7 @@
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
 - [sachinraja/trpc-playground](https://github.com/sachinraja/trpc-playground) - playground for running tRPC queries in the browser
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming on July 1 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Pos
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming on July 2 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Pos
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
@@ -9195,7 +9261,7 @@
 - [metachris/typescript-boilerplate](https://github.com/metachris/typescript-boilerplate) - A modern TypeScript project setup, for Node.js and browsers
 - [jpmorganchase/modular](https://github.com/jpmorganchase/modular) - A modular front end development framework
 - [folke/esbuild-runner](https://github.com/folke/esbuild-runner) - ⚡️ Super-fast on-the-fly transpilation of modern JS, TypeScript and JSX using esbuild
-- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [n1ru4l/envelop](https://github.com/n1ru4l/envelop) - Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
@@ -9464,6 +9530,7 @@
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [churichard/notabase](https://github.com/churichard/notabase) - A second brain for your knowledge, thoughts, and ideas.
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
+- [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [open-source-labs/Spearmint](https://github.com/open-source-labs/Spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
