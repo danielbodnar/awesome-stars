@@ -130,6 +130,7 @@
 - [YASnippet](#yasnippet)
 - [Zig](#zig)
 - [sed](#sed)
+- [templ](#templ)
 
 ## ANTLR 
 
@@ -490,7 +491,7 @@
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - :books: Library of all kind of scripts, snippets & shaders for Unity
 - [microsoft/dev-tunnels](https://github.com/microsoft/dev-tunnels) - Dev Tunnels SDK
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [Redocly/openapi-starter](https://github.com/Redocly/openapi-starter) - OpenAPI starter repository
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
@@ -1072,6 +1073,10 @@
 
 ## Go 
 
+- [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
+- [utkusen/urlhunter](https://github.com/utkusen/urlhunter) - a recon tool that allows searching on URLs that are exposed via shortener services
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
+- [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [yarpc/yab](https://github.com/yarpc/yab) - Call and benchmark YARPC services from the command line.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -1604,7 +1609,7 @@
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [leopardslab/dunner](https://github.com/leopardslab/dunner) - Dunner is a task runner tool like Grunt but used Docker images like CircleCI do. You can define tasks and steps of the tasks in your `.dunner.yaml` file and then run these steps with `Dunner do taskna
 - [mistakenelf/fm](https://github.com/mistakenelf/fm) - A terminal based file manager
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
@@ -1618,7 +1623,6 @@
 - [hofstadter-io/cuetils](https://github.com/hofstadter-io/cuetils) - CLI and library for diff, patch, and ETL operations on CUE, JSON, and Yaml
 - [Edgenesis/shifu](https://github.com/Edgenesis/shifu) - Kubernetes-native IoT gateway
 - [spidernet-io/spiderpool](https://github.com/spidernet-io/spiderpool) - Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud
-- [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners
 - [KusionStack/kusion](https://github.com/KusionStack/kusion) - Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).
 - [merbridge/merbridge](https://github.com/merbridge/merbridge) - Use eBPF to speed up your Service Mesh like crossing an Einstein-Rosen Bridge.
@@ -2429,7 +2433,7 @@
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다. 
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC.
 - [kintoandar/fwd](https://github.com/kintoandar/fwd) - 🚂 The little forwarder that could
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
 - [Janusec/janusec](https://github.com/Janusec/janusec) - JANUSEC Application Gateway provides secure access, including reverse proxy, K8S Ingress Controller, Automatic ACME Certificate, WAF, 5-Second Shield, CC Defense, OAuth2 Authentication, Global Server 
@@ -2623,6 +2627,8 @@
 
 ## HTML 
 
+- [speced/bikeshed](https://github.com/speced/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
+- [whatwg/webidl](https://github.com/whatwg/webidl) - Web IDL Standard
 - [tc39/proposal-import-attributes](https://github.com/tc39/proposal-import-attributes) - Proposal for syntax to import ES modules with assertions
 - [tc39/proposal-shadowrealm](https://github.com/tc39/proposal-shadowrealm) - ECMAScript Proposal, specs, and reference implementation for Realms
 - [bgrins/devtools-snippets](https://github.com/bgrins/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
@@ -2743,7 +2749,7 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
-- [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components) - Free Tailwind CSS UI Components - Crafted for modern websites, landing pages and web apps. TailGrids Core is free and open-source so, feel free to use with your personal or commercial projects. If you
+- [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components) - Tailwind CSS UI library, featuring over 600 top-tier Tailwind CSS UI components and blocks. Each one is handcrafted for modern websites, landing pages, web applications, dashboards, ecommerce platform
 - [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page) - Tailwind CSS Starter Template - Landing Page
 - [serudda/steroidesign](https://github.com/serudda/steroidesign) - Themes based on the biggest StartUps (buttons, color palette, components, etc.) ready to use in your own projects.
 - [superconvert/smart_rtmpd](https://github.com/superconvert/smart_rtmpd) - RTMP server, smart, compact, high performance(c, c++), high concurrency, easy to maintain, easy to deploy, (supports multiple operating systems Windows and Linux, ARM, FreeBSD)
@@ -2849,6 +2855,7 @@
 
 ## Java 
 
+- [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for grocy
 - [salesforce/dockerfile-image-update](https://github.com/salesforce/dockerfile-image-update) - A tool that helps you get security patches for Docker images into production as quickly as possible without breaking things
 - [jenkinsci/branch-api-plugin](https://github.com/jenkinsci/branch-api-plugin) - 
@@ -2968,6 +2975,10 @@
 
 ## JavaScript 
 
+- [pinokiocomputer/llamanet](https://github.com/pinokiocomputer/llamanet) - Replace OpenAI with Llama.cpp Automagically.
+- [putoutjs/bundler](https://github.com/putoutjs/bundler) - Simplest possible bundler
+- [peggyjs/peggy](https://github.com/peggyjs/peggy) - Peggy: Parser generator for JavaScript
+- [wooorm/trough](https://github.com/wooorm/trough) - `trough` is middleware
 - [NekR/offline-plugin](https://github.com/NekR/offline-plugin) - Offline plugin  (ServiceWorker, AppCache) for webpack (https://webpack.js.org/)
 - [egoist/hanabi](https://github.com/egoist/hanabi) - :boom: Highlight any code, in a colorful way. (seriously 700 bytes)
 - [stacksjs/ts-starter](https://github.com/stacksjs/ts-starter) - Quickly bootstrap your next TypeScript / Bun project.
@@ -4437,6 +4448,7 @@
 
 ## Jupyter Notebook 
 
+- [Santosh-Gupta/Lit2Vec](https://github.com/Santosh-Gupta/Lit2Vec) - Representing Books as vectors using the Word2Vec algorithm
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [treygrainger/ai-powered-search](https://github.com/treygrainger/ai-powered-search) - The codebase for the book "AI-Powered Search" (Manning Publications, 2024)
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
@@ -4570,6 +4582,7 @@
 
 ## MATLAB 
 
+- [SanPen/GridCal](https://github.com/SanPen/GridCal) - GridCal, a cross-platform power systems software written in Python with user interface, used in academia and industry.
 - [agriffa/BrainComm_mammalian_evolution](https://github.com/agriffa/BrainComm_mammalian_evolution) - Implementation of brain communication analyses across mammalian species
 
 ## MDX 
@@ -4663,7 +4676,6 @@
 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [codecentric/helm-charts](https://github.com/codecentric/helm-charts) - A curated set of Helm charts brought to you by codecentric
-- [opensearch-project/helm-charts](https://github.com/opensearch-project/helm-charts) - :wheel_of_dharma: A community repository for Helm Charts of OpenSearch Project.
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
 - [netdata/helmchart](https://github.com/netdata/helmchart) - Helm chart for kubernetes deployments
@@ -4739,6 +4751,8 @@
 
 ## Others 
 
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
+- [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [egoist/awesome-esbuild](https://github.com/egoist/awesome-esbuild) - A curated list of awesome esbuild resources
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
@@ -5433,6 +5447,9 @@
 
 ## Python 
 
+- [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
+- [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
+- [speced/bikeshed-boilerplate](https://github.com/speced/bikeshed-boilerplate) - Boilerplate files for Bikeshed specs
 - [vyos/vyos-infrastructure](https://github.com/vyos/vyos-infrastructure) - Various scripts and automations for VyOS infrastructure tasks
 - [vyos/vyos-documentation](https://github.com/vyos/vyos-documentation) - VyOS readthedocs
 - [alunduil/zfs-replicate](https://github.com/alunduil/zfs-replicate) - ZFS Replication
@@ -5452,7 +5469,6 @@
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [subuser-security/subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
 - [posativ/weave-minimal](https://github.com/posativ/weave-minimal) - lightweight firefox weave/sync server
-- [SanPen/GridCal](https://github.com/SanPen/GridCal) - GridCal, a cross-platform power systems software written in Python with user interface, used in academia and industry.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [peaceiris/mkdocs-material-boilerplate](https://github.com/peaceiris/mkdocs-material-boilerplate) - MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.
@@ -5887,7 +5903,7 @@
 - [sleventyeleven/linuxprivchecker](https://github.com/sleventyeleven/linuxprivchecker) - linuxprivchecker.py -- a Linux Privilege Escalation Check Script
 - [Viralmaniar/Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen c
 - [jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf) - 💀 Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator or Interact.sh
-- [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among conn
+- [t3l3machus/Villain](https://github.com/t3l3machus/Villain) - Villain is a high level stage 0/1 C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and 
 - [abdulkadir-gungor/HtmlSmuggling](https://github.com/abdulkadir-gungor/HtmlSmuggling) - HTML smuggling is a malicious technique used by hackers to hide malware payloads in an encoded script in a specially crafted HTML attachment or web page. The malicious script decodes and deploys the p
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -5951,7 +5967,6 @@
 - [NeuroTechX/moabb](https://github.com/NeuroTechX/moabb) - Mother of All BCI Benchmarks
 - [Uzay-G/espial](https://github.com/Uzay-G/espial) - Espial is an engine for automated organization and discovery of personal knowledge
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -6491,7 +6506,7 @@
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) - Package manager for Chrome OS
 - [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) - Generate OpenAPI schema from RSpec request specs
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
@@ -6557,6 +6572,7 @@
 
 ## Rust 
 
+- [vihu/gogo](https://github.com/vihu/gogo) - Terminal bookmark manager
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for JavaScript monorepos
 - [umijs/mako](https://github.com/umijs/mako) - An extremely fast, production-grade web bundler based on Rust.
@@ -6778,7 +6794,7 @@
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [subbu963/bott](https://github.com/subbu963/bott) - bott: Your Terminal Copilot
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) - A Rust library allowing to interact with the Ollama API.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - AIChat is an all-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, Tool Use, AI Agent, and More.
 - [matthewwoodruff/sdoc](https://github.com/matthewwoodruff/sdoc) - Framework for building custom CLIs around shell, scripts, and executables
 - [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
@@ -8084,6 +8100,7 @@
 - [astriaorg/dev-cluster](https://github.com/astriaorg/dev-cluster) - Configuration and scripts for running Astria
 - [erdemdoganayy/docker-compose-helm-chart](https://github.com/erdemdoganayy/docker-compose-helm-chart) - 
 - [lrvl/backstage-helm-chart](https://github.com/lrvl/backstage-helm-chart) - 
+- [opensearch-project/helm-charts](https://github.com/opensearch-project/helm-charts) - :wheel_of_dharma: A community repository for Helm Charts of OpenSearch Project.
 - [rancher/charts](https://github.com/rancher/charts) - Github based Helm Chart Index Repository providing charts crafted for Rancher Manager
 - [TouchInstinct/charts](https://github.com/TouchInstinct/charts) - 
 - [rancher/community-catalog](https://github.com/rancher/community-catalog) - Catalog entries contributed by the community
@@ -8181,6 +8198,66 @@
 
 ## TypeScript 
 
+- [imjuni/ctix](https://github.com/imjuni/ctix) - CLI to generate barrel file for webpack, rollup entrypoint
+- [expo-community/standard-version-expo](https://github.com/expo-community/standard-version-expo) - Automatic Expo versioning with Standard Version
+- [MichaelCurrin/auto-commit-msg](https://github.com/MichaelCurrin/auto-commit-msg) - A VS Code extension to generate a smart commit message based on file changes
+- [featuredotapp/cli](https://github.com/featuredotapp/cli) - Get a programmable email address. Automate what happens when you receive emails. It's like Zapier for devs who hate emails.
+- [hardisgroupcom/sfdx-hardis](https://github.com/hardisgroupcom/sfdx-hardis) - Swiss-army-knife Toolbox for Salesforce. Orchestrates base commands and assist users with interactive wizards to make much more than native sfdx + Allows you to define a complete CI/CD Pipeline and Sc
+- [parcelvoy/platform](https://github.com/parcelvoy/platform) - Parcelvoy: Open source multi-channel marketing automation platform. Send data-driven emails, sms, push notifications and more!
+- [knightlyjs/knightly](https://github.com/knightlyjs/knightly) - 🌒 Nightly builds for projects and PRs (BETA)
+- [rowyio/buildship](https://github.com/rowyio/buildship) - Low-code Visual Backend Builder, powered by AI ✨ Create APIs, scheduled jobs, backend tasks, database CRUD, and integrate with any tool or APIs.
+- [basti-app/basti](https://github.com/basti-app/basti) - ✨ Securely connect to RDS, Elasticache, and other AWS resources in VPCs with no idle cost
+- [flood-io/element](https://github.com/flood-io/element) - 💦Load test your app using real web browsers
+- [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
+- [fabiospampinato/bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
+- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
+- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
+- [hupe1980/cdkdx](https://github.com/hupe1980/cdkdx) - Zero-config CLI for aws cdk development
+- [cdklabs/publib](https://github.com/cdklabs/publib) - A unified toolchain for publishing libraries to popular package managers (formally jsii-release)
+- [GoodNotes/ts-interface-generator](https://github.com/GoodNotes/ts-interface-generator) - Export JSII Compatible Interface from public NPM packages
+- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The e2e platform for creating, sharing, and running codemods, built on top of your favorite codemod engine. Automate code migrations, cleanups, and refactors for yourself, colleagues, and the communit
+- [GregRos/zenesis](https://github.com/GregRos/zenesis) - Type generation
+- [GregRos/lazies](https://github.com/GregRos/lazies) - 
+- [GregRos/parjs](https://github.com/GregRos/parjs) - JavaScript parser-combinator library
+- [joycollector/groovy-beautify](https://github.com/joycollector/groovy-beautify) - A simple beautifier which allows formatting and indenting Groovy scripts
+- [kingdon-ci/example-cdk8s-ruby](https://github.com/kingdon-ci/example-cdk8s-ruby) - Hydrating yamls with cdk8s, using CI and NodeJS runtime env from kingdonb/Jenkinsfile-example
+- [bhaskarmehta/AngularProjectDeployment](https://github.com/bhaskarmehta/AngularProjectDeployment) - End-End Deployment Of the Angular Project Consists of Jenkinsfile, DockerCompose, Yaml file, Helm
+- [zacanger/ts-koa-microservice-boilerplate](https://github.com/zacanger/ts-koa-microservice-boilerplate) - Koa + TS boilerplate, + Docker, K8s, CI examples, and more
+- [microsoft/TypeScript-DOM-lib-generator](https://github.com/microsoft/TypeScript-DOM-lib-generator) - Tool for generating dom related TypeScript and JavaScript library files
+- [unplugin/unplugin-unified](https://github.com/unplugin/unplugin-unified) - unified pipeline integration with unplugin
+- [JoshuaKGoldberg/ts-api-utils](https://github.com/JoshuaKGoldberg/ts-api-utils) - Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️
+- [tinrab/esbuild-plugin-copy-import](https://github.com/tinrab/esbuild-plugin-copy-import) - 
+- [floydspace/serverless-esbuild](https://github.com/floydspace/serverless-esbuild) - 💨 A Serverless framework plugin to bundle JavaScript and TypeScript with extremely fast esbuild
+- [beforeyoubid/serverless-esbuild-layers](https://github.com/beforeyoubid/serverless-esbuild-layers) - Serverless plugin to support externalising node modules onto Lambda layers when using esbuild
+- [sprout2000/esbuild-copy-plugin](https://github.com/sprout2000/esbuild-copy-plugin) - An esbuild plugin to copy static files that changed from a source directory to a destination directory.
+- [beeequeue/esbuild-cf-functions-plugin](https://github.com/beeequeue/esbuild-cf-functions-plugin) - 🔧 A plugin to configure ESBuild for building code compatible with CloudFront Functions
+- [idleberg/esbuild-plugin-valibot-env](https://github.com/idleberg/esbuild-plugin-valibot-env) - Esbuild plugin to validate environment variables against a Valibot schema
+- [imranbarbhuiya/esbuild-plugins-node-modules-polyfill](https://github.com/imranbarbhuiya/esbuild-plugins-node-modules-polyfill) - An esbuild plugin to polyfill nodejs builtin modules for the browser.
+- [luxass/esbuild-yaml](https://github.com/luxass/esbuild-yaml) - 📦 A esbuild plugin that allow import of yaml files
+- [luxass/esbuild-cdn-imports](https://github.com/luxass/esbuild-cdn-imports) - This plugin intercepts imports and resolves them to a CDN URL.
+- [esmfile/esbuild-plugin-esmfile](https://github.com/esmfile/esbuild-plugin-esmfile) - Import *.file.ts/*.file.js modules to build files using the file loader...For example, importing rocket-launch.svg.file.ts builds rocket-launch.svg in the build output directory during build time.
+- [jsdelivr/unplugin-jsdelivr](https://github.com/jsdelivr/unplugin-jsdelivr) - Use jsDelivr in Vite, Rollup, Webpack and esbuild!
+- [Floffah/esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts) - 🔌 Convenience plugin for compiling typescript definitions with ESBuild
+- [smapiot/piral-cli-bun](https://github.com/smapiot/piral-cli-bun) - Packages for the piral-cli-bun bundler plugin.
+- [developbharat/bun-auth](https://github.com/developbharat/bun-auth) - Authentication plugin for bun apps with consistent interface.
+- [kravetsone/esbuild-plugin-autoload](https://github.com/kravetsone/esbuild-plugin-autoload) - Bun/esbuild plugin for work with autoload at runtime
+- [damonsmith/bun-plugin-inline-templates](https://github.com/damonsmith/bun-plugin-inline-templates) - 
+- [opsbr/eslint-import-resolver-typescript-bun](https://github.com/opsbr/eslint-import-resolver-typescript-bun) - This plugin simply adds workarounds to eslint-import-resolver-typescript when resolving Bun's modules.
+- [grafana/faro-javascript-bundler-plugins](https://github.com/grafana/faro-javascript-bundler-plugins) - A collection of plugins for various JavaScript bundlers. Used in conjunction with the Faro Web SDK to unlock additional features in Grafana Cloud Frontend Observability.
+- [eth-p/esbuild-plugin-dts-bundle-generator](https://github.com/eth-p/esbuild-plugin-dts-bundle-generator) - An esbuild plugin that builds d.ts bundles using `dts-bundle-generator`.
+- [codecov/codecov-javascript-bundler-plugins](https://github.com/codecov/codecov-javascript-bundler-plugins) - Set of bundler plugins that allow users to upload bundle stats to Codecov.
+- [hambergerpls/bun-plugin-typia](https://github.com/hambergerpls/bun-plugin-typia) - typia transformer for Bun
+- [serverless-bun/serverless-bun](https://github.com/serverless-bun/serverless-bun) - Serverless Bun is a comprehensive set of plugins designed to enhance your Serverless Framework experience working with Bun.
+- [KodiCraft/bunch](https://github.com/KodiCraft/bunch) - Bun plugin for loading and linking into C/C++ dynamic libraries automatically
+- [Stuyk/bun-plugin-type-declarations](https://github.com/Stuyk/bun-plugin-type-declarations) - Generate TypeScript declarations with TSC as a bun bundler plugin
+- [PotentialStyx/bun-replit-plugin](https://github.com/PotentialStyx/bun-replit-plugin) - Allows importing code from repls :D
+- [basselalaraaj/rollup-plugin-exclude-dependencies-from-bundle](https://github.com/basselalaraaj/rollup-plugin-exclude-dependencies-from-bundle) - Automatically externalize dependencies and peerDependencies in a bundle.
+- [Agilo/medusa-plugin-bundles](https://github.com/Agilo/medusa-plugin-bundles) - Group products together in product bundles.
+- [dreambo8563/vite-plugin-bundle-prefetch](https://github.com/dreambo8563/vite-plugin-bundle-prefetch) - A vite plugin for prefetching resources
+- [stacksjs/bun-plugin-dts-auto](https://github.com/stacksjs/bun-plugin-dts-auto) - Automatically generate your TypeScript dts types (and sourcemaps), using Bun's bundler.
+- [wobsoriano/bun-plugin-csv](https://github.com/wobsoriano/bun-plugin-csv) - A Bun plugin which converts .csv and .tsv files into JavaScript modules.
+- [ryoppippi/unplugin-typia](https://github.com/ryoppippi/unplugin-typia) - unplugin for Typia with an extra Bun plugin 🫶
+- [wobsoriano/bun-plugin-dts](https://github.com/wobsoriano/bun-plugin-dts) - A Bun plugin for generating dts files.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [pkgxdev/brewkit](https://github.com/pkgxdev/brewkit) - build infra & `$ pkg build`
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG
@@ -9167,7 +9244,7 @@
 - [shreyaskarnik/DistiLlama](https://github.com/shreyaskarnik/DistiLlama) - Chrome Extension to Summarize or Chat with Web Pages/Local Documents Using locally running LLMs. Keep all of your data and conversations private. 🔐
 - [quack-ai/companion-vscode](https://github.com/quack-ai/companion-vscode) - VSCode extension of Quack Companion 💻 Turn your team insights into a portable plug-and-play context for code generation. Alternative to GitHub Copilot powered by OSS LLMs (Mistral, Gemma, etc.), serve
 - [jorge-menjivar/unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
-- [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
+- [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
 - [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama) - Chatbot Ollama is an open source chat UI for Ollama.
 - [vercel/modelfusion](https://github.com/vercel/modelfusion) - The TypeScript library for building AI applications.
 - [zce/mwa](https://github.com/zce/mwa) - 
@@ -9676,6 +9753,7 @@
 - [datopian/datahub](https://github.com/datopian/datahub) - 🌀 Rapidly build rich data portals using a modern frontend framework
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
@@ -10212,6 +10290,10 @@
 ## sed 
 
 - [Anvil/bash-doxygen](https://github.com/Anvil/bash-doxygen) - A doxygen filter for bash scripts
+
+## templ 
+
+- [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood
 
 
 ## License
