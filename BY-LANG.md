@@ -2975,6 +2975,10 @@
 
 ## JavaScript 
 
+- [TrySound/rollup-plugin-string](https://github.com/TrySound/rollup-plugin-string) - Converts text files to modules
+- [npm/promzard](https://github.com/npm/promzard) - A prompting json thingie
+- [lukeed/escalade](https://github.com/lukeed/escalade) - A tiny (183B to 210B) and fast utility to ascend parent directories
+- [lukeed/klona](https://github.com/lukeed/klona) - A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
 - [pinokiocomputer/llamanet](https://github.com/pinokiocomputer/llamanet) - Replace OpenAI with Llama.cpp Automagically.
 - [putoutjs/bundler](https://github.com/putoutjs/bundler) - Simplest possible bundler
 - [peggyjs/peggy](https://github.com/peggyjs/peggy) - Peggy: Parser generator for JavaScript
@@ -6572,6 +6576,7 @@
 
 ## Rust 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [vihu/gogo](https://github.com/vihu/gogo) - Terminal bookmark manager
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for JavaScript monorepos
@@ -8199,6 +8204,42 @@
 
 ## TypeScript 
 
+- [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
+- [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
+- [rafgraph/rollpkg](https://github.com/rafgraph/rollpkg) - Zero-config build tool to create packages with Rollup and TypeScript
+- [dayblox/bun](https://github.com/dayblox/bun) - Bun starter
+- [jeffjiang13/saas-automation](https://github.com/jeffjiang13/saas-automation) - ZapFlow is a SaaS Automation Builder, a powerful and versatile platform designed to automate and streamline your business processes. Built from the ground up without relying on integration libraries, 
+- [Open-Tech-Foundation/js-std](https://github.com/Open-Tech-Foundation/js-std) - An Extensive  JavaScript Standard Library.
+- [TekMath/Config-Builder](https://github.com/TekMath/Config-Builder) - 🔧 TS script that allow you to generate a configuration with credentials from a template and environment with Bun
+- [antfu/changelogithub](https://github.com/antfu/changelogithub) - Generate changelog for GitHub
+- [baboon-king/prettier-define-config](https://github.com/baboon-king/prettier-define-config) - Easy to get Prettier to support defineConfig.
+- [stylelint-types/stylelint-define-config](https://github.com/stylelint-types/stylelint-define-config) - Provide a defineConfig function for stylelint.config.js files
+- [gagoar/codeowners-generator](https://github.com/gagoar/codeowners-generator) - CODEOWNERS solution for mono repos
+- [jbolda/covector](https://github.com/jbolda/covector) - Transparent and flexible change management for publishing packages and assets.
+- [twilio/flex-plugin-builder](https://github.com/twilio/flex-plugin-builder) - Packages related to building a Twilio Flex Plugin
+- [lucasvieirasilva/nx-plugins](https://github.com/lucasvieirasilva/nx-plugins) - NX Plugins
+- [serkodev/nuxt-monorepo](https://github.com/serkodev/nuxt-monorepo) - Using Nuxt Layers to build a complete monorepo architecture
+- [MahdiTa97/turborepo-boilerplate](https://github.com/MahdiTa97/turborepo-boilerplate) - A boilerplate base on TURBOREPO
+- [Escape-Technologies/mookme](https://github.com/Escape-Technologies/mookme) - A pre-commit tool designed for monorepos.
+- [TheUnderScorer/nx-semantic-release](https://github.com/TheUnderScorer/nx-semantic-release) - Package for automated releases for nx built on semantic-release
+- [gurvancampion/turborepo-nuxt-boilerplate](https://github.com/gurvancampion/turborepo-nuxt-boilerplate) - Nuxt.js 3 x Histoire x Vitest x VitePress x Turbo (pnpm)
+- [Siteimprove/alfa](https://github.com/Siteimprove/alfa) - :wheelchair: Suite of open and standards-based tools for performing reliable accessibility conformance testing at scale
+- [commonalityco/commonality](https://github.com/commonalityco/commonality) - 📦 Structure, maintain, and operate JavaScript codebases that scale from one developer to hundreds.
+- [paularmstrong/onerepo](https://github.com/paularmstrong/onerepo) - Easy, strict, safe, and fast JavaScript & TypeScript monorepo toolchain for high performance teams.
+- [InjectiveLabs/injective-ts](https://github.com/InjectiveLabs/injective-ts) - Collection of TypeScript packages that consume and interact with the Injective Chain
+- [TriPSs/nx-extend](https://github.com/TriPSs/nx-extend) - Nx Workspaces builders and tools
+- [folke/vscode-monorepo-workspace](https://github.com/folke/vscode-monorepo-workspace) - 📦✨Manage monorepos with multi-root workspaces. Supports Lerna, Yarn, Pnpm, Rushjs and recursive package directories.
+- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
+- [panoratech/Panora](https://github.com/panoratech/Panora) - Add an integration catalog to your SaaS product in minutes
+- [wixplosives/sample-monorepo](https://github.com/wixplosives/sample-monorepo) - Sample monorepo setup with npm workspaces and typescript project references
+- [ttttonyhe/ouorz-mono](https://github.com/ttttonyhe/ouorz-mono) - :rocket: A Monorepo for My Personal Website and Related Projects
+- [Quramy/lerna-yarn-workspaces-example](https://github.com/Quramy/lerna-yarn-workspaces-example) - How to build TypeScript mono-repo project with yarn and lerna
+- [ducktors/turborepo-remote-cache](https://github.com/ducktors/turborepo-remote-cache) - Open source implementation of the Turborepo custom remote cache server.
+- [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [lerna/lerna-changelog](https://github.com/lerna/lerna-changelog) - :book: PR-based changelog generator with monorepo support
+- [nrwl/nx-console](https://github.com/nrwl/nx-console) - Nx Console is the user interface for Nx & Lerna.
+- [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [imjuni/ctix](https://github.com/imjuni/ctix) - CLI to generate barrel file for webpack, rollup entrypoint
 - [expo-community/standard-version-expo](https://github.com/expo-community/standard-version-expo) - Automatic Expo versioning with Standard Version
 - [MichaelCurrin/auto-commit-msg](https://github.com/MichaelCurrin/auto-commit-msg) - A VS Code extension to generate a smart commit message based on file changes
@@ -8480,7 +8521,7 @@
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 193 TypeScript projects (and ~170 examples) for general purpose, functional, data driven development
 - [shahradelahi/node-cronstack](https://github.com/shahradelahi/node-cronstack) - [WIP] ⏳ A Versatile library for Cron Management & Automation
 - [kingstinct/zemble](https://github.com/kingstinct/zemble) - Zemble Plugin System
-- [Huilensolis/memoir](https://github.com/Huilensolis/memoir) - Memoir is a web editor for journaling and documenting your reflections.
+- [huilensolis/memoir](https://github.com/huilensolis/memoir) - Memoir is a web editor for journaling and documenting your reflections.
 - [cross-org/kv](https://github.com/cross-org/kv) - A fast, lightweight, powerful and cross-platform key-value database for Node.js, Deno, and Bun.
 - [rajatsandeepsen/t3-biome-bun-starter-kit](https://github.com/rajatsandeepsen/t3-biome-bun-starter-kit) - T3 Biome Bun Starter Kit with Next.js, TailwindCSS, Drizzle ORM (postgres), tRPC, Shadcn-UI and NextAuth
 - [jellydn/elysia-demo-app](https://github.com/jellydn/elysia-demo-app) - A Real-World Example Using Bun, Docker, and Fly.io 🚀
@@ -8653,7 +8694,7 @@
 - [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
 - [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
-- [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
+- [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [tobua/epic-cli](https://github.com/tobua/epic-cli) - Useful commands for everyday Web Development.
