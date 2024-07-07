@@ -168,7 +168,7 @@
 
 ## Awk 
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Opensource lightweight posix script for tools (500+) management and classic command extensions
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - One command to bootstrap lightweight 200+ shell tools and 500+ portable packages.
 - [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 
 ## Batchfile 
@@ -1073,6 +1073,7 @@
 
 ## Go 
 
+- [hashicorp/terraform-schema](https://github.com/hashicorp/terraform-schema) - This library helps assembling a complete schema for decoding Terraform config
 - [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
 - [utkusen/urlhunter](https://github.com/utkusen/urlhunter) - a recon tool that allows searching on URLs that are exposed via shortener services
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
@@ -1098,7 +1099,7 @@
 - [Debian/dcs](https://github.com/Debian/dcs) - Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!
 - [karust/openserp](https://github.com/karust/openserp) - Get Google, Yandex, Baidu search engine results via API or CLI for free 🎉
 - [cybercongress/go-cyber](https://github.com/cybercongress/go-cyber) - Your 🔵 Superintelligence
-- [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm) - The Cluster API provider for creating microvm (i.e. Firecracker, Cloud Hypervisor) clusters
+- [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm) - The Cluster API provider for creating microvm (i.e. Firecracker, Cloud Hypervisor) clusters
 - [Allenxuxu/gev](https://github.com/Allenxuxu/gev) - 🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.
 - [frzam/hail](https://github.com/frzam/hail) - Cross-platform script management CLI written in go.
 - [project-stacker/stacker](https://github.com/project-stacker/stacker) - Build OCI images natively from a declarative format
@@ -4657,7 +4658,7 @@
 - [winfsp/nfs-win](https://github.com/winfsp/nfs-win) - NFS for Windows
 - [eerimoq/monolinux](https://github.com/eerimoq/monolinux) - Create embedded Linux systems with a single statically linked executable.
 - [DanielBodnar/docker-to-linux](https://github.com/DanielBodnar/docker-to-linux) - docker-to-linux - make bootable linux disk image abusing docker
-- [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
+- [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image (ab)using Docker
 - [andrejlamov/portenv](https://github.com/andrejlamov/portenv) - arch with proot
 - [generia/buildroot-osx](https://github.com/generia/buildroot-osx) - Buidroot OSX - Use Buildroot on OSX natively without a Linux container.
 - [ngardiner/dab_templates](https://github.com/ngardiner/dab_templates) - DAB Templates for Proxmox
@@ -4755,6 +4756,7 @@
 
 ## Others 
 
+- [awslabs/aws-config-resource-schema](https://github.com/awslabs/aws-config-resource-schema) - AWS Config resource schema define the properties and types of AWS Config resource configuration items (CIs). Resource CI schema are used by developers when performing advanced resource queries and whe
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [egoist/awesome-esbuild](https://github.com/egoist/awesome-esbuild) - A curated list of awesome esbuild resources
@@ -5685,7 +5687,7 @@
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
@@ -6588,7 +6590,7 @@
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
-- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
@@ -7410,6 +7412,7 @@
 
 ## Shell 
 
+- [juancarlosjr97/release-it-containerized](https://github.com/juancarlosjr97/release-it-containerized) - 🚀 A Containerized release-it to run anywhere
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [tjjh89017/vyos-on-k8s](https://github.com/tjjh89017/vyos-on-k8s) - 
 - [budimanjojo/vyos-config](https://github.com/budimanjojo/vyos-config) - My VyOS IaC configuration
@@ -8204,6 +8207,27 @@
 
 ## TypeScript 
 
+- [taze-editor/taze-editor](https://github.com/taze-editor/taze-editor) - 🌱 Create your own plugin-based rich text editor easily
+- [GregBrimble/zodcli](https://github.com/GregBrimble/zodcli) - A CLI parser built with Zod.
+- [mrspartak/config](https://github.com/mrspartak/config) - Typescript runtime configuration resolver
+- [RobinTail/zod-sockets](https://github.com/RobinTail/zod-sockets) - Socket.IO solution with I/O validation and the ability to generate AsyncAPI specification and a contract for consumers.
+- [nikoheikkila/photo-browser](https://github.com/nikoheikkila/photo-browser) - A modern frontend application architecture built with SvelteKit and Hexagonal / Clean Architecture principles
+- [wuruoyun/vue-component-lib-starter](https://github.com/wuruoyun/vue-component-lib-starter) - A bare-bones example of creating your own Vue component library.
+- [fulls1z3/universal](https://github.com/fulls1z3/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO,
+- [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
+- [danielgormly/toml-config](https://github.com/danielgormly/toml-config) - A simple Typescript/Javascript package for loading & validating configuration from toml files and validate against a schema.
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
+- [antfu/git-ensure](https://github.com/antfu/git-ensure) - Ensure git status before continuing.
+- [antfu/vite-fs](https://github.com/antfu/vite-fs) - Reactive FileSystem for Vite accessible in client-side
+- [antfu/pkg-exports](https://github.com/antfu/pkg-exports) - Get exports of an local npm package.
+- [antfu/retypewriter](https://github.com/antfu/retypewriter) - Replay the steps of your changes at ease.
+- [antfu/magic-string-stack](https://github.com/antfu/magic-string-stack) - magic-string with the capability of committing changes.
+- [antfu/install-pkg](https://github.com/antfu/install-pkg) - Install package programmatically.
+- [antfu/tsx](https://github.com/antfu/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
+- [antfu/vscode-auto-npx](https://github.com/antfu/vscode-auto-npx) - Auto resolving local Node.js binaries in VS Code terminal.
+- [antfu/vite-plugin-remote-assets](https://github.com/antfu/vite-plugin-remote-assets) - Bundles your assets from remote urls with your app
+- [volarjs/volar.js](https://github.com/volarjs/volar.js) - 💙🌊
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [rafgraph/rollpkg](https://github.com/rafgraph/rollpkg) - Zero-config build tool to create packages with Rollup and TypeScript
@@ -8346,7 +8370,6 @@
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-- [alaskajs/astroneer](https://github.com/alaskajs/astroneer) - Next-generation framework for building server-side applications with Node.js & TypeScript 🚀
 - [boywithkeyboard-archive/bunny.net](https://github.com/boywithkeyboard-archive/bunny.net) - JavaScript SDK for 🐇 bunny.net
 - [kitschpatrol/vidup](https://github.com/kitschpatrol/vidup) - Synchronize a local directory of video files to remote streaming services.
 - [jlarmstrongiv/bunny-client](https://github.com/jlarmstrongiv/bunny-client) - The TypeScript API Client for BunnyCDN
