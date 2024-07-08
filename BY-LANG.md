@@ -485,6 +485,8 @@
 
 ## C# # 
 
+- [rzander/ruckzuck](https://github.com/rzander/ruckzuck) - software package manager for windows
+- [microsoft/winget-create](https://github.com/microsoft/winget-create) - The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [f2calv/yamlizr](https://github.com/f2calv/yamlizr) - Azure DevOps Designer-to-YAML Pipeline CLI CodeGen Tool w/GitHub Actions Generation
 - [tech-srl/esh](https://github.com/tech-srl/esh) - statistical similarity of binaries (Esh)
@@ -540,6 +542,9 @@
 
 ## C++ 
 
+- [cfillion/reapack](https://github.com/cfillion/reapack) - 📦 Package manager for REAPER
+- [eclipse/upm](https://github.com/eclipse/upm) - UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through c
+- [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [alexandria-org/alexandria](https://github.com/alexandria-org/alexandria) - Full text search engine powering Alexandria.org - the open search engine.
@@ -758,6 +763,7 @@
 
 ## CSS 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [rezarinaldi/bexlite-template](https://github.com/rezarinaldi/bexlite-template) - ✨ It's a template for basic BEXLite Stack. It's including Bun, Elysia, HTMX, and SQLite.
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [muan/emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
@@ -847,6 +853,7 @@
 
 ## CoffeeScript 
 
+- [benbria/aliasify](https://github.com/benbria/aliasify) - Rewrite require calls in browserify modules.
 - [jnordberg/wintersmith](https://github.com/jnordberg/wintersmith) - A flexible static site generator
 - [f/omelette](https://github.com/f/omelette) - Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)
 - [docpad/docpad](https://github.com/docpad/docpad) - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will str
@@ -855,6 +862,7 @@
 
 ## Common Lisp 
 
+- [fukamachi/qlot](https://github.com/fukamachi/qlot) - A project-local library installer for Common Lisp
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [vydd/sketch](https://github.com/vydd/sketch) - A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
@@ -887,6 +895,7 @@
 
 ## Dart 
 
+- [verseles/xpm](https://github.com/verseles/xpm) - Universal package manager for any unix-like distro
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [felixhaeberle/hiddify-next](https://github.com/felixhaeberle/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
@@ -1002,7 +1011,7 @@
 ## EJS 
 
 - [essay-org/essay](https://github.com/essay-org/essay) - personalise blog system
-- [danstepanov/create-expo-stack](https://github.com/danstepanov/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling 
+- [roninoss/create-expo-stack](https://github.com/roninoss/create-expo-stack) - CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling 
 - [jhipster/generator-jhipster-nodejs](https://github.com/jhipster/generator-jhipster-nodejs) - A NodeJS blueprint that creates the backend using NestJS
 - [shuttlenetwork/shuttle](https://github.com/shuttlenetwork/shuttle) - Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -1073,6 +1082,22 @@
 
 ## Go 
 
+- [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
+- [blurfx/pm](https://github.com/blurfx/pm) - universal javascript package manager wrapper
+- [d3r1n/dotman](https://github.com/d3r1n/dotman) - better manager for your dotfiles.
+- [azukaar/GuPM](https://github.com/azukaar/GuPM) - 🐶📦 Global Universal Project Manager -- Package manager, cli tool, scripts for all your projects and your system
+- [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages
+- [despreston/gh-worktree](https://github.com/despreston/gh-worktree) - Worktrees and Github
+- [ilaif/gh-prx](https://github.com/ilaif/gh-prx) - A GitHub CLI extension to automate the daily work with branches, commits and pull requests.
+- [GitHubSecurityLab/gh-qldb](https://github.com/GitHubSecurityLab/gh-qldb) - CodeQL database manager
+- [aymanbagabas/gh-stars](https://github.com/aymanbagabas/gh-stars) - GitHub stargazers in your terminal 🌟
+- [samcoe/gh-repo-explore](https://github.com/samcoe/gh-repo-explore) - GitHub CLI extension to interactively explore a repo without cloning
+- [joaom00/gh-b](https://github.com/joaom00/gh-b) - GitHub CLI extension to easily manage your branches
+- [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository
+- [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
+- [Link-/gh-token](https://github.com/Link-/gh-token) - Manage installation access tokens for GitHub apps from your terminal 💻
+- [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
+- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - multi-shell multi-command argument completer
 - [hashicorp/terraform-schema](https://github.com/hashicorp/terraform-schema) - This library helps assembling a complete schema for decoding Terraform config
 - [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
 - [utkusen/urlhunter](https://github.com/utkusen/urlhunter) - a recon tool that allows searching on URLs that are exposed via shortener services
@@ -2529,7 +2554,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [vdemeester/docker-volume-ipfs](https://github.com/vdemeester/docker-volume-ipfs) - 🐳 This is an open source volume plugin that allows using an ipfs filesystem as a volume.
 - [chrissnell/chickenlittle](https://github.com/chrissnell/chickenlittle) - A RESTful service to get ahold of people, quickly.
-- [micro/micro](https://github.com/micro/micro) - A Go service development platform
+- [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [ledisdb/ledisdb](https://github.com/ledisdb/ledisdb) - A high performance NoSQL Database Server powered by Go
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
@@ -2976,6 +3001,32 @@
 
 ## JavaScript 
 
+- [dangreenisrael/create-codemod-app](https://github.com/dangreenisrael/create-codemod-app) - Create Codemod App, a codemod generator and runner
+- [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
+- [s-yadav/relative-to-alias](https://github.com/s-yadav/relative-to-alias) - 🛠️ A codemod to do large-scale refactor of your relative path imports to alias.
+- [suchipi/transform-imports](https://github.com/suchipi/transform-imports) - Tools that make it easy to codemod imports/requires in your JS
+- [yangshun/js-codemods](https://github.com/yangshun/js-codemods) - Some codemod scripts to transform code for good styling
+- [cpojer/js-codemod](https://github.com/cpojer/js-codemod) - Codemod scripts to transform code to next generation JS
+- [jurassix/refactoring-codemods](https://github.com/jurassix/refactoring-codemods) - Refactoring support for JavaScript via jscodeshift codemods
+- [chimurai/jscodeshift-typescript-example](https://github.com/chimurai/jscodeshift-typescript-example) - jscodeshift typescript codemod example
+- [DubstepJS/core](https://github.com/DubstepJS/core) - A batteries-included step runner library, suitable for creating migration tooling, codemods, scaffolding CLIs, etc.
+- [eslint/eslint-transforms](https://github.com/eslint/eslint-transforms) - Codemods for the ESLint ecosystem
+- [ant-design/codemod-v4](https://github.com/ant-design/codemod-v4) - codemod cli for antd v4 upgrade
+- [strapi/codemods](https://github.com/strapi/codemods) - A set of scripts to help migrate Strapi plugins (and in some cases Strapi applications) from v3 to v4
+- [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+- [timoxley/pkgfiles](https://github.com/timoxley/pkgfiles) - Sanity check which files you are and aren't about to publish to npm
+- [max-mapper/art-of-node](https://github.com/max-mapper/art-of-node) - :snowflake: a short introduction to node.js
+- [feross/available](https://github.com/feross/available) - Scan npm for available package names
+- [cnpm/npminstall](https://github.com/cnpm/npminstall) - Make `npm install` fast and easy.
+- [dagger8224/dagger.js](https://github.com/dagger8224/dagger.js) - A lightweight html-based runtime web frontend framework
+- [alexanderGugel/ied](https://github.com/alexanderGugel/ied) - :package: Like npm, but faster - an alternative package manager for Node
+- [npm/tink](https://github.com/npm/tink) - a dependency unwinder for javascript
+- [benoitgrelard/github-stars-tagger](https://github.com/benoitgrelard/github-stars-tagger) - A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
+- [Correia-jpv/fucking-awesome-vite](https://github.com/Correia-jpv/fucking-awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js. With repository stars⭐ and forks🍴
+- [mdazfar2/HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub) - Welcome to HelpOps-Hub: your go-to resource for essential DevOps tools and technologies. Simplify your DevOps journey with curated guides, tools, and best practices. Never get stuck again!⚡
+- [vanodevium/node-framework-stars](https://github.com/vanodevium/node-framework-stars) - A list of popular GitHub projects related to Node.js web framework (ranked by stars)
+- [lucabubi/star-history](https://github.com/lucabubi/star-history) - A Stunning star history chart generator for Github Repositories
+- [jonschlinkert/gh-stars](https://github.com/jonschlinkert/gh-stars) - API and CLI for getting the stars for one or more GitHub users or organizations.
 - [TrySound/rollup-plugin-string](https://github.com/TrySound/rollup-plugin-string) - Converts text files to modules
 - [npm/promzard](https://github.com/npm/promzard) - A prompting json thingie
 - [lukeed/escalade](https://github.com/lukeed/escalade) - A tiny (183B to 210B) and fast utility to ascend parent directories
@@ -3822,7 +3873,6 @@
 - [yargs/yargs-parser](https://github.com/yargs/yargs-parser) - :muscle: the mighty option parser used by yargs
 - [DiegoZoracKy/magicli](https://github.com/DiegoZoracKy/magicli) - Automagically generates command-line interfaces (CLI) for any module. Expected options and help sections are created automatically based on parameters names, with support to async.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
@@ -4592,6 +4642,7 @@
 
 ## MDX 
 
+- [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [frictionlessdata/datapackage](https://github.com/frictionlessdata/datapackage) - Data Package is a standard consisting of a set of simple yet extensible specifications to describe datasets, data files and tabular data. It is a data definition language (DDL) and data API that facil
 - [artusjs/spec](https://github.com/artusjs/spec) - Spec for Artus.js.
@@ -4725,6 +4776,7 @@
 
 ## OCaml 
 
+- [0install/0install](https://github.com/0install/0install) - the core 0install package
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 - [ocaml/opam](https://github.com/ocaml/opam) - opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
@@ -4756,12 +4808,17 @@
 
 ## Others 
 
+- [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
+- [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
+- [nektos/gh-act](https://github.com/nektos/gh-act) - GitHub CLI Extension to run GitHub actions locally
+- [gitkraken/gh-gk](https://github.com/gitkraken/gh-gk) - Master multi-repo workflows, synchronize on PRs & Issues, and integrate seamlessly with GitKraken Client & GitLens for VS Code for instant Git visualization.
+- [github/gh-net](https://github.com/github/gh-net) - A network bridge between a Codespace and a local machine.
 - [awslabs/aws-config-resource-schema](https://github.com/awslabs/aws-config-resource-schema) - AWS Config resource schema define the properties and types of AWS Config resource configuration items (CIs). Resource CI schema are used by developers when performing advanced resource queries and whe
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [egoist/awesome-esbuild](https://github.com/egoist/awesome-esbuild) - A curated list of awesome esbuild resources
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work
 - [kbdharun/dev-image](https://github.com/kbdharun/dev-image) - This repository contains all my development packages preinstalled inside a Fedora Container image.
 - [ashimov/vyos-build-action](https://github.com/ashimov/vyos-build-action) - VyOS ISO Automation Build
 - [vyos/vyos-rolling-nightly-builds](https://github.com/vyos/vyos-rolling-nightly-builds) - Scheduled ISO nightly builds for current branch
@@ -5368,6 +5425,7 @@
 
 ## Perl 
 
+- [aspiers/stow](https://github.com/aspiers/stow) - GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches
 - [proxmox/pve-zsync](https://github.com/proxmox/pve-zsync) - 
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
 - [dolmen/github-keygen](https://github.com/dolmen/github-keygen) - Easy creation of secure SSH configuration for your GitHub account(s)
@@ -5453,6 +5511,7 @@
 
 ## Python 
 
+- [BrianPugh/belay](https://github.com/BrianPugh/belay) - Belay is a python library that enables the rapid development of projects that interact with hardware via a micropython-compatible board.
 - [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [speced/bikeshed-boilerplate](https://github.com/speced/bikeshed-boilerplate) - Boilerplate files for Bikeshed specs
@@ -6437,6 +6496,7 @@
 
 ## R 
 
+- [mkearney/pkgverse](https://github.com/mkearney/pkgverse) - 📦🔭🌠 Create your own universe of packages à la tidyverse
 - [duncantl/RFirefoxData](https://github.com/duncantl/RFirefoxData) - R tools to query one's own or other information from Firefox, including pages visited, open tabs and windows, bookmarks
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [ankane/jetpack](https://github.com/ankane/jetpack) - A friendly package manager for R
@@ -6486,6 +6546,7 @@
 
 ## Ruby 
 
+- [librariesio/bibliothecary](https://github.com/librariesio/bibliothecary) - :notebook_with_decorative_cover: Libraries.io Package Manager Manifest Parsers
 - [codervault/codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager
 - [actions/importer-labs](https://github.com/actions/importer-labs) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [wfxr/emoji-cli](https://github.com/wfxr/emoji-cli) - 
@@ -6578,6 +6639,13 @@
 
 ## Rust 
 
+- [myTerminal/foraget](https://github.com/myTerminal/foraget) - A simple universal package manager for Unix-like systems
+- [Stausssi/sink](https://github.com/Stausssi/sink) - Universal, extensible package manager
+- [lodosgroup/lpm](https://github.com/lodosgroup/lpm) - an experimental package manager for operating systems
+- [krzkaczor/ny](https://github.com/krzkaczor/ny) - 🗽 Fast, Proxy Package Manager for JavaScript
+- [linkdd/shipp](https://github.com/linkdd/shipp) - Deadly simple package manager
+- [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) - Modern protobuf package management
+- [brioche-dev/brioche](https://github.com/brioche-dev/brioche) - A delicious package manager
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [vihu/gogo](https://github.com/vihu/gogo) - Terminal bookmark manager
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
@@ -6609,7 +6677,7 @@
 - [coreos/bootupd](https://github.com/coreos/bootupd) - Bootloader updater
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
-- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [riipandi/tauri-tray-app](https://github.com/riipandi/tauri-tray-app) - This project template should help get you started developing a multi-platform desktop application with tray menu using Tauri, Typescript, Tailwind CSS, and Vite.
@@ -7412,6 +7480,32 @@
 
 ## Shell 
 
+- [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
+- [unypkg/unypkg](https://github.com/unypkg/unypkg) - Universal, simple and classical Linux package manager
+- [crater-space/cli](https://github.com/crater-space/cli) - A super-lightweight, universal, "meta" package manager for UNIX-like platforms
+- [uni-linux/uni](https://github.com/uni-linux/uni) - :rocket: A universal and optimized interface for handle package managers, UNI recipes and automating tasks on them in Linux distributions.
+- [noloader/Build-Scripts](https://github.com/noloader/Build-Scripts) - Collection of build scripts useful when testing on downlevel, abandonware and ransomware clients
+- [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - Git-based package manager written in POSIX shell
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [keidarcy/gh-star](https://github.com/keidarcy/gh-star) - GitHub CLI extension to fuzzy search starred ✨ repo using fzf.
+- [twelvelabs/gh-repo-config](https://github.com/twelvelabs/gh-repo-config) - A GitHub CLI extension to manage repository settings
+- [LangLangBart/gh-find-code](https://github.com/LangLangBart/gh-find-code) - GitHub code searching with 'fzf'
+- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
+- [kawarimidoll/gh-q](https://github.com/kawarimidoll/gh-q) - A gh extension to clone GitHub repositories using fzf and ghq.
+- [HaywardMorihara/gh-tidy](https://github.com/HaywardMorihara/gh-tidy) - Github CLI extension for cleaning up your Git workspace to get ready for the day!
+- [mislav/gh-cp](https://github.com/mislav/gh-cp) - GitHub CLI extension to copy a file from a GitHub repository locally without cloning the repository.
+- [rnorth/gh-combine-prs](https://github.com/rnorth/gh-combine-prs) - A `gh` extension for combining multiple PRs (e.g. Dependabot PRs) into one.
+- [matt-bartel/gh-clone-org](https://github.com/matt-bartel/gh-clone-org) - A github-cli extension script to clone all repositories in an organization, optionally filtering by topic.
+- [redraw/gh-install](https://github.com/redraw/gh-install) - install GitHub release binaries from the CLI interactively
+- [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
+- [mislav/gh-branch](https://github.com/mislav/gh-branch) - GitHub CLI extension for fuzzy finding, quickly switching between and deleting branches.
+- [ShellShoccar-jpn/Parsrs](https://github.com/ShellShoccar-jpn/Parsrs) - CSV, JSON, XML text parsers and generators written in pure POSIX shellscript
+- [Bhupesh-V/dotman](https://github.com/Bhupesh-V/dotman) - dotman is a simple, elegant & easy to use dotfiles manager 🖖🏽
+- [PeterDaveHello/ColorEchoForShell](https://github.com/PeterDaveHello/ColorEchoForShell) - Make 🐚(shell) 's 💬 (`echo`)  to be 🎨 easily ✨ Support ✅ sh ➕ bash ➕ zsh ➕ ksh ➕ 🐟 One simple command for vibrant text output! 💫
+- [yousefvand/shellman-ebook](https://github.com/yousefvand/shellman-ebook) - Guide on shell scripting with Shellman vscode snippet
+- [wschlich/bashinator](https://github.com/wschlich/bashinator) - Bashinator: Bash Shell Script Framework
+- [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles) - 🐢 💨 Speedup your MacOS setup with this fine tuning settings
+- [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [juancarlosjr97/release-it-containerized](https://github.com/juancarlosjr97/release-it-containerized) - 🚀 A Containerized release-it to run anywhere
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [tjjh89017/vyos-on-k8s](https://github.com/tjjh89017/vyos-on-k8s) - 
@@ -8207,6 +8301,28 @@
 
 ## TypeScript 
 
+- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere
+- [mintlify/mdx](https://github.com/mintlify/mdx) - Mintlify markdown parser
+- [aws/aws-sdk-js-codemod](https://github.com/aws/aws-sdk-js-codemod) - Codemod scripts to update AWS SDK for JavaScript APIs.
+- [codemod-js/codemod](https://github.com/codemod-js/codemod) - codemod rewrites JavaScript and TypeScript using babel plugins.
+- [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+- [pkgxdev/libpkgx](https://github.com/pkgxdev/libpkgx) - `import`… but with pkging powers
+- [byhow/nous](https://github.com/byhow/nous) - A universal package manager and api builder.
+- [deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager - Say goodbye to Package Manager confusion
+- [pkgxdev/ossapp](https://github.com/pkgxdev/ossapp) - The App Store for Open Source
+- [BlueprintFramework/framework](https://github.com/BlueprintFramework/framework) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
+- [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
+- [batijs/bati](https://github.com/batijs/bati) - Next-gen scaffolder. Get started with fully-functional apps, and choose any tool you want.
+- [carlsberg/gh-releaser](https://github.com/carlsberg/gh-releaser) - GitHub CLI extension to simplify starting and closing releases in GitFlow-based projects.
+- [un-ts/sh-syntax](https://github.com/un-ts/sh-syntax) - A WASM shell parser and formatter with bash support, based on `mvdan/sh`
+- [shqld/tish](https://github.com/shqld/tish) - A replacement of shell script with TypeScript, for those who love TypeScript and tired of writing shell script, aiming to emulate shell script in TypeScript.
+- [EvgeniyPeshkov/syntax-highlighter](https://github.com/EvgeniyPeshkov/syntax-highlighter) - Syntax Highlighter extension for Visual Studio Code (VSCode). Based on Tree-sitter.
+- [documenso/stargrazer](https://github.com/documenso/stargrazer) - A simple tool to poll and save GitHub Repo data like Stars and Forks and other metrics for displaying in a chart.
+- [BrycensRanch/import-stars](https://github.com/BrycensRanch/import-stars) - Import starred repos from a another user's account
+- [g-plane/tiny-package-manager](https://github.com/g-plane/tiny-package-manager) - Learn how npm or Yarn v1 works.
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [taze-editor/taze-editor](https://github.com/taze-editor/taze-editor) - 🌱 Create your own plugin-based rich text editor easily
 - [GregBrimble/zodcli](https://github.com/GregBrimble/zodcli) - A CLI parser built with Zod.
 - [mrspartak/config](https://github.com/mrspartak/config) - Typescript runtime configuration resolver
@@ -8962,7 +9078,7 @@
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
 - [sachinraja/trpc-playground](https://github.com/sachinraja/trpc-playground) - playground for running tRPC queries in the browser
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming on July 3 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Pos
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1.2.6 is coming on July 7 💜 Next.js 15 Store-Landing-Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Pos
 - [OrJDev/create-jd-app](https://github.com/OrJDev/create-jd-app) - The quickest and most efficient way to start new full stack, type safed Solid web app
 - [icflorescu/trpc-sveltekit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
@@ -9290,7 +9406,7 @@
 - [kristianmandrup/nx-code-mods](https://github.com/kristianmandrup/nx-code-mods) - Nx generator code modification utility functions
 - [anatine/zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod
 - [roxlabs/coldstitch](https://github.com/roxlabs/coldstitch) - 
-- [zappjs/zappjs](https://github.com/zappjs/zappjs) - Write specs. Generate code. ⚡️
+- [specui/specui](https://github.com/specui/specui) - Write specs. Generate code. ⚡️
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [siberiacancode/mock-config-server](https://github.com/siberiacancode/mock-config-server) - 🎉 tool that easily and quickly imitates server operation, create full fake api in few steps
 - [fjogeleit/yaml-update-action](https://github.com/fjogeleit/yaml-update-action) - Update YAML property with dynamic values
@@ -9643,6 +9759,7 @@
 - [andrewbrey/mdrb](https://github.com/andrewbrey/mdrb) - Turn your Markdown documentation into executable runbooks.
 - [abdfnx/botway](https://github.com/abdfnx/botway) - 🤖 Generate, build, handle and deploy your own AI Bot with your favorite language, for Discord, or Telegram, or even Slack
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [yoyurec/logseq-awesome-ui](https://github.com/yoyurec/logseq-awesome-ui) - Reworked UI for Logseq
 - [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
@@ -10206,6 +10323,7 @@
 
 ## Vim Script 
 
+- [abhishekkr/dotfiles](https://github.com/abhishekkr/dotfiles) - engines for advanced usage of multiple *nix utilities
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
