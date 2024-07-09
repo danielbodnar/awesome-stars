@@ -964,7 +964,6 @@
 - [richarvey/aws-docker-toolkit](https://github.com/richarvey/aws-docker-toolkit) - A lightweight dockerized version of the AWS CLI
 - [lawndoc/foxception](https://github.com/lawndoc/foxception) - Isolated Firefox browser with pre-configured extensions. Customize with your own extensions as needed.
 - [timbru31/docker-node-alpine-git](https://github.com/timbru31/docker-node-alpine-git) - 🐳  Node.js 18 LTS (Hydrogen) or Node.js 20 (Iron) and Git Docker image
-- [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 - [steren/awesome-cloud-run](https://github.com/steren/awesome-cloud-run) - 👓 ⏩ A curated list of resources about all things Cloud Run
 - [WeihanLi/docker-env](https://github.com/WeihanLi/docker-env) - some docker images build environment
 - [Taisun-Docker/Linuxserver-Mod-Demo](https://github.com/Taisun-Docker/Linuxserver-Mod-Demo) - This is an example workflow leveraging Travis CI and Dockerhub to push custom scripts ingested by LSIO images
@@ -988,7 +987,7 @@
 - [HMBSbige/shadowsocks-docker](https://github.com/HMBSbige/shadowsocks-docker) - shadowsocks + v2ray-plugin
 - [humphd/browser-vm](https://github.com/humphd/browser-vm) - A small Linux x86 VM meant for use in the browser
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
-- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
+- [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [mark-kubacki/apt-image](https://github.com/mark-kubacki/apt-image) - 📦 minimal Ubuntu for containers, with curl and support for TLSv1.3
 - [badtuxx/giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 - [Shopify/livesys](https://github.com/Shopify/livesys) - A simple ubuntu system, intended to be run as an in-memory live image.
@@ -1028,7 +1027,7 @@
 - [bookmark-org/bookmark](https://github.com/bookmark-org/bookmark) - Bookmark.org digital archive service
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [dbstratta/margaret](https://github.com/dbstratta/margaret) - 👩‍🚀 A publishing platform. An open-source alternative to Medium.
 - [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Changelog is news and podcast for developers. This is our open source platform.
 
@@ -1379,6 +1378,7 @@
 - [techknowlogick/shiori](https://github.com/techknowlogick/shiori) - Shiori is a simple bookmark manager
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
+- [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
 - [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
@@ -2843,7 +2843,7 @@
 - [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages
 - [commercialhaskell/stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
-- [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
+- [fosskers/aura](https://github.com/fosskers/aura) - A multilingual package manager for Arch Linux and the AUR.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [aviaviavi/curl-runnings](https://github.com/aviaviavi/curl-runnings) - A declarative test framework for quickly and easily writing integration tests against JSON APIs.
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
@@ -3001,6 +3001,11 @@
 
 ## JavaScript 
 
+- [stealjs/steal-tools](https://github.com/stealjs/steal-tools) - Build easy. Load fast.
+- [benmonro/pkg-upgrader](https://github.com/benmonro/pkg-upgrader) - easily build codemod CLIs using jscodeshift. fork of lib-upgrader
+- [noahsug/gen-codemod](https://github.com/noahsug/gen-codemod) - Generate codemods by specifying your starting -&gt; desired JavaScript.
+- [mattlewis92/js-to-typescript-codemod](https://github.com/mattlewis92/js-to-typescript-codemod) - A simple codemod for helping migrate from babel to typescript. Converts default imports to wildcards.
+- [usmanyunusov/nano-staged](https://github.com/usmanyunusov/nano-staged) - Tiny tool to run commands for modified, staged, and committed files in a GIT repository.
 - [dangreenisrael/create-codemod-app](https://github.com/dangreenisrael/create-codemod-app) - Create Codemod App, a codemod generator and runner
 - [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
 - [s-yadav/relative-to-alias](https://github.com/s-yadav/relative-to-alias) - 🛠️ A codemod to do large-scale refactor of your relative path imports to alias.
@@ -4733,7 +4738,7 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [codecentric/helm-charts](https://github.com/codecentric/helm-charts) - A curated set of Helm charts brought to you by codecentric
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
+- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for LKE (and any other conformant K8s)
 - [netdata/helmchart](https://github.com/netdata/helmchart) - Helm chart for kubernetes deployments
 - [banzaicloud/banzai-charts](https://github.com/banzaicloud/banzai-charts) - Curated list of Banzai Cloud Helm charts used by the Pipeline Platform
 
@@ -5099,7 +5104,7 @@
 - [alan-ai/alan-sdk-web](https://github.com/alan-ai/alan-sdk-web) - Generative AI SDK for Web to create AI Agents for apps built with JavaScript, React, Angular, Vue, Ember, Electron
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [codediodeio/rektor-db](https://github.com/codediodeio/rektor-db) - Rektor Vector Database
-- [mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles) - Design Microservices Architecture with Patterns & Principles. We're going to learn how to Design Microservices Architecture with using Design Patterns, Principles and the Best Practices.  You will Lea
+- [mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles) - Design Microservices Architecture with Patterns & Principles. Design Microservices Architecture with Design Patterns, Principles and the Best Practices.  How to handle millions of request with designi
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [pmerson/architecture-view-template](https://github.com/pmerson/architecture-view-template) - MD template for software architecture views
@@ -6639,6 +6644,7 @@
 
 ## Rust 
 
+- [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
 - [myTerminal/foraget](https://github.com/myTerminal/foraget) - A simple universal package manager for Unix-like systems
 - [Stausssi/sink](https://github.com/Stausssi/sink) - Universal, extensible package manager
 - [lodosgroup/lpm](https://github.com/lodosgroup/lpm) - an experimental package manager for operating systems
@@ -8301,6 +8307,9 @@
 
 ## TypeScript 
 
+- [01alchemist/sls-yaml](https://github.com/01alchemist/sls-yaml) - Serverless framework yaml extension compiler and more
+- [BatuhanW/haf](https://github.com/BatuhanW/haf) - A fully typed 🔒, cross-platform, persistent 💾 config ⚙️ solution for your NodeJS projects with a great developer experience!
+- [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere
 - [mintlify/mdx](https://github.com/mintlify/mdx) - Mintlify markdown parser
 - [aws/aws-sdk-js-codemod](https://github.com/aws/aws-sdk-js-codemod) - Codemod scripts to update AWS SDK for JavaScript APIs.
@@ -8463,7 +8472,7 @@
 - [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities.
 - [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl) - Low-code ETL for structured and unstructured data. Generates Python code you can deploy anywhere.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
-- [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by @supermemoryai team
+- [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management
 - [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [wvit/web-document](https://github.com/wvit/web-document) - A browser extension for saving web documents locally, allowing you to access them offline and quickly search for webpage content without an internet connection, while also saving browser memory usage.
@@ -10203,7 +10212,7 @@
 - [stoqey/ib](https://github.com/stoqey/ib) - Interactive Brokers TWS/IB Gateway API client library for Node.js (TS)
 - [scinos/yarn-deduplicate](https://github.com/scinos/yarn-deduplicate) - Deduplication tool for yarn.lock files
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [PiyushSuthar/Windows-11-Web](https://github.com/PiyushSuthar/Windows-11-Web) - Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
