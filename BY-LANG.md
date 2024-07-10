@@ -179,6 +179,7 @@
 
 ## Bikeshed 
 
+- [WICG/shared-storage](https://github.com/WICG/shared-storage) - Explainer for proposed web platform Shared Storage API
 - [w3c/webextensions](https://github.com/w3c/webextensions) - Charter and administrivia for the WebExtensions Community Group (WECG)
 
 ## Blade 
@@ -542,6 +543,8 @@
 
 ## C++ 
 
+- [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
+- [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [cfillion/reapack](https://github.com/cfillion/reapack) - 📦 Package manager for REAPER
 - [eclipse/upm](https://github.com/eclipse/upm) - UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through c
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
@@ -559,7 +562,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) - Stay happy while offline | World's first offline search engine.
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
@@ -1022,6 +1025,7 @@
 
 ## Elixir 
 
+- [msz/hammox](https://github.com/msz/hammox) - 🏝 automated contract testing via type checking for Elixir functions and mocks
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
 - [dwyl/learn-elixir](https://github.com/dwyl/learn-elixir) - :droplet: Learn the Elixir programming language to build functional, fast, scalable and maintainable web applications!
 - [bookmark-org/bookmark](https://github.com/bookmark-org/bookmark) - Bookmark.org digital archive service
@@ -1081,6 +1085,8 @@
 
 ## Go 
 
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
+- [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [blurfx/pm](https://github.com/blurfx/pm) - universal javascript package manager wrapper
 - [d3r1n/dotman](https://github.com/d3r1n/dotman) - better manager for your dotfiles.
@@ -3001,6 +3007,15 @@
 
 ## JavaScript 
 
+- [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
+- [putoutjs/generator-putout](https://github.com/putoutjs/generator-putout) - A Yeoman generator to help with 🐊Putout development
+- [divvun/taskcluster-gha](https://github.com/divvun/taskcluster-gha) - Github actions for use with CI on taskcluster
+- [jamiebuilds/scritch](https://github.com/jamiebuilds/scritch) - A small CLI to help you write sharable scripts for your team
+- [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
+- [WICG/starter-kit](https://github.com/WICG/starter-kit) - A simple starter kit for incubations
+- [nodejs/github-bot](https://github.com/nodejs/github-bot) - @nodejs-github-bot's heart and soul
+- [nodejs/TSC](https://github.com/nodejs/TSC) - The Node.js Technical Steering Committee
+- [blackflux/yaml-boost](https://github.com/blackflux/yaml-boost) - Yaml Parser with various additions.
 - [stealjs/steal-tools](https://github.com/stealjs/steal-tools) - Build easy. Load fast.
 - [benmonro/pkg-upgrader](https://github.com/benmonro/pkg-upgrader) - easily build codemod CLIs using jscodeshift. fork of lib-upgrader
 - [noahsug/gen-codemod](https://github.com/noahsug/gen-codemod) - Generate codemods by specifying your starting -&gt; desired JavaScript.
@@ -3853,7 +3868,7 @@
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [thesephist/libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Browse the web from a browser you run on a server, rather than on your local device. Lightweight virtual browser. For security, privacy and more! By https://github.com/dosyago
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Browse the web from a web page. Remote browser isolation. For security, privacy and more! By https://github.com/dosyago
 - [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange) - Specification that codifies an inter-related pair of data formats for defining proof presentations (Presentation Definition) and subsequent proof submissions (Presentation Submission)
 - [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer) - With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 - [Fannon/search-bookmarks-history-and-tabs](https://github.com/Fannon/search-bookmarks-history-and-tabs) - Browser extension to search and navigate browser tabs, local bookmarks and history.
@@ -3963,7 +3978,6 @@
 - [tapjs/tapjs](https://github.com/tapjs/tapjs) - Test Anything Protocol tools for node
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [author/shell](https://github.com/author/shell) - A very lightweight framework for building shell/CLI applications. Works in Node.js, Deno, and the browser.
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [arc42/docs.arc42.org-site](https://github.com/arc42/docs.arc42.org-site) - Help, documentation and tips on using arc42: arc42 online manual (content and jekyll theme)
@@ -4520,7 +4534,7 @@
 - [commoncrawl/cc-notebooks](https://github.com/commoncrawl/cc-notebooks) - Various Jupyter notebooks about Common Crawl data
 - [DerwenAI/kglab](https://github.com/DerwenAI/kglab) - Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython,
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
-- [learn-anything/tasks](https://github.com/learn-anything/tasks) - Tasks done exposed as library functions or HTTP endpoints
+- [learn-anything/tasks](https://github.com/learn-anything/tasks) - Tasks as HTTP endpoints
 - [hamelsmu/code_search](https://github.com/hamelsmu/code_search) - Code For Medium Article: "How To Create Natural Language Semantic Search for Arbitrary Objects With Deep Learning"
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
@@ -4813,6 +4827,8 @@
 
 ## Others 
 
+- [elysiajs/awesome-elysia](https://github.com/elysiajs/awesome-elysia) - Community driven curated list of awesome things related to ElysiaJS
+- [swyxio/brain](https://github.com/swyxio/brain) - Swyx's second brain!
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
 - [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed
 - [nektos/gh-act](https://github.com/nektos/gh-act) - GitHub CLI Extension to run GitHub actions locally
@@ -4830,6 +4846,7 @@
 - [9l/vyos-build-action](https://github.com/9l/vyos-build-action) - VyOS ISO Automation Build
 - [web-infra-dev/awesome-rspack](https://github.com/web-infra-dev/awesome-rspack) - A curated list of awesome things related to Rspack, Rsbuild and Rspress
 - [DanielBodnar/opssdk](https://github.com/DanielBodnar/opssdk) - A composable, pluggable, cli sdk for dev and cloud operations
+- [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [Myria-de/firefox-sync-docker](https://github.com/Myria-de/firefox-sync-docker) - Einen eigenen Firefox-Sync-Server einrichten
 - [ashu-tosh-kumar/sting-sync](https://github.com/ashu-tosh-kumar/sting-sync) - [In Progress Attempt] A cross-platform cross-browser bookmark sync extension supporting Safari, Chromium and Firefox at the very least.
 - [arshadkazmi42/ak-cli](https://github.com/arshadkazmi42/ak-cli) - :bookmark: Collection of useful cli commands
@@ -5108,6 +5125,7 @@
 - [sts10/rust-command-line-utilities](https://github.com/sts10/rust-command-line-utilities) - A curated list of command-line utilities written in Rust
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [pmerson/architecture-view-template](https://github.com/pmerson/architecture-view-template) - MD template for software architecture views
+- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [kbst/example-pipelines](https://github.com/kbst/example-pipelines) - Example CI/CD pipelines for the Kubestack Gitops framework.
 - [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [toeverything/awesome-affine](https://github.com/toeverything/awesome-affine) - 😎 Awesome lists about all kinds of interesting topics around AFFiNE
@@ -5838,7 +5856,7 @@
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
+- [SuperDuperDB/superduper](https://github.com/SuperDuperDB/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
 - [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - A functional, content-addressable programming language.
 - [MalwareHunters/vultriever](https://github.com/MalwareHunters/vultriever) - 
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
@@ -6236,7 +6254,7 @@
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory) - Fix Inventory consolidates user, resource, and configuration data from your cloud environments into a unified, graph-based asset inventory.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [vyos/vyos-1x](https://github.com/vyos/vyos-1x) - VyOS command definitions, scripts, and utilities
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [manishrma/nvme-qemu](https://github.com/manishrma/nvme-qemu) - A detailed guide for setting up NVMeOF in qemu, debugging using gdb and tracing packets via wireshark
 - [bram2w/baserow](https://github.com/bram2w/baserow) - The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.
 - [zentralopensource/zentral](https://github.com/zentralopensource/zentral) - Zentral is a high-visibility platform for controlling Apple endpoints in enterprises. It brings great observability to IT and makes tracking & reporting compliance much less manual.
@@ -7108,7 +7126,7 @@
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer instant failover, dynamic scaling, speedy bootstrapping, and efficient joins.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. We decouple storage and compute to offer efficient joins, instant failover, dynamic scaling, speedy bootstrapping, and concurrent query serving.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -8307,6 +8325,37 @@
 
 ## TypeScript 
 
+- [puristajs/purista](https://github.com/puristajs/purista) - A typescript framework for building backend services and api in modern, modular and scalable way with event-driven patterns
+- [drizzer14/fnts](https://github.com/drizzer14/fnts) - λ Minimal Functional Programming Utilities for TypeScript & JavaScript
+- [LinHanlove/atom-tools](https://github.com/LinHanlove/atom-tools) - A fast, powerful, and out of the box TypeScript tool library
+- [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
+- [michelonsouza/encrypt-storage](https://github.com/michelonsouza/encrypt-storage) - EncryptStorage provide a little more security in frontend
+- [allegro/typescript-strict-plugin](https://github.com/allegro/typescript-strict-plugin) - Typescript plugin that allows turning on strict mode in specific files or directories.
+- [colinhacks/live-typescript-monorepo](https://github.com/colinhacks/live-typescript-monorepo) - Strategies for live-updating TypeScript types in monorepos
+- [colinhacks/bun-workspaces](https://github.com/colinhacks/bun-workspaces) - 
+- [winstxnhdw/node-boilerplate](https://github.com/winstxnhdw/node-boilerplate) - A no-compromise Node.js boilerplate for projects on the cutting edge.
+- [AS-Devs/create-setup](https://github.com/AS-Devs/create-setup) - This is an Setup CLI tool to have different template so that we can create custom apps with an initial setup
+- [matronator/vite-ts-lib-starter](https://github.com/matronator/vite-ts-lib-starter) - A simple library template starter for Vite with TypeScript, Prettier, Vitest, Bun, Renovate and np.
+- [tmkx/webx-kit](https://github.com/tmkx/webx-kit) - A tool set for Web eXtension development.
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
+- [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more!
+- [wellwelwel/poku](https://github.com/wellwelwel/poku) - 🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.
+- [Danilqa/node-file-router](https://github.com/Danilqa/node-file-router) - 💫  A file-based routing for Node.js. Works with Bun, pure Node.js, Express.js, and more!
+- [unjs/unimport](https://github.com/unjs/unimport) - Unified utils for auto importing APIs in modules.
+- [dubinc/dub-ts](https://github.com/dubinc/dub-ts) - Official Dub Typescript SDK
+- [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
+- [sanity-io/pkg-utils](https://github.com/sanity-io/pkg-utils) - Simple utilities for modern npm packages.
+- [internetcalifornia/project-generator](https://github.com/internetcalifornia/project-generator) - Using YAML or JSON Config to Generate Projects
+- [toricls/cdk8s-debore](https://github.com/toricls/cdk8s-debore) - Run your apps on Kubernetes cluster without bored YAMLing, powered by the cdk8s project 🚀
+- [adomas000/project-setup-validation-yaml](https://github.com/adomas000/project-setup-validation-yaml) - Validate environment variables, files and directories. Supports YAML configuration
+- [oclif/plugin-update](https://github.com/oclif/plugin-update) - add autoupdate to your oclif CLI
+- [wessberg/rollup-plugin-ts](https://github.com/wessberg/rollup-plugin-ts) - A TypeScript Rollup plugin that bundles declarations, respects Browserslists, and enables seamless integration with transpilers such as babel and swc
+- [m3yevn/apprag](https://github.com/m3yevn/apprag) - 📖  APPRAG - A Professional Project Readme Auto-Generator
+- [Sly777/hayde](https://github.com/Sly777/hayde) - Open Source Component-Driven Code Generator; It supports OpenAI, Ollama, ChakraUI, MaterialUI, BuilderIO, and more.
+- [kirklin/celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state mana
+- [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus v2.
+- [bump-sh/cli](https://github.com/bump-sh/cli) - Bump.sh CLI - Deploy your OpenAPI & AsyncAPI documentations from your CI
+- [swagger-api/apidom](https://github.com/swagger-api/apidom) - Semantic parser for API specifications
 - [01alchemist/sls-yaml](https://github.com/01alchemist/sls-yaml) - Serverless framework yaml extension compiler and more
 - [BatuhanW/haf](https://github.com/BatuhanW/haf) - A fully typed 🔒, cross-platform, persistent 💾 config ⚙️ solution for your NodeJS projects with a great developer experience!
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
@@ -8594,7 +8643,6 @@
 - [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
-- [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
@@ -10459,7 +10507,7 @@
 - [nektro/zig-inquirer](https://github.com/nektro/zig-inquirer) - A collection of utilities for prompting information from the user on the CLI
 - [dmbfm/gi](https://github.com/dmbfm/gi) - Simple program that generates .gitignore files based on the templates from https://github.com/toptal/gitignore.
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) - dt - duct tape for your unix pipes
-- [prajwalch/yazap](https://github.com/prajwalch/yazap) - 🔧 The ultimate Zig library for seamless command line parsing. Effortlessly handles options, subcommands, and custom arguments with ease.
+- [prajwalch/yazap](https://github.com/prajwalch/yazap) - 🔧 The ultimate Zig library for seamless command line argument parsing.
 - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight statically typed scripting language
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
