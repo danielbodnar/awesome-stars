@@ -1043,6 +1043,7 @@
 
 ## Emacs Lisp 
 
+- [command-line-interface-pages/syntax](https://github.com/command-line-interface-pages/syntax) - Syntax definition and highlighting for different editors
 - [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
 - [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
 - [psibi/justl.el](https://github.com/psibi/justl.el) - Major mode for driving just files.
@@ -1085,6 +1086,10 @@
 
 ## Go 
 
+- [aws-cloudformation/rain](https://github.com/aws-cloudformation/rain) - A development workflow tool for working with AWS CloudFormation.
+- [koozz/gh-semver](https://github.com/koozz/gh-semver) - A GitHub CLI extension to determine the next semantic version.
+- [thombashi/gh-git-describe](https://github.com/thombashi/gh-git-describe) - gh extension to execute `git describe` on a remote GitHub repository.
+- [rm3l/gh-org-repo-sync](https://github.com/rm3l/gh-org-repo-sync) - GitHub CLI extension to clone (or update) all repositories in an Organization, with the ability to filter via search queries.
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [WICG/webpackage](https://github.com/WICG/webpackage) - Web packaging format
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
@@ -3007,6 +3012,15 @@
 
 ## JavaScript 
 
+- [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js CJS/ESM lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS. Fallback to supported color space.
+- [gornostay25/svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - A SvelteKit adapter for Bun
+- [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript.
+- [semantic-release/exec](https://github.com/semantic-release/exec) - :shell: semantic-release plugin to execute custom shell commands
+- [semantic-release/github](https://github.com/semantic-release/github) - :octocat:  semantic-release plugin to publish a GitHub release and comment on released Pull Requests/Issues
+- [semantic-release/npm](https://github.com/semantic-release/npm) - :ship:  semantic-release plugin to publish a npm package
+- [semantic-release/changelog](https://github.com/semantic-release/changelog) - :blue_book: semantic-release plugin to create or update a changelog file
+- [semantic-release/release-notes-generator](https://github.com/semantic-release/release-notes-generator) - :clipboard: semantic-release plugin to generate changelog content with conventional-changelog
+- [semantic-release/cli](https://github.com/semantic-release/cli) - :cl::round_pushpin: Setup automated semver compliant package publishing
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [putoutjs/generator-putout](https://github.com/putoutjs/generator-putout) - A Yeoman generator to help with 🐊Putout development
 - [divvun/taskcluster-gha](https://github.com/divvun/taskcluster-gha) - Github actions for use with CI on taskcluster
@@ -3939,7 +3953,6 @@
 - [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
 - [observablehq/inspector](https://github.com/observablehq/inspector) - The Observable standard inspector.
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Framework and Observable notebooks
-- [KusionStack/kusionstack.io](https://github.com/KusionStack/kusionstack.io) - Source for kusionstack.io
 - [backstrokeapp/server](https://github.com/backstrokeapp/server) - :swimmer: A Github bot to keep repository forks up to date with their upstream.
 - [asyncapi/markdown-template](https://github.com/asyncapi/markdown-template) - Markdown template for the AsyncAPI Generator
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
@@ -4543,7 +4556,7 @@
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [executablebooks/thebe](https://github.com/executablebooks/thebe) - Turn static HTML pages into live documents with Jupyter kernels.
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
-- [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
+- [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [知识编辑] [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [Sentdex/TermGPT](https://github.com/Sentdex/TermGPT) - Giving LLMs like GPT-4 the ability to plan and execute terminal commands
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
@@ -4669,6 +4682,7 @@
 - [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - 🪡 GraphQL Schema Stitching - Combine any kind of GraphQL APIs into one larger API without vendor-locking
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
+- [KusionStack/kusionstack.io](https://github.com/KusionStack/kusionstack.io) - Source for kusionstack.io
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
@@ -4677,6 +4691,7 @@
 
 ## Makefile 
 
+- [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collection of some awesome public Zig programming language projects.
 - [registry-operator/registry-operator](https://github.com/registry-operator/registry-operator) - Operator for CNCF Distribution Registry 📦
 - [aws/eks-anywhere-build-tooling](https://github.com/aws/eks-anywhere-build-tooling) - Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere
 - [jenkinsci/jenkinsfile-runner-image-packs](https://github.com/jenkinsci/jenkinsfile-runner-image-packs) - Contains custom Jenkinsfile Runner images for common use-cases
@@ -4795,6 +4810,7 @@
 
 ## OCaml 
 
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [0install/0install](https://github.com/0install/0install) - the core 0install package
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
@@ -4827,6 +4843,8 @@
 
 ## Others 
 
+- [github/gh-ado2gh](https://github.com/github/gh-ado2gh) - Migration CLI for Azure DevOps to GitHub migrations
+- [command-line-interface-pages/yaml-json-schemas](https://github.com/command-line-interface-pages/yaml-json-schemas) - JSON schemas for YAML configs
 - [elysiajs/awesome-elysia](https://github.com/elysiajs/awesome-elysia) - Community driven curated list of awesome things related to ElysiaJS
 - [swyxio/brain](https://github.com/swyxio/brain) - Swyx's second brain!
 - [damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome package manager resources
@@ -5062,7 +5080,7 @@
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [triggerdotdev/fly.io](https://github.com/triggerdotdev/fly.io) - Self-host Trigger.dev on Fly.io using this repository as a starting point
 - [DanielBodnar/awesome-nac](https://github.com/DanielBodnar/awesome-nac) - A curated list for awesome N-Acetylcysteine (N.A.C.) studies & sources
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [oracle-quickstart/terraform-oci-open-lz](https://github.com/oracle-quickstart/terraform-oci-open-lz) - The OCI Open LZ is a set of open and secure landing zone blueprints to simplify the onboarding and running of organizations, business units, and subsidiaries into OCI - by customers, partners, or ISVs
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [jobsort/jobsort](https://github.com/jobsort/jobsort) - Find Jobs in Top Startups
@@ -5856,7 +5874,7 @@
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-- [SuperDuperDB/superduper](https://github.com/SuperDuperDB/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
 - [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - A functional, content-addressable programming language.
 - [MalwareHunters/vultriever](https://github.com/MalwareHunters/vultriever) - 
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
@@ -7449,6 +7467,7 @@
 
 ## SCSS 
 
+- [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [mmistakes/so-simple-theme](https://github.com/mmistakes/so-simple-theme) - A simple Jekyll theme for words and pictures.
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
@@ -7504,6 +7523,10 @@
 
 ## Shell 
 
+- [semantic-release/docker-gitbox](https://github.com/semantic-release/docker-gitbox) - Gitbox is a docker image that combines a preconfigured git  server utilizing the git smart-http service for repository access. This is complemented by an installation of gitlist. Git smart-http and gi
+- [AaronMoat/gh-clone](https://github.com/AaronMoat/gh-clone) - GitHub CLI (gh) extension to clone repositories in a nested directory structure
+- [benelan/gh-fzf](https://github.com/benelan/gh-fzf) - An fzf wrapper around the GitHub CLI
+- [cisagov/gh-skeleton](https://github.com/cisagov/gh-skeleton) - This extension for the gh CLI provides the ability to easily start new projects from our existing library of skeleton repositories.
 - [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
 - [unypkg/unypkg](https://github.com/unypkg/unypkg) - Universal, simple and classical Linux package manager
 - [crater-space/cli](https://github.com/crater-space/cli) - A super-lightweight, universal, "meta" package manager for UNIX-like platforms
@@ -8325,6 +8348,79 @@
 
 ## TypeScript 
 
+- [funish/toolchains](https://github.com/funish/toolchains) - Programmatically create unified, standardised tool chains, powered by funish.
+- [jesusgraterol/argv-utils](https://github.com/jesusgraterol/argv-utils) - The argv-utils package is a lightweight library for Node.js that simplifies working with command-line arguments passed to your scripts. It streamlines the process of accessing and managing arguments f
+- [jspears/ts-arg](https://github.com/jspears/ts-arg) - A Typescript decorator based argument parser
+- [nuxt-community/pwa-module](https://github.com/nuxt-community/pwa-module) - Zero config PWA solution for Nuxt.js
+- [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
+- [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
+- [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
+- [expo/config-plugins](https://github.com/expo/config-plugins) - Out-of-tree Expo config plugins for packages that haven't adopted the config plugin system yet.
+- [oclif/config](https://github.com/oclif/config) - base config object and standard interfaces for oclif components
+- [ShaitanLyss/js-typed-config](https://github.com/ShaitanLyss/js-typed-config) - A strongly typed config management system
+- [jericirenej/typescript-monads-chaining](https://github.com/jericirenej/typescript-monads-chaining) - Chain callbacks in Typescript with integrated nullish checks and strong typing using the monad design pattern
+- [builtwithjavascript/server-side-config](https://github.com/builtwithjavascript/server-side-config) - Hook useServerSideConfig to more easily load json files with strongly typed configuration models for use in Nuxt, Next, Node, etc on the server side
+- [nbyx/valid-fluent](https://github.com/nbyx/valid-fluent) - A strongly-typed, chainable validation library for TypeScript. Craft intricate validation rules with Fluent API goodness. Go beyond boilerplate and embrace customizability.
+- [cermakjiri/idb-stores](https://github.com/cermakjiri/idb-stores) - Strongly typed IndexedDB stores with Zod. Store can present arbitrary an object schema.
+- [tscircuit/winterspec](https://github.com/tscircuit/winterspec) - ☃️ filesystem-routed API framework with strongly-typed requests via zod, openapi generation and more. Built for edge, cf worker, node and bun runtimes
+- [TrigenSoftware/Argue](https://github.com/TrigenSoftware/Argue) - A thin and strongly typed CLI arguments parser for Node.js.
+- [quinck-io/aws-cognito-client](https://github.com/quinck-io/aws-cognito-client) - Strongly typed and generic AWS Cognito client for TypeScript
+- [stefanoruth/valon-args](https://github.com/stefanoruth/valon-args) - A Typescript arguement parser with strong types
+- [rremigius/mozel](https://github.com/rremigius/mozel) - Easy-to-use model, nestable, strongly typed (typescript and runtime), with change watching and JSON import/export.
+- [oliver-oloughlin/jex](https://github.com/oliver-oloughlin/jex) - Configure strongly typed API clients
+- [markcdev/nestjs-strong-config](https://github.com/markcdev/nestjs-strong-config) - NestJS - Strongly typed config example
+- [lukezirngibl/frr-web](https://github.com/lukezirngibl/frr-web) - Configurable and styleable React component library with multilingual support and strong types
+- [opvious/abaca](https://github.com/opvious/abaca) - OpenAPI TypeScript SDK generator with strong type guarantees and minimal boilerplate
+- [baileyherbert/events](https://github.com/baileyherbert/events) - A strongly typed event emitter for Node.js and browsers.
+- [ascandone/kestrel-lang](https://github.com/ascandone/kestrel-lang) - 🦅 A pure, strongly typed functional language that compiles to js
+- [emphori/promise](https://github.com/emphori/promise) - A strongly typed Promise override for TypeScript
+- [themaiby/nominal-types](https://github.com/themaiby/nominal-types) - Nominal Types is a TypeScript library for creating strongly typed values, ensuring type safety and reducing programming errors.
+- [paddls/ts-serializer](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes
+- [typepoint/typepoint](https://github.com/typepoint/typepoint) - Library for defining, consuming and/or serving strongly typed RESTful API endpoints in TypeScript.
+- [fsmoothy/fsmoothy](https://github.com/fsmoothy/fsmoothy) - FSMoothy: Your strongly-typed Finite State Machine, battery-packed and ready to roll!
+- [paddls/ngx-repository](https://github.com/paddls/ngx-repository) - Easily create a strongly typed data client (Http REST or Firestore) in your Angular project.
+- [codeandcats/classy-commander](https://github.com/codeandcats/classy-commander) - A TypeScript wrapper for Commander that lets you easily declare commands using classes & decorators and provides you strongly typed arguments.
+- [mtmr0x/nucleo](https://github.com/mtmr0x/nucleo) - 🏋️‍♀️ Nucleo is a strongly typed and predictable state container library for JavaScript ecosystem written in TypeScript
+- [commander-js/extra-typings](https://github.com/commander-js/extra-typings) - Infer strong typings for commander options and action handlers
+- [AlexJPotter/fluentvalidation-ts](https://github.com/AlexJPotter/fluentvalidation-ts) - A TypeScript-first library for building strongly-typed validation rules
+- [eram/typescript-fsm](https://github.com/eram/typescript-fsm) - TS-FSM is a strongly typed finite state machine for TypeScript that is using async operations. Library uses generics to take the user states and events. Zero dependencies!
+- [seek-oss/vocab](https://github.com/seek-oss/vocab) - Vocab is a strongly typed internationalization framework for React
+- [eggjs/tegg](https://github.com/eggjs/tegg) - Strong Type framework with eggjs.
+- [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) - Strongly typed string functions
+- [typedorm/typedorm](https://github.com/typedorm/typedorm) - Strongly typed ORM for DynamoDB - Built with the single-table-design pattern in mind.
+- [eonarheim/TypeState](https://github.com/eonarheim/TypeState) - A strongly typed finite state machine for TypeScript
+- [drashland/drash](https://github.com/drashland/drash) - A microframework for building JavaScript HTTP applications. Runtime-agnostic. Strongly typed.
+- [SrBrahma/gev](https://github.com/SrBrahma/gev) - Effortlessly npx way to init slightly opinionated projects boilerplates
+- [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
+- [nookit-dev/bnkit](https://github.com/nookit-dev/bnkit) - Bun Nook Kit is a toolkit on Bun with no added dependencies, use with your existing app or build a fullstack with just Bun Nook Kits built in modules.
+- [denosaurs/log](https://github.com/denosaurs/log) - 📜 Dead-simple drop-in logging solution using streams and the native console api
+- [slidesk/slidesk](https://github.com/slidesk/slidesk) - Speaker companion
+- [LowByteFox/buchta](https://github.com/LowByteFox/buchta) - Svelte Full-Stack framework based on the Islands architecture
+- [AminoffZ/catonaut](https://github.com/AminoffZ/catonaut) - Astro + Bun browser extension template.
+- [zarfjs/zarf](https://github.com/zarfjs/zarf) - Fast, Bun-first Web API framework with full Typescript support.
+- [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers
+- [nshiab/simple-data-analysis](https://github.com/nshiab/simple-data-analysis) - Easy-to-use and high-performance JavaScript library for data analysis. Works with tabular and geospatial data.
+- [IBM/audit-ci](https://github.com/IBM/audit-ci) - Audit NPM, Yarn, PNPM, and Bun dependencies in continuous integration environments, preventing integration if vulnerabilities are found at or above a configurable threshold while ignoring allowlisted 
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
+- [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
+- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
+- [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
+- [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
+- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+- [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
+- [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
+- [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
+- [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
+- [antfu/nitro-shikiji](https://github.com/antfu/nitro-shikiji) - A simple Shikiji endpoint set up with Nitro
+- [gcornut/valibot-json-schema](https://github.com/gcornut/valibot-json-schema) - Converter from Valibot schemas to JSON schema
+- [antfu/eslint-plugin-command](https://github.com/antfu/eslint-plugin-command) - Comment-as-command for one-off codemod with ESLint.
+- [hywax/vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Template for creating a library with a fully customized environment.
 - [puristajs/purista](https://github.com/puristajs/purista) - A typescript framework for building backend services and api in modern, modular and scalable way with event-driven patterns
 - [drizzer14/fnts](https://github.com/drizzer14/fnts) - λ Minimal Functional Programming Utilities for TypeScript & JavaScript
 - [LinHanlove/atom-tools](https://github.com/LinHanlove/atom-tools) - A fast, powerful, and out of the box TypeScript tool library
@@ -8897,7 +8993,7 @@
 - [vyder/bunbox](https://github.com/vyder/bunbox) - A framework to build APIs with bun
 - [jacklehamster/bun-template](https://github.com/jacklehamster/bun-template) - Bun template for creating projects using bunjs
 - [NSSTC/sim-ecs](https://github.com/NSSTC/sim-ecs) - Batteries included TypeScript ECS
-- [mimiMonads/vixeny](https://github.com/mimiMonads/vixeny) - 🌐 Vixeny: At the forefront of modern web development, Vixeny stands as a runtime-independent, efficiency-driven library dedicated to upholding the principles of functional purity. It's crafted to empo
+- [mimiMonads/vixeny](https://github.com/mimiMonads/vixeny) - 💜 Vixeny: At the forefront of modern web development, runtime-independent, efficiency-driven library dedicated to upholding the principles of FP; Desgined for creating scalable, maintainable, and high
 - [sachinraja/trpc-bun](https://github.com/sachinraja/trpc-bun) - tRPC + Bun
 - [itsyoboieltr/dbest-stack](https://github.com/itsyoboieltr/dbest-stack) - 
 - [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
@@ -10499,6 +10595,7 @@
 
 ## YASnippet 
 
+- [command-line-interface-pages/snippets](https://github.com/command-line-interface-pages/snippets) - Snippets for different editors.
 - [AndreaCrotti/yasnippet-snippets](https://github.com/AndreaCrotti/yasnippet-snippets) - a collection of yasnippet snippets for many languages
 
 ## Zig 
