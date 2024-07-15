@@ -643,8 +643,8 @@
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [zer0condition/ReverseKit](https://github.com/zer0condition/ReverseKit) - x64 Dynamic Reverse Engineering Toolkit
-- [roq-trading/roq-samples](https://github.com/roq-trading/roq-samples) - Example projects demonstrating how to use Roq's C++23 APIs.
-- [roq-trading/roq-api](https://github.com/roq-trading/roq-api) - The C++23 interfaces used to communicate between trading strategies and market gateways.
+- [roq-trading/roq-cpp-samples](https://github.com/roq-trading/roq-cpp-samples) - C++ examples.
+- [roq-trading/roq-api](https://github.com/roq-trading/roq-api) - C++ interfaces used to communicate with Roq's market gateways.
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [chronoxor/CppTrader](https://github.com/chronoxor/CppTrader) - High performance components for building Trading Platform such as ultra fast matching engine, order book processor
 - [AirenSoft/OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
@@ -3343,6 +3343,7 @@
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [AlloyTeam/eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects
 - [npm/npm-package-arg](https://github.com/npm/npm-package-arg) - Parse the things that can be arguments to `npm install`
 - [digitalroute/cz-conventional-changelog-for-jira](https://github.com/digitalroute/cz-conventional-changelog-for-jira) - A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
@@ -4589,6 +4590,7 @@
 - [boraelci/java-test-genie](https://github.com/boraelci/java-test-genie) - A command-line tool for AI-driven unit test generation
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 - [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
+- [rviscomi/har.fyi](https://github.com/rviscomi/har.fyi) - 
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
@@ -4698,7 +4700,6 @@
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [frictionlessdata/datapackage](https://github.com/frictionlessdata/datapackage) - Data Package is a standard consisting of a set of simple yet extensible specifications to describe datasets, data files and tabular data. It is a data definition language (DDL) and data API that facil
 - [artusjs/spec](https://github.com/artusjs/spec) - Spec for Artus.js.
-- [rviscomi/har.fyi](https://github.com/rviscomi/har.fyi) - 
 - [ardatan/schema-stitching](https://github.com/ardatan/schema-stitching) - 🪡 GraphQL Schema Stitching - Combine any kind of GraphQL APIs into one larger API without vendor-locking
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
@@ -6703,6 +6704,7 @@
 
 ## Rust 
 
+- [postgresml/korvus](https://github.com/postgresml/korvus) - Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.
 - [tyr-rust-bootcamp/template](https://github.com/tyr-rust-bootcamp/template) - project template
 - [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
 - [myTerminal/foraget](https://github.com/myTerminal/foraget) - A simple universal package manager for Unix-like systems
@@ -9124,7 +9126,6 @@
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most ca
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [cyjake/ssh-config](https://github.com/cyjake/ssh-config) - 📟 SSH config parser and stringifier
 - [mohsen1/yawn-yaml](https://github.com/mohsen1/yawn-yaml) - YAML parser that preserves comments and styling
 - [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
