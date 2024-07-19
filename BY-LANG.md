@@ -560,7 +560,7 @@
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [alexandria-org/alexandria](https://github.com/alexandria-org/alexandria) - Full text search engine powering Alexandria.org - the open search engine.
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor and full-text
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor, and full-text
 - [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland) - xdg-desktop-portal backend for Hyprland
 - [chenshuo/recipes](https://github.com/chenshuo/recipes) - Some code snippets for sharing
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
@@ -1094,6 +1094,8 @@
 
 ## Go 
 
+- [gptscript-ai/clio](https://github.com/gptscript-ai/clio) - Your friendly and safe CLI Copilot
+- [ibuildthecloud/clio](https://github.com/ibuildthecloud/clio) - Your friendly CLI Assistant
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [aws-cloudformation/rain](https://github.com/aws-cloudformation/rain) - A development workflow tool for working with AWS CloudFormation.
 - [koozz/gh-semver](https://github.com/koozz/gh-semver) - A GitHub CLI extension to determine the next semantic version.
@@ -1957,7 +1959,7 @@
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images from APK packages directly without Dockerfile
 - [AliyunContainerService/pouch](https://github.com/AliyunContainerService/pouch) - An Efficient Enterprise-class Container Engine
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -3022,6 +3024,10 @@
 
 ## JavaScript 
 
+- [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team) - Open-source temporary elevated access solution for AWS IAM Identity Center.
+- [iamarkadyt/aws-auth](https://github.com/iamarkadyt/aws-auth) - :fire: Simple AWS authentication CLI with support for MFA, secure credential storage and easy IAM role switching.
+- [amancevice/aws-sts-assume-role](https://github.com/amancevice/aws-sts-assume-role) - GitHub Action to assume an AWS IAM role and export the credentials to ENV
+- [coreybutler/iam](https://github.com/coreybutler/iam) - Identification and access management library for all JS runtimes that support ES Modules.
 - [zvoverman/text-summarizer](https://github.com/zvoverman/text-summarizer) - A comprehensible suite of tools to summarize text using AI.
 - [ajcwebdev/autoshow](https://github.com/ajcwebdev/autoshow) - End-to-end scripting workflow to automatically generate show notes from audio/video transcripts with yt-dlp, Whisper.cpp, Commander.js, and LLMs
 - [mateodelnorte/meta](https://github.com/mateodelnorte/meta) - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
@@ -3160,7 +3166,6 @@
 - [tus/tus-js-client](https://github.com/tus/tus-js-client) - A pure JavaScript client for the tus resumable upload protocol
 - [sequelize/cli](https://github.com/sequelize/cli) - The Sequelize CLI
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-- [octokit/rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
 - [nijikokun/minami](https://github.com/nijikokun/minami) - 💅 Clean and minimal JSDoc 3 Template / Theme
 - [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs) - Beautiful toolbox for jsdoc generated documentation - with 'typescript', `category` and `component` plugins
 - [rovelstars/reejs](https://github.com/rovelstars/reejs) - Make Sites Faster, without the need of building anything!
@@ -3187,7 +3192,7 @@
 - [selfrefactor/rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 - [mitranim/fpx](https://github.com/mitranim/fpx) - Functional programming extensions for JS. Lightweight replacement for Lodash.
 - [fireactjs/saas](https://github.com/fireactjs/saas) - A fully functional React web application for SaaS projects. It's built with React, Firebase and Stripe.
-- [ninjas-code-official/food-delivery-singlevendor](https://github.com/ninjas-code-official/food-delivery-singlevendor) - A fully functional and white label food delivery solution. Capable of building your own food delivery application! Includes customer, rider and restaurant apps.
+- [enatega/food-delivery-singlevendor](https://github.com/enatega/food-delivery-singlevendor) - A fully functional and white label food delivery solution. Capable of building your own food delivery application! Includes customer, rider and restaurant apps.
 - [adobe/ferrum](https://github.com/adobe/ferrum) - Features from the rust language in javascript: Provides Traits/Type classes & a hashing infrastructure and an advanced library for working with sequences/iterators in js
 - [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
 - [kbrsh/moon](https://github.com/kbrsh/moon) - 🌙 The minimal & fast library for functional user interfaces
@@ -5596,8 +5601,6 @@
 
 ## Python 
 
-- [python-rope/rope](https://github.com/python-rope/rope) - a python refactoring library
-- [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [aws-cloudformation/aws-cloudformation-templates](https://github.com/aws-cloudformation/aws-cloudformation-templates) - A collection of useful CloudFormation templates
 - [BrianPugh/belay](https://github.com/BrianPugh/belay) - Belay is a python library that enables the rapid development of projects that interact with hardware via a micropython-compatible board.
@@ -5744,7 +5747,7 @@
 - [shiwaforce/poco](https://github.com/shiwaforce/poco) - Poco will help you to organise and manage Docker, Docker-Compose, Kubernetes, Openshift projects of any complexity using simple YAML config files to shorten the route from finding your project to init
 - [GSA/inventory-app](https://github.com/GSA/inventory-app) - Docker image for ckan app powering inventory.data.gov
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 400+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [aheadintime/playwright-firefox-addons](https://github.com/aheadintime/playwright-firefox-addons) - use firefox addons with playwright automation
 - [davidbrochart/jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the terminal.
@@ -5982,7 +5985,7 @@
 - [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [raphaelsty/cherche](https://github.com/raphaelsty/cherche) - Neural Search
 - [WebKit/standards-positions](https://github.com/WebKit/standards-positions) - WebKit's positions on emerging web specifications
-- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: Crawling & scraping, content extraction, metadata. TXT, Markdown, CSV & XML output.
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [UKPLab/gpl](https://github.com/UKPLab/gpl) - Powerful unsupervised domain adaptation method for dense retrieval. Requires only unlabeled corpus and yields massive improvement: "GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation o
 - [vector-ai/vectorai](https://github.com/vector-ai/vectorai) - Vector AI — A platform for building vector based applications. Encode, query and analyse data using vectors.
 - [jina-ai/vectordb](https://github.com/jina-ai/vectordb) - A Python vector database you just need - no more, no less.
@@ -6634,6 +6637,7 @@
 
 ## Ruby 
 
+- [sirupsen/zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line 📚 🔍
 - [librariesio/bibliothecary](https://github.com/librariesio/bibliothecary) - :notebook_with_decorative_cover: Libraries.io Package Manager Manifest Parsers
 - [codervault/codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager
 - [actions/importer-labs](https://github.com/actions/importer-labs) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
@@ -7218,7 +7222,7 @@
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [ChillFish8/lust](https://github.com/ChillFish8/lust) - A fast, auto-optimizing image server designed for high throughput and caching; Now that is hot.
-- [Eugeny/warpgate](https://github.com/Eugeny/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [mosuka/bayard](https://github.com/mosuka/bayard) - A full-text search and indexing server written in Rust.
@@ -8333,7 +8337,7 @@
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
-- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - A based rollup. 🥁
+- [taikoxyz/taiko-mono](https://github.com/taikoxyz/taiko-mono) - A based rollup. 🥁 🌸
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) - End-to-end encrypted file transfer.
 - [maxlath/website-history-browser](https://github.com/maxlath/website-history-browser) - a WebExtension to browse your history per website
@@ -8404,6 +8408,38 @@
 
 ## TypeScript 
 
+- [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them
+- [polywrap/wrap-cli](https://github.com/polywrap/wrap-cli) - Used to create, build, and integrate wraps.
+- [hexojs/hexo-cli](https://github.com/hexojs/hexo-cli) - Command line interface for Hexo
+- [chromaui/chromatic-cli](https://github.com/chromaui/chromatic-cli) - Chromatic CLI: `npx chromatic`
+- [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
+- [felixfbecker/cli-highlight](https://github.com/felixfbecker/cli-highlight) - Syntax highlighting for your terminal 💻✨
+- [bettyblocks/cli](https://github.com/bettyblocks/cli) - Command-line interface for the Betty Blocks Component System
+- [vrn-deco/cli](https://github.com/vrn-deco/cli) - 💻 Project scaffolding with command line tools. 🛠
+- [pruvious/pruvious](https://github.com/pruvious/pruvious) - A reliable CMS for your Nuxt app.
+- [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Nuxt Generation CLI Experience.
+- [graphile/worker](https://github.com/graphile/worker) - High performance Node.js/PostgreSQL job queue (also suitable for getting jobs generated by PostgreSQL triggers/functions out into a different work queue)
+- [nodecg/nodecg](https://github.com/nodecg/nodecg) - Create broadcast graphics using Node.js and a browser
+- [prisma-labs/dripip](https://github.com/prisma-labs/dripip) - Opinionated CLI for continuous delivery of npm packages
+- [Xunnamius/xunnctl](https://github.com/Xunnamius/xunnctl) - ⚙️ Yet another CLI tool of mine. This one makes devsecops tasks easier across my constellation of systems
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+- [quenti-io/quenti](https://github.com/quenti-io/quenti) - The open source Quizlet alternative.
+- [globaldatanet/aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory) - Enhance the security of your web applications effortlessly with AWS Firewall Factory. Safeguard your valuable assets through seamless WAF deployment, updates, and staging, all centrally managed with A
+- [safe-global/safe-singleton-factory](https://github.com/safe-global/safe-singleton-factory) - Singleton factory used by Safe related contracts
+- [aws-samples/aws-saas-factory-eks-reference-architecture](https://github.com/aws-samples/aws-saas-factory-eks-reference-architecture) - This repository provides a reference architecture for building an end to end SaaS solution using Amazon Elastic Kubernetes Service (EKS)
+- [capJavert/jawa](https://github.com/capJavert/jawa) - Visual scraper interface, exports to puppeteer script which you can run anywhere.
+- [Xunnamius/black-flag](https://github.com/Xunnamius/black-flag) - ⚡ A declarative framework for building fluent, deeply hierarchical command line interfaces with yargs
+- [aws/aws-msk-iam-sasl-signer-js](https://github.com/aws/aws-msk-iam-sasl-signer-js) - 
+- [tobilg/aws-iam-data](https://github.com/tobilg/aws-iam-data) - This repository contains the full dataset of AWS IAM data (services, actions, resource types and conditions keys). It's updated on a daily basis at 4AM UTC.
+- [thinkinglabs/aws-iam-policy](https://github.com/thinkinglabs/aws-iam-policy) - A TypeScript Node.js module to manipulate AWS IAM Policy documents
+- [SSHcom/privx-on-aws](https://github.com/SSHcom/privx-on-aws) - PrivX - Just-in-time Access Management
+- [triyanox/iamjs](https://github.com/triyanox/iamjs) - iamjs - Your complete Access Control Library with End-to-end typesafety
+- [spyglasshq/spyglass-cli](https://github.com/spyglasshq/spyglass-cli) - Access management as code.
+- [janstuemmel/aws-role-switch](https://github.com/janstuemmel/aws-role-switch) - Browser plugin to quickly switch between aws roles
+- [aws-samples/aws-iam-identity-center-extensions](https://github.com/aws-samples/aws-iam-identity-center-extensions) - This solution is intended for enterprises that need a streamlined way of managing user access to their AWS accounts. Using this solution, your identity and access management teams can extend AWS SSO f
+- [slauth-io/slauth-cli](https://github.com/slauth-io/slauth-cli) - CLI that scans directories for Cloud Provider SDK usage generates the IAM Policies/Permissions needed
+- [proofzero/rollupid](https://github.com/proofzero/rollupid) - Open Source and OIDC compliant digital identity for the private web
+- [saml-to/assume-aws-role-action](https://github.com/saml-to/assume-aws-role-action) - Assume AWS IAM Roles using SAML.to in GitHub Actions
 - [jasonkuhrt/alge](https://github.com/jasonkuhrt/alge) - Type safe library for creating Algebraic Data Types (ADTs) in TypeScript. 🌱
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [Qw4z1/commander-template](https://github.com/Qw4z1/commander-template) - 
@@ -8854,7 +8890,7 @@
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [openapistack/openapi-client-axios](https://github.com/openapistack/openapi-client-axios) - JavaScript client library for consuming OpenAPI-enabled APIs with axios
 - [aws-azure-login/aws-azure-login](https://github.com/aws-azure-login/aws-azure-login) - Use Azure AD SSO to log into the AWS via CLI.
 - [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli) - Azure Static Web Apps CLI ✨
@@ -8866,6 +8902,7 @@
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
+- [octokit/rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
 - [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [seonglae/github-setter](https://github.com/seonglae/github-setter) - 
