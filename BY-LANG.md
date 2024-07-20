@@ -194,6 +194,7 @@
 
 ## C 
 
+- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [desktop/desktop-trampoline](https://github.com/desktop/desktop-trampoline) - A cross-platform no-dependency TCP-based trampoline for GitHub Desktop, written in C
 - [mptre/pick](https://github.com/mptre/pick) - A fuzzy search tool for the command-line
 - [pkgxdev/pantry](https://github.com/pkgxdev/pantry) - pkg manifests
@@ -287,6 +288,7 @@
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [openSUSE/catatonit](https://github.com/openSUSE/catatonit) - A container init that is so simple it's effectively brain-dead.
+- [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [gnif/vendor-reset](https://github.com/gnif/vendor-reset) - Linux kernel vendor specific hardware reset module for sequences that are too complex/complicated to land in pci_quirks.c
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
@@ -656,7 +658,6 @@
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [Gyeeta/gyeeta](https://github.com/Gyeeta/gyeeta) - Gyeeta - An Open Source Observability Product for your Infrastructure, Services and Processes. This repository is for the Agent and Server C++ code.
 - [ION28/BLUESPAWN](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams
-- [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
 - [tenzir/tenzir](https://github.com/tenzir/tenzir) - Open source security data pipelines.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) - Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
@@ -1051,6 +1052,7 @@
 
 ## Emacs Lisp 
 
+- [ethan-leba/tree-edit](https://github.com/ethan-leba/tree-edit) - 🌲   Structural editing in Emacs for any™ language!
 - [command-line-interface-pages/syntax](https://github.com/command-line-interface-pages/syntax) - Syntax definition and highlighting for different editors
 - [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
 - [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
@@ -1094,6 +1096,7 @@
 
 ## Go 
 
+- [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [gptscript-ai/clio](https://github.com/gptscript-ai/clio) - Your friendly and safe CLI Copilot
 - [ibuildthecloud/clio](https://github.com/ibuildthecloud/clio) - Your friendly CLI Assistant
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
@@ -3024,6 +3027,11 @@
 
 ## JavaScript 
 
+- [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
+- [getgrit/tree-sitter-gritql](https://github.com/getgrit/tree-sitter-gritql) - The official grammar for GritQL, implemented as a tree sitter parser
+- [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Experimental Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
+- [squaredtechnologies/thread](https://github.com/squaredtechnologies/thread) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team) - Open-source temporary elevated access solution for AWS IAM Identity Center.
 - [iamarkadyt/aws-auth](https://github.com/iamarkadyt/aws-auth) - :fire: Simple AWS authentication CLI with support for MFA, secure credential storage and easy IAM role switching.
 - [amancevice/aws-sts-assume-role](https://github.com/amancevice/aws-sts-assume-role) - GitHub Action to assume an AWS IAM role and export the credentials to ENV
@@ -4673,6 +4681,7 @@
 
 ## Lua 
 
+- [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [sayanarijit/gh-xplr](https://github.com/sayanarijit/gh-xplr) - Explore GitHub repos using xplr via GitHub CLI
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
@@ -4887,6 +4896,7 @@
 
 ## Others 
 
+- [getgrit/.grit](https://github.com/getgrit/.grit) - Shared GritQL patterns for Grit's development
 - [hackerschoice/hackshell](https://github.com/hackerschoice/hackshell) - Make BASH stealthy and hacker friendly with lots of bash functions
 - [getgrit/vscode](https://github.com/getgrit/vscode) - 
 - [bespoyasov/refactor-like-a-superhero](https://github.com/bespoyasov/refactor-like-a-superhero) - How to refactor code efficiently and without pain.
@@ -5601,6 +5611,16 @@
 
 ## Python 
 
+- [salesforce/CodeTF](https://github.com/salesforce/CodeTF) - CodeTF: One-stop Transformer Library for State-of-the-art Code LLM
+- [getgrit/stdlib](https://github.com/getgrit/stdlib) - The GritQL standard library provides common patterns for refactoring and upgrading code.
+- [fynnfluegge/doc-comments-ai](https://github.com/fynnfluegge/doc-comments-ai) - LLM-powered code documentation generation
+- [fynnfluegge/codeqai](https://github.com/fynnfluegge/codeqai) - Local first semantic code search and chat powered by vector embeddings and LLMs
+- [jonfairbanks/local-rag](https://github.com/jonfairbanks/local-rag) - Ingest files for retrieval augmented generation (RAG) with open-source Large Language Models (LLMs), all without 3rd parties or sensitive data leaving your network.
+- [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
+- [entropy-research/Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
+- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, Phi, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Ma
+- [valiantlynx/ollama-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
+- [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [aws-cloudformation/aws-cloudformation-templates](https://github.com/aws-cloudformation/aws-cloudformation-templates) - A collection of useful CloudFormation templates
 - [BrianPugh/belay](https://github.com/BrianPugh/belay) - Belay is a python library that enables the rapid development of projects that interact with hardware via a micropython-compatible board.
@@ -6046,7 +6066,6 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [vyos/vyos-build](https://github.com/vyos/vyos-build) - VyOS image build scripts
-- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [mahmoud/glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
@@ -6630,6 +6649,7 @@
 
 - [machawk1/wail](https://github.com/machawk1/wail) - :whale2: Web Archiving Integration Layer: One-Click User Instigated Preservation
 - [Thinkmill/keystatic-examples-knowledge-base](https://github.com/Thinkmill/keystatic-examples-knowledge-base) - 
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [Adirelle/s6-alpy-rootfs](https://github.com/Adirelle/s6-alpy-rootfs) - Specific configuration file for building an Alpine Linux VM using s6-linux-init instead of openrc.
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 - [elivepatch/elivepatch-client](https://github.com/elivepatch/elivepatch-client) - Flexible Distributed Linux Kernel Live Patching
@@ -6731,6 +6751,10 @@
 
 ## Rust 
 
+- [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
+- [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
+- [pythops/tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
+- [evilsocket/nerve](https://github.com/evilsocket/nerve) - Instrument any LLM to do actual stuff.
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM inference for mobile, desktop and server.
 - [langston-barrett/mogglo](https://github.com/langston-barrett/mogglo) - Multi-language AST-based code search and rewriting tool that supports embedding Lua code in patterns
 - [untitaker/spacemod](https://github.com/untitaker/spacemod) - A easy to understand and powerful text search-and-replace tool
@@ -7578,6 +7602,8 @@
 
 ## Scheme 
 
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [opencog/agi-bio](https://github.com/opencog/agi-bio) - Genomic and Proteomic data exploration and pattern mining
 
 ## Shell 
@@ -8360,6 +8386,8 @@
 
 ## Swift 
 
+- [CodeEditApp/CodeEditSourceEditor](https://github.com/CodeEditApp/CodeEditSourceEditor) - A code editor view written in Swift powered by tree-sitter.
+- [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
 - [kyle-n/WebExtensionTemplate](https://github.com/kyle-n/WebExtensionTemplate) - Create a browser extension for Chrome, Firefox and Safari in no time.
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
 - [inket/stts](https://github.com/inket/stts) - A simple macOS app for monitoring the status of cloud services
@@ -8408,6 +8436,17 @@
 
 ## TypeScript 
 
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
+- [xavimondev/easyreadme](https://github.com/xavimondev/easyreadme) - Easyreadme helps you simplify README creation and generate visually stunning ones with the help of AI and elegant pre-designed templates.
+- [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
+- [richawo/minimal-llm-ui](https://github.com/richawo/minimal-llm-ui) - Minimalistic UI for Ollama LMs - This powerful react interface for LLMs drastically improves the chatbot experience and works offline.
+- [joone/loz](https://github.com/joone/loz) - Loz is a command-line tool that enables your preferred LLM to execute system commands and utilize Unix pipes, integrating AI capabilities with other Unix tools.
+- [longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot) - Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) from Ollama, LM Studio, Anthropic, Google Gemini, Mistral AI, OpenAI, and more for Obsidian.
+- [srikanth235/privy](https://github.com/srikanth235/privy) - An open-source alternative to GitHub copilot that runs locally.
+- [ax-llm/ax](https://github.com/ax-llm/ax) - Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
+- [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
+- [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them
 - [polywrap/wrap-cli](https://github.com/polywrap/wrap-cli) - Used to create, build, and integrate wraps.
 - [hexojs/hexo-cli](https://github.com/hexojs/hexo-cli) - Command line interface for Hexo
@@ -10415,7 +10454,7 @@
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [fuxingloh/contented](https://github.com/fuxingloh/contented) - Contented is a Markdown-based authoring workflow & processor that encourage developer authoring within its contextual Git repository.
 - [aviondb/aviondb](https://github.com/aviondb/aviondb) - A decentralised database with MongoDB-like developer interface (Fully Compatible with OrbitDB)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [alineacms/alinea](https://github.com/alineacms/alinea) - Content management, streamlined
 - [amplience/dc-delivery-sdk-js](https://github.com/amplience/dc-delivery-sdk-js) - Official Javascript SDK for the Amplience Dynamic Content Delivery API
