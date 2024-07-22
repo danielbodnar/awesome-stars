@@ -670,7 +670,7 @@
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [outscale/butterfly](https://github.com/outscale/butterfly) - Butterfly connects Virtual Machines and control their traffic flow
 - [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popu
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [opencurve/curve](https://github.com/opencurve/curve) - Curve is a sandbox project hosted by the CNCF Foundation. It's cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -9606,7 +9606,7 @@
 - [DanielBodnar/webcontainer-shell](https://github.com/DanielBodnar/webcontainer-shell) - WebContainer-inspired shell in the browser
 - [hankei6km/vscode-ext-start-webcontainer](https://github.com/hankei6km/vscode-ext-start-webcontainer) - Start WebContainer from VS Codde for the Web, and use Jsh and Preview URL.
 - [Minigugus/webcontainer-shell](https://github.com/Minigugus/webcontainer-shell) - WebContainer-inspired shell in the browser
-- [harvic3/nodetskeleton](https://github.com/harvic3/nodetskeleton) - A NodeJs Skeleton based in Clean Architecture to use TypeScript with ExpressJS, KoaJS or any other web server framework. Please give star to project to show respect to author and effort. 🤗
+- [harvic3/nodetskeleton](https://github.com/harvic3/nodetskeleton) - A NodeJS Skeleton based in Clean Architecture to use TypeScript with ExpressJS, KoaJS or any other web server framework. Please give star to project to show respect to author and effort. 🤗
 - [aramalipoor/aws-cost-saver](https://github.com/aramalipoor/aws-cost-saver) - A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!
 - [rsaryev/auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - 
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
