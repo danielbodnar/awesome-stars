@@ -563,7 +563,7 @@
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [alexandria-org/alexandria](https://github.com/alexandria-org/alexandria) - Full text search engine powering Alexandria.org - the open search engine.
 - [pisa-engine/pisa](https://github.com/pisa-engine/pisa) - PISA: Performant Indexes and Search for Academia
-- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor, and full-text
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text
 - [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland) - xdg-desktop-portal backend for Hyprland
 - [chenshuo/recipes](https://github.com/chenshuo/recipes) - Some code snippets for sharing
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
@@ -1204,6 +1204,7 @@
 - [wobsoriano/bun-promptx](https://github.com/wobsoriano/bun-promptx) - Terminal prompt library for the Bun runtime
 - [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
+- [gardener/vpn2](https://github.com/gardener/vpn2) - Network connector between the control plane (deployed in a Seed cluster) and a Shoot cluster superseding the vpn repository.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [iamthen0ise/better-branch](https://github.com/iamthen0ise/better-branch) - Interactive CLI helper for creating git branches with JIRA Links and some text
 - [linka-cloud/d2vm](https://github.com/linka-cloud/d2vm) - Build Virtual Machine Image from Dockerfile or Docker image
@@ -2912,6 +2913,7 @@
 
 ## Java 
 
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for grocy
 - [salesforce/dockerfile-image-update](https://github.com/salesforce/dockerfile-image-update) - A tool that helps you get security patches for Docker images into production as quickly as possible without breaking things
@@ -3032,6 +3034,8 @@
 
 ## JavaScript 
 
+- [Netflix/unleash](https://github.com/Netflix/unleash) - Professionally publish your JavaScript modules in one keystroke
+- [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [TheodoreChu/marp-editor](https://github.com/TheodoreChu/marp-editor) - Marp Editor for @standardnotes. Create presentations with Marp and Marpit Markdown | https://marpeditor.com
 - [marp-team/marpit](https://github.com/marp-team/marpit) - The skinny framework for creating slide deck from Markdown
@@ -3245,6 +3249,7 @@
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
 - [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
 - [instant-dev/instant](https://github.com/instant-dev/instant) - JavaScript API framework with ORM, migrations and vectors
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [shridhar-tl/jira-assistant](https://github.com/shridhar-tl/jira-assistant) - Repository containing source code of Jira Assistant browser extension. This is also used to track bugs related to the extension.
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
 - [conventional-changelog/conventional-changelog-config-spec](https://github.com/conventional-changelog/conventional-changelog-config-spec) - a spec describing the config options supported by conventional-config for upstream tooling
@@ -3837,6 +3842,7 @@
 - [pattern-lab/patternlab-node](https://github.com/pattern-lab/patternlab-node) - The Node version of Pattern Lab
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
+- [dosyago/chai](https://github.com/dosyago/chai) - chai - Experience Zero Trust security with Chai! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security! 🌈
 - [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
@@ -5631,6 +5637,7 @@
 
 ## Python 
 
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [chris17453/ttygif](https://github.com/chris17453/ttygif) - A modern text to gif tool. For use in headless ci/cd environments providing themed output for documentation.
 - [joelibaceta/video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
 - [salesforce/CodeTF](https://github.com/salesforce/CodeTF) - CodeTF: One-stop Transformer Library for State-of-the-art Code LLM
@@ -6087,6 +6094,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [vyos/vyos-build](https://github.com/vyos/vyos-build) - VyOS image build scripts
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [mahmoud/glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
@@ -6348,7 +6356,7 @@
 - [Neo23x0/Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and YARA Scanner
 - [0xPhoeniX/imageio](https://github.com/0xPhoeniX/imageio) - Collection of tools for accessing data in firmware images
 - [erigones/esdc-ce](https://github.com/erigones/esdc-ce) - Danube Cloud :: Community Edition
-- [jens-maus/thinRoot](https://github.com/jens-maus/thinRoot) - thinRoot is a buildroot (https://buildroot.org/) powered operating system environment to create lightweight user-defined kiosk systems as ThinClients (e.g. using intel NUC, RaspberryPi, ASUS Tinkerboa
+- [jens-maus/thinRoot](https://github.com/jens-maus/thinRoot) - thinRoot is a buildroot (https://buildroot.org/) powered operating system environment to create lightweight user-defined kiosk systems or ThinClients (e.g. using x86 hardware, RaspberryPi, ASUS Tinker
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [devstructure/blueprint](https://github.com/devstructure/blueprint) - Reverse engineer server configuration
 - [amscanne/huptime](https://github.com/amscanne/huptime) - Utility for zero downtime restarts of unmodified programs.
@@ -6670,7 +6678,6 @@
 
 - [machawk1/wail](https://github.com/machawk1/wail) - :whale2: Web Archiving Integration Layer: One-Click User Instigated Preservation
 - [Thinkmill/keystatic-examples-knowledge-base](https://github.com/Thinkmill/keystatic-examples-knowledge-base) - 
-- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [Adirelle/s6-alpy-rootfs](https://github.com/Adirelle/s6-alpy-rootfs) - Specific configuration file for building an Alpine Linux VM using s6-linux-init instead of openrc.
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 - [elivepatch/elivepatch-client](https://github.com/elivepatch/elivepatch-client) - Flexible Distributed Linux Kernel Live Patching
@@ -7698,7 +7705,6 @@
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
-- [gardener/vpn2](https://github.com/gardener/vpn2) - Network connector between the control plane (deployed in a Seed cluster) and a Shoot cluster superseding the vpn repository.
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way!
 - [LumIT-Labs/open-securekos](https://github.com/LumIT-Labs/open-securekos) - Open Secure-K OS is an operating system booting from a USB key in which you can safely create and store your personal and private data.  It is a next generation live operating system following liveng 
 - [sandrokeil/yubikey-full-disk-encryption-secure-boot-uefi](https://github.com/sandrokeil/yubikey-full-disk-encryption-secure-boot-uefi) - Tutorial to create full disk encryption with YubiKey, encrypted boot partition and secure boot with UEFI
@@ -7970,7 +7976,6 @@
 - [kh4sh3i/smartrecon](https://github.com/kh4sh3i/smartrecon) - smartrecon is a powerful shell script to automate the recon and finding common vulnerabilities for bug hunter
 - [cnabio/cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
-- [dosyago/chai](https://github.com/dosyago/chai) - chai - Experience Zero Trust security with Chai! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security! 🌈
 - [noob-hackers/m-wiz](https://github.com/noob-hackers/m-wiz) - Install Metasploit And Repair Metasploit In Termux With Easy Steps
 - [pgrange/bash_unit](https://github.com/pgrange/bash_unit) - bash unit testing enterprise edition framework for professionals
 - [realeroberto/bashlets](https://github.com/realeroberto/bashlets) - An experiment in extending the command-line interface.
@@ -8465,6 +8470,16 @@
 
 ## TypeScript 
 
+- [azu/create-validator-ts](https://github.com/azu/create-validator-ts) - Create JSON Schema validator from TypeScript.
+- [jrylan/json-schema-typed](https://github.com/jrylan/json-schema-typed) - JSON Schema TypeScript definitions with complete inline documentation.
+- [vip-git/universal-json-schema](https://github.com/vip-git/universal-json-schema) - :scroll: Universal JSON Schema Form - Currently Support for React - Material UI components for building Web forms from JSON Schema.
+- [PlasmoHQ/bpp](https://github.com/PlasmoHQ/bpp) - 🚀 Browser Platform Publisher
+- [epiphone/class-validator-jsonschema](https://github.com/epiphone/class-validator-jsonschema) - Convert class-validator-decorated classes into JSON schema
+- [ajv-validator/ajv-keywords](https://github.com/ajv-validator/ajv-keywords) - Additional JSON-Schema keywords for Ajv JSON validator
+- [ar-nelson/spartan-schema](https://github.com/ar-nelson/spartan-schema) - Ultra-minimal JSON schemas with Typescript inference
+- [awslabs/threat-composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
+- [orabazu/tsup-library-template](https://github.com/orabazu/tsup-library-template) - A template for building a library with tsup 🎆
+- [udecode/zustand-x](https://github.com/udecode/zustand-x) - Zustand store factory for a best-in-class developer experience.
 - [wobsoriano/h3-zod](https://github.com/wobsoriano/h3-zod) - TypeScript-first schema validation for h3 and Nuxt applications
 - [JamieLivingstone/node-clean-architecture](https://github.com/JamieLivingstone/node-clean-architecture) - A project template that follows the clean architecture principles and encourages established practices.
 - [Roaders/ts-command-line-args](https://github.com/Roaders/ts-command-line-args) - A typescript wrapper for command-line-args that allow you to generate config from existing TS interfaces
@@ -9088,7 +9103,6 @@
 - [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2 / OpenID Connect for JavaScript Runtimes
 - [okikio/bundlejs](https://github.com/okikio/bundlejs) - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [ccntrq/git-jira-branch](https://github.com/ccntrq/git-jira-branch) - Manage branches for your Jira tickets
 - [ClearTax/jira-lint](https://github.com/ClearTax/jira-lint) - A light-weight lint workflow when using GitHub along with JIRA for project management
@@ -9654,7 +9668,7 @@
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [alura/techguide](https://github.com/alura/techguide) - TechGuide main repository with the code that guides your tech career!
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
-- [tapexyz/tape](https://github.com/tapexyz/tape) - Talk, Amplify, Post, Explore. Decentralized social media platform.
+- [tapexyz/tape](https://github.com/tapexyz/tape) - Talk, Amplify, Post, Explore - social media platform.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
