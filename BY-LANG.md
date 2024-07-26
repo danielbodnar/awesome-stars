@@ -951,7 +951,7 @@
 - [postgis/docker-postgis](https://github.com/postgis/docker-postgis) - Docker image for PostGIS
 - [jenkinsci/ci.jenkins.io-runner](https://github.com/jenkinsci/ci.jenkins.io-runner) - An emulator of ci.jenkins.io instance, packaged as a single-shot Jenkinsfile Runner
 - [FusionAuth/fusionauth-containers](https://github.com/FusionAuth/fusionauth-containers) - Container definitions for docker, kubernetes, helm, and whatever containers come next!
-- [sneakerhax/TTPs](https://github.com/sneakerhax/TTPs) - Tactics, Techniques, and Procedures
+- [sneakerhax/TTPs](https://github.com/sneakerhax/TTPs) - Red Team Tactics, Techniques, and Procedures
 - [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) - 
 - [soulmachine/ts-cli-starter](https://github.com/soulmachine/ts-cli-starter) - TypeScript CLI project template.
 - [geekcell/docker-compose-nodejs-examples](https://github.com/geekcell/docker-compose-nodejs-examples) - Finally some real world examples on getting started with Docker Compose and Nodejs.
@@ -4848,7 +4848,7 @@
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [codecentric/helm-charts](https://github.com/codecentric/helm-charts) - A curated set of Helm charts brought to you by codecentric
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for LKE (and any other conformant K8s)
+- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (and any other conformant K8s)
 - [netdata/helmchart](https://github.com/netdata/helmchart) - Helm chart for kubernetes deployments
 - [banzaicloud/banzai-charts](https://github.com/banzaicloud/banzai-charts) - Curated list of Banzai Cloud Helm charts used by the Pipeline Platform
 
@@ -6945,7 +6945,7 @@
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [0xazure/supernova](https://github.com/0xazure/supernova) - Tool for exporting GitHub stars as an organized list.
-- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC in Rust
+- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, the Mozilla Firefox implementation of QUIC in Rust
 - [mozilla/application-services](https://github.com/mozilla/application-services) - Firefox Application Services
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Super fast CLI bookmark manager and launcher
 - [quambene/bogrep](https://github.com/quambene/bogrep) - Grep your bookmarks
@@ -7007,7 +7007,7 @@
 - [pnpm/pacquet](https://github.com/pnpm/pacquet) - experimental package manager for node.js
 - [guybedford/chomp](https://github.com/guybedford/chomp) - 'JS Make' - parallel task runner for the frontend ecosystem with a JS extension system.
 - [santhosh-tekuri/boon](https://github.com/santhosh-tekuri/boon) - JSONSchema (draft 2020-12, draft 2019-09, draft-7, draft-6, draft-4) Validation in Rust
-- [mamba-org/rattler](https://github.com/mamba-org/rattler) - Rust crates to work with the Conda ecosystem.
+- [conda-incubator/rattler](https://github.com/conda-incubator/rattler) - Rust crates to work with the Conda ecosystem.
 - [DevYukine/rustfoil](https://github.com/DevYukine/rustfoil) - Google Drive Index Generator for Tinfoil
 - [jalada/gdrive-search](https://github.com/jalada/gdrive-search) - A TUI to quickly find files in your Google Drive
 - [ohsayan/jotsy](https://github.com/ohsayan/jotsy) - Jotsy is a self-hosted, free and open-source note taking app with a goal of simplicity in mind
@@ -9455,7 +9455,7 @@
 - [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 - [starknet-io/starknet.js](https://github.com/starknet-io/starknet.js) - JavaScript library for StarkNet
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hackable notebook
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Note taking for knowledge hackers
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
