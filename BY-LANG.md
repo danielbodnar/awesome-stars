@@ -641,7 +641,7 @@
 - [OpenChemistry/avogadrolibs](https://github.com/OpenChemistry/avogadrolibs) - Avogadro libraries provide 3D rendering, visualization, analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 - [opencog/atomspace](https://github.com/opencog/atomspace) - The OpenCog (hyper-)graph database and graph rewriting system
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scena
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [dmlc/xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
 - [unum-cloud/usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
@@ -1864,7 +1864,7 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [OwO-Network/nexttrace-experiment](https://github.com/OwO-Network/nexttrace-experiment) - An open source visual route tracking CLI tool (experiment field)
 - [RedTeamPentesting/resocks](https://github.com/RedTeamPentesting/resocks) - mTLS-Encrypted Back-Connect SOCKS5 Proxy
-- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra
+- [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra. with function calling support, write once, run on any model.
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
 - [ga0/netgraph](https://github.com/ga0/netgraph) - A cross platform http sniffer with a web UI
@@ -3298,6 +3298,7 @@
 - [screwdriver-cd/config-parser](https://github.com/screwdriver-cd/config-parser) - Node module for parsing screwdriver.yaml configurations
 - [blue-build/schema](https://github.com/blue-build/schema) - TypeSpec schema for BlueBuild modules and recipes
 - [LaiJunBin/typespec-template](https://github.com/LaiJunBin/typespec-template) - This is a template for my typespec project, it implements a simple code-generation tool and hot-reloading server for typespec projects.
+- [mnahkies/openapi-code-generator](https://github.com/mnahkies/openapi-code-generator) - A code generation tool for openapi 3 / 3.1 specifications written in typescript, primarily aimed at generating typescript clients and server stubs. Other target languages may be added in future.
 - [mikekistler/typespec-openapiv3-examples](https://github.com/mikekistler/typespec-openapiv3-examples) - Examples of using TypeSpec to create OpenAPI v3 API definitions
 - [happenslol/tree-sitter-typespec](https://github.com/happenslol/tree-sitter-typespec) - 
 - [frinyvonnick/gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) - A changelog generator for gitmoji 😜
@@ -3858,7 +3859,7 @@
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [Surajv311/one4All](https://github.com/Surajv311/one4All) - This repository consists of tech resources and opportunities which could be useful for students interested in computer science. It also hosts non-tech sources which could be useful for anyone.🔥💻👨‍🎓
 - [techx/quill](https://github.com/techx/quill) - 📝 Registration, for hackathons!
 - [osmoscraft/tundra](https://github.com/osmoscraft/tundra) - Where knowledge grows.
@@ -4227,7 +4228,6 @@
 - [reconmap/web-client](https://github.com/reconmap/web-client) - Reconmap's web client written in React. Manage all your pentest projects from a single place.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [hjacobs/kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
 - [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time.
 - [moelashmawy/inventory-application](https://github.com/moelashmawy/inventory-application) - Shopping app using MERN stack
@@ -6030,7 +6030,7 @@
 - [xNul/code-llama-for-vscode](https://github.com/xNul/code-llama-for-vscode) - Use Code Llama with Visual Studio Code and the Continue extension. A local LLM alternative to GitHub Copilot.
 - [PrithivirajDamodaran/Alt-ZSC](https://github.com/PrithivirajDamodaran/Alt-ZSC) - Alternate Implementation for Zero Shot Text Classification: Instead of reframing NLI/XNLI, this reframes the text backbone of CLIP models to do ZSC. Hence, can be lightweight + supports more languages
 - [HumanSignal/label-studio-transformers](https://github.com/HumanSignal/label-studio-transformers) - Label data using HuggingFace's transformers and automatically get a prediction service
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [BrikerMan/Kashgari](https://github.com/BrikerMan/Kashgari) - Kashgari is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
 - [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [raphaelsty/cherche](https://github.com/raphaelsty/cherche) - Neural Search
@@ -6966,7 +6966,7 @@
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
-- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`.
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [Aquaducts/runners](https://github.com/Aquaducts/runners) - Flexible code runners that allow for multiple container backends, vms, and more :)
 - [glotcode/code-runner](https://github.com/glotcode/code-runner) - 
 - [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
@@ -6975,7 +6975,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Stranger6667/jsonschema-rs](https://github.com/Stranger6667/jsonschema-rs) - JSON Schema validation library
 - [vv9k/wutag](https://github.com/vv9k/wutag) - CLI Tool for tagging and organizing files by tags.
-- [file-acomplaint/kyun](https://github.com/file-acomplaint/kyun) - The worst text editor (yet)
+- [lennart-finke/kyun](https://github.com/lennart-finke/kyun) - The worst text editor (yet)
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
@@ -7251,7 +7251,7 @@
 - [d-e-s-o/apcacli](https://github.com/d-e-s-o/apcacli) - A command line tool for trading stocks on Alpaca (alpaca.markets).
 - [kpcyrd/boxxy-rs](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly components and capability providers.
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - An extendible wasm host enabling wasm-native orchestration; run components on any cloud, any k8s, or any edge - including your own.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -9180,7 +9180,6 @@
 - [egoist/rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild) - Use ESBuild with Rollup to transform ESNext and TypeScript code.
 - [john30/ebus-typespec](https://github.com/john30/ebus-typespec) - TypeSpec library for defining eBUS messages and emitting to ebusd CSV.
 - [heaths/typespec-changelog](https://github.com/heaths/typespec-changelog) - TypeSpec library to emit CHANGELOG entries.
-- [mnahkies/openapi-code-generator](https://github.com/mnahkies/openapi-code-generator) - A code generation tool for openapi 3 / 3.1 specifications written in typescript, primarily aimed at generating typescript clients and server stubs. Other target languages may be added in future.
 - [bterlson/typespec-todo](https://github.com/bterlson/typespec-todo) - A todo application API specified in TypeSpec
 - [NielsCo/typespec-postgres](https://github.com/NielsCo/typespec-postgres) - An expansion for TypeSpec enabling the definition of DB-Schema within the API-Definition in TypeSpec and emitting them to Postgres-Schema
 - [pankod/superplate-core-plugins](https://github.com/pankod/superplate-core-plugins) - 
@@ -10583,6 +10582,7 @@
 - [remix-run/blues-stack](https://github.com/remix-run/blues-stack) - The Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [cloudytool/cloudy](https://github.com/cloudytool/cloudy) - A tool for managing production-grade cloud clusters, infrastructure as code (IaC)
+- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [overhide/pay2my.app](https://github.com/overhide/pay2my.app) - A free and open-sourced ecosystem of w3c-components to make addition of "logins" and "in-app-purchases" (IAP) to your app as banal as possible.
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
@@ -10625,7 +10625,7 @@
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [fictionco/fiction](https://github.com/fictionco/fiction) - (Public Release Summer 2024) Personal Marketing Platform. A powerful platform for your online identity.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
