@@ -777,6 +777,7 @@
 
 ## CSS 
 
+- [dend/awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [rezarinaldi/bexlite-template](https://github.com/rezarinaldi/bexlite-template) - ✨ It's a template for basic BEXLite Stack. It's including Bun, Elysia, HTMX, and SQLite.
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
@@ -1098,6 +1099,7 @@
 
 ## Go 
 
+- [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 - [cirocosta/asciinema-edit](https://github.com/cirocosta/asciinema-edit) - asciinema casts post-production tools
 - [MrMarble/termsvg](https://github.com/MrMarble/termsvg) - Record, share and export your terminal as a animated SVG image.
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
@@ -1342,7 +1344,7 @@
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [Shopify/ejson](https://github.com/Shopify/ejson) - EJSON is a small library to manage encrypted secrets using asymmetric encryption.
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
-- [zix99/rare](https://github.com/zix99/rare) - Realtime regex-extraction and aggregation into common CLI formats such as histograms, bar graphs, numerical summaries, tables, and more!
+- [zix99/rare](https://github.com/zix99/rare) - Create console histograms, bar graphs, tables, heatmaps and more in realtime using regex and expressions.
 - [LinuxSuRen/yaml-readme](https://github.com/LinuxSuRen/yaml-readme) - A helper to generate the READE file automatically from YAML-based metadata files.
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
@@ -1410,7 +1412,6 @@
 - [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
-- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [mk-5/fjira](https://github.com/mk-5/fjira) - The golang fuzzy-find cli jira interface 🚀
@@ -2681,6 +2682,8 @@
 
 ## HTML 
 
+- [PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) - :sunglasses: A complete list of Arch-based projects
+- [Hackalist/Hackalist.github.io](https://github.com/Hackalist/Hackalist.github.io) - A list of upcoming hackathons from around the world.
 - [arnehilmann/markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
 - [snowfrogdev/Vts](https://github.com/snowfrogdev/Vts) - Vanilla TypeScript library starter CLI tool
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
@@ -3033,6 +3036,17 @@
 
 ## JavaScript 
 
+- [mirkokiefer/aws-lib](https://github.com/mirkokiefer/aws-lib) - Extensible Node.js library for the Amazon Web Services API
+- [impronunciable/hackdash](https://github.com/impronunciable/hackdash) - Ideas for a hackathon
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- [screenify/screenify-vscode](https://github.com/screenify/screenify-vscode) - vs-code extenion that allow to capture a screenshot of code and with abitliy to draw and share with.
+- [jitsi/lib-jitsi-meet](https://github.com/jitsi/lib-jitsi-meet) - A low-level JS video API that allows adding a completely custom video experience to web apps.
+- [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
+- [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
+- [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
+- [testing-library/vue-testing-library](https://github.com/testing-library/vue-testing-library) - 🦎 Simple and complete Vue.js testing utilities that encourage good testing practices.
+- [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
+- [morewings/cra-template-npm-library](https://github.com/morewings/cra-template-npm-library) - Create React App template to build and publish NPM libraries with typescript support, and rollup, eslint, stylelint configurations
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [Netflix/unleash](https://github.com/Netflix/unleash) - Professionally publish your JavaScript modules in one keystroke
 - [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
@@ -3946,6 +3960,7 @@
 - [shd101wyy/crossnote](https://github.com/shd101wyy/crossnote) - Powerful markdown tool
 - [dauxio/daux.io](https://github.com/dauxio/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [tobiasbueschel/search-gpt](https://github.com/tobiasbueschel/search-gpt) - 🌳 Connecting ChatGPT with the Internet
+- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
@@ -4274,7 +4289,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [b-m-f/WirtBot](https://github.com/b-m-f/WirtBot) - Easily and securely extend your network into the cloud with a WirtBot
 - [cloudkj/scar](https://github.com/cloudkj/scar) - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
 - [hypercore-protocol/cli](https://github.com/hypercore-protocol/cli) - A CLI for peer-to-peer file sharing using the Hypercore Protocol.
 - [holepunchto/hyperdht](https://github.com/holepunchto/hyperdht) - The DHT powering Hyperswarm
@@ -4925,6 +4940,21 @@
 
 ## Others 
 
+- [aws-cloudformation/awesome-cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) - A curated list of resources and projects for working with AWS CloudFormation.
+- [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
+- [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
+- [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) - An Awesome List for getting started with web archiving
+- [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+- [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
+- [MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) - :neckbeard: Awesome list GitHub Wikis
+- [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
+- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
+- [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
+- [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
+- [dribdat/awesome-hackathon](https://github.com/dribdat/awesome-hackathon) - Platforms, tools, and guides for critical organizers 🌆
+- [MasterBrian99/Awesome-Clone](https://github.com/MasterBrian99/Awesome-Clone) - A curated list of AWESOME clones made with react,vue,svelte
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [getgrit/.grit](https://github.com/getgrit/.grit) - Shared GritQL patterns for Grit's development
 - [hackerschoice/hackshell](https://github.com/hackerschoice/hackshell) - Make BASH stealthy and hacker friendly with lots of bash functions
 - [getgrit/vscode](https://github.com/getgrit/vscode) - 
@@ -5640,6 +5670,9 @@
 
 ## Python 
 
+- [aws-cloudformation/cloudformation-cli](https://github.com/aws-cloudformation/cloudformation-cli) - The CloudFormation Provider Development Toolkit allows you to author your own resource providers and modules that can be used by CloudFormation.
+- [awslabs/aws-config-rdk](https://github.com/awslabs/aws-config-rdk) - The AWS Config Rules Development Kit helps developers set up, author and test custom Config rules. It contains scripts to enable AWS Config, create a Config rule and test it with sample ConfigurationI
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life ML, AI, and data science projects with ease!
 - [chris17453/ttygif](https://github.com/chris17453/ttygif) - A modern text to gif tool. For use in headless ci/cd environments providing themed output for documentation.
 - [joelibaceta/video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
@@ -5885,7 +5918,7 @@
 - [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
 - [otto-de/recsys-dataset](https://github.com/otto-de/recsys-dataset) - 🛍 A real-world e-commerce dataset for session-based recommender systems research.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
@@ -6781,6 +6814,7 @@
 
 ## Rust 
 
+- [awslabs/distill-cli](https://github.com/awslabs/distill-cli) - 
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [volks73/germ](https://github.com/volks73/germ) - An application to generate terminal session recordings without rehearsing or recording
 - [k9withabone/autocast](https://github.com/k9withabone/autocast) - Automate terminal demos
@@ -7252,7 +7286,7 @@
 - [d-e-s-o/apcacli](https://github.com/d-e-s-o/apcacli) - A command line tool for trading stocks on Alpaca (alpaca.markets).
 - [kpcyrd/boxxy-rs](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - An extendible wasm host enabling wasm-native orchestration; run components on any cloud, any k8s, or any edge - including your own.
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is an open source project from the Cloud Native Computing Foundation (CNCF) that enables teams to build polyglot applications composed of reusable Wasm components and run them—resiliently an
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -8471,6 +8505,52 @@
 
 ## TypeScript 
 
+- [awslabs/generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs) - AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) - AWS plugins for Backstage
+- [awslabs/sbt-aws](https://github.com/awslabs/sbt-aws) - SaaS Builder Toolkit for AWS is a developer toolkit to implement SaaS best practices and increase developer velocity.
+- [HackSC/hibiscus](https://github.com/HackSC/hibiscus) - 🌺 A plug-and-play hackathon management platform; SSO, hacker leaderboard, check-ins, and more!
+- [snappify-io/vscode-extension](https://github.com/snappify-io/vscode-extension) - The snappify vscode extension.
+- [R35007/create-app-vscode-extension](https://github.com/R35007/create-app-vscode-extension) - 
+- [lucky-chap/kaminari](https://github.com/lucky-chap/kaminari) - Next.js project starter. Configured with tailwindcss and shadcn-ui
+- [nrjdalal/rdt-li](https://github.com/nrjdalal/rdt-li) - rdt.li self hostable, feature rich, minimalistic and open source URL shortener. Built with Next.js, Drizzle, NextAuth and Postgres.
+- [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+- [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui) - shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [ObservedObserver/streamlit-shadcn-ui](https://github.com/ObservedObserver/streamlit-shadcn-ui) - Using shadcn-ui components in streamlit
+- [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
+- [anis-marrouchi/shadxn](https://github.com/anis-marrouchi/shadxn) - A CLI for adding components (extended) to your project.
+- [shahradelahi/vault-cli](https://github.com/shahradelahi/vault-cli) - A CLI for HashiCorp Vault Key/Vault V2 secret engines
+- [arcanis/terminosaurus](https://github.com/arcanis/terminosaurus) - Agnostic terminal GUI library for TypeScript, distributed with a native React renderer
+- [underctrl-io/commandkit](https://github.com/underctrl-io/commandkit) - Only focus on what matters - Let CommandKit handle your commands and events in your Discord.js projects!
+- [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Build and Deploy modular landing zones with collie on AWS, Azure & GCP
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
+- [angular-schule/angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) - 🚀 Deploy your 🅰️Angular app to GitHub pages, Cloudflare Pages or any other Git repo directly from the Angular CLI! Available on NPM.
+- [umijs/father](https://github.com/umijs/father) - NPM package development tool
+- [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
+- [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
+- [alienzhou/web-highlighter](https://github.com/alienzhou/web-highlighter) - ✨ A no-runtime dependency lib for text highlighting & persistence on any website ✨🖍️
+- [AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
+- [NobleMajo/cmdy](https://github.com/NobleMajo/cmdy) - A js cmd argument framework that looks like the docker cli tool.
+- [NobleMajo/typenvy](https://github.com/NobleMajo/typenvy) - A js&ty environment manager
+- [d6v-community/zconf](https://github.com/d6v-community/zconf) - 
+- [NazmusSayad/rype](https://github.com/NazmusSayad/rype) - Ultra-Fast Type-Optimized Data Validation
+- [adonisjs/config](https://github.com/adonisjs/config) - Config management provider used by AdonisJS framework
+- [unleashit/npm-library](https://github.com/unleashit/npm-library) - NX + pnpm workspaces monorepo of various UI components and NPM modules. Written with Typescript and tested with Jest.
+- [NazmusSayad/npmize](https://github.com/NazmusSayad/npmize) - Make npm packages easily.
+- [gsoft-inc/azure-devops-npm-auth](https://github.com/gsoft-inc/azure-devops-npm-auth) - Uses the OAuth2 device code flow to authenticate against the Azure DevOps artifact private registry.
+- [jasonsturges/vite-typescript-npm-package](https://github.com/jasonsturges/vite-typescript-npm-package) - Vite TypeScript library npm package template
+- [sadmann7/npm-picker](https://github.com/sadmann7/npm-picker) - Find the best npm packages for your projects.
+- [snyk-snippets/modern-npm-package](https://github.com/snyk-snippets/modern-npm-package) - An npm package for demonstration purposes using TypeScript to build for both the ECMAScript Module format (i.e. ESM or ES Module) and CommonJS Module format. It can be used in Node.js and browser appl
+- [sonofmagic/npm-lib-template](https://github.com/sonofmagic/npm-lib-template) - npm-lib-template
+- [ryansonshine/typescript-npm-cli-template](https://github.com/ryansonshine/typescript-npm-cli-template) - Boilerplate to kickstart creating an npm CLI using TypeScript
+- [jsr-io/jsr-npm](https://github.com/jsr-io/jsr-npm) - A cli tool to make installing packages form jsr.io in node easy
+- [akabekobeko/npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web
+- [algolia/npm-search](https://github.com/algolia/npm-search) - 🗿 npm ↔️ Algolia replication tool :skier: :snail: :artificial_satellite:
+- [luin/npm-try](https://github.com/luin/npm-try) - 🚆 Quickly try npm packages without writing boilerplate code.
+- [uiwjs/npm-unpkg](https://github.com/uiwjs/npm-unpkg) - A web application to view npm package files, Based on unpkg.
+- [antfu/fast-npm-meta](https://github.com/antfu/fast-npm-meta) - A lightweight API server to get npm package metadata, resolve the latest versions on server, and batch multiple package resolutions in one request.
 - [gioragutt/nx-pwm](https://github.com/gioragutt/nx-pwm) - Plugin and CLI for managing nx workspaces of packages, inspired by the tooling in nrwl/nx
 - [antfu-collective/vite-ssg](https://github.com/antfu-collective/vite-ssg) - Static site generation for Vue 3 on Vite
 - [azu/create-validator-ts](https://github.com/azu/create-validator-ts) - Create JSON Schema validator from TypeScript.
@@ -9723,6 +9803,7 @@
 - [garnix-io/garn](https://github.com/garnix-io/garn) - garn is a build tool and environment manager that replaces justfiles/makefiles, docker, and the annoying parts of READMEs. The builders lingua franca.
 - [unjs/template](https://github.com/unjs/template) - 📋 UnJS Project Starter Template
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
+- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [jspm/jspm-cli](https://github.com/jspm/jspm-cli) - ES Module Package Manager
@@ -10122,7 +10203,6 @@
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
@@ -10773,6 +10853,7 @@
 
 ## Vue 
 
+- [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui
 - [compiiile/compiiile](https://github.com/compiiile/compiiile) - The most convenient way to render a folder containing markdown files. Previewing and searching markdown files has never been that easy.
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [unjs/undocs](https://github.com/unjs/undocs) - Minimal Documentation theme and CLI for shared usage across UnJS projects.
