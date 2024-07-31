@@ -42,6 +42,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [F#](#f#)
+- [Fennel](#fennel)
 - [Fortran](#fortran)
 - [GDScript](#gdscript)
 - [Gherkin](#gherkin)
@@ -120,6 +121,7 @@
 - [Twig](#twig)
 - [TypeScript](#typescript)
 - [V](#v)
+- [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
@@ -194,6 +196,17 @@
 
 ## C 
 
+- [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
+- [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
+- [acanas/swad-core](https://github.com/acanas/swad-core) - Main core for SWAD platform (Social Workspace At a Distance)
+- [creytiv/re](https://github.com/creytiv/re) - Generic library for real-time communications with async IO support
+- [CoSMoSoftware/OBS-studio-webrtc](https://github.com/CoSMoSoftware/OBS-studio-webrtc) - This is a fork of OBS-studio with generic support for webrtc. It leverages the same webrtc implementation most browsers use.
+- [sepfy/libpeer](https://github.com/sepfy/libpeer) - WebRTC Library for IoT/Embedded Device using C
+- [metartc/metaRTC](https://github.com/metartc/metaRTC) - A cross-platform webRTC SDK
+- [milzero/reStreamer](https://github.com/milzero/reStreamer) - A service for mixing and streaming media.
+- [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [cyanreg/txproto](https://github.com/cyanreg/txproto) - Scriptable multimedia sandbox. Captures, streams and records from a variety of sources.
 - [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [desktop/desktop-trampoline](https://github.com/desktop/desktop-trampoline) - A cross-platform no-dependency TCP-based trampoline for GitHub Desktop, written in C
 - [mptre/pick](https://github.com/mptre/pick) - A fuzzy search tool for the command-line
@@ -496,6 +509,8 @@
 
 ## C# # 
 
+- [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
+- [HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [rzander/ruckzuck](https://github.com/rzander/ruckzuck) - software package manager for windows
 - [microsoft/winget-create](https://github.com/microsoft/winget-create) - The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)
@@ -554,6 +569,14 @@
 
 ## C++ 
 
+- [medooze/media-server](https://github.com/medooze/media-server) - WebRTC Media Server
+- [node-webrtc/node-webrtc](https://github.com/node-webrtc/node-webrtc) - node-webrtc is a Node.js Native Addon that provides bindings to WebRTC M87
+- [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
+- [lynckia/licode](https://github.com/lynckia/licode) - Open Source Communication Provider based on WebRTC and Cloud technologies
+- [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
+- [BabitMF/bmf](https://github.com/BabitMF/bmf) - Cross-platform, customizable multimedia/video processing framework.  With strong GPU acceleration, heterogeneous design, multi-language support, easy to use, multi-framework compatible and high perfor
+- [z24/tty2gif](https://github.com/z24/tty2gif) - record your scripts into a gif
+- [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
 - [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [cfillion/reapack](https://github.com/cfillion/reapack) - 📦 Package manager for REAPER
@@ -777,6 +800,11 @@
 
 ## CSS 
 
+- [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
+- [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
+- [selkies-project/selkies-gstreamer](https://github.com/selkies-project/selkies-gstreamer) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
+- [jaipandya/gifdeck](https://github.com/jaipandya/gifdeck) - Convert your SlideShares into beautifully animated GIFs
+- [asciinema/asciicast2gif](https://github.com/asciinema/asciicast2gif) - Generate GIF animations from asciicasts (asciinema recordings)
 - [dend/awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [rezarinaldi/bexlite-template](https://github.com/rezarinaldi/bexlite-template) - ✨ It's a template for basic BEXLite Stack. It's including Bun, Elysia, HTMX, and SQLite.
@@ -910,6 +938,7 @@
 
 ## Dart 
 
+- [simonbengtsson/airdash](https://github.com/simonbengtsson/airdash) - File sharing flutter webrtc app enabling sending files to any device from anywhere
 - [verseles/xpm](https://github.com/verseles/xpm) - Universal package manager for any unix-like distro
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [felixhaeberle/hiddify-next](https://github.com/felixhaeberle/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
@@ -945,6 +974,7 @@
 
 ## Dockerfile 
 
+- [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi
 - [ravens/docker-vyos](https://github.com/ravens/docker-vyos) - VyOS inside a container.
 - [kurokobo/awx-on-k3s](https://github.com/kurokobo/awx-on-k3s) - An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords.
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
@@ -1077,6 +1107,10 @@
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [dburriss/tools-for-arch-docs-example](https://github.com/dburriss/tools-for-arch-docs-example) - An example repository of using a devcontainer to develop architecture diagrams
 
+## Fennel 
+
+- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
+
 ## Fortran 
 
 - [fortran-lang/fpm](https://github.com/fortran-lang/fpm) - Fortran Package Manager (fpm)
@@ -1099,6 +1133,19 @@
 
 ## Go 
 
+- [getantibody/antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
+- [datarhei/core](https://github.com/datarhei/core) - datarhei Core is management for FFmpeg processes without development effort. Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video proj
+- [firefart/stunner](https://github.com/firefart/stunner) - Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
+- [pion/turn](https://github.com/pion/turn) - Pion TURN, an API for building TURN clients and servers
+- [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
+- [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
+- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [tsawler/streamer](https://github.com/tsawler/streamer) - A simple package which encodes videos to web-ready format (MP4, HLS, and HLS encrypted).
+- [Aleksbgbg/streamfox](https://github.com/Aleksbgbg/streamfox) - Streamfox is an open-source video hosting and streaming service for easy video sharing.
+- [voc/srtrelay](https://github.com/voc/srtrelay) - SRT relay server for distributing media streams to multiple clients.
+- [ZeStream/zestream-server](https://github.com/ZeStream/zestream-server) - an open-sourced alternative to cloudinary [video streaming done ✅, image/audio under dev  🔨 ]
 - [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 - [cirocosta/asciinema-edit](https://github.com/cirocosta/asciinema-edit) - asciinema casts post-production tools
 - [MrMarble/termsvg](https://github.com/MrMarble/termsvg) - Record, share and export your terminal as a animated SVG image.
@@ -2245,7 +2292,7 @@
 - [sachaos/tcpterm](https://github.com/sachaos/tcpterm) - tcpterm is a packet visualizer in TUI.
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator) - Get public TCP LoadBalancers for local Kubernetes clusters
 - [udhos/goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
-- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
+- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure Reliable-UDP Library for golang with FEC
 - [bketelsen/dlx](https://github.com/bketelsen/dlx) - quick dev environments for linux using LXD.  Disposable, composable, simple.
 - [lxc/distrobuilder](https://github.com/lxc/distrobuilder) - System container image builder for LXC and Incus
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
@@ -2682,6 +2729,10 @@
 
 ## HTML 
 
+- [linuxmobile/hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄 Hyprland Cute Dotfiles
+- [w3c/webrtc-pc](https://github.com/w3c/webrtc-pc) - WebRTC 1.0 API
+- [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
+- [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) - :sunglasses: A complete list of Arch-based projects
 - [Hackalist/Hackalist.github.io](https://github.com/Hackalist/Hackalist.github.io) - A list of upcoming hackathons from around the world.
 - [arnehilmann/markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
@@ -2866,6 +2917,7 @@
 
 ## Haskell 
 
+- [lettier/gifcurry](https://github.com/lettier/gifcurry) - 😎 The open-source, Haskell-built video editor for GIF makers.
 - [cmoog/traderjoes](https://github.com/cmoog/traderjoes) - Price tracking program and website for Trader Joe's, updated daily.
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
@@ -2915,6 +2967,7 @@
 
 ## Java 
 
+- [opencast/opencast](https://github.com/opencast/opencast) - The free and open source solution for automated video capture and distribution at scale.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for grocy
@@ -3036,6 +3089,38 @@
 
 ## JavaScript 
 
+- [juanpicado/verdaccio-with-bun](https://github.com/juanpicado/verdaccio-with-bun) - Example how to run verdaccio with Bun
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Modern, feature-rich and accessible desktop configuration.
+- [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
+- [CyberAula/ediphy](https://github.com/CyberAula/ediphy) - Ediphy.  E-learning authoring tool using React + Redux + Webpack
+- [Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse) - A self-hosted SPA to simplify course creation and management
+- [unsetbit/p](https://github.com/unsetbit/p) - Peer-to-peer networking with browsers
+- [meething/meething](https://github.com/meething/meething) - dWebRTC Video Meetings MESH/SFU hybrid using GunDB, MediaSoup and Beyond!
+- [InnovateAsterisk/Browser-Phone](https://github.com/InnovateAsterisk/Browser-Phone) - A fully featured browser based WebRTC SIP phone for Asterisk
+- [AirenSoft/OvenPlayer](https://github.com/AirenSoft/OvenPlayer) - OvenPlayer is JavaScript-based LLHLS and WebRTC Player for OvenMediaEngine.
+- [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
+- [amirsanni/Video-Call-App-NodeJS](https://github.com/amirsanni/Video-Call-App-NodeJS) - A conference call implementation using WebRTC, Socket.io and Node.js
+- [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
+- [stephenlb/webrtc-sdk](https://github.com/stephenlb/webrtc-sdk) - WebRTC Simple Calling API + Mobile SDK - A simplified approach to RTCPeerConnection for mobile and web video calling apps.
+- [muaz-khan/Chrome-Extensions](https://github.com/muaz-khan/Chrome-Extensions) - WebRTC chrome extensions for screen sharing, screen recording, file sharing, youtube+audio sharing, etc.
+- [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
+- [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
+- [gitsummore/nile.js](https://github.com/gitsummore/nile.js) - Scalable peer to peer live video streaming built on torrents and webRTC
+- [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets
+- [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
+- [streamproc/MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) - Cross browser audio/video/screen recording. It supports Chrome, Firefox, Opera and Microsoft Edge. It even works on Android browsers. It follows latest MediaRecorder API standards and provides similar
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
+- [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
+- [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [physiii/open-automation](https://github.com/physiii/open-automation) - nodejs automation and media server
+- [ianhaggerty/cast-me](https://github.com/ianhaggerty/cast-me) - Automates the transcoding of screencasts and video files, by leveraging tools such as FFMPEG and chokidar.
+- [spite/ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
+- [opencast/annotation-tool](https://github.com/opencast/annotation-tool) - A video annotation service that is suitable for research, teaching and learning
+- [kbumsik/opus-media-recorder](https://github.com/kbumsik/opus-media-recorder) - MediaRecorder polyfill for Opus recording using WebAssembly
+- [presenta-software/presenta-lib](https://github.com/presenta-software/presenta-lib) - The javascript presentation library for the automation era.
+- [funbox/optimizt](https://github.com/funbox/optimizt) - CLI image optimization tool
 - [mirkokiefer/aws-lib](https://github.com/mirkokiefer/aws-lib) - Extensible Node.js library for the Amazon Web Services API
 - [impronunciable/hackdash](https://github.com/impronunciable/hackdash) - Ideas for a hackathon
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -4706,6 +4791,8 @@
 
 ## Kotlin 
 
+- [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnail
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - The app for BLE ether monitoring tracks your environment, finds some devices, makes relations between devices around you, and tracks devices' movements.
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
@@ -4724,6 +4811,9 @@
 
 ## Lua 
 
+- [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
+- [ecosse3/nvim](https://github.com/ecosse3/nvim) - A non-minimal Neovim config built to work most efficiently with Frontend Development
+- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface!
 - [sayanarijit/gh-xplr](https://github.com/sayanarijit/gh-xplr) - Explore GitHub repos using xplr via GitHub CLI
@@ -4847,6 +4937,7 @@
 
 ## Markdown 
 
+- [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
 - [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
@@ -4886,6 +4977,10 @@
 
 ## Nix 
 
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
+- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [Xe/wallpapers](https://github.com/Xe/wallpapers) - My public wallpapers for consumption by downstream projects
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
@@ -4918,6 +5013,7 @@
 
 ## Objective-C 
 
+- [jigish/slate](https://github.com/jigish/slate) - A window management application (replacement for Divvy/SizeUp/ShiftIt)
 - [specta/specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C & Cocoa
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [scrod/nv](https://github.com/scrod/nv) - Notational Velocity: modeless, mouseless Mac OS X note-taking application
@@ -4940,6 +5036,8 @@
 
 ## Others 
 
+- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
+- [ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
 - [aws-cloudformation/awesome-cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) - A curated list of resources and projects for working with AWS CloudFormation.
 - [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
@@ -5670,6 +5768,18 @@
 
 ## Python 
 
+- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+- [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
+- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
+- [whitphx/streamlit-webrtc](https://github.com/whitphx/streamlit-webrtc) - Real-time video and audio streams over the network, with Streamlit.
+- [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
+- [MajorcaDevs/dvd](https://github.com/MajorcaDevs/dvd) - Small utility to generate dvd screensaver videos or live streamings
+- [iWas-Coder/web-dl](https://github.com/iWas-Coder/web-dl) - Downloader & Decryptor for MPD Streams through CDN's using DRM technology.
+- [link89/dlna-cast](https://github.com/link89/dlna-cast) - A cross-platform command-line tool that casts screen and media file to remote DLNA device.
+- [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
+- [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
+- [ricardorodrigues-ca/zoom-recording-downloader](https://github.com/ricardorodrigues-ca/zoom-recording-downloader) - Downloads and organizes all cloud recordings from your Zoom Business account
+- [kastldratza/zoomrec](https://github.com/kastldratza/zoomrec) - Record Zoom meetings automatically in headless docker container with Python and FFmpeg
 - [aws-cloudformation/cloudformation-cli](https://github.com/aws-cloudformation/cloudformation-cli) - The CloudFormation Provider Development Toolkit allows you to author your own resource providers and modules that can be used by CloudFormation.
 - [awslabs/aws-config-rdk](https://github.com/awslabs/aws-config-rdk) - The AWS Config Rules Development Kit helps developers set up, author and test custom Config rules. It contains scripts to enable AWS Config, create a Config rule and test it with sample ConfigurationI
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -5683,7 +5793,7 @@
 - [jonfairbanks/local-rag](https://github.com/jonfairbanks/local-rag) - Ingest files for retrieval augmented generation (RAG) with open-source Large Language Models (LLMs), all without 3rd parties or sensitive data leaving your network.
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [entropy-research/Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
-- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, Phi, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Ma
+- [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, Phi, MiniCPM, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Fl
 - [valiantlynx/ollama-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 - [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
@@ -6720,6 +6830,9 @@
 
 ## Ruby 
 
+- [remi/teamocil](https://github.com/remi/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
+- [kapoorlakshya/screen-recorder](https://github.com/kapoorlakshya/screen-recorder) - A Ruby gem to video record and take screenshots of your desktop or specific application window. Works on Windows, Linux, and macOS.
+- [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - [sirupsen/zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line 📚 🔍
 - [librariesio/bibliothecary](https://github.com/librariesio/bibliothecary) - :notebook_with_decorative_cover: Libraries.io Package Manager Manifest Parsers
 - [codervault/codervault](https://github.com/codervault/codervault) - An Open Source, Self-Hosted, Snippet Manager
@@ -6814,6 +6927,12 @@
 
 ## Rust 
 
+- [jasonjmcghee/xrem](https://github.com/jasonjmcghee/xrem) - (Cross-Platform) An open source approach to locally record and enable searching everything you view on any computer.
+- [louis030195/screen-pipe](https://github.com/louis030195/screen-pipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+- [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
+- [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
+- [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
+- [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [awslabs/distill-cli](https://github.com/awslabs/distill-cli) - 
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [volks73/germ](https://github.com/volks73/germ) - An application to generate terminal session recordings without rehearsing or recording
@@ -7160,7 +7279,7 @@
 - [thangchung/webassembly-tour](https://github.com/thangchung/webassembly-tour) - ⚙️ Take you through a tour of WebAssembly (WASM targets on WASI) with wasmCloud, Krustlet, WAGI, etc. 🌟 Give it a star if you like it.
 - [cosmonic-labs/concordance](https://github.com/cosmonic-labs/concordance) - Opinionated Event Sourcing Framework based on wasmCloud
 - [cosmonic/awesome-cosmonic](https://github.com/cosmonic/awesome-cosmonic) - Examples, inspiration, and templates for your ideas. This repository also includes source code for the Examples section on https://cosmonic.com/docs/category/examples
-- [wasmCloud/wadm](https://github.com/wasmCloud/wadm) - wasmCloud Application Deployment Manager (wadm): Declarative application deployments for wasmCloud applications.
+- [wasmCloud/wadm](https://github.com/wasmCloud/wadm) - wasmCloud Application Deployment Manager (wadm) is a Wasm-native orchestrator for managing and scaling declarative wasmCloud applications.
 - [quickwit-oss/tantivy-cli](https://github.com/quickwit-oss/tantivy-cli) - 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -7236,7 +7355,7 @@
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Logs and Events with SQL/PromQL supported. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
@@ -7286,7 +7405,7 @@
 - [d-e-s-o/apcacli](https://github.com/d-e-s-o/apcacli) - A command line tool for trading stocks on Alpaca (alpaca.markets).
 - [kpcyrd/boxxy-rs](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is an open source project from the Cloud Native Computing Foundation (CNCF) that enables teams to build polyglot applications composed of reusable Wasm components and run them—resiliently an
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot Wasm apps across any cloud, K8s, or edge.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -7649,6 +7768,7 @@
 
 ## Sass 
 
+- [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
 - [RatanShreshtha/DeepThought](https://github.com/RatanShreshtha/DeepThought) - A simple blog theme focused on writing powered by Bulma and Zola.
 
 ## Scala 
@@ -7675,6 +7795,20 @@
 
 ## Shell 
 
+- [CodelyTV/dotly](https://github.com/CodelyTV/dotly) - 🌚 Modular and easy to customize dotfiles framework
+- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux & BSD
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+- [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+- [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
+- [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
+- [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
+- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
+- [lukechilds/gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
+- [pion/awesome-pion](https://github.com/pion/awesome-pion) - A curated list of awesome things related to Pion
+- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring
+- [leandromoreira/live-stream-from-desktop](https://github.com/leandromoreira/live-stream-from-desktop) - Provide guidance to test live streaming (mpeg-dash or hls) or vod from your desktop
 - [cytopia/ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [semantic-release/docker-gitbox](https://github.com/semantic-release/docker-gitbox) - Gitbox is a docker image that combines a preconfigured git  server utilizing the git smart-http service for repository access. This is complemented by an installation of gitlist. Git smart-http and gi
@@ -8453,6 +8587,9 @@
 
 ## Swift 
 
+- [AnyImageKit/AnyImageKit](https://github.com/AnyImageKit/AnyImageKit) - A toolbox for pick/edit/capture photo or video. Written in Swift.
+- [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
+- [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [Mnpn/Azayaka](https://github.com/Mnpn/Azayaka) - A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura
 - [wulkano/Aperture](https://github.com/wulkano/Aperture) - Record the screen on macOS
 - [CodeEditApp/CodeEditSourceEditor](https://github.com/CodeEditApp/CodeEditSourceEditor) - A code editor view written in Swift powered by tree-sitter.
@@ -8505,6 +8642,37 @@
 
 ## TypeScript 
 
+- [shahradelahi/node-netkit](https://github.com/shahradelahi/node-netkit) - [WIP] Awesome utilities for working with network on Linux
+- [zsmatrix62/echoo.app](https://github.com/zsmatrix62/echoo.app) - A cross-platform toolbox for developers in web and native
+- [JasonEtco/actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js
+- [graphql-compose/graphql-compose](https://github.com/graphql-compose/graphql-compose) - Toolkit for generating complex GraphQL Schemas on Node.js
+- [lenneTech/gluegun-menu](https://github.com/lenneTech/gluegun-menu) - Menu for gluegun CLIs
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
+- [MP281X/blixter](https://github.com/MP281X/blixter) - An open source streaming platform
+- [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
+- [shinyoshiaki/werift-webrtc](https://github.com/shinyoshiaki/werift-webrtc) - WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM/MP4
+- [rameshvarun/netplayjs](https://github.com/rameshvarun/netplayjs) - Make P2P multiplayer browser games, no server hosting or synchronization code required. Powered by rollback netcode + WebRTC.
+- [sinclairzx81/smoke](https://github.com/sinclairzx81/smoke) - Run Web Servers in Web Browsers over WebRTC
+- [versatica/mediasoup-client](https://github.com/versatica/mediasoup-client) - mediasoup client side JavaScript library
+- [jsxc/jsxc](https://github.com/jsxc/jsxc) - :speech_balloon: Real-time xmpp chat application with video calls, file transfer and encrypted communication.
+- [UWNetworksLab/uProxy-p2p](https://github.com/UWNetworksLab/uProxy-p2p) - Internet without borders
+- [kevinshen56714/SkyOffice](https://github.com/kevinshen56714/SkyOffice) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.
+- [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
+- [geckosio/geckos.io](https://github.com/geckosio/geckos.io) - 🦎 Real-time client/server communication over UDP using WebRTC and Node.js http://geckos.io
+- [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
+- [OpenVidu/openvidu](https://github.com/OpenVidu/openvidu) - OpenVidu Platform main repository
+- [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
+- [samuelmaddock/metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
+- [peers/peerjs-server](https://github.com/peers/peerjs-server) - Server for PeerJS
+- [toufiq-austcse/video-touch](https://github.com/toufiq-austcse/video-touch) - Video Touch is a Video Hosting & Streaming platform. In Video Touch users can easily upload, manage and stream videos on demand
+- [AtulMinz/Novacast](https://github.com/AtulMinz/Novacast) - Novacast is live streaming, browser integrated platform.
+- [100mslive/100ms-react-native](https://github.com/100mslive/100ms-react-native) - React Native Live Streaming, Video Conferencing SDK & Sample App
+- [mmomtchev/ffmpeg](https://github.com/mmomtchev/ffmpeg) - ffmpeg (w/avcpp) bindings for Node.js w/ Streams and async support
+- [StreamPot/StreamPot](https://github.com/StreamPot/StreamPot) - Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.
+- [sbondCo/Casterr](https://github.com/sbondCo/Casterr) - Screen recorder, editor and video browser with the main goal of easing the process of recording and clipping your best moments in-game.
+- [ijpiantanida/talkback](https://github.com/ijpiantanida/talkback) - A simple HTTP proxy that records and playbacks requests
+- [elan-ev/opencast-studio](https://github.com/elan-ev/opencast-studio) - Web-based recording studio for Opencast
+- [visgl/hubble.gl](https://github.com/visgl/hubble.gl) - A client-side JavaScript library for animating data visualizations and rendering videos.
 - [awslabs/generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs) - AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) - AWS plugins for Backstage
 - [awslabs/sbt-aws](https://github.com/awslabs/sbt-aws) - SaaS Builder Toolkit for AWS is a developer toolkit to implement SaaS best practices and increase developer velocity.
@@ -9096,7 +9264,7 @@
 - [expo/expo-github-action](https://github.com/expo/expo-github-action) - Expo GitHub Action makes it easy to automate EAS builds or updates
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
-- [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management
+- [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management. REST, GraphQL, SSE, Websockets
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
@@ -9695,7 +9863,7 @@
 - [thedevdavid/digital-garden](https://github.com/thedevdavid/digital-garden) - An open source blog (digital garden) template for developers
 - [pcaversaccio/hardhat-project-template-ts](https://github.com/pcaversaccio/hardhat-project-template-ts) - A fully-fledged Hardhat project template based on TypeScript.
 - [jvidalv/vital](https://github.com/jvidalv/vital) - Starter template for Vite with React (TypeScript). Supports Tailwind. Vitest and @react/testing-library configured and ready to go. Also ESLint, Prettier, Husky, Commit-lint and Atomic Design for comp
-- [kbysiec/vite-vanilla-ts-lib-starter](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - The starter is built on top of Vite 5.x and prepared for writing libraries in TypeScript. It generates a hybrid package - both support for CommonJS and ESM modules.
+- [kbysiec/vite-vanilla-ts-lib-starter](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - The starter is built on top of Vite 5.x and prepared for writing libraries in TypeScript. It generates a package with support for ESM modules and IIFE.
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) - Dashboard starter using NextUI V2 and Nextjs.
@@ -10835,6 +11003,10 @@
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [vlang/ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
 
+## Vala 
+
+- [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
+
 ## Vim Script 
 
 - [abhishekkr/dotfiles](https://github.com/abhishekkr/dotfiles) - engines for advanced usage of multiple *nix utilities
@@ -10941,6 +11113,7 @@
 
 ## XSLT 
 
+- [alfg/docker-nginx-rtmp](https://github.com/alfg/docker-nginx-rtmp) - 🐋 A Dockerfile for nginx-rtmp-module + FFmpeg from source with basic settings for streaming HLS. Built on Alpine Linux.
 - [usnistgov/OSCAL](https://github.com/usnistgov/OSCAL) - Open Security Controls Assessment Language (OSCAL)
 - [CycloneDX/specification](https://github.com/CycloneDX/specification) - OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and V
 - [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap) - NIST Certified SCAP 1.2 toolkit
