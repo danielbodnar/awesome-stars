@@ -196,6 +196,7 @@
 
 ## C 
 
+- [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [acanas/swad-core](https://github.com/acanas/swad-core) - Main core for SWAD platform (Social Workspace At a Distance)
@@ -569,6 +570,7 @@
 
 ## C++ 
 
+- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [medooze/media-server](https://github.com/medooze/media-server) - WebRTC Media Server
 - [node-webrtc/node-webrtc](https://github.com/node-webrtc/node-webrtc) - node-webrtc is a Node.js Native Addon that provides bindings to WebRTC M87
 - [mpromonet/webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
@@ -596,7 +598,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) - Stay happy while offline | World's first offline search engine.
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.3: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
@@ -800,6 +802,8 @@
 
 ## CSS 
 
+- [orta/playground-slides](https://github.com/orta/playground-slides) - Make presentations in the TypeScript playground
+- [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
 - [selkies-project/selkies-gstreamer](https://github.com/selkies-project/selkies-gstreamer) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
@@ -892,6 +896,7 @@
 
 ## CodeQL 
 
+- [trailofbits/codeql-queries](https://github.com/trailofbits/codeql-queries) - CodeQL queries developed by Trail of Bits
 - [github/vscode-codeql-starter](https://github.com/github/vscode-codeql-starter) - Starter workspace to use with the CodeQL extension for Visual Studio Code.
 
 ## CoffeeScript 
@@ -1133,6 +1138,13 @@
 
 ## Go 
 
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [trailofbits/semgrep-rules](https://github.com/trailofbits/semgrep-rules) - Semgrep queries developed by Trail of Bits.
+- [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+- [turbot/steampipe-plugin-aws](https://github.com/turbot/steampipe-plugin-aws) - Use SQL to instantly query AWS resources across regions and accounts. Open source CLI. No DB required.
+- [rogerwelin/cfnctl](https://github.com/rogerwelin/cfnctl) - Cfnctl brings the Terraform cli experience to AWS Cloudformation :cloud:
+- [bridgecrewio/yor](https://github.com/bridgecrewio/yor) - Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.
+- [awslabs/goformation](https://github.com/awslabs/goformation) - GoFormation is a Go library for working with CloudFormation templates.
 - [getantibody/antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
 - [datarhei/core](https://github.com/datarhei/core) - datarhei Core is management for FFmpeg processes without development effort. Whether your streaming has one viewer or a million, we have the tools to help you develop, deploy and manage any video proj
 - [firefart/stunner](https://github.com/firefart/stunner) - Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
@@ -2693,6 +2705,7 @@
 
 ## HCL 
 
+- [trussworks/terraform-aws-config](https://github.com/trussworks/terraform-aws-config) - Enables AWS Config and adds managed config rules with good defaults.
 - [tedilabs/terraform-aws-organization](https://github.com/tedilabs/terraform-aws-organization) - 🌳 A sustainable Terraform Package to manage Organization resources on AWS
 - [markthebault/transit-vpc-aws-vyos](https://github.com/markthebault/transit-vpc-aws-vyos) - Simple transit VPC example on AWS using vyos instances
 - [maddevsio/aws-eks-base](https://github.com/maddevsio/aws-eks-base) - This boilerplate contains terraform configurations for the rapid deployment of a Kubernetes cluster, supporting services, and the underlying infrastructure in AWS.
@@ -2729,6 +2742,8 @@
 
 ## HTML 
 
+- [strenkel/jshero](https://github.com/strenkel/jshero) - JS Hero - Learn to code: JavaScript online tutorial with interactive exercises
+- [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [linuxmobile/hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄 Hyprland Cute Dotfiles
 - [w3c/webrtc-pc](https://github.com/w3c/webrtc-pc) - WebRTC 1.0 API
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
@@ -2967,6 +2982,7 @@
 
 ## Java 
 
+- [Netflix/archaius](https://github.com/Netflix/archaius) - Library for configuration management API
 - [opencast/opencast](https://github.com/opencast/opencast) - The free and open source solution for automated video capture and distribution at scale.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
@@ -3089,6 +3105,16 @@
 
 ## JavaScript 
 
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [4GeeksAcademy/git-interactive-tutorial](https://github.com/4GeeksAcademy/git-interactive-tutorial) - Learning git can be hard without the right tutorial, hopefully this guided tour will point you in the right direction.
+- [Labs64/GuideChimp](https://github.com/Labs64/GuideChimp) - Create interactive guided product tours in minutes with the most non-technical friendly, lightweight and extendable library.
+- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
+- [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+- [JS-DevTools/version-bump-prompt](https://github.com/JS-DevTools/version-bump-prompt) - Interactive CLI that bumps your version numbers and more
+- [muravjev/configs](https://github.com/muravjev/configs) - Config for monorepo with pnpm + eslint + prettier + husky + lintstaged + commitlint + changesets
+- [natemoo-re/proload](https://github.com/natemoo-re/proload) - Searches for and loads your tool's JavaScript configuration files with full support for CJS, ESM, TypeScript and more.
+- [humanmade/cf-to-tf](https://github.com/humanmade/cf-to-tf) - CLI tool for generating Terraform configuration and state for existing CloudFormation resources
+- [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 - [juanpicado/verdaccio-with-bun](https://github.com/juanpicado/verdaccio-with-bun) - Example how to run verdaccio with Bun
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Modern, feature-rich and accessible desktop configuration.
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
@@ -3348,7 +3374,6 @@
 - [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node
 - [instant-dev/api](https://github.com/instant-dev/api) - Instant API: Build type-safe web APIs with JavaScript
 - [instant-dev/instant](https://github.com/instant-dev/instant) - JavaScript API framework with ORM, migrations and vectors
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [shridhar-tl/jira-assistant](https://github.com/shridhar-tl/jira-assistant) - Repository containing source code of Jira Assistant browser extension. This is also used to track bugs related to the extension.
 - [danielbayerlein/dashboard](https://github.com/danielbayerlein/dashboard) - 📺 Create your own team dashboard with custom widgets. Built with Next.js, React, styled-components and polished.
 - [conventional-changelog/conventional-changelog-config-spec](https://github.com/conventional-changelog/conventional-changelog-config-spec) - a spec describing the config options supported by conventional-config for upstream tooling
@@ -4709,6 +4734,7 @@
 
 ## Jupyter Notebook 
 
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 - [manimino/semantle-crab](https://github.com/manimino/semantle-crab) - Solve Semantle in 4 moves via giant enemy crab
 - [Santosh-Gupta/Lit2Vec](https://github.com/Santosh-Gupta/Lit2Vec) - Representing Books as vectors using the Word2Vec algorithm
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
@@ -4876,6 +4902,7 @@
 
 ## Makefile 
 
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. On premise.
 - [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collection of some awesome public Zig programming language projects.
 - [registry-operator/registry-operator](https://github.com/registry-operator/registry-operator) - Operator for CNCF Distribution Registry 📦
 - [aws/eks-anywhere-build-tooling](https://github.com/aws/eks-anywhere-build-tooling) - Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere
@@ -4937,6 +4964,7 @@
 
 ## Markdown 
 
+- [nsriram/lambda-the-cli-way](https://github.com/nsriram/lambda-the-cli-way) - AWS Lambda using CLI, an introductory cookbook
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [adr/madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
@@ -5036,6 +5064,12 @@
 
 ## Others 
 
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
+- [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
+- [antonio-morales/Fuzzing101](https://github.com/antonio-morales/Fuzzing101) - An step by step fuzzing tutorial. A GitHub Security Lab initiative
+- [kevinslin/open-cdk](https://github.com/kevinslin/open-cdk) - This guide is an opinionated set of tips and best practices for working with the AWS Cloud Development Kit
+- [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
+- [org-formation/org-formation-reference](https://github.com/org-formation/org-formation-reference) - A reference architecture which aims to provide some best practices for any AWS Organization starting out using org-formation.
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
 - [aws-cloudformation/awesome-cloudformation](https://github.com/aws-cloudformation/awesome-cloudformation) - A curated list of resources and projects for working with AWS CloudFormation.
@@ -5768,6 +5802,19 @@
 
 ## Python 
 
+- [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
+- [pythonecuador/lira](https://github.com/pythonecuador/lira) - Interactive tutorials in your terminal 📖 🐍
+- [trailofbits/publications](https://github.com/trailofbits/publications) - Publications from Trail of Bits
+- [trek10inc/awsume](https://github.com/trek10inc/awsume) - A utility for easily assuming AWS IAM roles from the command line.
+- [kyhau/saml2aws-multi](https://github.com/kyhau/saml2aws-multi) - An easy-to-use command line interface to support login and retrieve AWS temporary credentials for multiple roles of different accounts with saml2aws.
+- [kyhau/aws-tools](https://github.com/kyhau/aws-tools) - Some of my tools and sample code for building with AWS.
+- [oguzhan-yilmaz/balcony](https://github.com/oguzhan-yilmaz/balcony) - A CLI tool for easy AWS API reads. Also generates Terraform import-blocks, and actual Terraform Resource code.
+- [Skyscanner/cfripper](https://github.com/Skyscanner/cfripper) - Library and CLI tool for analysing CloudFormation templates and check them for security compliance.
+- [cloudtools/stacker](https://github.com/cloudtools/stacker) - An AWS CloudFormation Stack orchestrator/manager.
+- [aws-samples/startup-kit-templates](https://github.com/aws-samples/startup-kit-templates) - CloudFormation templates to accelerate getting started on AWS.
+- [benkehoe/aws-sso-util](https://github.com/benkehoe/aws-sso-util) - Smooth out the rough edges of AWS SSO (temporarily, until AWS makes it better).
+- [aws-ia/taskcat](https://github.com/aws-ia/taskcat) - Test all the CloudFormation things! (with TaskCat)
+- [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint) - CloudFormation Linter
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
@@ -5838,7 +5885,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Hironsan/bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
-- [QuentinWach/obsidian_ai](https://github.com/QuentinWach/obsidian_ai) - 🔮✍🏻 Automatically organize and augment the quality of your obsidian.md notes with OpenAI's GPT3.
+- [QuentinWach/obsidian_ai](https://github.com/QuentinWach/obsidian_ai) - 🔮✍🏻 Automatically organize, analyze, and augment the quality of your obsidian.md notes with OpenAI's GPT3.
 - [ThilinaRajapakse/simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Information Retrieval, Text Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
@@ -6321,7 +6368,7 @@
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [lilianweng/stock-rnn](https://github.com/lilianweng/stock-rnn) - Predict stock market prices using RNN model with multilayer LSTM cells + optional multi-stock embeddings.
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [neuml/paperai](https://github.com/neuml/paperai) - 📄 🤖 Semantic search and workflows for medical/scientific papers
 - [nomic-ai/gpt4all-datalake](https://github.com/nomic-ai/gpt4all-datalake) - API to the GPT4All Datalake
 - [unum-cloud/uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
@@ -6830,6 +6877,7 @@
 
 ## Ruby 
 
+- [envato/stack_master](https://github.com/envato/stack_master) - The missing CloudFormation tool
 - [remi/teamocil](https://github.com/remi/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
 - [kapoorlakshya/screen-recorder](https://github.com/kapoorlakshya/screen-recorder) - A Ruby gem to video record and take screenshots of your desktop or specific application window. Works on Windows, Linux, and macOS.
 - [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
@@ -6982,7 +7030,7 @@
 - [mdn/rumba](https://github.com/mdn/rumba) - The clean kuma (🤖🧹)
 - [izihawa/summa](https://github.com/izihawa/summa) - Full-text IPFS-friendly and WASM-compatible Search in Rust
 - [minio/minsql](https://github.com/minio/minsql) - High-performance log search engine.
-- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for building search, recommendations, and RAG. Trieve combines search language models with tools for tuning ranking and relevance.
+- [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one infrastructure for search, recommendations, RAG, and analytics offered via API
 - [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild's command line program that builds custom Fedora Atomic images based on your recipe.yml
 - [hatoo/cargo-snippet](https://github.com/hatoo/cargo-snippet) - A snippet extrator for competitive programmers
 - [mozilla/dogear](https://github.com/mozilla/dogear) - Firefox Sync's bookmark tree merging algorithm. 📚
@@ -7487,7 +7535,7 @@
 - [samuela/rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
@@ -7795,6 +7843,10 @@
 
 ## Shell 
 
+- [aws-samples/jenkins-cloudformation-deployment-example](https://github.com/aws-samples/jenkins-cloudformation-deployment-example) - 
+- [stacksimplify/aws-cloudformation-simplified](https://github.com/stacksimplify/aws-cloudformation-simplified) - AWS CloudFormation - Simplified | Hands On Learning !!
+- [cfn-modules/docs](https://github.com/cfn-modules/docs) - Rapid CloudFormation: Modular, production ready, open source.
+- [stelligent/cloudformation_templates](https://github.com/stelligent/cloudformation_templates) - AWS - CloudFormation Templates
 - [CodelyTV/dotly](https://github.com/CodelyTV/dotly) - 🌚 Modular and easy to customize dotfiles framework
 - [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux & BSD
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
@@ -8587,6 +8639,7 @@
 
 ## Swift 
 
+- [ephread/Instructions](https://github.com/ephread/Instructions) - Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.
 - [AnyImageKit/AnyImageKit](https://github.com/AnyImageKit/AnyImageKit) - A toolbox for pick/edit/capture photo or video. Written in Swift.
 - [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
@@ -8642,6 +8695,62 @@
 
 ## TypeScript 
 
+- [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
+- [ton-connect/sdk](https://github.com/ton-connect/sdk) - SDK for TON Connect 2.0 — a comprehensive communication protocol between wallets and apps in TON ecosystem
+- [SavjeeTutorials/typescript-design-patterns](https://github.com/SavjeeTutorials/typescript-design-patterns) - Common OO design patterns implemented in TypeScript
+- [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit) - TutorialKit by StackBlitz - Create interactive tutorials powered by the WebContainer API
+- [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
+- [dotnet/try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
+- [mohebifar/react-native-copilot](https://github.com/mohebifar/react-native-copilot) - Step-by-step walkthrough tooltip for your react native app
+- [RBND-studio/flows-cloud](https://github.com/RBND-studio/flows-cloud) - User onboarding for modern SaaS – Flows lets you build any onboarding you want. Guide users, increase feature adoption, and improve revenue.
+- [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library for creating user tours and on-boarding steps for your apps.
+- [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
+- [josias-r/boarding.js](https://github.com/josias-r/boarding.js) - A light-weight, no-dependency, vanilla JavaScript engine to create powerful onboardings and drive the user's focus across the page
+- [williamtroup/Journey.js](https://github.com/williamtroup/Journey.js) - 🚶 A lightweight, easy-to-use JavaScript library to create interactive, customizable, accessible guided tours across your websites or web apps!
+- [tnicola/ngx-joyride](https://github.com/tnicola/ngx-joyride) - Angular Joyride/Tour library
+- [lusift/lusift](https://github.com/lusift/lusift) - Javascript library to create product walkthroughs for your web app. Drive users through the different features of your product.
+- [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow for Next.js powered by framer motion
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [qq15725/modern-gif](https://github.com/qq15725/modern-gif) - 🚀 JavaScript GIF Codec.
+- [fullstacksjs/config](https://github.com/fullstacksjs/config) - Configuration manager
+- [geprog/vite-plugin-env-config](https://github.com/geprog/vite-plugin-env-config) - Vite Plugin for providing config from environment variables at runtime
+- [ozhanefemeral/visual-ts](https://github.com/ozhanefemeral/visual-ts) - Generate React & TypeScript code visually.
+- [mob-on/aws-cdk-config](https://github.com/mob-on/aws-cdk-config) - A simple library to manage environment-specific AWS CDK config
+- [lvthillo/cdk-cf-drift-detector](https://github.com/lvthillo/cdk-cf-drift-detector) - Solution to detect CloudFormation drift using AWS Config and warn you using AWS ChatBot
+- [mhweiner/lambdaconf](https://github.com/mhweiner/lambdaconf) - A small, yet powerful typed and structured config library with lambda support for things like AWS Secrets Manager. Written in Typescript.
+- [brettswift/cdk-git-config](https://github.com/brettswift/cdk-git-config) - Store configs from a git directory in AWS
+- [leheriss/aws-platform](https://github.com/leheriss/aws-platform) - Comprehensive AWS management solution integrating account factory, AWS Identity Center, Logging, Organizations & SCP, security tools like AWS Config & VPN, financial ops.
+- [chiefbiiko/get-aws-config](https://github.com/chiefbiiko/get-aws-config) - derive aws config & creds
+- [dsmrt/axiom](https://github.com/dsmrt/axiom) - An AWS focused config manager
+- [NorteX-dev/nconfig](https://github.com/NorteX-dev/nconfig) - A standardized way to write type-safe, validated configs.
+- [CorentinTh/figue](https://github.com/CorentinTh/figue) - Configuration management library, like convict but with zod
+- [neofinancial/config-dug](https://github.com/neofinancial/config-dug) - Config loader with support for AWS Secrets Manager
+- [cloydlau/vue-global-config](https://github.com/cloydlau/vue-global-config) - Configure your Vue 2.6/2.7/3 components globally! (Global Props + Attrs + Listeners + Hooks + Slots)
+- [willsoto/node-konfig](https://github.com/willsoto/node-konfig) - Node.js configuration management library
+- [AckeeCZ/configuru](https://github.com/AckeeCZ/configuru) - Multiple-environment configuration manager
+- [lukecarr/c9h](https://github.com/lukecarr/c9h) - 🐍 Zero-config config for Node.js
+- [ulivz/load-config-ts](https://github.com/ulivz/load-config-ts) - An out-of-the-box config loader with TypeScript support.
+- [dennzimm/npmrc-replace-env](https://github.com/dennzimm/npmrc-replace-env) - A utility for generating .npmrc files based on configuration template and environment variables.
+- [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - Full-stack configuration & secrets. Batteries included.
+- [shahradelahi/node-wireguard](https://github.com/shahradelahi/node-wireguard) - 
+- [waldronmatt/groundwork](https://github.com/waldronmatt/groundwork) - A curated collection of boilerplate projects and reusable configurations
+- [azu/rc-config-loader](https://github.com/azu/rc-config-loader) - Load config from .{product}rc.{json,yml,js} file
+- [rehanvdm/cdk-multi-environment](https://github.com/rehanvdm/cdk-multi-environment) - In this post I will explore 4 different methods that can be used to pass configuration values to the AWS CDK. We will first look at using the context variables in the cdk.json file, then move those sa
+- [yatki/read-env](https://github.com/yatki/read-env) - 🔧 Transform environment variables into JSON object with sanitized values.
+- [sxzz/eslint-config](https://github.com/sxzz/eslint-config) - An ESLint config preset.
+- [expo/vscode-expo](https://github.com/expo/vscode-expo) - Expo Tools keep you productive with debugging, IntelliSense, and prebuild previews
+- [fogfish/aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - Purely Functional and high-order cloud components with AWS CDK
+- [wulfmann/auto-cdk](https://github.com/wulfmann/auto-cdk) - Effortless APIs with CDK
+- [srihariph/cdk-iam-generator](https://github.com/srihariph/cdk-iam-generator) - This CDK Construct helps create IAM Managed Policies and IAM Roles using JSON Configuration
+- [neofinancial/awsx](https://github.com/neofinancial/awsx) - AWS CLI profile switcher with MFA and Assume Role support
+- [ryansonshine/aws-sso-creds-helper](https://github.com/ryansonshine/aws-sso-creds-helper) - A command line util for using SSO credentials with AWS SDK on AWS CLI v2 until native support is released
+- [aws-samples/aws-cdk-project-template-for-devops](https://github.com/aws-samples/aws-cdk-project-template-for-devops) - This repository provides best practices and template framework for developing AWS Cloud Development Kit(CDK)-based applications effectively, quickly and collaboratively.
+- [TastefulElk/iam-legend](https://github.com/TastefulElk/iam-legend) - IAM policy actions autocomplete, documentation & wildcard resolution for VS Code
+- [bright/cloudform](https://github.com/bright/cloudform) - TypeScript-based imperative way to define AWS CloudFormation templates
+- [aws/aws-toolkit-azure-devops](https://github.com/aws/aws-toolkit-azure-devops) - AWS Toolkit for Azure DevOps
+- [aws-actions/aws-cloudformation-github-deploy](https://github.com/aws-actions/aws-cloudformation-github-deploy) - Deploys AWS CloudFormation Stacks
+- [cdk-patterns/serverless](https://github.com/cdk-patterns/serverless) - This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use. All patterns come in Typescript and Python with the exported Clo
 - [shahradelahi/node-netkit](https://github.com/shahradelahi/node-netkit) - [WIP] Awesome utilities for working with network on Linux
 - [zsmatrix62/echoo.app](https://github.com/zsmatrix62/echoo.app) - A cross-platform toolbox for developers in web and native
 - [JasonEtco/actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js
@@ -9143,14 +9252,14 @@
 - [bitkit-sh/buildkit](https://github.com/bitkit-sh/buildkit) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
-- [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl) - Low-code ETL for structured and unstructured data. Generates Python code you can deploy anywhere.
+- [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl) - Python-based Low-code ETL. Generates Python code you can deploy anywhere.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [Dhravya/markdowner](https://github.com/Dhravya/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management
 - [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [wvit/web-document](https://github.com/wvit/web-document) - A browser extension for saving web documents locally, allowing you to access them offline and quickly search for webpage content without an internet connection, while also saving browser memory usage.
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
-- [RSSNext/follow](https://github.com/RSSNext/follow) - [WIP] Next generation information browser
+- [RSSNext/follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
 - [weijunext/landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) - A versatile landing page boilerplate, ideal for various projects and marketing campaigns.
 - [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt on CloudFlare, with zero configuration.
 - [dubinc/oss-gallery](https://github.com/dubinc/oss-gallery) - A crowdsourced list of the best open-source projects on the internet. Built with the Dub TypeScript SDK.
@@ -9354,6 +9463,7 @@
 - [panva/oauth4webapi](https://github.com/panva/oauth4webapi) - OAuth 2 / OpenID Connect for JavaScript Runtimes
 - [okikio/bundlejs](https://github.com/okikio/bundlejs) - An online tool to quickly bundle & minify your projects, while viewing the compressed gzip/brotli bundle size, all running locally on your browser.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [ccntrq/git-jira-branch](https://github.com/ccntrq/git-jira-branch) - Manage branches for your Jira tickets
 - [ClearTax/jira-lint](https://github.com/ClearTax/jira-lint) - A light-weight lint workflow when using GitHub along with JIRA for project management
@@ -10264,7 +10374,7 @@
 - [codemodsquad/astx](https://github.com/codemodsquad/astx) - Super powerful structural search and replace for JavaScript and TypeScript to automate your refactoring
 - [reworkd/extension](https://github.com/reworkd/extension) - AI powered writing assistant extension - Nw Hacks 2023 Finalist🎉
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts and VineJS
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
@@ -11025,6 +11135,7 @@
 
 ## Vue 
 
+- [pulsardev/vue-tour](https://github.com/pulsardev/vue-tour) - Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.
 - [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui
 - [compiiile/compiiile](https://github.com/compiiile/compiiile) - The most convenient way to render a folder containing markdown files. Previewing and searching markdown files has never been that easy.
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
