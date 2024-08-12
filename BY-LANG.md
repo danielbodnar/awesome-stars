@@ -1709,7 +1709,6 @@
 - [crumbhole/argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) - A plugin to make Argo CD behave like we'd like.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [mdreizin/chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [solo-io/wasm](https://github.com/solo-io/wasm) - Web Assembly tools and SDKs for extending cloud-native infrastructure
@@ -5425,7 +5424,7 @@
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 - [google/devops-governance](https://github.com/google/devops-governance) - A CI/CD Approach & Framework for infrastructure that can be used in governance heavy organizations and is intended to give the developers as much autonomy as possible to do their work following DevOps
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
-- [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the GitOps Working Group which are versioned and released together (including the GitOps Principles and Glossary)
+- [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the OpenGitOps project which are versioned and released together (including the GitOps Principles and Glossary)
 - [tailscale/security-policies](https://github.com/tailscale/security-policies) - Security policies for Tailscale
 - [paseto-standard/paseto-spec](https://github.com/paseto-standard/paseto-spec) - Specification for Platform Agnostic SEcurity TOkens (PASETO)
 - [opendatadiscovery/opendatadiscovery-specification](https://github.com/opendatadiscovery/opendatadiscovery-specification) - ODD Specification is a universal open standard for collecting metadata.
@@ -10675,6 +10674,7 @@
 - [kharvd/build-a-la-carte-ts](https://github.com/kharvd/build-a-la-carte-ts) - Build Systems à la carte in TypeScript
 - [RobinMalfait/event-source](https://github.com/RobinMalfait/event-source) - A node library for writing event sourced applications
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
