@@ -258,6 +258,7 @@
 - [AgentD/squashfs-tools-ng](https://github.com/AgentD/squashfs-tools-ng) - A new set of tools and libraries for working with SquashFS images
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [actonlang/acton](https://github.com/actonlang/acton) - The Acton Programming Language
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [ihucos/plash](https://github.com/ihucos/plash) - Build and run layered root filesystems.
 - [clibs/clib](https://github.com/clibs/clib) - Package manager for the C programming language.
@@ -1362,6 +1363,7 @@
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) - Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be 
 - [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Vulnerability scanning just got lazier
 - [SpectralOps/netz](https://github.com/SpectralOps/netz) - Discover internet-wide misconfigurations while drinking coffee
+- [openclarity/openclarity](https://github.com/openclarity/openclarity) - OpenClarity is an open source tool built to enhance security and observability of cloud native applications and infrastructure
 - [ZupIT/horusec](https://github.com/ZupIT/horusec) - Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.
 - [jaeles-project/jaeles](https://github.com/jaeles-project/jaeles) - The Swiss Army knife for automated Web Application Testing
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make
@@ -1846,7 +1848,7 @@
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [cue-sh/stax](https://github.com/cue-sh/stax) - 
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
 - [carvel-dev/kapp-controller](https://github.com/carvel-dev/kapp-controller) - Continuous delivery and package management for Kubernetes.
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Dependency Management tool
 - [loft-sh/loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode
@@ -2172,7 +2174,7 @@
 - [minio/mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters :cloud:
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) - cloud-native distributed storage
 - [innobead/kubefire](https://github.com/innobead/kubefire) - KubeFire 🔥, creates and manages Kubernetes Clusters using Firecracker microVMs
@@ -3048,7 +3050,7 @@
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
 - [AthenZ/athenz](https://github.com/AthenZ/athenz) - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authoriz
 - [authorjapps/zerocode](https://github.com/authorjapps/zerocode) - A community-developed, free, opensource, automated testing framework for microservices APIs, Kafka(Data Streams) and Load testing. Zerocode Open Source enables you to create, change and maintain your 
-- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the polymorphic database powered by types
+- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: one giant leap for databases
 - [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
 - [testcontainers/tc-guide-simple-local-development-with-testcontainers-desktop](https://github.com/testcontainers/tc-guide-simple-local-development-with-testcontainers-desktop) - Simple local development with Testcontainers Desktop guide
 - [adr/e-adr](https://github.com/adr/e-adr) - Architectural Decisions Records embedded in Java code
@@ -3186,7 +3188,7 @@
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [physiii/open-automation](https://github.com/physiii/open-automation) - nodejs automation and media server
 - [ianhaggerty/cast-me](https://github.com/ianhaggerty/cast-me) - Automates the transcoding of screencasts and video files, by leveraging tools such as FFMPEG and chokidar.
 - [spite/ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
@@ -4821,7 +4823,7 @@
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
-- [psychic-api/doctran](https://github.com/psychic-api/doctran) - 
+- [finic-ai/doctran](https://github.com/finic-ai/doctran) - 
 - [AnacletoLAB/grape](https://github.com/AnacletoLAB/grape) - 🍇 GRAPE is a Rust/Python Graph Representation Learning library for Predictions and Evaluations
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [csho33/bacteria-ID](https://github.com/csho33/bacteria-ID) - Source code and demos for "Rapid identification of pathogenic bacteria using Raman spectroscopy and deep learning"
@@ -4868,7 +4870,7 @@
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [Semper-Viventem/MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - The app for BLE ether monitoring tracks your environment, finds some devices, makes relations between devices around you, and tracks devices' movements.
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
-- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
+- [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [AdevintaSpain/Barista](https://github.com/AdevintaSpain/Barista) - :coffee: The one who serves a great Espresso
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
 - [arunkumar9t2/scabbard](https://github.com/arunkumar9t2/scabbard) - 🗡 A tool to visualize Dagger 2 dependency graphs
@@ -5226,7 +5228,6 @@
 - [fastaddons/GroupSpeedDial](https://github.com/fastaddons/GroupSpeedDial) - This repository is for tracking bugs and documentation only
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
-- [openclarity/openclarity](https://github.com/openclarity/openclarity) - 
 - [liatrio-chef/hygieia-dev-baked](https://github.com/liatrio-chef/hygieia-dev-baked) - A baked vagrant box that spins up a pipeline consisting of archiva, github, sonarqube, jenkins, tomcat, selenium, and hygieia.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
@@ -5281,7 +5282,6 @@
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [WeMakeDevs/roadmaps](https://github.com/WeMakeDevs/roadmaps) - This repository contains the list of communities and job portals you can join and apply to.
 - [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of full time roles in SWE, Quant, and PM for new grads.
 - [ZoranPandovski/awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - 🚀 A curated list of awesome testing tools 🚀
 - [andredesousa/devops-best-practices](https://github.com/andredesousa/devops-best-practices) - This is a guideline of best practices about DevOps.
@@ -5759,7 +5759,7 @@
 
 ## PLpgSQL 
 
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [cybertec-postgresql/pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard
 
 ## Pascal 
@@ -7532,7 +7532,7 @@
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL query engine for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Pos
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Postg
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -10641,7 +10641,7 @@
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+- [finic-ai/psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
@@ -11353,7 +11353,7 @@
 - [motla/vue-document-editor](https://github.com/motla/vue-document-editor) - :page_facing_up: Paper-sized WYSIWYG document editor for Vue apps
 - [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern Vue admin panel built with Vue 3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [budgetzero/budgetzero](https://github.com/budgetzero/budgetzero) - Open-source, self-hosted, zero-based budgeting.
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)
