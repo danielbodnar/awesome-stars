@@ -8,6 +8,7 @@
 - [ANTLR](#antlr)
 - [ASL](#asl)
 - [Ada](#ada)
+- [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
@@ -148,10 +149,14 @@
 - [pyjarrett/septum](https://github.com/pyjarrett/septum) - Context-based code search tool
 - [alire-project/alire](https://github.com/alire-project/alire) - Command-line tool from the Alire project and supporting library
 
+## AppleScript 
+
+- [tedmiston/tab-transporter](https://github.com/tedmiston/tab-transporter) - Bulk move tabs across browsers on macOS
+
 ## Assembly 
 
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
 ## Astro 
@@ -573,6 +578,7 @@
 
 ## C++ 
 
+- [jjensn/CVE-2024-36877](https://github.com/jjensn/CVE-2024-36877) - Exploit POC for CVE-2024-36877
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [Duckonaut/hyprload](https://github.com/Duckonaut/hyprload) - A Hyprland plugin manager
 - [elfmz/far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
@@ -610,7 +616,7 @@
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor with LLM wingman.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [mozilla-mobile/mozilla-vpn-client](https://github.com/mozilla-mobile/mozilla-vpn-client) - A fast, secure and easy to use VPN. Built by the makers of Firefox.
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
@@ -1526,6 +1532,7 @@
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
+- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
 - [cyberark/kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet
 - [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) - OCI Distribution Specification
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging
@@ -1806,7 +1813,7 @@
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
 - [schemahero/schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
-- [daguflow/dagu](https://github.com/daguflow/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [daguflow/dagu](https://github.com/daguflow/dagu) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
 - [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps.
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
@@ -2191,7 +2198,7 @@
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event-driven applications.
+- [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Platform for building distributed systems with automated infrastructure.
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -2449,7 +2456,7 @@
 - [nanopack/mist](https://github.com/nanopack/mist) - A distributed, tag-based pub-sub service for modern web applications and container-driven cloud.
 - [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [nanovms/ops](https://github.com/nanovms/ops) - ops - build and run nanos unikernels
 - [someone1/zfsbackup-go](https://github.com/someone1/zfsbackup-go) - Backup ZFS snapshots to cloud storage such as Google, Amazon, Azure, etc. Built with the enterprise in mind.
 - [prbinu/zcretshare](https://github.com/prbinu/zcretshare) - A command-line tool for sharing secret/key materials between two (or more) users using SSH keys
@@ -2688,7 +2695,7 @@
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [yahoo/gryffin](https://github.com/yahoo/gryffin) - Gryffin is a large scale web security scanning platform.
 - [crosbymichael/slex](https://github.com/crosbymichael/slex) - SSH multiplex
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 
 ## Groovy 
 
@@ -2735,7 +2742,7 @@
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [codeaprendiz/learn_devops](https://github.com/codeaprendiz/learn_devops) - I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts 
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
-- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - 100+ DevOps Code & Config templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, P
 - [trussworks/terraform-layout-example](https://github.com/trussworks/terraform-layout-example) - Example of a Truss Terraform project
 - [hrshmistry/Cloud-Automation-Terraform](https://github.com/hrshmistry/Cloud-Automation-Terraform) - End To End AWS Cloud Infrastructure Automation Through Terraform by HashiCorp
 - [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem
@@ -3126,6 +3133,13 @@
 
 ## JavaScript 
 
+- [raphaelsalaja/unite](https://github.com/raphaelsalaja/unite) - Unites all the functions and actions you would ever need 🔗
+- [osdc/TabuRei](https://github.com/osdc/TabuRei) - Cross Browser Extension to manage your tabs
+- [pramjeet/peek-a-tab](https://github.com/pramjeet/peek-a-tab) - Search, preview, jump across, and close tabs quickly in your chrome browser
+- [ardcore/chrome-better-bookmark](https://github.com/ardcore/chrome-better-bookmark) - Chrome Extension that lets you easily add bookmarks to any category. Includes spotlight-like search with mouse/keyboard support.
+- [gorse-io/gitrec](https://github.com/gorse-io/gitrec) - A recommender system for GitHub repositories based on Gorse
+- [DaniloNovakovic/chrome-dynamic-bookmarks](https://github.com/DaniloNovakovic/chrome-dynamic-bookmarks) - Chrome extension which dynamically updates bookmarks according to given regular expressions (w/ bookmark manager) 📚
+- [jsfiddle/togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [DanielBodnar/github-stars-manager](https://github.com/DanielBodnar/github-stars-manager) - Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created
 - [DanielBodnar/github-stars-tagger](https://github.com/DanielBodnar/github-stars-tagger) - A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
 - [DanielBodnar/sorted-firefox](https://github.com/DanielBodnar/sorted-firefox) - Webextension for Mozilla Firefox. The fastest and easiest way to organize your bookmarks.
@@ -3451,7 +3465,6 @@
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [storybookjs/lazy-universal-dotenv](https://github.com/storybookjs/lazy-universal-dotenv) - Robust Environment Configuration for Universal Applications.
 - [rooseveltframework/source-configs](https://github.com/rooseveltframework/source-configs) - 🎛 Provides structure to define app-level configuration schemas and automatically consume values via multiple sources in Node.js applications.
-- [vuepress/configs](https://github.com/vuepress/configs) - Config files for VuePress Organization
 - [mmkal/eslint-plugin-wrapper](https://github.com/mmkal/eslint-plugin-wrapper) - Write project-specific rules, in your own eslint config file.
 - [StackExchange/stacks-utils](https://github.com/StackExchange/stacks-utils) - A monorepo containing a collection of Stacks config files and other utilities
 - [GoSome/fileUpdater](https://github.com/GoSome/fileUpdater) - A WEB EDITOR FOR update linux config files with hook
@@ -5070,7 +5083,6 @@
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [glotcode/glot-images](https://github.com/glotcode/glot-images) - 
 - [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
-- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [justinwoo/easy-dhall-nix](https://github.com/justinwoo/easy-dhall-nix) - Derivations for easily downloading Dhall binaries and putting them to use.
 - [jmgilman/nix-cue](https://github.com/jmgilman/nix-cue) - Validate and generate configuration files using Nix and Cue
@@ -5118,6 +5130,9 @@
 
 ## Others 
 
+- [nyxgeek/track_the_planet](https://github.com/nyxgeek/track_the_planet) - DEFCON 31
+- [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
+- [onhexgroup/Conferences](https://github.com/onhexgroup/Conferences) - Conference presentation slides
 - [DanielBodnar/wayland-desktop-container](https://github.com/DanielBodnar/wayland-desktop-container) - How to set up your nested Wayland Desktop Environment with systemd-nspawn container, like VirtualBox
 - [roeib/JavaScript-snippets](https://github.com/roeib/JavaScript-snippets) - Short JavaScript code snippets
 - [netbootxyz/netboot.xyz-custom](https://github.com/netbootxyz/netboot.xyz-custom) - Create your own custom github menu for netboot.xyz
@@ -5424,7 +5439,6 @@
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 - [google/devops-governance](https://github.com/google/devops-governance) - A CI/CD Approach & Framework for infrastructure that can be used in governance heavy organizations and is intended to give the developers as much autonomy as possible to do their work following DevOps
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
-- [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the OpenGitOps project which are versioned and released together (including the GitOps Principles and Glossary)
 - [tailscale/security-policies](https://github.com/tailscale/security-policies) - Security policies for Tailscale
 - [paseto-standard/paseto-spec](https://github.com/paseto-standard/paseto-spec) - Specification for Platform Agnostic SEcurity TOkens (PASETO)
 - [opendatadiscovery/opendatadiscovery-specification](https://github.com/opendatadiscovery/opendatadiscovery-specification) - ODD Specification is a universal open standard for collecting metadata.
@@ -5803,6 +5817,7 @@
 
 ## PowerShell 
 
+- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [Permiso-io-tools/CloudConsoleCartographer](https://github.com/Permiso-io-tools/CloudConsoleCartographer) - Released at Black Hat Asia on April 18, 2024, Cloud Console Cartographer is a framework for condensing groupings of cloud events (e.g. CloudTrail logs) and mapping them to the original user input acti
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
@@ -5855,6 +5870,7 @@
 
 ## Python 
 
+- [h4x0r-dz/CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897) - CVE-2024-23897
 - [DanielBodnar/readme-ai](https://github.com/DanielBodnar/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
 - [DanielBodnar/Github-Ranking](https://github.com/DanielBodnar/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [DanielBodnar/aws-cloudformation-templates](https://github.com/DanielBodnar/aws-cloudformation-templates) - A collection of useful CloudFormation templates
@@ -6147,7 +6163,7 @@
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [google/nerfies](https://github.com/google/nerfies) - This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
@@ -7279,7 +7295,7 @@
 - [pnpm/pacquet](https://github.com/pnpm/pacquet) - experimental package manager for node.js
 - [guybedford/chomp](https://github.com/guybedford/chomp) - 'JS Make' - parallel task runner for the frontend ecosystem with a JS extension system.
 - [santhosh-tekuri/boon](https://github.com/santhosh-tekuri/boon) - JSONSchema (draft 2020-12, draft 2019-09, draft-7, draft-6, draft-4) Validation in Rust
-- [conda-incubator/rattler](https://github.com/conda-incubator/rattler) - Rust crates to work with the Conda ecosystem.
+- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem.
 - [DevYukine/rustfoil](https://github.com/DevYukine/rustfoil) - Google Drive Index Generator for Tinfoil
 - [jalada/gdrive-search](https://github.com/jalada/gdrive-search) - A TUI to quickly find files in your Google Drive
 - [ohsayan/jotsy](https://github.com/ohsayan/jotsy) - Jotsy is a self-hosted, free and open-source note taking app with a goal of simplicity in mind
@@ -7352,7 +7368,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ferrocene/ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain
-- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [json-e/json-e](https://github.com/json-e/json-e) - A data-structure parameterization system written for embedding context in JSON objects
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -7527,12 +7543,12 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [security-union/videocall-rs](https://github.com/security-union/videocall-rs) - teleconference system written in rust
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Postg
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams, database CDC, and time series. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified stream
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -7797,7 +7813,7 @@
 - [krishnakumar4a4/casync-dashboard-backend](https://github.com/krishnakumar4a4/casync-dashboard-backend) - A web service for managing content for casync, desync, casync-rs type tools.
 - [dswd/vpncloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN
 - [remram44/syncfast](https://github.com/remram44/syncfast) - A clone of rsync in Rust
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
 - [actix/actix-net](https://github.com/actix/actix-net) - A collection of lower-level libraries for composable network services.
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -7910,7 +7926,7 @@
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [opencog/agi-bio](https://github.com/opencog/agi-bio) - Genomic and Proteomic data exploration and pattern mining
-- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about to install i3 & its and essentials packages, then make them look eye candy
+- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them look eye candy, also contains my dotfiles of Debian 12 (Bookworm) setup
 
 ## Shell 
 
@@ -8376,6 +8392,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
 - [EmreOvunc/Linux-System-Management-Scripts-Tricks](https://github.com/EmreOvunc/Linux-System-Management-Scripts-Tricks) - Linux Security & Linux Hardening & Linux Management & Linux Configuration
+- [open-gitops/documents](https://github.com/open-gitops/documents) - 📑 Lasting documents from the OpenGitOps project which are versioned and released together (including the GitOps Principles and Glossary)
 - [fluxcd/flux2-multi-tenancy](https://github.com/fluxcd/flux2-multi-tenancy) - Manage multi-tenant clusters with Flux
 - [microsoft/multicluster-gitops](https://github.com/microsoft/multicluster-gitops) - This repository contains a sample of GitOps setup that supports multi-cluster and multi-tenant environments with Flux v2.
 - [alexylem/jarvis](https://github.com/alexylem/jarvis) - Jarvis.sh is a simple configurable multi-lang assistant.
@@ -8783,6 +8800,14 @@
 
 ## TypeScript 
 
+- [supabase-community/copycat](https://github.com/supabase-community/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
+- [crown3/crown](https://github.com/crown3/crown) - Crown: A chrome extension to quickly switch your bookmarks and tabs
+- [jeb5/Sidetabs](https://github.com/jeb5/Sidetabs) - Because tabs should be vertical
+- [devidw/tabgod](https://github.com/devidw/tabgod) - execute any javascript on any chromium tabs - cross-tab parallel execution
+- [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
+- [patheticGeek/improved-potato](https://github.com/patheticGeek/improved-potato) - Chrome extension to export bookmarks sanely
+- [patheticGeek/chrome-bookmark-exporter](https://github.com/patheticGeek/chrome-bookmark-exporter) - An extension to export your chrome bookmarks in a sane way.
+- [cdklabs/cloud-assembly-schema](https://github.com/cdklabs/cloud-assembly-schema) - 
 - [DanielBodnar/.dots](https://github.com/DanielBodnar/.dots) - My personal config files
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and ripple effects for a cohesive, customizable user experience.
 - [devxp-ca/devxp](https://github.com/devxp-ca/devxp) - Empowering developers to create enterprise-quality cloud infrastructure in minutes
@@ -8870,7 +8895,7 @@
 - [williamtroup/Journey.js](https://github.com/williamtroup/Journey.js) - 🚶 A lightweight, easy-to-use JavaScript library to create interactive, customizable, accessible guided tours across your websites or web apps!
 - [tnicola/ngx-joyride](https://github.com/tnicola/ngx-joyride) - Angular Joyride/Tour library
 - [lusift/lusift](https://github.com/lusift/lusift) - Javascript library to create product walkthroughs for your web app. Drive users through the different features of your product.
-- [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow for Next.js powered by framer motion
+- [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [qq15725/modern-gif](https://github.com/qq15725/modern-gif) - 🚀 JavaScript GIF Codec.
@@ -9372,7 +9397,7 @@
 - [luxass/esbuild-cdn-imports](https://github.com/luxass/esbuild-cdn-imports) - This plugin intercepts imports and resolves them to a CDN URL.
 - [esmfile/esbuild-plugin-esmfile](https://github.com/esmfile/esbuild-plugin-esmfile) - Import *.file.ts/*.file.js modules to build files using the file loader...For example, importing rocket-launch.svg.file.ts builds rocket-launch.svg in the build output directory during build time.
 - [jsdelivr/unplugin-jsdelivr](https://github.com/jsdelivr/unplugin-jsdelivr) - Use jsDelivr in Vite, Rollup, Webpack and esbuild!
-- [Floffah/esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts) - 🔌 Compile Typescript declarations with ESBuild
+- [Floffah/esbuild-plugin-d.ts](https://github.com/Floffah/esbuild-plugin-d.ts) - 🔌 Build Typescript declarations with ESBuild
 - [smapiot/piral-cli-bun](https://github.com/smapiot/piral-cli-bun) - Packages for the piral-cli-bun bundler plugin.
 - [developbharat/bun-auth](https://github.com/developbharat/bun-auth) - Authentication plugin for bun apps with consistent interface.
 - [kravetsone/esbuild-plugin-autoload](https://github.com/kravetsone/esbuild-plugin-autoload) - Bun/esbuild plugin for work with autoload at runtime
@@ -9664,6 +9689,7 @@
 - [sinclairzx81/typebox-workbench](https://github.com/sinclairzx81/typebox-workbench) - Type Transform Tool for Runtime Type Systems
 - [samialdury/envey](https://github.com/samialdury/envey) - Type-safe configuration schemas for Node.js.
 - [MetaConfigurator/meta-configurator](https://github.com/MetaConfigurator/meta-configurator) - MetaConfigurator is a form generator and schema editor for JSON schema, making editing configuration files, research data and schemas easier and more enjoyable.
+- [vuepress/configs](https://github.com/vuepress/configs) - Config files for VuePress Organization
 - [AthennaIO/Config](https://github.com/AthennaIO/Config) - ⚙️ Cache and handle environment variables and config files of Athenna.
 - [EndBug/label-sync](https://github.com/EndBug/label-sync) - :octocat: An action that allows you to sync labels from a repository or a config file
 - [alvis/presetter](https://github.com/alvis/presetter) - 🛹 Reuse and manage build scripts, devDependencies and config files from your favourite presets, instead of copy and paste!
@@ -10552,7 +10578,7 @@
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
 - [lostfictions/znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas
 - [sachinraja/zod-to-ts](https://github.com/sachinraja/zod-to-ts) - generate TypeScript types from your Zod schema
-- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - Kubb is deprecated. I recommend Orval as an alternative.
 - [mizchi/lizod](https://github.com/mizchi/lizod) - lightweight zod-like validator
 - [skarab42/zoxy](https://github.com/skarab42/zoxy) - A small type-safe object proxy around Zod to help you stay safe after your data is loaded while continuing to edit them.
 - [Sairyss/fullstack-starter-template](https://github.com/Sairyss/fullstack-starter-template) - Template for full stack applications based on TypeScript, React, Vite, ChakraUI, tRPC, Fastify, Prisma, zod, etc.
@@ -11051,7 +11077,7 @@
 - [fuxingloh/contented](https://github.com/fuxingloh/contented) - Contented is a Markdown-based authoring workflow & processor that encourage developer authoring within its contextual Git repository.
 - [aviondb/aviondb](https://github.com/aviondb/aviondb) - A decentralised database with MongoDB-like developer interface (Fully Compatible with OrbitDB)
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [alineacms/alinea](https://github.com/alineacms/alinea) - Content management, streamlined
 - [amplience/dc-delivery-sdk-js](https://github.com/amplience/dc-delivery-sdk-js) - Official Javascript SDK for the Amplience Dynamic Content Delivery API
 - [adrien2p/medusa-extender](https://github.com/adrien2p/medusa-extender) - :syringe: Medusa on steroid, take your medusa project to the next level with some badass features :rocket:
@@ -11295,6 +11321,8 @@
 
 ## Vue 
 
+- [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver) - WebExtension to manage tabs
+- [mayashavin/vurian-wizard](https://github.com/mayashavin/vurian-wizard) - A Wizard Vue component on Vue 3 and state machine
 - [DanielBodnar/snipp.in](https://github.com/DanielBodnar/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
 - [pulsardev/vue-tour](https://github.com/pulsardev/vue-tour) - Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.
 - [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui
