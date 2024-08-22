@@ -162,6 +162,7 @@
 
 ## Astro 
 
+- [chopfitzroy/astro-shiki-twoslash](https://github.com/chopfitzroy/astro-shiki-twoslash) - Example repo
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) - Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.
 - [codiume/orbit](https://github.com/codiume/orbit) - Collection of useful integrations & components for the Astro ecosystem. ⭐️ Star to support our work!
@@ -206,6 +207,8 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+- [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
 - [lbonn/rofi](https://github.com/lbonn/rofi) - Rofi: A window switcher, run dialog and dmenu replacement - fork with wayland support
 - [sargon/trayer-srg](https://github.com/sargon/trayer-srg) - trayer fork with multi monitor support, cleaned up codebase and other fancy stuff
@@ -1174,6 +1177,15 @@
 
 ## Go 
 
+- [lucasmelin/gh-hook](https://github.com/lucasmelin/gh-hook) - 🪝A GitHub CLI extension to easily manage your repository webhooks.
+- [codiform/gh-actions-usage](https://github.com/codiform/gh-actions-usage) - GitHub CLI Extension to display Github Actions Usage. Go version of gh-actuse.
+- [cli/gh-webhook](https://github.com/cli/gh-webhook) - 
+- [vilmibm/gh-contribute](https://github.com/vilmibm/gh-contribute) - Small gh extension that suggests issues to work on in a given GitHub repository
+- [andyfeller/gh-dependency-report](https://github.com/andyfeller/gh-dependency-report) - GitHub CLI extension for generating a report on repository dependencies.
+- [rsese/gh-actions-status](https://github.com/rsese/gh-actions-status) - 
+- [fchimpan/gh-workflow-stats](https://github.com/fchimpan/gh-workflow-stats) - A GitHub CLI extension to calculate the success rate and execution time of workflows and jobs.
+- [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) - boostsecurityio/poutine
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [ghcli/gh-commit-src](https://github.com/ghcli/gh-commit-src) - Artfully create commit messages that reflect the essence of your code changes. Craftsmanship for your commits.
 - [mgutz/ansi](https://github.com/mgutz/ansi) - Small, fast library to create ANSI colored strings and codes. [go, golang]
 - [GitHubSecurityLab/gh-mrva](https://github.com/GitHubSecurityLab/gh-mrva) - Run CodeQL queries at scale using Multi-Repository Variant Analysis (MRVA)
@@ -1627,7 +1639,7 @@
 - [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [j3ssie/goverview](https://github.com/j3ssie/goverview) - goverview - Get an overview of the list of URLs
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
+- [keploy/keploy](https://github.com/keploy/keploy) - Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [wabarc/screenshot](https://github.com/wabarc/screenshot) - Capture webpage and save as image using chromedp
 - [devfile/devworkspace-operator](https://github.com/devfile/devworkspace-operator) - 
 - [cnabio/signy](https://github.com/cnabio/signy) - Go implementation for CNAB content trust verification using TUF, Notary, and in-toto
@@ -1777,7 +1789,7 @@
 - [crumbhole/argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) - A plugin to make Argo CD behave like we'd like.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [mdreizin/chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [solo-io/wasm](https://github.com/solo-io/wasm) - Web Assembly tools and SDKs for extending cloud-native infrastructure
@@ -2829,6 +2841,7 @@
 
 ## HTML 
 
+- [hunghg255/convert-markdown-to-html](https://github.com/hunghg255/convert-markdown-to-html) - Convert Markdown to HTML
 - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - A systematic approach to creating better documentation.
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
@@ -3201,6 +3214,13 @@
 
 ## JavaScript 
 
+- [orta/gatsby-twoslash-shiki-blog](https://github.com/orta/gatsby-twoslash-shiki-blog) - 
+- [rehypejs/rehype-twoslash](https://github.com/rehypejs/rehype-twoslash) - plugin to process JavaScript and TypeScript code with `twoslash` and highlight it with `starry-night`
+- [MeroFuruya/gh-dep](https://github.com/MeroFuruya/gh-dep) - general purpose dependency manager for GitHub CLI
+- [gh-cli-for-education/gh-org-clone](https://github.com/gh-cli-for-education/gh-org-clone) - A github-cli extension script to clone all repositories in an organization, optionally filtering by topic or a search string. If the repository has already been cloned it will attempt to switch to the
+- [crguezl/gh-org-browse-repo](https://github.com/crguezl/gh-org-browse-repo) - gh extension to browse multiple repos inside an org
+- [crguezl/gh-org-members](https://github.com/crguezl/gh-org-members) - gh cli extension to obtain info about the members of a GitHub Organization
+- [second-state/wasmedge-quickjs](https://github.com/second-state/wasmedge-quickjs) - A high-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.
 - [bterlson/eshost-cli](https://github.com/bterlson/eshost-cli) - Run ECMAScript code uniformly across any ECMAScript host
 - [devsnek/esvu](https://github.com/devsnek/esvu) - esvu is your one-stop shop for all implementations of ECMAScript.
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
@@ -5004,7 +5024,7 @@
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [AdevintaSpain/Barista](https://github.com/AdevintaSpain/Barista) - :coffee: The one who serves a great Espresso
-- [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
+- [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [arunkumar9t2/scabbard](https://github.com/arunkumar9t2/scabbard) - 🗡 A tool to visualize Dagger 2 dependency graphs
 - [kirmanak/Mealient](https://github.com/kirmanak/Mealient) - An Android client for a self-hosted recipe manager Mealie.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -5259,6 +5279,7 @@
 
 ## Others 
 
+- [github/gh-es](https://github.com/github/gh-es) - GitHub's official command line tool for Enterprise Server
 - [WebAssembly/wasi-io](https://github.com/WebAssembly/wasi-io) - I/O Types proposal for WASI
 - [WebAssembly/wasi-cli](https://github.com/WebAssembly/wasi-cli) - Command-Line Interface (CLI) World for WASI
 - [WebAssembly/tool-conventions](https://github.com/WebAssembly/tool-conventions) - Conventions supporting interoperatibility between tools working with WebAssembly.
@@ -6119,7 +6140,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Hironsan/bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
-- [QuentinWach/obsidian_ai](https://github.com/QuentinWach/obsidian_ai) - 🔮✍🏻 Automatically organize, analyze, and augment the quality of your obsidian.md notes with OpenAI's GPT3.
+- [QuentinWach/obsidian.ai](https://github.com/QuentinWach/obsidian.ai) - 🔮✍🏻 Automatically organize, analyze, and augment the quality of your obsidian.md notes with AI.
 - [ThilinaRajapakse/simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Information Retrieval, Text Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
@@ -7211,6 +7232,9 @@
 
 ## Rust 
 
+- [Bechma/realworld-actix-fullstack](https://github.com/Bechma/realworld-actix-fullstack) - Realworld Fullstack with Rust + Tera + SQLx
+- [yanskun/gh-bump-up](https://github.com/yanskun/gh-bump-up) - GitHub CLI extension to easily create release tags
+- [jasonappah/gh-start](https://github.com/jasonappah/gh-start) - (WIP) A Rust extension for the GitHub CLI to start new repos from starred template repos
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
 - [fluentci-io/cue-plugin](https://github.com/fluentci-io/cue-plugin) - Set up your CI/CD Pipeline with a specific version of cue
 - [fluentci-io/shell-plugin](https://github.com/fluentci-io/shell-plugin) - This plugin allows you to run shell commands in your FluentCI pipeline.
@@ -7630,7 +7654,7 @@
 - [deislabs/spiderlightning](https://github.com/deislabs/spiderlightning) - A set of WIT definitions and associated implementations to enable app developers to work at a faster pace and require less knowledge of the environment in which they are executing.
 - [BiagioFesta/wtransport](https://github.com/BiagioFesta/wtransport) - Async-friendly WebTransport implementation in Rust
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
@@ -8182,6 +8206,15 @@
 
 ## Shell 
 
+- [srz-zumix/gh-act](https://github.com/srz-zumix/gh-act) - gh-act generates and configures event.json for nektos/act
+- [mislav/gh-license](https://github.com/mislav/gh-license) - GitHub CLI extension to add a license to the current project
+- [sheepla/gh-fzrepo](https://github.com/sheepla/gh-fzrepo) - 🚀 An extension for GitHub CLI to browse repositories with fzf
+- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
+- [mislav/gh-repo-collab](https://github.com/mislav/gh-repo-collab) - GitHub CLI extension to manage repository collaborators
+- [MintArchit/gh-contribs](https://github.com/MintArchit/gh-contribs) - GitHub Contribution Graph CLI
+- [kawarimidoll/gh-graph](https://github.com/kawarimidoll/gh-graph) - GitHub contribution graph in your terminal
+- [davidraviv/gh-clean-branches](https://github.com/davidraviv/gh-clean-branches) - Safely deletes local branches with no upstream and no un-pushed commits
+- [securesauce/gh-alerts](https://github.com/securesauce/gh-alerts) - GitHub CLI extension to display security alerts
 - [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
 - [govindsme/gh-validate-repo](https://github.com/govindsme/gh-validate-repo) - GH CLI Extension to validate a repository
 - [securesauce/gh-precli](https://github.com/securesauce/gh-precli) - 
@@ -8296,7 +8329,6 @@
 - [keidarcy/gh-star](https://github.com/keidarcy/gh-star) - GitHub CLI extension to fuzzy search starred ✨ repo using fzf.
 - [twelvelabs/gh-repo-config](https://github.com/twelvelabs/gh-repo-config) - A GitHub CLI extension to manage repository settings
 - [LangLangBart/gh-find-code](https://github.com/LangLangBart/gh-find-code) - GitHub code searching with 'fzf'
-- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
 - [kawarimidoll/gh-q](https://github.com/kawarimidoll/gh-q) - A gh extension to clone GitHub repositories using fzf and ghq.
 - [HaywardMorihara/gh-tidy](https://github.com/HaywardMorihara/gh-tidy) - Github CLI extension for cleaning up your Git workspace to get ready for the day!
 - [mislav/gh-cp](https://github.com/mislav/gh-cp) - GitHub CLI extension to copy a file from a GitHub repository locally without cloning the repository.
@@ -9115,6 +9147,25 @@
 
 ## TypeScript 
 
+- [rakkasjs/rakkas-realworld](https://github.com/rakkasjs/rakkas-realworld) - Rakkas implementation of the RealWorld demo
+- [hesxenon/realworld-htmx](https://github.com/hesxenon/realworld-htmx) - 
+- [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [stripe/stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
+- [vitabaks/postgresql_cluster](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on Patroni). Automating with Ansible.
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
+- [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
+- [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits
+- [medplum/medplum](https://github.com/medplum/medplum) - Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
+- [itsdouges/typescript-transformer-handbook](https://github.com/itsdouges/typescript-transformer-handbook) - 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples
+- [hunghg255/remotion-codehike-twoslash](https://github.com/hunghg255/remotion-codehike-twoslash) - 
+- [orta/typescript-twoslash-queries](https://github.com/orta/typescript-twoslash-queries) - 
+- [microsoft/TypeScript-Twoslash-Repro-Action](https://github.com/microsoft/TypeScript-Twoslash-Repro-Action) - A GitHub Action which evaluates twoslash bug reproductions in GitHub Issues
+- [okikio/ai-typescript-check](https://github.com/okikio/ai-typescript-check) - REST API for TypeScript linting and type/error checking, leveraging TypeScript TwoSlash for enhanced code analysis. Available as standalone API and even better as a ChatGPT plugin.
+- [antfu/nuxt-content-twoslash](https://github.com/antfu/nuxt-content-twoslash) - TwoSlash integrations for Nuxt Content
+- [orta/vscode-twoslash-queries](https://github.com/orta/vscode-twoslash-queries) - VS Code extension which adds support for twoslash queries into typescript projects
+- [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
+- [yskszk63/gh-traffic](https://github.com/yskszk63/gh-traffic) - gh extension for GitHub repositories traffic viewer.
 - [reearth/quickjs-emscripten-sync](https://github.com/reearth/quickjs-emscripten-sync) - Provides a way to sync objects between browser and QuickJS
 - [streamich/unionfs](https://github.com/streamich/unionfs) - Use multiple fs modules at once
 - [streamich/linkfs](https://github.com/streamich/linkfs) - Rewrite file system `fs` paths
@@ -9831,7 +9882,7 @@
 - [hupe1980/cdkdx](https://github.com/hupe1980/cdkdx) - Zero-config CLI for aws cdk development
 - [cdklabs/publib](https://github.com/cdklabs/publib) - A unified toolchain for publishing libraries to popular package managers (formally jsii-release)
 - [GoodNotes/ts-interface-generator](https://github.com/GoodNotes/ts-interface-generator) - Export JSII Compatible Interface from public NPM packages
-- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The e2e platform for creating, sharing, and running codemods, built on top of your favorite codemod engine. Automate code migrations, cleanups, and refactors for yourself, colleagues, and the communit
+- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The end-to-end platform for creating, sharing, and running codemods with engines like jscodeshift, ast-grep, ts-morph, and more. Automate code migrations, cleanups, and refactors for you, your team, a
 - [GregRos/zenesis](https://github.com/GregRos/zenesis) - Type generation
 - [GregRos/doddle](https://github.com/GregRos/doddle) - 
 - [GregRos/parjs](https://github.com/GregRos/parjs) - JavaScript parser-combinator library
@@ -9893,7 +9944,6 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 700+ formats
 - [gaurishhs/elysia-ip](https://github.com/gaurishhs/elysia-ip) - Get Client IP Address in Elysia
 - [bitkit-sh/buildkit](https://github.com/bitkit-sh/buildkit) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
-- [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
 - [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl) - Python-based Low-code ETL. Generates Python code you can deploy anywhere.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
@@ -10602,7 +10652,7 @@
 - [open-rpc/generator](https://github.com/open-rpc/generator) - Multi-Component & Multi-Language Generators for OpenRPC
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
-- [chuanqisun/iter](https://github.com/chuanqisun/iter) - Simple and Powerful Chat IDE for Azure OpenAI
+- [chuanqisun/iter](https://github.com/chuanqisun/iter) - Prompt Engineer's IDE for Azure OpenAI
 - [jwu910/check-it-out](https://github.com/jwu910/check-it-out) - A command line interface for Git Checkout. See branches available for checkout.
 - [nuxt-themes/docus-docs-starter](https://github.com/nuxt-themes/docus-docs-starter) - Starter template for Docus.
 - [umijs/dumi-template](https://github.com/umijs/dumi-template) - 🌟 A doc template can assist you to develop libraries & write docs.
@@ -11154,7 +11204,7 @@
 - [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd) - Command line tools for working with MyST Markdown.
 - [kharvd/build-a-la-carte-ts](https://github.com/kharvd/build-a-la-carte-ts) - Build Systems à la carte in TypeScript
 - [RobinMalfait/event-source](https://github.com/RobinMalfait/event-source) - A node library for writing event sourced applications
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and files.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
