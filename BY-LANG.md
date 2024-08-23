@@ -162,6 +162,7 @@
 
 ## Astro 
 
+- [devaradise/devolio](https://github.com/devaradise/devolio) - A Simple Astro Portfolio & Blog Template for Developers
 - [chopfitzroy/astro-shiki-twoslash](https://github.com/chopfitzroy/astro-shiki-twoslash) - Example repo
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [themefisher/bookworm-light-astro](https://github.com/themefisher/bookworm-light-astro) - Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.
@@ -182,7 +183,7 @@
 
 ## Awk 
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and your scripts.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000+ tools and scripts.
 - [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 
 ## Batchfile 
@@ -2098,7 +2099,7 @@
 - [tj/staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know
 - [codeyourweb/fastfinder](https://github.com/codeyourweb/fastfinder) - Incident Response - Fast suspicious file finder
 - [mikeroyal/Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide) - Open Source Security Guide. Learn all about Security Standards (FIPS, CIS, FedRAMP, FISMA, etc.), Frameworks, Threat Models, Encryption, and Benchmarks.
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
+- [konstructio/kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 - [kubearmor/kvm-service](https://github.com/kubearmor/kvm-service) - Kubearmor Virtual Machine Service allows orchestrating policies to VMs and Bare-Metal environments using either k8s or non-k8s control plane.
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
@@ -3214,6 +3215,15 @@
 
 ## JavaScript 
 
+- [chalk/chalk-cli](https://github.com/chalk/chalk-cli) - Terminal string styling done right
+- [strahinjapopovic/node-gen-readme](https://github.com/strahinjapopovic/node-gen-readme) - ✨Node README.md Generator uses Inquirer npm package to serve terminal line by line Q&A and I/O processing to obtain data and render info into desired file.
+- [paradimes/dev-cli-tool](https://github.com/paradimes/dev-cli-tool) - A powerful CLI tool designed to streamline the process of scaffolding and managing development projects.
+- [RajaRakoto/vscode-boilerplate](https://github.com/RajaRakoto/vscode-boilerplate) - Minimalistic boilerplate to quick-start VSCode Extension development 🚀
+- [RajaRakoto/node-boilerplate](https://github.com/RajaRakoto/node-boilerplate) - Minimalistic boilerplate to quick-start Node.js development in TypeScript 🚀
+- [RajaRakoto/bun-boilerplate](https://github.com/RajaRakoto/bun-boilerplate) - Minimalistic boilerplate to quick-start Bun.js development in TypeScript 🚀
+- [flatiron/revalidator](https://github.com/flatiron/revalidator) - A cross-browser / node.js validator powered by JSON Schema
+- [flatiron/prompt](https://github.com/flatiron/prompt) - a beautiful command-line prompt for node.js
+- [onlang-org/onst](https://github.com/onlang-org/onst) - Helper repository for on-lang. Provides sample schema and example objects.
 - [orta/gatsby-twoslash-shiki-blog](https://github.com/orta/gatsby-twoslash-shiki-blog) - 
 - [rehypejs/rehype-twoslash](https://github.com/rehypejs/rehype-twoslash) - plugin to process JavaScript and TypeScript code with `twoslash` and highlight it with `starry-night`
 - [MeroFuruya/gh-dep](https://github.com/MeroFuruya/gh-dep) - general purpose dependency manager for GitHub CLI
@@ -3235,7 +3245,7 @@
 - [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn) - Tiny process execution for humans — a better child_process
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [pkgxdev/dev](https://github.com/pkgxdev/dev) - GitHub Action for pkgx `dev` environments
-- [thuliteio/hyas](https://github.com/thuliteio/hyas) - Web framework designed for speed, security, and SEO — all powered by Hugo and npm.
+- [thuliteio/thulite](https://github.com/thuliteio/thulite) - Web framework designed for speed, security, and SEO — all powered by Hugo and npm.
 - [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites.
 - [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular e
 - [AminoffZ/create-catonaut](https://github.com/AminoffZ/create-catonaut) - 
@@ -3594,6 +3604,7 @@
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [webpack/tapable](https://github.com/webpack/tapable) - Just a little module for plugins.
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [offen/esbuild-plugin-jsonschema](https://github.com/offen/esbuild-plugin-jsonschema) - Compile and pack JSON schema definitions on import using esbuild
 - [gillstrom/dpn-cli](https://github.com/gillstrom/dpn-cli) - Get the dependents of a users npm modules
@@ -5279,6 +5290,7 @@
 
 ## Others 
 
+- [SocketSomeone/typescript-open-source-template](https://github.com/SocketSomeone/typescript-open-source-template) - 📜 My template for creating TypeScript Open Source projects
 - [github/gh-es](https://github.com/github/gh-es) - GitHub's official command line tool for Enterprise Server
 - [WebAssembly/wasi-io](https://github.com/WebAssembly/wasi-io) - I/O Types proposal for WASI
 - [WebAssembly/wasi-cli](https://github.com/WebAssembly/wasi-cli) - Command-Line Interface (CLI) World for WASI
@@ -7232,6 +7244,7 @@
 
 ## Rust 
 
+- [Lutetium-Vanadium/requestty](https://github.com/Lutetium-Vanadium/requestty) - An easy-to-use collection of interactive cli prompts inspired by Inquirer.js.
 - [Bechma/realworld-actix-fullstack](https://github.com/Bechma/realworld-actix-fullstack) - Realworld Fullstack with Rust + Tera + SQLx
 - [yanskun/gh-bump-up](https://github.com/yanskun/gh-bump-up) - GitHub CLI extension to easily create release tags
 - [jasonappah/gh-start](https://github.com/jasonappah/gh-start) - (WIP) A Rust extension for the GitHub CLI to start new repos from starred template repos
@@ -7822,7 +7835,7 @@
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch p
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL engine for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. 
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -9091,6 +9104,7 @@
 
 ## Swift 
 
+- [swiftlang/swift-markdown](https://github.com/swiftlang/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [ephread/Instructions](https://github.com/ephread/Instructions) - Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.
 - [AnyImageKit/AnyImageKit](https://github.com/AnyImageKit/AnyImageKit) - A toolbox for pick/edit/capture photo or video. Written in Swift.
 - [onmyway133/GifCapture](https://github.com/onmyway133/GifCapture) - 🏇 Gif capture app for macOS
@@ -9147,6 +9161,25 @@
 
 ## TypeScript 
 
+- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping
+- [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
+- [Trickfilm400/typescript-project-scaffolding](https://github.com/Trickfilm400/typescript-project-scaffolding) - Create a new typescript project with everything you need to your needs customized in seconds!
+- [twine-realtime/deploy](https://github.com/twine-realtime/deploy) - CLI for deploying Twine infrastructure in the developer's AWS account via CloudFormation
+- [RajaRakoto/cli-boilerplate](https://github.com/RajaRakoto/cli-boilerplate) - Minimalistic boilerplate to quick-start CLI development with Inquirer.js in TypeScript 🚀
+- [necordjs/schematics](https://github.com/necordjs/schematics) - 📜 A collection of schematics for Necord projects with NestJS
+- [lnquy065/inquirer-interrupted-prompt](https://github.com/lnquy065/inquirer-interrupted-prompt) - Turning any existing inquirer and its plugin prompts into prompts that can be interrupted with a custom key.
+- [huellen-consulting/zompt](https://github.com/huellen-consulting/zompt) - The TypeScript-first prompting library for Node.js CLIs.
+- [ArchitectNow/cli](https://github.com/ArchitectNow/cli) - ArchitectNow CLI
+- [Thenlie/readme-generator](https://github.com/Thenlie/readme-generator) - A simple README file generator that takes user input and returns a formatted markdown file
+- [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 3 🏔💚⚡️
+- [xiaoluoboding/chrome-ext-starter](https://github.com/xiaoluoboding/chrome-ext-starter) - ⚡️ Modernized Chrome Extension Manifest V3 Vite Starter Template
+- [antfu/vue-global-api](https://github.com/antfu/vue-global-api) - Use Vue Composition API globally
+- [shamscorner/vitesse-stackter-clean-architect](https://github.com/shamscorner/vitesse-stackter-clean-architect) - If you are really into the "Vitesse" starter template created by Anthony Fu (Vue core team member) but want to use the clean architectural pattern instead of monolithic architecture, then you can clon
+- [FranciscoKloganB/vitesse-enterprise](https://github.com/FranciscoKloganB/vitesse-enterprise) - 
+- [olgam4/bat](https://github.com/olgam4/bat) - 🦇 Opinionated Vite Starter Template
+- [xbmlz/vitesse-solid](https://github.com/xbmlz/vitesse-solid) - 🏕 Opinionated Vite + SolidJS Starter Template
+- [antfu/esno](https://github.com/antfu/esno) - Alias to `tsx`
+- [vue-vine/vue-vine](https://github.com/vue-vine/vue-vine) - Another style of writing Vue components.
 - [rakkasjs/rakkas-realworld](https://github.com/rakkasjs/rakkas-realworld) - Rakkas implementation of the RealWorld demo
 - [hesxenon/realworld-htmx](https://github.com/hesxenon/realworld-htmx) - 
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
@@ -9419,7 +9452,7 @@
 - [NorteX-dev/nconfig](https://github.com/NorteX-dev/nconfig) - A standardized way to write type-safe, validated configs.
 - [CorentinTh/figue](https://github.com/CorentinTh/figue) - Configuration management library, like convict but with zod
 - [neofinancial/config-dug](https://github.com/neofinancial/config-dug) - Config loader with support for AWS Secrets Manager
-- [cloydlau/vue-global-config](https://github.com/cloydlau/vue-global-config) - Configure your Vue 2.6/2.7/3 components globally! (Global Props + Attrs + Listeners + Hooks + Slots)
+- [cloydlau/vue-global-config](https://github.com/cloydlau/vue-global-config) - Configure your Vue 2/3 components globally! (Global Props + Attrs + Listeners + Hooks + Slots)
 - [willsoto/node-konfig](https://github.com/willsoto/node-konfig) - Node.js configuration management library
 - [AckeeCZ/configuru](https://github.com/AckeeCZ/configuru) - Multiple-environment configuration manager
 - [lukecarr/c9h](https://github.com/lukecarr/c9h) - 🐍 Zero-config config for Node.js
@@ -9597,7 +9630,7 @@
 - [safe-global/safe-singleton-factory](https://github.com/safe-global/safe-singleton-factory) - Singleton factory used by Safe related contracts
 - [aws-samples/aws-saas-factory-eks-reference-architecture](https://github.com/aws-samples/aws-saas-factory-eks-reference-architecture) - This repository provides a reference architecture for building an end to end SaaS solution using Amazon Elastic Kubernetes Service (EKS)
 - [capJavert/jawa](https://github.com/capJavert/jawa) - Visual scraper interface, exports to puppeteer script which you can run anywhere.
-- [Xunnamius/black-flag](https://github.com/Xunnamius/black-flag) - ⚡ A declarative framework for building fluent, deeply hierarchical command line interfaces with yargs
+- [Xunnamius/black-flag](https://github.com/Xunnamius/black-flag) - 🏴 A declarative framework for building fluent, deeply hierarchical command line interfaces with yargs
 - [aws/aws-msk-iam-sasl-signer-js](https://github.com/aws/aws-msk-iam-sasl-signer-js) - 
 - [tobilg/aws-iam-data](https://github.com/tobilg/aws-iam-data) - This repository contains the full dataset of AWS IAM data (services, actions, resource types and conditions keys). It's updated on a daily basis at 4AM UTC.
 - [thinkinglabs/aws-iam-policy](https://github.com/thinkinglabs/aws-iam-policy) - A TypeScript Node.js module to manipulate AWS IAM Policy documents
@@ -9674,7 +9707,7 @@
 - [hunters-org/hunter-kit](https://github.com/hunters-org/hunter-kit) - Hunter-Kit is a cross platform security toolkit and framework that can automate most of the pentesting engagement from the recon to reporting phase
 - [dayoneteams/nodetoolset](https://github.com/dayoneteams/nodetoolset) - Node.js utility CLI commands helping developers with simple tasks and be more productive.
 - [abelab/web-overlay](https://github.com/abelab/web-overlay) - An experimental toolkit for constructing Web-based overlay networks
-- [studiometa/js-toolkit](https://github.com/studiometa/js-toolkit) - 🔧 A data-attributes driven JavaScript micro-framework
+- [studiometa/js-toolkit](https://github.com/studiometa/js-toolkit) - 🔧 A data-attributes driven JavaScript tiny framework
 - [swve/framestack](https://github.com/swve/framestack) - Tools, Frameworks & Libraries to help you build your projects ✨
 - [sumup-oss/foundry](https://github.com/sumup-oss/foundry) - A toolkit for building JavaScript & TypeScript applications.
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
@@ -10177,7 +10210,6 @@
 - [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pClou
 - [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
-- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [salesforcecli/plugin-schema](https://github.com/salesforcecli/plugin-schema) - 
 - [aws-cloudformation/cloudformation-cli-typescript-plugin](https://github.com/aws-cloudformation/cloudformation-cli-typescript-plugin) - The CloudFormation Provider Development Toolkit Node.js Plugin allows you to autogenerate TypeScript code based on an input schema.
@@ -10223,7 +10255,7 @@
 - [antfu-collective/vitesse-lite](https://github.com/antfu-collective/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 - [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config) - Load configuration variables from multiple sources with flexible adapters, ensuring type safety with Zod.
-- [cloydlau/json-editor-vue](https://github.com/cloydlau/json-editor-vue) - Vue 2.6/2.7/3 & Nuxt 2/3 isomorphic JSON editor, viewer, formatter and validator.
+- [cloydlau/json-editor-vue](https://github.com/cloydlau/json-editor-vue) - Vue and Nuxt 2/3 isomorphic JSON editor, viewer, formatter and validator.
 - [nestjs/schematics](https://github.com/nestjs/schematics) - Nest architecture element generation based on Angular schematics 🎬
 - [fabien0102/openapi-codegen](https://github.com/fabien0102/openapi-codegen) - A tool for generating code base on an OpenAPI schema.
 - [google/schema-dts](https://github.com/google/schema-dts) - JSON-LD TypeScript types for Schema.org vocabulary
@@ -10901,7 +10933,7 @@
 - [launchcodedev/app-config](https://github.com/launchcodedev/app-config) - Easy Configuration Loader with Strict Validation
 - [gilbert/zaml](https://github.com/gilbert/zaml) - The Final Form of configuration files
 - [eseom/nunjucks-template](https://github.com/eseom/nunjucks-template) - This is  a vscode extension for nunjucks template language which is also available to all Jinja style templates
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [aws/constructs](https://github.com/aws/constructs) - Define composable configuration models through code
 - [Intellicode/writer](https://github.com/Intellicode/writer) - 🤖📝 A markdown editor powered by AI (Ollama)
 - [shreyaskarnik/DistiLlama](https://github.com/shreyaskarnik/DistiLlama) - Chrome Extension to Summarize or Chat with Web Pages/Local Documents Using locally running LLMs. Keep all of your data and conversations private. 🔐
@@ -11827,6 +11859,7 @@
 
 ## Vue 
 
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators.
 - [antfu/releases.antfu.me](https://github.com/antfu/releases.antfu.me) - Page for Anthony's Recent Releases
 - [vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - vue-leaflet compatible with vue3
