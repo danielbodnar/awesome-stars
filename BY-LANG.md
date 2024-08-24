@@ -631,7 +631,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) - Stay happy while offline | World's first offline search engine.
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.4: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
@@ -2271,7 +2271,7 @@
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
-- [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Platform for building distributed systems with automated infrastructure.
+- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -4180,7 +4180,7 @@
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [dosyago/chai](https://github.com/dosyago/chai) - chai - Experience Zero Trust security with Chai! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security! 🌈
-- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [dosyago/dn](https://github.com/dosyago/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
@@ -4984,7 +4984,7 @@
 - [rviscomi/har.fyi](https://github.com/rviscomi/har.fyi) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
 - [finic-ai/doctran](https://github.com/finic-ai/doctran) - 
 - [AnacletoLAB/grape](https://github.com/AnacletoLAB/grape) - 🍇 GRAPE is a Rust/Python Graph Representation Learning library for Predictions and Evaluations
@@ -5360,7 +5360,7 @@
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work 👇
 - [kbdharun/dev-image](https://github.com/kbdharun/dev-image) - This repository contains all my development packages preinstalled inside a Fedora Container image.
 - [ashimov/vyos-build-action](https://github.com/ashimov/vyos-build-action) - VyOS ISO Automation Build
-- [vyos/vyos-rolling-nightly-builds](https://github.com/vyos/vyos-rolling-nightly-builds) - Scheduled ISO nightly builds for current branch
+- [vyos/vyos-nightly-build](https://github.com/vyos/vyos-nightly-build) - Scheduled ISO nightly builds for current branch
 - [9l/vyos-build-action](https://github.com/9l/vyos-build-action) - VyOS ISO Automation Build
 - [web-infra-dev/awesome-rspack](https://github.com/web-infra-dev/awesome-rspack) - A curated list of awesome things related to Rspack, Rsbuild and Rspress
 - [DanielBodnar/opssdk](https://github.com/DanielBodnar/opssdk) - A composable, pluggable, cli sdk for dev and cloud operations
@@ -7348,7 +7348,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [jasonjmcghee/xrem](https://github.com/jasonjmcghee/xrem) - (Cross-Platform) An open source approach to locally record and enable searching everything you view on any computer.
-- [louis030195/screen-pipe](https://github.com/louis030195/screen-pipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
 - [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
@@ -9623,7 +9623,7 @@
 - [graphile/worker](https://github.com/graphile/worker) - High performance Node.js/PostgreSQL job queue (also suitable for getting jobs generated by PostgreSQL triggers/functions out into a different work queue)
 - [nodecg/nodecg](https://github.com/nodecg/nodecg) - Create broadcast graphics using Node.js and a browser
 - [prisma-labs/dripip](https://github.com/prisma-labs/dripip) - Opinionated CLI for continuous delivery of npm packages
-- [Xunnamius/xunnctl](https://github.com/Xunnamius/xunnctl) - ⚙️ Yet another CLI tool of mine. This one makes devsecops tasks easier across my constellation of systems
+- [Xunnamius/xunnctl](https://github.com/Xunnamius/xunnctl) - 🔧 Yet another CLI tool of mine. This one lightens the devsecops burden across my constellation of systems
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [quenti-io/quenti](https://github.com/quenti-io/quenti) - The open source Quizlet alternative.
 - [globaldatanet/aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory) - Enhance the security of your web applications effortlessly with AWS Firewall Factory. Safeguard your valuable assets through seamless WAF deployment, updates, and staging, all centrally managed with A
@@ -11115,7 +11115,7 @@
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
 - [lostfictions/znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas
 - [sachinraja/zod-to-ts](https://github.com/sachinraja/zod-to-ts) - generate TypeScript types from your Zod schema
-- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - Kubb is deprecated. I recommend Orval as an alternative.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - Kubb
 - [mizchi/lizod](https://github.com/mizchi/lizod) - lightweight zod-like validator
 - [skarab42/zoxy](https://github.com/skarab42/zoxy) - A small type-safe object proxy around Zod to help you stay safe after your data is loaded while continuing to edit them.
 - [Sairyss/fullstack-starter-template](https://github.com/Sairyss/fullstack-starter-template) - Template for full stack applications based on TypeScript, React, Vite, ChakraUI, tRPC, Fastify, Prisma, zod, etc.
