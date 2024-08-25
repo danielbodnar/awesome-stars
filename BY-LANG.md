@@ -659,7 +659,7 @@
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 - [IBM/fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos
 - [cryfs/cryfs](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [jeremy-rifkin/libassert](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library
 - [ETLCPP/etl](https://github.com/ETLCPP/etl) - Embedded Template Library
@@ -1563,7 +1563,7 @@
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [techknowlogick/shiori](https://github.com/techknowlogick/shiori) - Shiori is a simple bookmark manager
+- [techknowlogick/shiori](https://github.com/techknowlogick/shiori) - [Archived] Shiori is a simple bookmark manager. Upstream is now being supported again
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [qownnotes/qc](https://github.com/qownnotes/qc) - QOwnNotes command-line snippet manager.
 - [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
@@ -5239,6 +5239,7 @@
 - [tweag/jupyenv](https://github.com/tweag/jupyenv) - Declarative and reproducible Jupyter environments - powered by Nix
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [justinwoo/easy-dhall-nix](https://github.com/justinwoo/easy-dhall-nix) - Derivations for easily downloading Dhall binaries and putting them to use.
 - [jmgilman/nix-cue](https://github.com/jmgilman/nix-cue) - Validate and generate configuration files using Nix and Cue
@@ -6433,10 +6434,9 @@
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Transform your database into your AI platform! Integrate AI models and machine learning workflows with your database  to implement custom AI applications, without moving your data. Includi
 - [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - A functional, content-addressable programming language.
 - [MalwareHunters/vultriever](https://github.com/MalwareHunters/vultriever) - 
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [autotest/autotest](https://github.com/autotest/autotest) - Autotest - Fully automated tests on Linux
@@ -6590,7 +6590,7 @@
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) - novel deep learning research works with PaddlePaddle
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -9210,7 +9210,7 @@
 - [Bannerets/tdl](https://github.com/Bannerets/tdl) - Node.js bindings to TDLib 🥒
 - [lobehub/lobe-tts](https://github.com/lobehub/lobe-tts) - 🎤 Lobe TTS - A high-quality & reliable TTS/STT library for Server and Browser
 - [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database.
+- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 - [nanoporetech/jmespath-ts](https://github.com/nanoporetech/jmespath-ts) - Typescript translation of the jmespath.js package
@@ -9218,7 +9218,7 @@
 - [maxmilton/stage1](https://github.com/maxmilton/stage1) - High-performance JavaScript micro framework.
 - [29decibel/readability-cli](https://github.com/29decibel/readability-cli) - A readability cli/bun script to extract article from given URL, without NodeJS
 - [hack-dance/magic](https://github.com/hack-dance/magic) - MAGIC (Machine-Assisted Generative Intelligence and Coordination) is a framework for creating autonomous systems powered by Large Language Models (LLMs).
-- [abi-js/abi](https://github.com/abi-js/abi) - @Abi-js is a fast, type-safe and easy-to-use framework for modern web apps, powered by Bun and Deno.
+- [abi-framework/abi](https://github.com/abi-framework/abi) - @Abi-framework is a fast, type-safe and easy-to-use framework for modern web apps, powered by Bun and Deno.
 - [pabueco/ncl](https://github.com/pabueco/ncl) - Interactively view changelogs of packages and GitHub repositories in the terminal.
 - [BlackAsLight/wasm-bundler](https://github.com/BlackAsLight/wasm-bundler) - Easily, via the cli, convert wasm binary files into js files to be bundled up together as one single file.
 - [huseeiin/create-svelte-bun](https://github.com/huseeiin/create-svelte-bun) - An alternative CLI to `create-svelte` to create a new SvelteKit app using Bun.
