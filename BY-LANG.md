@@ -2857,7 +2857,6 @@
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) - :sunglasses: A complete list of Arch-based projects
 - [Hackalist/Hackalist.github.io](https://github.com/Hackalist/Hackalist.github.io) - A list of upcoming hackathons from around the world.
-- [gracile-web/gracile](https://github.com/gracile-web/gracile) - A thin, full-stack, web framework — Powered by Vite and Lit SSR. Works with Node's HTTP or WHATWG Fetch.
 - [arnehilmann/markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
 - [snowfrogdev/Vts](https://github.com/snowfrogdev/Vts) - Vanilla TypeScript library starter CLI tool
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
@@ -9313,7 +9312,7 @@
 - [pbugnion/jupyterlab-sql](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) - MergeStat enables anyone to ask questions about the history and contents of source code.
 - [arangodb/arangojs](https://github.com/arangodb/arangojs) - The official ArangoDB JavaScript driver.
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search
+- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search
 - [pubkey/event-reduce](https://github.com/pubkey/event-reduce) - An algorithm to optimize database queries that run multiple times https://pubkey.github.io/event-reduce/
 - [yy0931/sqlite3-editor](https://github.com/yy0931/sqlite3-editor) - 
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
@@ -9572,6 +9571,7 @@
 - [codingtools/cdt](https://github.com/codingtools/cdt) - Awesome cli for Devs 🚀
 - [0xMukesh/snipli](https://github.com/0xMukesh/snipli) - ✨ A command-line interface for quickly sharing code snippets of your local files
 - [sanyuan0704/island.js](https://github.com/sanyuan0704/island.js) - 📝 Vite & MDX powered static site generator. Base on islands architecture
+- [gracile-web/gracile](https://github.com/gracile-web/gracile) - A thin, full-stack, web framework — Powered by Vite and Lit SSR. Works with Node's HTTP or WHATWG Fetch.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [isotoma/cdk-manager](https://github.com/isotoma/cdk-manager) - 
 - [3rd/auto](https://github.com/3rd/auto) - Auto is a TypeScript-powered command-line automation tool.
@@ -9978,7 +9978,7 @@
 - [gaurishhs/elysia-ip](https://github.com/gaurishhs/elysia-ip) - Get Client IP Address in Elysia
 - [bitkit-sh/buildkit](https://github.com/bitkit-sh/buildkit) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
-- [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl) - Python-based Low-code ETL. Generates Python code you can deploy anywhere.
+- [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl) - Python-based Low-code ETL for data manipulation and transformation. Generates Python code you can deploy anywhere.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management
