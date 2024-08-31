@@ -839,6 +839,7 @@
 
 ## CSS 
 
+- [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
 - [orta/playground-slides](https://github.com/orta/playground-slides) - Make presentations in the TypeScript playground
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -3361,7 +3362,7 @@
 - [humanmade/cf-to-tf](https://github.com/humanmade/cf-to-tf) - CLI tool for generating Terraform configuration and state for existing CloudFormation resources
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 - [juanpicado/verdaccio-with-bun](https://github.com/juanpicado/verdaccio-with-bun) - Example how to run verdaccio with Bun
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Modern, feature-rich and accessible desktop configuration.
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [CyberAula/ediphy](https://github.com/CyberAula/ediphy) - Ediphy.  E-learning authoring tool using React + Redux + Webpack
 - [Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse) - A self-hosted SPA to simplify course creation and management
@@ -4227,7 +4228,7 @@
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
 - [Surajv311/one4All](https://github.com/Surajv311/one4All) - This repository consists of tech resources and opportunities which could be useful for students interested in computer science. It also hosts non-tech sources which could be useful for anyone.🔥💻👨‍🎓
 - [techx/quill](https://github.com/techx/quill) - 📝 Registration, for hackathons!
 - [osmoscraft/tundra](https://github.com/osmoscraft/tundra) - Where knowledge grows.
@@ -4941,7 +4942,7 @@
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
 - [rosineygp/mkdkr_exporter](https://github.com/rosineygp/mkdkr_exporter) - export mkdkr to another pipeline engine
 - [redhat-openstack/infrared](https://github.com/redhat-openstack/infrared) - Plugin based framework that aims to provide an easy-to-use CLI for Ansible based projects
-- [theautomation/infrastructure](https://github.com/theautomation/infrastructure) - Configuration files, scripts, Ansible playbooks, and information needed to establish the fundamental components of my infrastructure, such as Proxmox and Kubernetes cluster
+- [x-real-ip/infrastructure](https://github.com/x-real-ip/infrastructure) - Configuration files, scripts, Ansible playbooks, and information needed to establish the fundamental components of my infrastructure, such as Proxmox- and Kubernetes cluster
 - [packit/deployment](https://github.com/packit/deployment) - Ansible playbooks and scripts for deploying packit-service to OpenShift
 - [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more.  Build. Destroy. Repeat.
 - [Linuxfabrik/lfops](https://github.com/Linuxfabrik/lfops) - LFOps is an Ansible Collection of generic Roles, Playbooks and Plugins for managing Linux-based Cloud Infrastructures.
@@ -6089,6 +6090,7 @@
 
 ## Python 
 
+- [TAG-Research/TAG-Bench](https://github.com/TAG-Research/TAG-Bench) - TAG: Table-Augmented Generation
 - [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -7882,7 +7884,7 @@
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [krtab/agnos](https://github.com/krtab/agnos) - Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL engine for event-driven workloads. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. 
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming 
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -8576,7 +8578,7 @@
 - [vaeth/push](https://github.com/vaeth/push) - A POSIX shell function to treat a variable like an array, quoting args.
 - [Anvil/bash-argsparse](https://github.com/Anvil/bash-argsparse) - An high level argument parsing library for bash
 - [kesavanm/handy-tools](https://github.com/kesavanm/handy-tools) - Some handy tools for GNU/Linux , bash , open environment to make your day to day life easier
-- [Lierexa/Docker](https://github.com/Lierexa/Docker) - I make templates for my Docker needs.
+- [noahtrr/Docker](https://github.com/noahtrr/Docker) - I make templates for my Docker needs.
 - [sudorook/misc-scripts](https://github.com/sudorook/misc-scripts) - Various command line scripts that make my life easier.
 - [cloudposse/packages](https://github.com/cloudposse/packages) - 🏗️ Linux packages for popular DevOps tools. Supports Ubuntu, CentOS, and Alpine.
 - [ms-jpq/lab](https://github.com/ms-jpq/lab) - We have cloud at home - mom
@@ -9209,6 +9211,9 @@
 
 ## TypeScript 
 
+- [octokit/types.ts](https://github.com/octokit/types.ts) - Shared TypeScript definitions for Octokit projects
+- [okeeffed/developer-notes](https://github.com/okeeffed/developer-notes) - Published Developer Cheat Sheets
+- [IroncladDev/htmx-cli](https://github.com/IroncladDev/htmx-cli) - 
 - [cdklabs/jsii-docgen](https://github.com/cdklabs/jsii-docgen) - Generates reference documentation for jsii modules
 - [Codex-/cosmiconfig-typescript-loader](https://github.com/Codex-/cosmiconfig-typescript-loader) - TypeScript config file handler for cosmiconfig
 - [Inalegwu/ElectroStatic](https://github.com/Inalegwu/ElectroStatic) - A starting point for Local-First electron applications, powered by Vite and React
