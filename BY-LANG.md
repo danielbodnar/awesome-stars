@@ -209,6 +209,8 @@
 
 ## C 
 
+- [reMarkable/uboot](https://github.com/reMarkable/uboot) - Our uboot version
+- [reMarkable/linux](https://github.com/reMarkable/linux) - Linux kernel for reMarkable 1 & 2. zero-sugar is rM2 and zero-gravitas is rM1.
 - [canselcik/libremarkable](https://github.com/canselcik/libremarkable) - The only public framework for developing applications with native refresh support for Remarkable Tablet
 - [asg017/sqlite-lembed](https://github.com/asg017/sqlite-lembed) - A SQLite extension for generate text embeddings from GGUF models using llama.cpp
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
@@ -233,7 +235,6 @@
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [cyanreg/txproto](https://github.com/cyanreg/txproto) - Scriptable multimedia sandbox. Captures, streams and records from a variety of sources.
-- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [desktop/desktop-trampoline](https://github.com/desktop/desktop-trampoline) - A cross-platform no-dependency TCP-based trampoline for GitHub Desktop, written in C
 - [mptre/pick](https://github.com/mptre/pick) - A fuzzy search tool for the command-line
 - [pkgxdev/pantry](https://github.com/pkgxdev/pantry) - pkg manifests
@@ -453,7 +454,6 @@
 - [winfsp/winspd](https://github.com/winfsp/winspd) - Windows Storage Proxy Driver - User mode disk storage
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [angt/mud](https://github.com/angt/mud) - Multipath UDP library
 - [angt/glorytun](https://github.com/angt/glorytun) - Multipath UDP tunnel
 - [lxc/lxcfs](https://github.com/lxc/lxcfs) - FUSE filesystem for LXC
@@ -598,6 +598,9 @@
 
 ## C++ 
 
+- [rustyconover/duckdb-shellfs-extension](https://github.com/rustyconover/duckdb-shellfs-extension) - DuckDB extension allowing shell commands to be used for input and output.
+- [ywelsch/duckdb-psql](https://github.com/ywelsch/duckdb-psql) - A piped SQL for DuckDB
+- [voltrondata/sqlflite](https://github.com/voltrondata/sqlflite) - An example Flight SQL Server implementation - with DuckDB and SQLite back-ends.
 - [rmkit-dev/rmkit](https://github.com/rmkit-dev/rmkit) - | remarkable app framework | https://rmkit.dev
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2023 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
@@ -1186,6 +1189,9 @@
 
 ## Go 
 
+- [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
+- [reMarkable/envconfig](https://github.com/reMarkable/envconfig) - Golang library for managing configuration data from environment variables
+- [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is a swiss army knife for big data.
 - [owulveryck/goMarkableStream](https://github.com/owulveryck/goMarkableStream) - A utility to stream (and record) from a Remarkable2 without hack or third party dependencies
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
 - [KusionStack/kuperator](https://github.com/KusionStack/kuperator) - Manage k8s resources effectively with risk under control.
@@ -1528,7 +1534,7 @@
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [naiba-archived/code-runner](https://github.com/naiba-archived/code-runner) - :construction_worker: Docker-based remote code runner with simple API.
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
-- [Amo-Addai/devsecops-ci-cd](https://github.com/Amo-Addai/devsecops-ci-cd) - Using multiple DevSecOps and DataOps tools to implement Continuous Integration and Delivery and (CI/CD) Automation in both Software Engineering and Big Data Analytics projects. Sample Tools: Docker, G
+- [Amo-Addai/devsecops-ci-cd](https://github.com/Amo-Addai/devsecops-ci-cd) - Using multiple DevSecOps and DataOps tools to implement Continuous Integration and Delivery and (CI/CD) Automation in both Software Engineering and Big Data Analytics projects. Sample Tools: Docker, T
 - [stakater/GitWebhookProxy](https://github.com/stakater/GitWebhookProxy) - A proxy to let webhooks reach running services behind a firewall – [✩Star] if you're using it!
 - [jenkinsci/kubernetes-operator](https://github.com/jenkinsci/kubernetes-operator) - Kubernetes native Jenkins Operator
 - [storj/common](https://github.com/storj/common) - Storj common packages
@@ -2375,7 +2381,7 @@
 - [wor/goanysync](https://github.com/wor/goanysync) - Directory symlinker and content syncer.
 - [mgartner/pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres EXPLAIN ANALYZE output.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [sj14/dbbench](https://github.com/sj14/dbbench) - 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts
 - [jakekgrog/GhostDB](https://github.com/jakekgrog/GhostDB) - GhostDB is a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
 - [xssed/owlcache](https://github.com/xssed/owlcache) - 🦉owlcache is a lightweight, high-performance, non-centralized, distributed Key/Value in-memory Cache written in Go. keyword : golang cache、go cache、golang nosql
@@ -2476,6 +2482,7 @@
 - [chrislusf/gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
 - [oklog/oklog](https://github.com/oklog/oklog) - A distributed and coördination-free log management system
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [mhausenblas/burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native Infrastructure BackUp & RecoveRY
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
@@ -3240,6 +3247,10 @@
 
 ## JavaScript 
 
+- [observablehq/stdlib](https://github.com/observablehq/stdlib) - The Observable standard library.
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
+- [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
+- [rpbouman/huey](https://github.com/rpbouman/huey) - A UI for DuckDB
 - [1Password/onepassword-sdk-js](https://github.com/1Password/onepassword-sdk-js) - The official JavaScript SDK for 1Password
 - [iodide-project/iodide-transpiler](https://github.com/iodide-project/iodide-transpiler) - Transpiling numerical operations
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
@@ -3425,6 +3436,7 @@
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [vvo/gifify](https://github.com/vvo/gifify) - 😻 Convert any video file to an optimized animated GIF.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+- [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [getgrit/tree-sitter-gritql](https://github.com/getgrit/tree-sitter-gritql) - The official grammar for GritQL, implemented as a tree sitter parser
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
@@ -4944,6 +4956,7 @@
 
 ## Jinja 
 
+- [jupyterlab/extension-template](https://github.com/jupyterlab/extension-template) - A `copier` template for JupyterLab extensions
 - [sever-sever/vyos-automate](https://github.com/sever-sever/vyos-automate) - Automate scripts
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
@@ -4982,6 +4995,7 @@
 
 ## Jupyter Notebook 
 
+- [datonic/datadex](https://github.com/datonic/datadex) - 📦 Serverless and local-first Open Data Platform
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 - [manimino/semantle-crab](https://github.com/manimino/semantle-crab) - Solve Semantle in 4 moves via giant enemy crab
@@ -5019,6 +5033,7 @@
 - [boraelci/java-test-genie](https://github.com/boraelci/java-test-genie) - A command-line tool for AI-driven unit test generation
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 - [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inferenc
 - [rviscomi/har.fyi](https://github.com/rviscomi/har.fyi) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
@@ -5332,6 +5347,8 @@
 
 ## Others 
 
+- [asapelkin/awesome-eink](https://github.com/asapelkin/awesome-eink) - A curated list of awesome E-ink links and resources.
+- [mehd-io/duckdb-playground-tutorial](https://github.com/mehd-io/duckdb-playground-tutorial) - A collection of DuckDB queries for tutorial/getting started purpose
 - [danielebruneo/remarkable2-hacks](https://github.com/danielebruneo/remarkable2-hacks) - A collection of hacks, mods, tools, tips & tricks, specifically focused on the reMarkable 2
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [thiagobodruk/bible](https://github.com/thiagobodruk/bible) - Bible: JSON + XML
@@ -5818,7 +5835,7 @@
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [djbelieny/geoinfo-dataset](https://github.com/djbelieny/geoinfo-dataset) - A comprehensive data set of US and Canada zip/Postal code, NANPA phone data, city, state, country, timezones, latitude and longitude in CSV format
 - [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - Wiki to collect Red Team infrastructure hardening resources
-- [d30sa1/RootKits-List-Download](https://github.com/d30sa1/RootKits-List-Download) - This is the list of all rootkits found so far on github and other sites.
+- [skyw4tch3r/RootKits-List-Download](https://github.com/skyw4tch3r/RootKits-List-Download) - This is the list of all rootkits found so far on github and other sites.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
@@ -6099,6 +6116,13 @@
 
 ## Python 
 
+- [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
+- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
+- [dagster-io/mdsfest-opensource-mds](https://github.com/dagster-io/mdsfest-opensource-mds) - Demo Project for Open Source MDS
+- [patricktrainer/duckdb-embedding-search](https://github.com/patricktrainer/duckdb-embedding-search) - Fast similarity search using DuckDB
+- [mehd-io/duckdb-extension-radar](https://github.com/mehd-io/duckdb-extension-radar) - This repo contains information about DuckDB extensions found on GitHub. Refreshed daily
+- [turbolytics/sql-flow](https://github.com/turbolytics/sql-flow) - DuckDB for streaming data
 - [GjjvdBurg/paper2remarkable](https://github.com/GjjvdBurg/paper2remarkable) - Fetch an academic paper or web article and send it to the reMarkable tablet with a single command
 - [lucasrla/remarks](https://github.com/lucasrla/remarks) - Extract annotations (highlights and scribbles) from PDF, EPUB, and notebooks marked with reMarkable tablets. Export to Markdown, PDF, PNG, SVG
 - [bordaigorl/rmview](https://github.com/bordaigorl/rmview) - A live viewer for reMarkable written in PyQt5
@@ -6199,7 +6223,7 @@
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [peaceiris/mkdocs-material-boilerplate](https://github.com/peaceiris/mkdocs-material-boilerplate) - MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.
 - [dharmatech/fed_net_liquidity.py](https://github.com/dharmatech/fed_net_liquidity.py) - 
-- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform terminal command manager/notebook. With features like custom collections, tagging, variable substitution, and integrated man page with option highlighting, cmdCompass 
+- [johnwangwyx/cmdCompass](https://github.com/johnwangwyx/cmdCompass) - 💻🧭cmdCompass is a cross-platform terminal command manager/notebook, enabling users to organize commands into collections, apply tags, define templates with dynamic variables, and view Linux Man (manua
 - [Eugeny/tabby-connection-gateway](https://github.com/Eugeny/tabby-connection-gateway) - Connection gateway for Tabby Web
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to.
 - [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web) - Tabby Web - an SSH/Telnet/Serial client in your browser.
@@ -6493,7 +6517,6 @@
 - [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inferenc
 - [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript) - A functional, content-addressable programming language.
 - [MalwareHunters/vultriever](https://github.com/MalwareHunters/vultriever) - 
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
@@ -7157,6 +7180,7 @@
 
 ## R 
 
+- [cboettig/duckdbfs](https://github.com/cboettig/duckdbfs) - Simple wrappers for duckdb to open local and remote filesystems
 - [mkearney/pkgverse](https://github.com/mkearney/pkgverse) - 📦🔭🌠 Create your own universe of packages à la tidyverse
 - [duncantl/RFirefoxData](https://github.com/duncantl/RFirefoxData) - R tools to query one's own or other information from Firefox, including pages visited, open tabs and windows, bookmarks
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
@@ -7307,6 +7331,7 @@
 
 ## Rust 
 
+- [infinyon/fluvio-duck](https://github.com/infinyon/fluvio-duck) - Fluvio DuckDB Integration
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
 - [asg017/sqlite-md](https://github.com/asg017/sqlite-md) - A SQLite extension for parsing, querying, and generating HTML from Markdown documents.
 - [asg017/sqlite-rembed](https://github.com/asg017/sqlite-rembed) - A SQLite extension for generating text embeddings from remote APIs (OpenAI, Nomic, Ollama, llamafile...)
@@ -7797,6 +7822,7 @@
 - [microsoft/avml](https://github.com/microsoft/avml) - AVML - Acquire Volatile Memory for Linux
 - [mozilla/authenticator-rs](https://github.com/mozilla/authenticator-rs) - Rust library to interact with Security Keys, used by Firefox
 - [curiefense/curiefense](https://github.com/curiefense/curiefense) - Curiefense is a unified, open source platform protecting cloud native applications.
+- [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are.
 - [inspektor-dev/inspektor](https://github.com/inspektor-dev/inspektor) - Inspektor is a protocol-aware proxy that is used to enforce access policies👮
 - [zefr0x/foxmarks](https://github.com/zefr0x/foxmarks) - A CLI read-only interface for Firefox's bookmarks and history.
 - [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
@@ -8286,6 +8312,7 @@
 
 ## Shell 
 
+- [duckdb/extension-template](https://github.com/duckdb/extension-template) - Template for DuckDB extensions to help you develop, test and deploy a custom extension
 - [toltec-dev/toltec](https://github.com/toltec-dev/toltec) - Community-maintained repository of free software for the reMarkable tablet.
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [srz-zumix/gh-act](https://github.com/srz-zumix/gh-act) - gh-act generates and configures event.json for nektos/act
@@ -9145,6 +9172,7 @@
 
 ## Svelte 
 
+- [duckdb-wasm-examples/sveltekit-typescript](https://github.com/duckdb-wasm-examples/sveltekit-typescript) - Demo of duckdb-wasm in static sveltekit.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [delay/sveltekit-auth](https://github.com/delay/sveltekit-auth) - This is a Sveltekit Auth project. It utilizes Lucia for authentication, shadcn-svelte for ui elements, Drizzle for database connectivity and type safety, Lucide for icons, Zod and Superforms to handle
@@ -9231,6 +9259,43 @@
 
 ## TypeScript 
 
+- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
+- [latitude-dev/latitude](https://github.com/latitude-dev/latitude) - Developer-first embedded analytics
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - 🚀 Open-source SQL AI Agent for Text-to-SQL. Make Text2SQL Easy! 🙌
+- [mattf96s/QuackDB](https://github.com/mattf96s/QuackDB) - Open-source in-browser DuckDB SQL editor
+- [holdenmatt/duckdb-wasm-kit](https://github.com/holdenmatt/duckdb-wasm-kit) - Hooks and utilities to make it easier to use duckdb-wasm in React apps.
+- [motherduckdb/duckdb-async](https://github.com/motherduckdb/duckdb-async) - Promise wrappers for the duckdb Node.JS API
+- [LugmanS/buntunnel](https://github.com/LugmanS/buntunnel) - 
+- [apacheli/bluejay](https://github.com/apacheli/bluejay) - Build static pages with MDX, JSX/TSX components, and Bun.
+- [bunmagic/bunmagic](https://github.com/bunmagic/bunmagic) - 🪄 Magic infused scripting with Bun
+- [zckyachmd/plantarium](https://github.com/zckyachmd/plantarium) - 🌱 Plantarium is a RESTful API platform offering structured access to diverse plant data. Explore taxonomy, varieties, synonyms, categories, and more in one place!
+- [Hebilicious/nuxt-module-template](https://github.com/Hebilicious/nuxt-module-template) - A template for Nuxt Modules with Bun
+- [alireza-akbarzadeh/it-bazar](https://github.com/alireza-akbarzadeh/it-bazar) - This project is designed to create a comprehensive marketplace platform that connects users with various sellers and stores, whether online or offline. The goal is to provide a seamless experience for
+- [abdtriedcoding/noted](https://github.com/abdtriedcoding/noted) - Noted is an all-in-one workspace application, that helps you for note-making 📝, project management 📅, collaboration 👥, and more! 🛠️
+- [Ram-Amoncar/npm-package-template](https://github.com/Ram-Amoncar/npm-package-template) - A clean & simple template for NPM packages in TypeScript.
+- [opsbr/eslint-import-resolver-typescript-bun](https://github.com/opsbr/eslint-import-resolver-typescript-bun) - This plugin simply adds workarounds to eslint-import-resolver-typescript when resolving Bun's modules.
+- [rajput-hemant/ts](https://github.com/rajput-hemant/ts) - ⚡ Explore solutions to type challenges from https://tsch.js.org and Advent of Typescript  from https://typehero.dev.
+- [rajput-hemant/qwik-template](https://github.com/rajput-hemant/qwik-template) - A Qwik City template with TypeScript, TailwindCSS, Qwickest Icons and pre-configured with ESLint, Prettier and Husky git hooks.
+- [vidavidorra/bunyan-pretty-stream](https://github.com/vidavidorra/bunyan-pretty-stream) - Highly configurable Bunyan stream with pretty output
+- [dbushell/hyperless](https://github.com/dbushell/hyperless) - 🧼 HTML to text and other useful stuff
+- [u1aryz/bun-biome-template](https://github.com/u1aryz/bun-biome-template) - Bun + Biome starter template.
+- [risavkarna/prosaic](https://github.com/risavkarna/prosaic) - TipTap, Prose Mirror, YJS, Bun
+- [Rakemoon/elysia-template](https://github.com/Rakemoon/elysia-template) - Backend Service with Bun Stack ( Elysia, Drizzle)
+- [temme-stefan/markdown-bundler](https://github.com/temme-stefan/markdown-bundler) - got a whole bunch of markdown  files in and get static site html out
+- [rozek/SyncedStore-bundle](https://github.com/rozek/SyncedStore-bundle) - bundles SyncedStore, yjs and several related packages into a single module that can be used in no-build environments
+- [unjs/errx](https://github.com/unjs/errx) - Zero dependency library to capture and parse stack traces in Node, Bun, Deno and more.
+- [DaBigBlob/libsql-stateless-easy](https://github.com/DaBigBlob/libsql-stateless-easy) - Thin libSQL stateless HTTP driver for TypeScript and JavaScript for the edge but easy 🚀
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Rate limiting, bot protection, email verification & attack defense for Node.js, Next.js, Bun & SvelteKit.
+- [rubensborges/bun-chat-api](https://github.com/rubensborges/bun-chat-api) - This project implements an online chat API inspired by the classic UOL chat, built using Bun. The API supports participant management, message handling, and in-memory data storage.
+- [gerold-penz/bun-sqlite-key-value](https://github.com/gerold-penz/bun-sqlite-key-value) - A super fast key-value store with SQLite that uses bun:sqlite and v8 as a fast JSON replacement.
+- [bennykim/esbuild-bundle-lite](https://github.com/bennykim/esbuild-bundle-lite) - EBL (esbuild-bundle-lite) is an esbuild-based bundling tool designed for React projects. It provides a lightweight and efficient build process, leveraging the speed of esbuild and the flexibility of c
+- [tasos-stefanou/saas-4-saas](https://github.com/tasos-stefanou/saas-4-saas) - SaaS 4 SaaS: The Ultimate Platform to Build and Launch Your Own SaaS Products. Powered by Next.js 14, Bun, Stripe Connect, Prisma, and MySQL. Seamlessly Create, Manage, and Scale Your SaaS Application
+- [iolave/bun-jira-tickets-from-gh](https://github.com/iolave/bun-jira-tickets-from-gh) - CLI tool to sync your GitHub project to Jira Project
+- [DapperMountain/payload-3-bun-template](https://github.com/DapperMountain/payload-3-bun-template) - Opinionated setup of Payload 3, incorporating Database seed scripts, centralized Zod config, abstracted access control and hooks, using Bun
+- [pimcore/studio-ui-bundle](https://github.com/pimcore/studio-ui-bundle) - Studio UI bundle
+- [gmickel/turborepo-shadcn-nextjs](https://github.com/gmickel/turborepo-shadcn-nextjs) - A Turborepo starter template with Next.js, Nextra, Storybook, and a shared pre-configured shadcn/ui package, powered by Bun and Biome
+- [fluent-ci-templates/fly-pipeline](https://github.com/fluent-ci-templates/fly-pipeline) - A ready-to-use CI/CD Pipeline for deploying your applications to fly.io
+- [fluent-ci-templates/base-pipeline](https://github.com/fluent-ci-templates/base-pipeline) - A minimal Fluent CI Pipeline
 - [fluent-ci-templates/trivy-pipeline](https://github.com/fluent-ci-templates/trivy-pipeline) - A ready-to-use CI/CD Pipeline for scanning vulnerabilities using Trivy.
 - [fluent-ci-templates/github-pipeline](https://github.com/fluent-ci-templates/github-pipeline) - A ready-to-use CI/CD Pipeline for uploading assets to github releases.
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
@@ -10070,7 +10135,6 @@
 - [developbharat/bun-auth](https://github.com/developbharat/bun-auth) - Authentication plugin for bun apps with consistent interface.
 - [kravetsone/esbuild-plugin-autoload](https://github.com/kravetsone/esbuild-plugin-autoload) - Bun/esbuild plugin for work with autoload at runtime
 - [damonsmith/bun-plugin-inline-templates](https://github.com/damonsmith/bun-plugin-inline-templates) - 
-- [opsbr/eslint-import-resolver-typescript-bun](https://github.com/opsbr/eslint-import-resolver-typescript-bun) - This plugin simply adds workarounds to eslint-import-resolver-typescript when resolving Bun's modules.
 - [grafana/faro-javascript-bundler-plugins](https://github.com/grafana/faro-javascript-bundler-plugins) - A collection of plugins for various JavaScript bundlers. Used in conjunction with the Faro Web SDK to unlock additional features in Grafana Cloud Frontend Observability.
 - [eth-p/esbuild-plugin-dts-bundle-generator](https://github.com/eth-p/esbuild-plugin-dts-bundle-generator) - An esbuild plugin that builds d.ts bundles using `dts-bundle-generator`.
 - [codecov/codecov-javascript-bundler-plugins](https://github.com/codecov/codecov-javascript-bundler-plugins) - Set of bundler plugins that allow users to upload bundle stats to Codecov.
@@ -10881,7 +10945,7 @@
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [alura/techguide](https://github.com/alura/techguide) - TechGuide main repository with the code that guides your tech career!
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
-- [tapexyz/tape](https://github.com/tapexyz/tape) - Talk, Amplify, Post, Explore - social media platform.
+- [tapexyz/tape](https://github.com/tapexyz/tape) - an open social media.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
@@ -11542,7 +11606,6 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [vincentdchan/CubyText](https://github.com/vincentdchan/CubyText) - An open-source knowledge management app.
-- [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are.
 - [olliswe/iamworkingonit-cli](https://github.com/olliswe/iamworkingonit-cli) - 👨🏽‍💻👩🏾‍💻 🧑🏻‍💻 Let your colleagues know what your working on - without leaving your terminal!
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies.
@@ -11569,7 +11632,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [warpdotdev/commands.dev](https://github.com/warpdotdev/commands.dev) - Commands.dev is a searchable, templated catalog of popular terminal commands curated from across the internet.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
-- [pluralsh/plural](https://github.com/pluralsh/plural) - Deploy open source software on Kubernetes in record time. 🚀
+- [pluralsh/plural](https://github.com/pluralsh/plural) - Enterprise Kubernetes management, accelerated. 🚀
 - [bunnyshell/demo-books](https://github.com/bunnyshell/demo-books) - Demo app for easily getting started with Bunnyshell
 - [scaffold-sh/cli](https://github.com/scaffold-sh/cli) - Scaffold is a framework to create a complete AWS infrastructure, defined as code, in seconds.
 - [datopian/datahub](https://github.com/datopian/datahub) - 🌀 Rapidly build rich data portals using a modern frontend framework
@@ -11590,7 +11653,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [featurevisor/featurevisor](https://github.com/featurevisor/featurevisor) - Feature flags, experiments, and remote config management with version control
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku / Netlify / Vercel alternative for Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [omnivore-app/logseq-omnivore](https://github.com/omnivore-app/logseq-omnivore) - Logseq plugin to fetch articles and highlights from Omnivore
@@ -11986,6 +12049,7 @@
 
 ## Vue 
 
+- [incentius-foss/WhatTheDuck](https://github.com/incentius-foss/WhatTheDuck) - WhatTheDuck is an open-source web application built on DuckDB. It allows users to upload CSV files, store them in tables, and perform SQL queries on the data.
 - [nuxt-ui-pro/dashboard](https://github.com/nuxt-ui-pro/dashboard) - A dashboard template made with Vue and Nuxt UI Pro.
 - [ZTL-UwU/shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt) - Effortless and beautiful docs template built with nuxt content & shadcn-vue.
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
@@ -12003,7 +12067,7 @@
 - [DanielBodnar/snipp.in](https://github.com/DanielBodnar/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
 - [pulsardev/vue-tour](https://github.com/pulsardev/vue-tour) - Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.
 - [radix-vue/shadcn-vue](https://github.com/radix-vue/shadcn-vue) - Vue port of shadcn-ui
-- [compiiile/compiiile](https://github.com/compiiile/compiiile) - The most convenient way to render a folder containing markdown files. Previewing and searching markdown files has never been that easy.
+- [compiiile/compiiile](https://github.com/compiiile/compiiile) - The most convenient way to render and deploy a folder containing markdown files. Previewing and searching markdown files has never been that easy.
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [unjs/undocs](https://github.com/unjs/undocs) - Minimal Documentation theme and CLI for shared usage across UnJS projects.
 - [nuxt-ui-pro/saas](https://github.com/nuxt-ui-pro/saas) - A SaaS template made with Nuxt UI Pro.
