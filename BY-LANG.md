@@ -1275,7 +1275,7 @@
 - [humanbeeng/lepo](https://github.com/humanbeeng/lepo) - Lepo - Code AI powered by Treesitter and ast-grep
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [Link-/openhue-cli](https://github.com/Link-/openhue-cli) - OpenHue CLI is a command-line interface for interacting with Philips Hue smart lighting systems.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database for building real-time applications with SQL-based real-time reactivity.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is hyper-optimized for building and scaling truly real-time applications on modern hardware. It is a drop-in replacement for Redis with support for SQL-based reactivity.
 - [go-to-k/delstack](https://github.com/go-to-k/delstack) - The CLI tool to force delete the entire AWS CloudFormation stack, even if it contains resources that fail to delete by the CloudFormation delete operation.
 - [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
@@ -3302,6 +3302,7 @@
 
 ## JavaScript 
 
+- [dothq/browser-desktop](https://github.com/dothq/browser-desktop) - Dot Browser for Windows, macOS and Linux
 - [insulineru/ai-commit](https://github.com/insulineru/ai-commit) - ✨ Make commits easier with ChatGPT, Gitmoji and Conventional Commits 🚀
 - [ohhpeejoshi/pomodoro-cli](https://github.com/ohhpeejoshi/pomodoro-cli) - 🍅 A simple, interactive Pomodoro Timer CLI(Command Line Interface) built with Node.js and @clack/prompts. Set custom work and break durations, specify the number of cycles, and receive visual countdow
 - [duckdb-wasm-examples/duckdbwasm-vitebrowser](https://github.com/duckdb-wasm-examples/duckdbwasm-vitebrowser) - Barebones example of querying with duckdb-wasm using Vite and just the browser (no front-end framework). No dataset file is loaded; the data is created using the generate_series function.
@@ -3844,7 +3845,6 @@
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [Darin755/browser-linux](https://github.com/Darin755/browser-linux) - Linux, in your browser
 - [filerjs/filer](https://github.com/filerjs/filer) - Node-like file system for browsers
-- [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [henryhale/livecode](https://github.com/henryhale/livecode) - ⚡️ Minimal code playground
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) - Hand-crafted Frida examples
@@ -5262,13 +5262,14 @@
 
 ## MDX 
 
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
+- [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [Sobeston/zig.guide](https://github.com/Sobeston/zig.guide) - Repo for https://zig.guide content. Get up to speed with Zig quickly.
 - [radix-ui/website](https://github.com/radix-ui/website) - Website and documentation for Radix.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+- [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [frictionlessdata/datapackage](https://github.com/frictionlessdata/datapackage) - Data Package is a standard consisting of a set of simple yet extensible specifications to describe datasets, data files and tabular data. It is a data definition language (DDL) and data API that facil
 - [artusjs/spec](https://github.com/artusjs/spec) - Spec for Artus.js.
@@ -7482,6 +7483,7 @@
 
 ## Rust 
 
+- [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN)
 - [hhatto/rust-snippets](https://github.com/hhatto/rust-snippets) - my code snippets for Rust
 - [rust-lang/annotate-snippets-rs](https://github.com/rust-lang/annotate-snippets-rs) - Library for snippet annotations
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy UDP over WebSocket - useful to use WireGuard in restricted networks.
@@ -8934,7 +8936,7 @@
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [DiabloHorn/vysolator](https://github.com/DiabloHorn/vysolator) - vyos based isolation of networks
 - [truxnell/vyos-config](https://github.com/truxnell/vyos-config) - My VyOS home config, managed as IAC with some scripting
-- [bernd-schorgers/vyos-config](https://github.com/bernd-schorgers/vyos-config) - My VyOS configuration
+- [bjw-s/vyos-config](https://github.com/bjw-s/vyos-config) - My VyOS configuration
 - [Ramblurr/home-ops](https://github.com/Ramblurr/home-ops) - My gitops'd home prod IaC
 - [kh4sh3i/smartrecon](https://github.com/kh4sh3i/smartrecon) - smartrecon is a powerful shell script to automate the recon and finding common vulnerabilities for bug hunter
 - [cnabio/cnab-spec](https://github.com/cnabio/cnab-spec) - Cloud Native Application Bundle Specification
@@ -9448,6 +9450,8 @@
 
 ## TypeScript 
 
+- [pulse-browser/gluon](https://github.com/pulse-browser/gluon) - Build firefox forks with ease
+- [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
 - [janhq/cortex.js](https://github.com/janhq/cortex.js) - The official Node.js / Typescript library for the OpenAI API
 - [duckdb-wasm-examples/react-typescript-shell](https://github.com/duckdb-wasm-examples/react-typescript-shell) - 
 - [joaopcm/snipshare](https://github.com/joaopcm/snipshare) - Revolutionize your coding experience with Snipshare - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.snipshare.co 🚀🌟
@@ -9500,7 +9504,7 @@
 - [bunmagic/bunmagic](https://github.com/bunmagic/bunmagic) - 🪄 Magic infused scripting with Bun
 - [zckyachmd/plantarium](https://github.com/zckyachmd/plantarium) - 🌱 Plantarium is a RESTful API platform offering structured access to diverse plant data. Explore taxonomy, varieties, synonyms, categories, and more in one place!
 - [Hebilicious/nuxt-module-template](https://github.com/Hebilicious/nuxt-module-template) - A template for Nuxt Modules with Bun
-- [alireza-akbarzadeh/it-bazar](https://github.com/alireza-akbarzadeh/it-bazar) - This project is designed to create a comprehensive marketplace platform that connects users with various sellers and stores, whether online or offline. The goal is to provide a seamless experience for
+- [alireza-akbarzadeh/commento](https://github.com/alireza-akbarzadeh/commento) - This project is designed to create a comprehensive marketplace platform that connects users with various sellers and stores, whether online or offline. The goal is to provide a seamless experience for
 - [abdtriedcoding/noted](https://github.com/abdtriedcoding/noted) - Noted is an all-in-one workspace application, that helps you for note-making 📝, project management 📅, collaboration 👥, and more! 🛠️
 - [Ram-Amoncar/npm-package-template](https://github.com/Ram-Amoncar/npm-package-template) - A clean & simple template for NPM packages in TypeScript.
 - [opsbr/eslint-import-resolver-typescript-bun](https://github.com/opsbr/eslint-import-resolver-typescript-bun) - This plugin simply adds workarounds to eslint-import-resolver-typescript when resolving Bun's modules.
@@ -11153,7 +11157,7 @@
 - [datreeio/yaml-schema-validator](https://github.com/datreeio/yaml-schema-validator) - An open source yaml schema validator. just like json schema - only better
 - [alma-cdk/openapix](https://github.com/alma-cdk/openapix) - Combine the power of AWS CDK & OpenAPI YAML Schema Definitions
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
-- [learn-anything/explore](https://github.com/learn-anything/explore) - Trying things
+- [learn-anything/past](https://github.com/learn-anything/past) - Trying things
 - [woochanleee/project-tree-generator](https://github.com/woochanleee/project-tree-generator) - 📦 Project Tree Generator
 - [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools by using these cards in your GitHub README.
 - [ShaanCoding/makeread.me](https://github.com/ShaanCoding/makeread.me) - An Awesome ReadME Generator To Jumpstart Your Projects!
