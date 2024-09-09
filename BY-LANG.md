@@ -211,6 +211,7 @@
 
 ## C 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [thebsdbox/learning-ebpf](https://github.com/thebsdbox/learning-ebpf) - This repository contains various code snippets and learnings around eBPF
 - [capnramses/apg](https://github.com/capnramses/apg) - mini libraries / experimental tools and reusable snippets
 - [bmx-routing/bmx7](https://github.com/bmx-routing/bmx7) - BMX7 / SEMTOR Securely Entrusted Mesh Routing Protocol
@@ -1210,6 +1211,7 @@
 
 ## Go 
 
+- [marco-souza/omg](https://github.com/marco-souza/omg) - Ollama Modelfile Generator
 - [pion/ice](https://github.com/pion/ice) - A Go implementation of ICE
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailnet anywhere
 - [refraction-networking/water](https://github.com/refraction-networking/water) - WebAssembly Transport Executables Runtime
@@ -1275,7 +1277,7 @@
 - [humanbeeng/lepo](https://github.com/humanbeeng/lepo) - Lepo - Code AI powered by Treesitter and ast-grep
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [Link-/openhue-cli](https://github.com/Link-/openhue-cli) - OpenHue CLI is a command-line interface for interacting with Philips Hue smart lighting systems.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is hyper-optimized for building and scaling truly real-time applications on modern hardware. It is a drop-in replacement for Redis with support for SQL-based reactivity.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement fo
 - [go-to-k/delstack](https://github.com/go-to-k/delstack) - The CLI tool to force delete the entire AWS CloudFormation stack, even if it contains resources that fail to delete by the CloudFormation delete operation.
 - [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
@@ -2922,6 +2924,8 @@
 
 ## HTML 
 
+- [jsnelders/chrome-bookmarks-converter](https://github.com/jsnelders/chrome-bookmarks-converter) - Use JavaScript to convert an exported Chrome bookmarks HTML file. Export the results to JSON.
+- [sohaib1khan/DashLink](https://github.com/sohaib1khan/DashLink) - A simple Flask-based web application that allows users to manage their bookmarks by adding, editing, and deleting bookmarks within categorized sections. The application stores bookmarks in a JSON file
 - [darekkay/config-files](https://github.com/darekkay/config-files) - My collection of .dotfiles, settings and snippets.
 - [wx-chevalier/Awesome-Methodologies](https://github.com/wx-chevalier/Awesome-Methodologies) - :books: Ultimate CheatSheets(Tutorials&MindMap), overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. :dizzy:  干货满满的全栈开发速学速查手册集锦
 - [harryheman/modern-html-starter-template](https://github.com/harryheman/modern-html-starter-template) - Modern HTML Starter Template
@@ -3302,6 +3306,7 @@
 
 ## JavaScript 
 
+- [imhimansu28/upload-bookmarks](https://github.com/imhimansu28/upload-bookmarks) - The Bookmark Manager is a powerful tool for organizing and managing bookmarks. With its bookmark management and category management features, users can easily keep track of their favorite websites. Th
 - [dothq/browser-desktop](https://github.com/dothq/browser-desktop) - Dot Browser for Windows, macOS and Linux
 - [insulineru/ai-commit](https://github.com/insulineru/ai-commit) - ✨ Make commits easier with ChatGPT, Gitmoji and Conventional Commits 🚀
 - [ohhpeejoshi/pomodoro-cli](https://github.com/ohhpeejoshi/pomodoro-cli) - 🍅 A simple, interactive Pomodoro Timer CLI(Command Line Interface) built with Node.js and @clack/prompts. Set custom work and break durations, specify the number of cycles, and receive visual countdow
@@ -5091,6 +5096,7 @@
 
 ## Jupyter Notebook 
 
+- [wxmAndrew/ollamam-modelfiles](https://github.com/wxmAndrew/ollamam-modelfiles) - A curated space for storing and managing my diverse ai notes, configurations, notebooks, and similar items for personal use
 - [akshaytheau/Data-Science](https://github.com/akshaytheau/Data-Science) - This repo contains Data Science code snippet
 - [nevernervous78/nirpyresearch](https://github.com/nevernervous78/nirpyresearch) - Snippets and data from the blog of Nirpy Research
 - [rasbt/machine-learning-notes](https://github.com/rasbt/machine-learning-notes) - Collection of useful machine learning codes and snippets (originally intended for my personal use)
@@ -5182,6 +5188,8 @@
 
 ## Kotlin 
 
+- [BoD/bbt](https://github.com/BoD/bbt) - BoD's Bookmark Tool, a browser extension
+- [BoD/github-to-bookmarks](https://github.com/BoD/github-to-bookmarks) - Generate a JSON bookmarks document from a GitHub user
 - [android/snippets](https://github.com/android/snippets) - Main repository for snippets surfaced on developer.android.com.
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [dzikoysk/presence-of-mind](https://github.com/dzikoysk/presence-of-mind) - Personal utility Android app used to organize private backlog by mixing daily schedule tasks with habits, long-term goals, notes & things to learn
@@ -5467,6 +5475,8 @@
 
 ## Others 
 
+- [umtksa/ollama](https://github.com/umtksa/ollama) - my custom ollama model files
+- [b1ip/ollama_modelfile_template](https://github.com/b1ip/ollama_modelfile_template) - Ollama Modelfile Template
 - [danielbodnar/journal](https://github.com/danielbodnar/journal) - A personal journal for zettel notes
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [BeastCode/VSCode-Angular-TypeScript-Snippets](https://github.com/BeastCode/VSCode-Angular-TypeScript-Snippets) - Visual Studio Code TypeScript snippets (TypeScript, Html, Angular Material, Flex Layout, ngRx, RxJS & Testing) for Angular 17
@@ -6256,6 +6266,12 @@
 
 ## Python 
 
+- [k5-mot/homelab](https://github.com/k5-mot/homelab) - 
+- [di37/coding-assistant-codellama-streamlit](https://github.com/di37/coding-assistant-codellama-streamlit) - This project demonstrates how to utilize Codellama, a local open-source Large Language Model (LLM), and customize its behavior according to your specific requirements using a Modelfile.
+- [avalogic/githubstar](https://github.com/avalogic/githubstar) - Export Github stars and starred repos to HTML, bookmark, json or markdown format, grouped by language or topics, order by time, stargazers count etc..
+- [kleymik/bookmarksConvert](https://github.com/kleymik/bookmarksConvert) - Convert bookmarks/favorites from source format (html, json, or sqlite) to create nested folders and files or one org-mode formatted file
+- [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter) - Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
+- [tariquesani/chrome-bookmarks-to-obsidian](https://github.com/tariquesani/chrome-bookmarks-to-obsidian) - This Python script converts your Google Chrome bookmarks JSON file into Markdown files that can be used with ObsidianMD
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) - WebRTC for the Curious: Go beyond the APIs
 - [exposesh/expose-server](https://github.com/exposesh/expose-server) - The various components of the EXPOSE server, deployed on Fly.io
 - [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
@@ -7483,6 +7499,11 @@
 
 ## Rust 
 
+- [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
+- [jmacdonald/scribe](https://github.com/jmacdonald/scribe) - Text editor components
+- [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - A web browser in the making. More info at https://gosub.io
 - [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN)
 - [hhatto/rust-snippets](https://github.com/hhatto/rust-snippets) - my code snippets for Rust
 - [rust-lang/annotate-snippets-rs](https://github.com/rust-lang/annotate-snippets-rs) - Library for snippet annotations
@@ -8481,6 +8502,7 @@
 
 ## Shell 
 
+- [KeepElapsedTime/ollama-modelfile](https://github.com/KeepElapsedTime/ollama-modelfile) - Use for ollama create model with system prompt
 - [alexsoyes/ai-driven-dev-community](https://github.com/alexsoyes/ai-driven-dev-community) - A collection of tools, prompts, snippets and agents for developers that use AI, daily.
 - [mikeferguson/ros2_cookbook](https://github.com/mikeferguson/ros2_cookbook) - Code snippets for ROS2
 - [chrisbouchard/namespaced-wireguard-vpn](https://github.com/chrisbouchard/namespaced-wireguard-vpn) - Systemd configuration for a network namespace containing a WireGuard VPN connection
@@ -9450,6 +9472,8 @@
 
 ## TypeScript 
 
+- [tipogi/bushido.library](https://github.com/tipogi/bushido.library) - CLI NestJS application to merge/add nodes in bushido.guide. Add in the bookmarks folder the URL with details and run the command
+- [c-shubh/bookmarks](https://github.com/c-shubh/bookmarks) - Converts browser's bookmarks JSON file to CSV.
 - [pulse-browser/gluon](https://github.com/pulse-browser/gluon) - Build firefox forks with ease
 - [zen-browser/surfer](https://github.com/zen-browser/surfer) - Simplifying building firefox forks!
 - [janhq/cortex.js](https://github.com/janhq/cortex.js) - The official Node.js / Typescript library for the OpenAI API
@@ -10853,7 +10877,7 @@
 - [EndemolShineGroup/cz-jira-smart-commit](https://github.com/EndemolShineGroup/cz-jira-smart-commit) - A Commitizen adapter for JIRA smart commits
 - [nestjs/config](https://github.com/nestjs/config) - Configuration module for Nest framework (node.js) 🍓
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
-- [samchon/openapi](https://github.com/samchon/openapi) - Type safe OpenAPI definitions
+- [samchon/openapi](https://github.com/samchon/openapi) - OpenAPI definitions, converters and LLM function calling application composer.
 - [Nikaple/nest-typed-config](https://github.com/Nikaple/nest-typed-config) - Intuitive, type-safe configuration module for Nest framework ✨
 - [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
@@ -11157,7 +11181,7 @@
 - [datreeio/yaml-schema-validator](https://github.com/datreeio/yaml-schema-validator) - An open source yaml schema validator. just like json schema - only better
 - [alma-cdk/openapix](https://github.com/alma-cdk/openapix) - Combine the power of AWS CDK & OpenAPI YAML Schema Definitions
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
-- [learn-anything/past](https://github.com/learn-anything/past) - Trying things
+- [learn-anything/past](https://github.com/learn-anything/past) - Archive of code/things
 - [woochanleee/project-tree-generator](https://github.com/woochanleee/project-tree-generator) - 📦 Project Tree Generator
 - [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools by using these cards in your GitHub README.
 - [ShaanCoding/makeread.me](https://github.com/ShaanCoding/makeread.me) - An Awesome ReadME Generator To Jumpstart Your Projects!
