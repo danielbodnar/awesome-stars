@@ -609,6 +609,7 @@
 
 ## C++ 
 
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [ultralight-ux/WebCore](https://github.com/ultralight-ux/WebCore) - WebCore Module. This module is a fork of WebKit's WebCore module and is responsible for all parsing, styling, layout, script execution, and page state.
 - [Eeems-Org/oxide](https://github.com/Eeems-Org/oxide) - A desktop environment for the reMarkable tablet
 - [netcan/recipes](https://github.com/netcan/recipes) - There is my code snippet.
@@ -3360,7 +3361,6 @@
 - [github/text-expander-element](https://github.com/github/text-expander-element) - Activates a suggestion menu to expand text snippets as you type.
 - [spr-networks/super](https://github.com/spr-networks/super) - 📡 SPR: Open Source, secure, user friendly and fast wifi routers for your home. One wifi password per device. Ad Blocking & Privacy Blocklists. Policy Based Network Access
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
-- [tavsec/neon-scaffolder](https://github.com/tavsec/neon-scaffolder) - CLI for scaffolding Neon projects for different frameworks
 - [jasonlong/mater](https://github.com/jasonlong/mater) - 🍅 A simple menubar Pomodoro app
 - [mateodelnorte/meta-init](https://github.com/mateodelnorte/meta-init) - plugin for initializing new meta repositories
 - [mateodelnorte/meta-project](https://github.com/mateodelnorte/meta-project) - 
@@ -5539,7 +5539,7 @@
 - [MooersLab/writing-log-md](https://github.com/MooersLab/writing-log-md) - Writing log template in markdown
 - [Brunowilliang/zedspace](https://github.com/Brunowilliang/zedspace) - 
 - [hibbitts-design/docsify-open-course-starter-kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) - A ready-to-use template to create a Docsify Markdown-based open course website. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes an optional "Edit t
-- [hibbitts-design/docsify-this](https://github.com/hibbitts-design/docsify-this) - A lightweight Markdown open publishing tool, built with the Docsify Open Publishing Starter Kit. Finalist in the Open Infrastructure category for the 2024 Open Education Global Awards. Mirror backup i
+- [hibbitts-design/docsify-this](https://github.com/hibbitts-design/docsify-this) - A lightweight Markdown open publishing tool, built with the Docsify Open Publishing Starter Kit. Finalist in the Open Infrastructure category for the 2024 Open Education Awards for Excellence. Mirror 
 - [hibbitts-design/docsify-this-lms-content-pages](https://github.com/hibbitts-design/docsify-this-lms-content-pages) - A set of embeddable LMS pages for Docsify-This.net.
 - [hibbitts-design/docsify-this-multiple-page-course-site](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site) - A multiple page course site template for Docsify-This.net.
 - [hibbitts-design/docsify-this-multiple-page-open-publishing-site](https://github.com/hibbitts-design/docsify-this-multiple-page-open-publishing-site) - 
@@ -6395,7 +6395,7 @@
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [openrecall/openrecall](https://github.com/openrecall/openrecall) - OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memor
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
-- [whitphx/streamlit-webrtc](https://github.com/whitphx/streamlit-webrtc) - Real-time video and audio streams over the network, with Streamlit.
+- [whitphx/streamlit-webrtc](https://github.com/whitphx/streamlit-webrtc) - Real-time video and audio processing on Streamlit
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [MajorcaDevs/dvd](https://github.com/MajorcaDevs/dvd) - Small utility to generate dvd screensaver videos or live streamings
 - [iWas-Coder/web-dl](https://github.com/iWas-Coder/web-dl) - Downloader & Decryptor for MPD Streams through CDN's using DRM technology.
@@ -7987,7 +7987,7 @@
 - [SeaQL/sea-schema](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery
 - [CodeMan99/tyedev](https://github.com/CodeMan99/tyedev) - Improve Devcontainer Creation
 - [GustavoKatel/devcontainers-rs](https://github.com/GustavoKatel/devcontainers-rs) - Rust implementation of the VSCode devcontainer.json file
-- [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI which makes it easy to launch vscode projects, with a focus on dev containers.
+- [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
 - [replydev/cotp](https://github.com/replydev/cotp) - Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 - [ksk001100/seahorse](https://github.com/ksk001100/seahorse) - A minimal CLI framework written in Rust
 - [wena-cli/wena](https://github.com/wena-cli/wena) - Wena is a micro-framework that provides an elegant starting point for your console application.
@@ -8017,7 +8017,7 @@
 - [deislabs/spiderlightning](https://github.com/deislabs/spiderlightning) - A set of WIT definitions and associated implementations to enable app developers to work at a faster pace and require less knowledge of the environment in which they are executing.
 - [BiagioFesta/wtransport](https://github.com/BiagioFesta/wtransport) - Async-friendly WebTransport implementation in Rust
 - [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust) - Playwright port to Rust
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
@@ -8574,7 +8574,7 @@
 - [danielbodnar/archiso](https://github.com/danielbodnar/archiso) - 
 - [andresgongora/synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
 - [KeepElapsedTime/ollama-modelfile](https://github.com/KeepElapsedTime/ollama-modelfile) - Use for ollama create model with system prompt
-- [alexsoyes/ai-driven-dev-community](https://github.com/alexsoyes/ai-driven-dev-community) - A collection of tools, prompts, snippets and agents for developers that use AI, daily.
+- [ai-driven-dev/ai-driven-dev-community](https://github.com/ai-driven-dev/ai-driven-dev-community) - A collection of tools, prompts, snippets and agents for developers that use AI, daily.
 - [mikeferguson/ros2_cookbook](https://github.com/mikeferguson/ros2_cookbook) - Code snippets for ROS2
 - [chrisbouchard/namespaced-wireguard-vpn](https://github.com/chrisbouchard/namespaced-wireguard-vpn) - Systemd configuration for a network namespace containing a WireGuard VPN connection
 - [Azumi67/RTT-Wireguard](https://github.com/Azumi67/RTT-Wireguard) - Create a reverse tunnel with load balance for Wireguard [ on a single server using different IPV6]
@@ -9885,7 +9885,7 @@
 - [pubkey/event-reduce](https://github.com/pubkey/event-reduce) - An algorithm to optimize database queries that run multiple times https://pubkey.github.io/event-reduce/
 - [yy0931/sqlite3-editor](https://github.com/yy0931/sqlite3-editor) - 
 - [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
-- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  Open-source, self-building database and AI worker management
+- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [planetscale/database-js](https://github.com/planetscale/database-js) - A Fetch API-compatible PlanetScale database driver
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
 - [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed.
