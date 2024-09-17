@@ -10548,7 +10548,7 @@
 - [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl) - Python-based Low-code ETL for data manipulation and transformation. Generates Python code you can deploy anywhere.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
-- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management
+- [tillywork/tillywork](https://github.com/tillywork/tillywork) - Opensource work management solution, alternative to monday.com
 - [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [wvit/web-document](https://github.com/wvit/web-document) - A browser extension for saving web documents locally, allowing you to access them offline and quickly search for webpage content without an internet connection, while also saving browser memory usage.
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - ✨ Turn your OpenAPI specification into a beautiful TypeScript client
@@ -10639,7 +10639,7 @@
 - [configjs/unconfigurator](https://github.com/configjs/unconfigurator) - Try to make a web page to managing all frontend project configurations.
 - [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
 - [elninotech/uppload](https://github.com/elninotech/uppload) - 📁 JavaScript image uploader and editor, no backend required
-- [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
+- [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 - [kravetsone/create-elysiajs](https://github.com/kravetsone/create-elysiajs) - Scaffolding your Elysia project with the environment with easy!
 - [optimumqa/cypress-boilerplate](https://github.com/optimumqa/cypress-boilerplate) - Quickly start a new pre-configured Cypress project with only one command.
 - [rspack-contrib/rspack-plugin-virtual-module](https://github.com/rspack-contrib/rspack-plugin-virtual-module) - An Rspack plugin that allows you to create virtual modules.
