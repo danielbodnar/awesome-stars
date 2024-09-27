@@ -333,7 +333,6 @@
 - [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
 - [huggingface/neuralcoref](https://github.com/huggingface/neuralcoref) - ✨Fast Coreference Resolution in spaCy with Neural Networks
 - [pmem/syscall_intercept](https://github.com/pmem/syscall_intercept) - The system call intercepting library
-- [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [iqiyi/qnsm](https://github.com/iqiyi/qnsm) - QNSM is network security monitoring framework based on DPDK.
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
@@ -623,7 +622,7 @@
 - [voltrondata/sqlflite](https://github.com/voltrondata/sqlflite) - An example Flight SQL Server implementation - with DuckDB and SQLite back-ends.
 - [rmkit-dev/rmkit](https://github.com/rmkit-dev/rmkit) - | remarkable app framework | https://rmkit.dev
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2023 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
+- [oracle/graaljs](https://github.com/oracle/graaljs) - A ECMAScript 2024 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [ErickWendel/myownnode](https://github.com/ErickWendel/myownnode) - Bun? Deno? Node.js? Creating your own JavaScript Runtime using V8, Libuv and more
@@ -1697,7 +1696,7 @@
 - [anyproto/any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 - [anyproto/any-ns-node](https://github.com/anyproto/any-ns-node) - dRPC node for Any Naming System
 - [chromedp/pdlgen](https://github.com/chromedp/pdlgen) - Generates templated code using Chrome DevTools PDL definitions.
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [ovh/venom](https://github.com/ovh/venom) - 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
 - [envsecrets/envsecrets](https://github.com/envsecrets/envsecrets) - Open-source, end-to-end encrypted CLI-first management of your environment secrets.
 - [agnivade/wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) - Run WASM tests inside your browser
@@ -1846,7 +1845,7 @@
 - [kubecfg/kubecfg](https://github.com/kubecfg/kubecfg) - A tool for managing complex enterprise Kubernetes environments as code.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Passwordless-First Authentication APIs & Embeddable UI Components. Convert Your Visitors into Users.
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 - [the4thamigo-uk/conflate](https://github.com/the4thamigo-uk/conflate) - Library providing routines to merge and validate JSON, YAML and/or TOML files
@@ -4210,7 +4209,6 @@
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [vdutts7/gpt4V-scraper](https://github.com/vdutts7/gpt4V-scraper) - AI agent that can SEE 👁️, control, navigate, & do stuff for you on your browser.
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
@@ -7698,7 +7696,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [jasonjmcghee/xrem](https://github.com/jasonjmcghee/xrem) - (Cross-Platform) An open source approach to locally record and enable searching everything you view on any computer.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
 - [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
 - [rien/reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
@@ -8271,7 +8269,7 @@
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
@@ -8569,6 +8567,7 @@
 
 ## Shell 
 
+- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributi
 - [devxp-tech/gitops](https://github.com/devxp-tech/gitops) - 🏗️ GitOps Repository
 - [networkservicemesh/deployments-k8s](https://github.com/networkservicemesh/deployments-k8s) - 
 - [cncf/velocity](https://github.com/cncf/velocity) - 🚅Track development velocity
@@ -9143,6 +9142,7 @@
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [pirovc/genome_updater](https://github.com/pirovc/genome_updater) - Bash script to download/update snapshots of files from NCBI genomes repository (refseq/genbank) with track of changes and without redundancy
+- [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [kairos-io/packages](https://github.com/kairos-io/packages) - :whale: Cross-distribution packages as standalone OCI images
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) - Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
@@ -9466,6 +9466,7 @@
 - [stophecom/sharrr-svelte](https://github.com/stophecom/sharrr-svelte) - End-to-end encrypted file transfer.
 - [maxlath/website-history-browser](https://github.com/maxlath/website-history-browser) - a WebExtension to browse your history per website
 - [yanick/jsonschematic](https://github.com/yanick/jsonschematic) - json schema viewer
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [kevmodrome/mistral-kit](https://github.com/kevmodrome/mistral-kit) - A prompt to code site using mistral-7b and ollama.
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [berrysauce/ingredients](https://github.com/berrysauce/ingredients) - 🧪  Determine the "ingredients" (or technologies) behind a website
@@ -9548,6 +9549,7 @@
 
 ## TypeScript 
 
+- [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks) - Freely bookmark export tool. 自由地书签导出工具。
 - [cdklabs/decdk](https://github.com/cdklabs/decdk) - Define AWS CDK applications declaratively
 - [cdklabs/json2jsii](https://github.com/cdklabs/json2jsii) - Generates jsii-compatible structs from JSON schemas
 - [cdklabs/cdk-app-cli](https://github.com/cdklabs/cdk-app-cli) - The operator CLI for CDK apps.
@@ -9991,7 +9993,7 @@
 - [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter) - A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, testing tools and more. Jumpstart your project with efficiency and style.
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [BoostIO/BoostNote-App](https://github.com/BoostIO/BoostNote-App) - Boost Note is a document driven project management tool that maximizes remote DevOps team velocity.
 - [Urigo/tortilla](https://github.com/Urigo/tortilla) - The Framework for tutorials
@@ -10552,7 +10554,7 @@
 - [am9zZWY/buonapp](https://github.com/am9zZWY/buonapp) - An all-in-one Vue 3 app for managing daily tasks and information, powered by Vite and managed with bun.
 - [raikasdev/cloudflare-to-bunny-dns](https://github.com/raikasdev/cloudflare-to-bunny-dns) - Cloudflare to Bunny.net DNS migrator 🐇
 - [hamlim/template-monorepo](https://github.com/hamlim/template-monorepo) - A quick and simple monorepo starter template (Bun, Next.js, Turbo)
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 800+ formats
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports over a thousand formats
 - [gaurishhs/elysia-ip](https://github.com/gaurishhs/elysia-ip) - Get Client IP Address in Elysia
 - [bitkit-sh/buildkit](https://github.com/bitkit-sh/buildkit) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
@@ -11784,7 +11786,7 @@
 - [diciaup/assistant-cli](https://github.com/diciaup/assistant-cli) - A comfortable CLI tool to use ChatGPT service🔥
 - [clevercli/clevercli](https://github.com/clevercli/clevercli) - ChatGPT powered CLI utilities. Easily add new prompt types in ~/.clevercli/
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [finic-ai/finic](https://github.com/finic-ai/finic) - Create Playwright-based browser agents to scrape websites and automate tasks.
+- [finic-ai/finic](https://github.com/finic-ai/finic) - Stealth browsers as a service. Connect your scraper or automation to a fleet of cloud-hosted browsers configured for reliability and stealth.
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
