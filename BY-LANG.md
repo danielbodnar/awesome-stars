@@ -610,6 +610,7 @@
 
 ## C++ 
 
+- [MAZHARMIK/Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo) - Super Repository for Coding Interview Preperation
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [ultralight-ux/WebCore](https://github.com/ultralight-ux/WebCore) - WebCore Module. This module is a fork of WebKit's WebCore module and is responsible for all parsing, styling, layout, script execution, and page state.
 - [Eeems-Org/oxide](https://github.com/Eeems-Org/oxide) - A desktop environment for the reMarkable tablet
@@ -867,6 +868,10 @@
 
 ## CSS 
 
+- [gersonbenavides/ataraxia-zola](https://github.com/gersonbenavides/ataraxia-zola) - A personal theme for Zola focused on readability that aims to be simple, beautiful, and modern.
+- [u1aryz/vite-react-biome-ts](https://github.com/u1aryz/vite-react-biome-ts) - Vite + React + Biome + TypeScript starter template.
+- [jupyterlab/extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - A cookiecutter recipe for JupyterLab extensions in Typescript
+- [pocojang/nuxt-realworld](https://github.com/pocojang/nuxt-realworld) - 🛠 Built a Example App of RealWorld with Nuxt & Composition API ⚗️
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [cferdinandi/vanilla-js-toolkit](https://github.com/cferdinandi/vanilla-js-toolkit) - A growing collection of vanilla JavaScript code snippets, helper functions, polyfills, plugins, and learning resources.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
@@ -1302,7 +1307,7 @@
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 - [Link-/openhue-cli](https://github.com/Link-/openhue-cli) - OpenHue CLI is a command-line interface for interacting with Philips Hue smart lighting systems.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement fo
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
 - [go-to-k/delstack](https://github.com/go-to-k/delstack) - The CLI tool to force delete the entire AWS CloudFormation stack, even if it contains resources that fail to delete by the CloudFormation delete operation.
 - [gennaro-tedesco/gh-i](https://github.com/gennaro-tedesco/gh-i) - 🔎 search your github issues interactively
 - [moul/depviz](https://github.com/moul/depviz) - 👓 dependency visualizer for GitHub & GitLab (a.k.a., "auto-roadmap")
@@ -2909,6 +2914,7 @@
 
 ## HCL 
 
+- [cloudposse/terraform-aws-dynamic-subnets](https://github.com/cloudposse/terraform-aws-dynamic-subnets) - Terraform module for public and private subnets provisioning in existing VPC
 - [PrefectHQ/prefect-recipes](https://github.com/PrefectHQ/prefect-recipes) - Snippets and templates representing common Customer Success patterns
 - [fluentci-io/linux-image-templates](https://github.com/fluentci-io/linux-image-templates) - 
 - [trussworks/terraform-aws-config](https://github.com/trussworks/terraform-aws-config) - Enables AWS Config and adds managed config rules with good defaults.
@@ -2948,6 +2954,9 @@
 
 ## HTML 
 
+- [pawroman/zola-theme-terminimal](https://github.com/pawroman/zola-theme-terminimal) - A simple, minimal retro theme for Zola
+- [AlongWY/zola-resume](https://github.com/AlongWY/zola-resume) - a simple resume
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [callummcdougall/sae_vis](https://github.com/callummcdougall/sae_vis) - Create feature-centric and prompt-centric visualizations for sparse autoencoders (like those from Anthropic's published research).
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [jsnelders/chrome-bookmarks-converter](https://github.com/jsnelders/chrome-bookmarks-converter) - Use JavaScript to convert an exported Chrome bookmarks HTML file. Export the results to JSON.
@@ -3333,6 +3342,9 @@
 
 ## JavaScript 
 
+- [huhu/js-search-extension](https://github.com/huhu/js-search-extension) - The ultimate search extension for Javascript (WIP)
+- [posva/vue-ts-lib](https://github.com/posva/vue-ts-lib) - Vue 3 library starter in TS with lint, auto release, changelog and tests
+- [bluwy/create-vite-extra](https://github.com/bluwy/create-vite-extra) - Extra Vite templates
 - [speced/respec](https://github.com/speced/respec) - A tool for creating technical documents and web standards
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -6160,6 +6172,7 @@
 
 ## PHP 
 
+- [hackerschoice/memexec](https://github.com/hackerschoice/memexec) - Circumventing "noexec" mount flag to execute arbitrary linux binaries by ptrace-less process injection
 - [algolia/api-clients-automation](https://github.com/algolia/api-clients-automation) - 🤖 Monorepo of the Algolia API specs and their auto-generated clients and documentation
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -7564,6 +7577,19 @@
 
 ## Rust 
 
+- [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
+- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
+- [atlas-language/atlas](https://github.com/atlas-language/atlas) - The core language parser and vm
+- [feral-dot-io/dioxus-sortable](https://github.com/feral-dot-io/dioxus-sortable) - Sortable tables for Dioxus
+- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
+- [DioxusLabs/include_mdbook](https://github.com/DioxusLabs/include_mdbook) - Include mdbooks at compile time in your Rust project
+- [kualta/hemi](https://github.com/kualta/hemi) - single handed typing trainer
+- [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+- [Satellite-im/Uplink](https://github.com/Satellite-im/Uplink) - (Alpha Software) Secure, Encrypted, P2P chat written atop Warp, IPFS, LibP2P, Dioxus and many more awesome projects and protocols.
+- [tauri-apps/create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new tauri app project.
+- [tauri-apps/tao](https://github.com/tauri-apps/tao) - The TAO of cross-platform windowing. A library in Rust built for Tauri.
+- [dj95/zjstatus](https://github.com/dj95/zjstatus) - A configurable statusbar plugin for zellij
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
@@ -8348,7 +8374,7 @@
 - [vertexclique/nuclei](https://github.com/vertexclique/nuclei) - Proactive IO & Runtime system
 - [bastion-rs/bastion](https://github.com/bastion-rs/bastion) - Highly-available Distributed Fault-tolerant Runtime
 - [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -8513,6 +8539,7 @@
 
 ## SCSS 
 
+- [marc2332/dioxus-cheatsheet](https://github.com/marc2332/dioxus-cheatsheet) - 
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+).
 - [xero/bash-bible](https://github.com/xero/bash-bible) - {reference,survival} guide to bash scripting 🐚📖
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
@@ -8573,6 +8600,7 @@
 
 ## Shell 
 
+- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributi
 - [devxp-tech/gitops](https://github.com/devxp-tech/gitops) - 🏗️ GitOps Repository
@@ -9460,6 +9488,8 @@
 
 ## Svelte 
 
+- [Lukem121/svelte-vite-tailwind-template](https://github.com/Lukem121/svelte-vite-tailwind-template) - Nice and easy template to get started. Lightning fast ⚡
+- [RiadhAdrani/slick-portfolio-svelte](https://github.com/RiadhAdrani/slick-portfolio-svelte) - Vercel-like style portfolio template for developers.
 - [wireadmin/wireadmin](https://github.com/wireadmin/wireadmin) - 🐉 WireGuard VPN Server with an web-based admin UI + TOR
 - [duckdb-wasm-examples/sveltekit-typescript](https://github.com/duckdb-wasm-examples/sveltekit-typescript) - Demo of duckdb-wasm in static sveltekit.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
@@ -9491,6 +9521,7 @@
 
 ## Swift 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create custom, lightweight macOS apps from websites
 - [passepartoutvpn/passepartout](https://github.com/passepartoutvpn/passepartout) - Your go-to app for VPN and privacy.
 - [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS
@@ -9556,6 +9587,11 @@
 
 ## TypeScript 
 
+- [framesjs/frames.js](https://github.com/framesjs/frames.js) - The fastest way to make Frames
+- [antfu/shiki-transformer-inlay-iconify](https://github.com/antfu/shiki-transformer-inlay-iconify) - 
+- [redpangilinan/iotawise](https://github.com/redpangilinan/iotawise) - Track your daily habits, activity streaks, and progress with little effort.
+- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
+- [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks) - Freely bookmark export tool. 自由地书签导出工具。
 - [cdklabs/decdk](https://github.com/cdklabs/decdk) - Define AWS CDK applications declaratively
 - [cdklabs/json2jsii](https://github.com/cdklabs/json2jsii) - Generates jsii-compatible structs from JSON schemas
@@ -11321,7 +11357,7 @@
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [learn-anything/past](https://github.com/learn-anything/past) - Archive of code/things
 - [woochanleee/project-tree-generator](https://github.com/woochanleee/project-tree-generator) - 📦 Project Tree Generator
-- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies and tools by using these cards in your GitHub README.
+- [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies by using cards in your GitHub README
 - [ShaanCoding/makeread.me](https://github.com/ShaanCoding/makeread.me) - An Awesome ReadME Generator To Jumpstart Your Projects!
 - [SashenJayathilaka/Awesome-Github-Readme-Generator](https://github.com/SashenJayathilaka/Awesome-Github-Readme-Generator) - You can easily and quickly create a readme file for your github profile or git hub repository. (visit below) (Click the Get Started button to start the process, Choose Github Readme Template you want,
 - [Eywek/typoa](https://github.com/Eywek/typoa) - 🏗 Build OpenAPI definitions from Typescript typings
@@ -12449,6 +12485,13 @@
 
 ## Vue 
 
+- [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
+- [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
+- [Alfred-Skyblue/vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Universal Drag-and-Drop Component Supporting both Vue 3 and Vue 2
+- [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
+- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统
+- [Armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - 🖖 A vue-cli 3.0 + typescript minimal admin template
+- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - An online presentation application that replicates most of the commonly used features of Microsoft Office PowerPoint, allowing for the editing and presentation of PPT online. It also supports the expo
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
 - [jesusantguerrero/zen](https://github.com/jesusantguerrero/zen) - Zen. is a productivity app that integrates Eisenhower Matrix, Pomodoros, and part of the Get Things Done (GTD) principles in a unique way, to improve your developer routine.
